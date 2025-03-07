@@ -1,4 +1,4 @@
-Esto es un lore personal que estoy desarrollando y todo lo relacionado.
+Nexum es un lore personal que estoy desarrollando con ayuda de la IA ChatGPT.
 
 Idea para organizar el contenido:
 
@@ -55,7 +55,3 @@ Idea para organizar el contenido:
 `  │      ├── milagros_divinos.md`
 
 `  │      ├── corrupcion.md`
-
----
-
-Esto es Nexum, un lore personal que estoy desarrollando y todo lo relacionado.
