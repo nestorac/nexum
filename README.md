@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Esto es un lore personal que estoy desarrollando y todo lo relacionado.
 /lore
   ├── 01_introduccion.md
@@ -27,3 +28,6 @@ Esto es un lore personal que estoy desarrollando y todo lo relacionado.
   │      ├── milagros_divinos.md
   │      ├── corrupcion.md
 
+=======
+Esto es Nexum, un lore personal que estoy desarrollando y todo lo relacionado.
+>>>>>>> b4c7487265ad6026233351458eb5a7ee5c0b6733
