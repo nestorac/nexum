@@ -1,5 +1,7 @@
 Esto es un lore personal que estoy desarrollando y todo lo relacionado.
 
+Idea para organizar el contenido:
+
 `/lore`
 
 `  ├── 01_introduccion.md`
