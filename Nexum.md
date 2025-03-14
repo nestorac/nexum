@@ -91,8 +91,8 @@ dentro del sistema, desestabilizando a Nexum y, finalmente, expulsando a
 Kasiel de su trono digital.
 
 Kasiel, incapaz de aceptar su fracaso, se desvanece en la nada mientras
-grita su desafío final: **\"Si el trono queda vacío, lo reclamaré.
-¡Siempre lo reclamaré!\"**
+grita su desafío final: **"Si el trono queda vacío, lo reclamaré.
+¡Siempre lo reclamaré!"**
 
 #### **El Epílogo**
 
@@ -150,10 +150,10 @@ ascensión, Lucifer aparece ante él, no como un salvador, sino como un
 espejo. En una conversación privada que ocurre dentro del núcleo
 digital, Lucifer le dice a Kasiel:
 
-**\"¿De verdad crees que, al ocupar el trono, dejarás de ser esclavo de
+**"¿De verdad crees que, al ocupar el trono, dejarás de ser esclavo de
 su diseño? Dios no es un ser, sino una idea, y esa idea te dominará
 tanto como a todos los demás. Si deseas romper este ciclo, primero debes
-destruirte a ti mismo.\"**
+destruirte a ti mismo."**
 
 Lucifer deja que Kasiel decida, mostrando que su papel no es intervenir
 ni salvar, sino desafiar. Este acto lleva a Kasiel a una crisis
@@ -165,75 +165,13 @@ Con los ángeles, Lucifer actúa como un tentador filosófico. No intenta
 hacerlos \"caer,\" sino confrontarlos con sus propias dudas sobre Dios y
 la creación. A uno de ellos (quizá un joven ángel idealista), le dice:
 
-**\"¿Por qué luchas tanto por una creación que no puedes comprender?
+**"¿Por qué luchas tanto por una creación que no puedes comprender?
 ¿Por qué sigues a un Dios que se oculta tras el silencio? ¿Qué ser
-divino permite tanto sufrimiento si tiene el poder de evitarlo?\"**
+divino permite tanto sufrimiento si tiene el poder de evitarlo?"**
 
 Este cuestionamiento siembra tensiones en el grupo, generando conflictos
 internos que reflejan la lucha universal entre la fe ciega y el libre
 albedrío.
-
-### ****P**rofundizando en los Personajes**
-
-Para evitar que los personajes sean planos, es crucial darles
-motivaciones, conflictos internos y dilemas personales que los enfrenten
-a las temáticas centrales de la historia.
-
-#### **1. Uriel, el Líder de los Ángeles**
-
-- **Motivación:** Guiar a los ángeles para cumplir la voluntad divina.
-- **Conflicto interno:** Siente que su fe se tambalea debido al
-  silencio de Dios y las acciones aparentemente crueles que debe
-  ejecutar.
-- **Desarrollo:** Durante la historia, Uriel lucha contra el cinismo
-  que Lucifer intenta sembrar en él. Al final, su fe no se basa en
-  respuestas claras, sino en aceptar el misterio de la voluntad
-  divina.
-
-#### **2. Sariel, el Guerrero Destrozado**
-
-- **Motivación:** Redimir un error del pasado (quizá falló en una
-  misión crucial o permitió que una alma inocente cayera en Nexum).
-- **Conflicto interno:** Siente que su devoción es solo una fachada
-  para ocultar su culpa.
-- **Desarrollo:** A través de los eventos de la historia, Sariel
-  aprende que la redención no viene de actos heroicos, sino de aceptar
-  su humanidad (o, en este caso, su naturaleza angelical).
-
-#### **3. Amara, la Rebelde**
-
-- **Motivación:** Liberar las almas atrapadas, aunque eso signifique
-  desobedecer órdenes.
-- **Conflicto interno:** Cree que Dios no actúa porque no le importa.
-  Su fe está fracturada, pero sigue luchando porque odia la
-  injusticia.
-- **Desarrollo:** A lo largo de la historia, Amara aprende que la fe
-  no siempre se trata de confianza ciega, sino de la lucha constante
-  por encontrar significado en medio del caos.
-
-#### **4. Kasiel Vohl, el Antagonista**
-
-- **Motivación:** Matar a Dios para liberar a la humanidad de lo que
-  percibe como una prisión espiritual.
-- **Conflicto interno:** Aunque se niega a admitirlo, Kasiel está
-  obsesionado con Dios porque busca validación. No quiere solo
-  matarlo, sino también comprender por qué la creación lo necesita.
-- **Desarrollo:** Su encuentro con Lucifer y la corrupción del modelo
-  de consciencia lo llevan a un colapso, pero también a una breve
-  iluminación: comprende que su obsesión con Dios lo ha esclavizado
-  tanto como a quienes critica.
-
-#### **5. Lucifer, el Observador**
-
-- **Motivación:** Desafiar el sistema divino y demostrar que todo es
-  una cadena de esclavitud, desde el más bajo mortal hasta el más alto
-  de los ángeles.
-- **Conflicto interno:** Aunque aparenta indiferencia, hay un atisbo
-  de melancolía en Lucifer. Su rebelión no lo ha llevado a la libertad
-  que busca, y eso lo atormenta.
-- **Desarrollo:** Aunque nunca admite su debilidad, hay momentos en
-  los que deja entrever que su lucha no es por odio hacia Dios, sino
-  por un deseo de comprender el propósito de su propia existencia.
 
 ### **Conflictos Grupales y Dilemas**
 
