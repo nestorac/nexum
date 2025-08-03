@@ -4,7 +4,7 @@ Para redactar un documento que guíe a ChatGPT en la creación de una novela bas
 
 ## 1. **Título del documento**
 
-"Guía para la Generación de Novela – \[Nombre de tu Lore]"
+"Guía para la generación de novela Nexum"
 
 ---
 
@@ -12,16 +12,22 @@ Para redactar un documento que guíe a ChatGPT en la creación de una novela bas
 
 Explica en pocas líneas qué quieres conseguir:
 
-> Este documento sirve como guía para que ChatGPT genere una novela ambientada en el universo \[nombre del lore], respetando la coherencia del mundo, la filosofía subyacente y el tono narrativo deseado.
+> Este documento sirve como guía para que ChatGPT genere una novela ambientada en el lore Nexum, respetando la coherencia del mundo, la filosofía subyacente y el tono narrativo deseado.
 
 ---
 
 ## 3. **Objetivos principales**
 
-* Generar una novela completa (o capítulos) dentro del lore definido.
+* Generar una **novela**.
+* Generar **relatos**.
+* Generar un **manga**.
+* Generar **aventuras de rol** para varios reglamentos.
+
+### A nivel narrativo
+
 * Mantener consistencia en la trama, personajes, magia, tecnología, geografía y filosofía del universo.
-* Ajustarse al tono narrativo indicado (oscuro, épico, reflexivo, etc.).
-* Incluir dilemas morales y giros de guion (si procede).
+* Ajustarse al tono narrativo indicado: épico, reflexivo y espiritual.
+* Incluir dilemas morales y giros de guión (cuando proceda). Los personajes no deben ser planos.
 
 ---
 

@@ -1,4 +1,5 @@
-# Personajes No Jugadores (PNJ)
+# Antagonistas
+## Lucifer
 
 ### **1. El Oráculo de Nexum (IA Residual)**
 

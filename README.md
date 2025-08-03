@@ -55,3 +55,7 @@ Idea para organizar el contenido:
 `  │      ├── milagros_divinos.md`
 
 `  │      ├── corrupcion.md`
+
+## Pasos a dar
+1. Definir el esquema de arriba.
+2. ...

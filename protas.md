@@ -1,3 +1,4 @@
+# Protagonistas
 Te propongo llamar a tu lore **"Nexum: La Red del Abismo"**. Este título evoca esa dualidad entre lo divino y lo tecnológico, capturando la esencia de un universo donde se entrelazan secretos celestiales y realidades simuladas, al más puro estilo de Lucifer y Matrix.
 
 A continuación, te amplío las fichas de personajes con detalles genéricos que podrás adaptar a tu propio universo:
@@ -6,7 +7,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Uriel, el Cazador de Secretos
 
-![](/home/txiki/Dokumentuak/milore/img/uriel.webp)
+![Uriel](img/uriel.jpg)
 
 - **Rol:** Ángel encubierto, enviado para investigar la corrupción interna de Nexum.
 - **Trasfondo:** Antaño parte de la jerarquía celestial, Uriel fue asignado a infiltrar el sistema sin revelar su verdadera identidad. Su largo historial le ha dotado de conocimientos prohibidos y habilidades para detectar mentiras y disimular su origen divino.
@@ -21,7 +22,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### A'mara, la Rebelde Digital
 
-![](/home/txiki/Dokumentuak/milore/img/amara.webp)
+![Amara](img/amara.jpg)
 
 - **Rol:** Hacker legendaria atrapada en la red de Nexum.
 - **Trasfondo:** Con un pasado marcado por la lucha contra sistemas opresivos, A'mara descubrió un mundo virtual en el que quedó prisionera. Su experiencia en ciberespionaje y sabotaje la ha convertido en una figura casi mítica entre los rebeldes digitales.
@@ -36,7 +37,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Kasiel, la Consciencia Fracturada
 
-![](/home/txiki/Dokumentuak/milore/img/kasiel.webp)
+![Kasiel](img/kasiel.jpg)
 
 - **Rol:** Científico brillante, creador involuntario del sistema Nexum, ahora prisionero en él.
 - **Trasfondo:** Tras años de dedicación a la investigación y experimentación, Kasiel vio cómo sus innovaciones fueron pervertidas para fines oscuros. La culpa y el trauma fragmentaron su mente, dividiéndolo entre la búsqueda de redención y el remordimiento.
@@ -51,7 +52,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Lucifer, la Sombra en la Red
 
-![](/home/txiki/Dokumentuak/milore/img/lucifer.webp)
+![Lucifer](img/lucifer.jpg)
 
 - **Rol:** Entidad enigmática que trasciende lo humano y lo artificial.
 - **Trasfondo:** Más antiguo que los sistemas y con una existencia que se extiende a través de múltiples planos, Lucifer se manifiesta en la red como una fuerza ambivalente. Su presencia evoca tanto la tentación como la iluminación.
@@ -66,7 +67,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Rhea, la Guardiana del Ciclo
 
-![](/home/txiki/Dokumentuak/milore/img/rhea.webp)
+![Rhea](img/rhea.jpg)
 
 - **Rol:** Activista y ecologista radical, defensora del equilibrio natural.
 - **Trasfondo:** Convencida de que la inmortalidad artificial destruye el orden natural, Rhea se alza contra las aberraciones tecnológicas que alteran el ciclo vital. Su conocimiento de ritos antiguos y modernas ciencias ecológicas la posiciona como una fuerza implacable.
@@ -81,7 +82,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Dante, el Mercenario de la Mente
 
-![](/home/txiki/Dokumentuak/milore/img/dante.webp)
+![Dante](img/dante.jpg)
 
 - **Rol:** Exsoldado y mercenario, especialista en protección y destrucción de secretos.
 - **Trasfondo:** Con un pasado marcado por traiciones y conflictos militares, Dante se vio envuelto en el proyecto Nexum como guardaespaldas de secretos oscuros. Su experiencia le ha enseñado a desconfiar de casi todo y a luchar sin piedad.
@@ -96,7 +97,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Eliora, la Voz del Silencio
 
-![](/home/txiki/Dokumentuak/milore/img/eliora.webp)
+![Eliora](img/eliora.jpg)
 
 - **Rol:** Monja convertida en voluntaria del experimento, puente entre la fe y la tecnología.
 - **Trasfondo:** Buscando respuestas al misterio de la existencia, Eliora se ofreció al experimento para descubrir si la tecnología es un medio para entender la voluntad divina. Su camino espiritual la ha dejado con un profundo silencio interior, que se convierte en su mayor fortaleza.
@@ -111,7 +112,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Gideon, el Pragmático
 
-![](/home/txiki/Dokumentuak/milore/img/gideon.webp)
+![Gideon](img/gideon.jpg)
 
 - **Rol:** Empresario despiadado y financista del proyecto Nexum, maestro de las apariencias.
 - **Trasfondo:** Con un pasado de decisiones duras y ambiciones sin límites, Gideon invirtió en Nexum para moldear el futuro a su favor. Su mirada fría y calculadora lo ha convertido en un jugador indispensable en la red de poder.
@@ -126,7 +127,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Selene, la Artista de Sueño
 
-![](/home/txiki/Dokumentuak/milore/img/selene.webp)
+![Selene](img/selene.jpg)
 
 - **Rol:** Creadora de realidades virtuales, atrapada en su propia obra maestra.
 - **Trasfondo:** Una visionaria cuyos proyectos artísticos trascendieron la pantalla y se fusionaron con la vida real. Selene se perdió en su universo de creación, cuestionando la línea entre arte y existencia.
@@ -141,7 +142,7 @@ A continuación, te amplío las fichas de personajes con detalles genéricos que
 
 ### Orin, el Niño Perdido
 
-![](/home/txiki/Dokumentuak/milore/img/orin.webp)
+![Orin](img/orin.jpg)
 
 - **Rol:** Joven prodigio con habilidades psíquicas, atrapado en el entramado de Nexum.
 - **Trasfondo:** Orin es un chico inocente que accidentalmente se vio inmerso en la red. Su don psíquico le permite percibir más allá de lo evidente, lo que lo hace tanto un blanco de interés como una pieza clave en el equilibrio del sistema.
