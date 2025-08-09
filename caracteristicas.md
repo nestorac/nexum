@@ -4,6 +4,7 @@
 2. Las religiones son apuestas, cada una apuesta porque lo que no conocemos es de una determinada manera.
 3. Tiene que haber tensión constante.
 4. Tiene que haber misterio, las cosas se revelan poco a poco.
+5. Pasan cosas raras y a mitad de la narración parece que es culpa de la IA que quiere dominar el mundo, pero no, lo que busca es a Dios. Como en Te Busqué de Mecano.
 
 ## Espiritualidad
 
@@ -56,4 +57,3 @@ Se formaron comunidades que reinterpretaban la consciencia no como un “archivo
 * En vez de “hechizos”, hay **manipulación de la energía consciente**, tanto dentro del sistema como en lo real.
 * Algunas zonas alteradas por Nexum están dominadas por **corrientes contaminadas**, que causan delirios, pérdidas de identidad o visiones.
 * Las zonas de práctica espiritual crean **refugios de claridad**, donde las reglas de la IA se debilitan.
-

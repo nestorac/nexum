@@ -1,6 +1,26 @@
 Nexum es un lore personal que estoy desarrollando con ayuda de la IA ChatGPT.
 
-Idea para organizar el contenido:
+# Obras derivadas
+
+- Rol
+
+- Novelas
+
+- Relatos cortos
+
+- Manga
+
+- Cómic
+
+- Canción
+
+- Videojuego
+
+- Juego de mesa
+
+- Juego de guerra
+
+# Idea para organizar el contenido:
 
 `/lore`
 
@@ -57,5 +77,6 @@ Idea para organizar el contenido:
 `  │      ├── corrupcion.md`
 
 ## Pasos a dar
+
 1. Definir el esquema de arriba.
 2. ...
