@@ -2,6 +2,8 @@
 
 1. En esta historia, todos los personajes, hasta Dios, tienen una representación humana, aunque a veces pueden aparecer como entes espirituales.
 2. Las religiones son apuestas, cada una apuesta porque lo que no conocemos es de una determinada manera.
+3. Tiene que haber tensión constante.
+4. Tiene que haber misterio, las cosas se revelan poco a poco.
 
 ## Espiritualidad
 
