@@ -1,17 +1,23 @@
 # Personajes
+
+Meter personajes bíblicos y mitológicos. La Muerte, cupido, etc.
+
 ## Facciones
+
 * Iglesia católica
 * Cultos minoritarios
-	* Satanistas
+  * Satanistas
 * Gobiernos y policía
-	* Progresistas
-	* Conservadores
+  * Progresistas
+  * Conservadores
 * Legisladores
 * Jueces
 * Empresas grandes
 * Los Arquitectos del Vacío
-## Razas
-## Profesiones
+  
+  ## Razas
+  
+  ## Profesiones
 
 ## Protagonistas
 
@@ -30,6 +36,7 @@ Lucifer.
 Apodo dado por los humanos. No lo corrige, pero tampoco lo reivindica.
 
 #### Rol narrativo
+
 Observador externo a Nexum, figura clave en la trama. Comienza como figura ambigua, pero se revela como un defensor apasionado de la libertad humana.
 
 #### Apariencia

@@ -5,6 +5,7 @@
 3. Tiene que haber tensión constante.
 4. Tiene que haber misterio, las cosas se revelan poco a poco.
 5. Pasan cosas raras y a mitad de la narración parece que es culpa de la IA que quiere dominar el mundo, pero no, lo que busca es a Dios. Como en Te Busqué de Mecano.
+6. Que haya humor sutil.
 
 ## Espiritualidad
 
