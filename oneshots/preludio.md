@@ -108,6 +108,60 @@ El silencio que sigue es pesado, como si la estación entera contuviera la respi
 
 ### Un pequeño despertar
 
+#### Lectura del Despertar Espiritual
+
+> Por un instante, todo se detiene.
+> 
+> La humedad de la estación desaparece.
+> 
+> El polvo en el suelo, las telarañas, los cristales rotos… ya no están.
+> 
+> No porque hayan desaparecido, sino porque **dejáis de verlos como obstáculos**.
+> 
+> El silencio se vuelve denso, casi musical.
+> 
+> Un rumor, un zumbido grave y constante, como un latido.
+> 
+> Las espirales dibujadas en las paredes… respiran.
+> 
+> Las líneas de tiza **brillan suavemente**, como si reconocieran vuestra presencia.
+> 
+> Y entonces, cada uno de vosotros **siente algo diferente**:
+> 
+> Una emoción enterrada.
+> 
+> Una certeza sin palabras.
+> 
+> Un recuerdo que no sabíais que teníais.
+> 
+> Una voz que os llama… sin boca, sin idioma, sin forma.
+> 
+> No es magia.
+> 
+> No es ciencia.
+> 
+> Es algo que **no habíais sentido nunca, pero que siempre estuvo ahí**.
+> 
+> Una vibración interior, como si una puerta se hubiese entreabierto dentro de vosotros.
+> 
+> Y justo en ese momento,
+> 
+> Arantza, sin mover los ojos, sin girar el cuello,
+> 
+> susurra con un hilo de voz,
+> 
+> con un aire que no parece el suyo:
+> 
+> **“Nadir…”**
+> 
+> Luego, vuelve a callar.
+> 
+> La estación respira.
+> 
+> Vosotros también.
+> 
+> El mundo, de alguna forma, ya no es el mismo.
+
 #### Cuándo ocurre
 
 - Puede suceder en la estación, cuando los PJ intentan ayudar a Arantza.
@@ -347,5 +401,3 @@ Con eso, cierras el preludio sembrando:
 - **Defecto / Dilema:** mezcla supersticiones locales con visiones reales. Es difícil separar verdad de invención.
 
 - **Frase:** *“El fuego azul no miente… pero tampoco dice la verdad entera.”
-
-

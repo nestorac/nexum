@@ -1,4 +1,5 @@
 # Ambientación
+
 * Mezcla de hoy en día y medieval épica.
 * Me gusta la magia.
 * Me gusta el concepto de taberna y posada.
@@ -12,6 +13,8 @@
 * La perversión es común, en todos los niveles, lo mismo que la corrupción.
 * Se trata de una ambientación con una gran carga sexual. La fantasía se derrama sobre la realidad.
 * Para entender esto, hay que cambiar el chip, no vale mirarlo desde la óptica del lector. Hay que meterse dentro, en una coherencia diferente.
+* Es un mundo actual pero en declive, que ha adoptado mucho de lo medieval.
+* Quiero que haya magia y brujería.
 
 ## Tecnología
 
@@ -27,4 +30,9 @@ No hay armas de destrucción masiva al alcance ni drones autónomos.
 No jugamos con el concepto de realidad virtual ni de simulación perfecta, ni con universos paralelos ni desde luego no todo es un sueño.
 
 ## Leyes físicas
+
 En principio las respetamos, excepto por la magia.
+
+
+
+Quiero introducir el concepto de Corrupción, como en ESDLA, unos puntos que se acumulan al tomar decisiones malvadas y nos pueden joder.
