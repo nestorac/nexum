@@ -226,7 +226,8 @@ Con eso, cierras el preludio sembrando:
 
 ## Personajes Jugadores
 
-### **1. Nayra Velasco – La Sanadora Quebrada**
+### Nayra Velasco – La Sanadora Quebrada
+![](img/nayra.jpg)
 
 - **Rasgos:** empática, agotada, intuitiva.
 
@@ -244,7 +245,8 @@ Con eso, cierras el preludio sembrando:
 
 - **Frase:** “Si hay un respiro, aunque sea breve, vale la pena salvarlo.”
 
-### **2. Jalen Tanaka – El Luchador Inmóvil**
+### Jalen Tanaka – El Luchador Inmóvil
+![](img/jalen.jpg)
 
 - **Rasgos:** disciplinado, sereno, temeroso de la violencia.
 
@@ -262,7 +264,8 @@ Con eso, cierras el preludio sembrando:
 
 - **Frase:** “La verdadera fuerza no está en golpear, sino en resistir sin romperse.”
 
-### **3. Mireya Sanjuan – La Escéptica del Alma**
+### Mireya Sanjuan – La Escéptica del Alma
+![](img/mireya.jpg)
 
 - **Rasgos:** lógica, crítica, escéptica.
 
@@ -280,7 +283,8 @@ Con eso, cierras el preludio sembrando:
 
 - **Frase:** “Todo misterio se resuelve tarde o temprano. La pregunta es: ¿quieres escuchar la respuesta?”
 
-### **4. Ilyas Rafiq – El Poeta Exiliado**
+### Ilyas Rafiq – El Poeta Exiliado
+![](img/ilyas.jpg)
 
 - **Rasgos:** espiritual, melancólico, soñador.
 
@@ -297,6 +301,36 @@ Con eso, cierras el preludio sembrando:
 - **Defecto / Dilema:** vive más en símbolos que en la realidad. Puede perderse en metáforas.
 
 - **Frase:** “Si el mundo no escucha mi voz, al menos mis versos quedarán flotando en el aire.”
+
+Perfecto. A continuación tienes **dos nuevos personajes jugadores** diseñados para integrarse en la **aventura preludio** de *Nexum*. Mantienen el tono filosófico, espiritual y de ciencia en ruinas, pero aportan nuevas dinámicas al grupo.
+
+### Iren, el Cartógrafo de Sueños
+![](img/iren.jpg)
+
+* **Rol:** explorador sensorial y cronista de realidades.
+* **Origen:** antiguo técnico de redes neuronales que perdió la memoria durante el Silencio Azul.
+* **Personalidad:** calmado, introspectivo, con una voz pausada y mirada melancólica.
+* **Motivación:** reconstruir el mapa de los sueños compartidos, convencido de que allí se esconde el rastro de la consciencia original humana.
+* **Habilidades especiales:**
+
+  * **Cartografía onírica:** puede percibir huellas de energía residual en los lugares donde otros han soñado.
+  * **Memoria simbólica:** recuerda fragmentos de vidas ajenas como si fueran propias.
+* **Debilidad:** confunde sus propios recuerdos con los de los demás, perdiendo noción de quién es realmente.
+* **Rasgo distintivo:** lleva una libreta hecha con papel reciclado de antiguos manuales técnicos, donde dibuja mapas de sueños.
+
+### Laira, la Portadora del Canto
+![](img/laira.jpg)
+
+* **Rol:** sanadora espiritual y medium resonante.
+* **Origen:** exmúsica del Conservatorio de Puerto Gris, convertida en vagabunda tras perder su voz y recuperarla “del otro lado”.
+* **Personalidad:** dulce y errática, capaz de pasar de la ternura a la exaltación.
+* **Motivación:** cree que el fuego azul le susurra melodías que pueden curar o despertar la consciencia dormida.
+* **Habilidades especiales:**
+
+  * **Canto de resonancia:** su voz puede calmar emociones o sincronizar los latidos de un grupo.
+  * **Armonía empática:** siente los flujos espirituales en quienes la rodean.
+* **Debilidad:** cuando canta demasiado tiempo, su cuerpo se debilita; si se excede, la voz puede “romper el velo” y atraer entidades del plano espiritual.
+* **Rasgo distintivo:** su garganta emite un leve resplandor cuando canta, invisible para quien no haya despertado espiritualmente.
 
 ## Personajes No Jugadores
 
