@@ -11,6 +11,10 @@
 
 La espiritualidad surge como reemplazo del dogma de la religión.
 
+### Rezar
+
+Rezar a veces sirve, te permite comunicarte con tu dios y obtener parte de su poder.
+
 ### **La Espiral del Viento Interno**
 
 #### *(Núcleo espiritual del mundo)*
