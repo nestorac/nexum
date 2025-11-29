@@ -62,6 +62,7 @@ Pero la presencia del mago “retumba” en el ambiente emocional.
 Esta escuela es la que **Nexum ansía comprender**.
 
 ## Conjuros básicos
+
 ### Encender la llama
 
 **Efecto:** el mago devuelve a una persona la fuerza emocional para seguir adelante durante un corto periodo.
@@ -93,13 +94,13 @@ El aliado siente la presencia del mago como una columna detrás de él.
 
 **Riesgo:** el mago queda más vulnerable a dudas propias durante la escena.
 
-# ⭐ 2. **MAGIA DE LA PALABRA**
+# Magia de la palabra
 
-### *El poder del lenguaje como puente con lo divino.*
+*El poder del lenguaje como puente con lo divino.*
 
 Basada en la idea de que la palabra humana es un destello de la Palabra creadora original.
 
-#### Lo que hace
+## Lo que hace
 
 * revela verdades ocultas,
 * rompe mentiras,
@@ -107,7 +108,7 @@ Basada en la idea de que la palabra humana es un destello de la Palabra creadora
 * abre heridas interiores del prójimo (solo con intención),
 * da forma a lo emocional.
 
-#### Manifestación
+## Manifestación
 
 * tono de voz que “resuena”,
 * frases que el oyente siente como inequívocas,
@@ -115,18 +116,43 @@ Basada en la idea de que la palabra humana es un destello de la Palabra creadora
 
 No hay luces ni símbolos mágicos.
 
-#### Usuarios
+## Usuarios
 
 * Poetas, como Ilyas
 * Predicadores
 * Sacerdotes
 * Educadores
 
----
+## Conjuros básicos
 
-# ⭐ 3. **MAGIA DE LA MEMORIA**
+### Verbo Sincero
 
-### *Vinculada a lo que el alma recuerda aunque el cerebro olvide.*
+**Efecto:** obliga a cualquier oyente a decir la verdad emocional (no hechos, sino sentimientos reales).
+
+**Manifestación:** El tono de voz del mago parece imposible de ignorar.
+
+**Riesgo:** el mago no puede mentir durante un tiempo.
+
+### Palabra que Consuela
+
+**Efecto:** calma a personas en pánico, dolor o rabia.
+Funciona en tumultos y multitudes pequeñas.
+
+**Manifestación:** El ruido alrededor parece disminuir levemente.
+
+**Riesgo:** si el mago miente o está en contradicción consigo mismo, el conjuro falla.
+
+### Voz de Autoridad
+
+**Efecto:** una orden simple debe ser obedecida por quienes la escuchan, siempre que no contradiga sus valores fundamentales.
+
+**Manifestación:** El aire vibra ligeramente; la frase “corta”.
+
+**Riesgo:** usarlo repetidamente desgasta la relación del mago con los demás.
+
+# Magia de la memoria
+
+*Vinculada a lo que el alma recuerda aunque el cerebro olvide.*
 
 Funciona sobre:
 
@@ -137,7 +163,7 @@ Funciona sobre:
 * vínculos familiares
 * huellas de personas fallecidas
 
-#### Lo que hace
+## Lo que hace
 
 * ayuda a recordar,
 * ayuda a olvidar,
@@ -145,28 +171,52 @@ Funciona sobre:
 * protege recuerdos esenciales,
 * impide que Nexum robe partes de la consciencia.
 
-#### Manifestación
+## Manifestación
 
 Detalles visuales mínimos:
 una foto que vibra, un olor que regresa, un recuerdo que se impone.
 
-#### Usuarios
+## Usuarios
 
 * psicólogos espirituales
 * ancianos sabios
 * guardianes de la tradición
 * gente con pasado intenso
 
----
+## Conjuros
 
-# ⭐ 4. **MAGIA DEL VÍNCULO**
+### Puerta Abierta
 
-### *La conexión entre dos personas es un hilo espiritual real.*
+**Efecto:** ayuda a otra persona a recordar un momento clave de su vida con nitidez emocional.
+
+**Manifestación:** Olores y sonidos del recuerdo parecen más vivos alrededor.
+
+**Riesgo:** el mago se expone a recuerdos ajenos y puede quedar afectado.
+
+### Amnesia Elegida
+
+**Efecto:** ayuda a alguien a olvidar un dolor específico (no borrar, sino “apagar el volumen”).
+
+**Manifestación:** La persona suspira como si dejara caer una carga antigua.
+
+**Riesgo:** borrar demasiado deja a la persona emocionalmente inestable unas horas.
+
+### Refugio del Pasado
+
+**Efecto:** protege un recuerdo importante contra interferencias internas o espirituales (como los intentos de Nexum).
+
+**Manifestación:** La persona siente un ancla emocional firme.
+
+**Riesgo:** el mago debe entregar un recuerdo propio como “pago”.
+
+# Magia del vínculo
+
+*La conexión entre dos personas es un hilo espiritual real.*
 
 Se basa en las relaciones humanas:
 amor, cuidado, amistad, lealtad, fe, sacrificio.
 
-#### Lo que hace
+## Lo que hace
 
 * fortalece a otro,
 * canaliza voluntad entre dos personas,
@@ -174,29 +224,53 @@ amor, cuidado, amistad, lealtad, fe, sacrificio.
 * permite sentir el estado emocional del otro,
 * puede restaurar parcialmente a un Vacío si el vínculo era fuerte.
 
-#### Manifestación
+## Manifestación
 
 Nada visible.
 Pero los dos implicados sienten “presencia” el uno del otro.
 
-#### Usuarios
+## Usuarios
 
 * parejas
 * amigos íntimos
 * padres e hijos
 * monjes que trabajan en comunidad
 
----
+## Conjuros
 
-# ⭐ 5. **MAGIA DEL CUERPO**
+### Pulso Compartido
 
-### *El cuerpo humano es un templo que refleja lo espiritual.*
+**Efecto:** dos personas sienten lo que la otra siente (a nivel emocional, no pensamiento).
+
+**Manifestación:** Ambos respiran de forma sincronizada.
+
+**Riesgo:** emocionalmente agotador si las emociones son intensas.
+
+### Mano Extendida
+
+**Efecto:** el mago ayuda a otro a resistir dolor, miedo o tentación simplemente compartiendo fuerza interior.
+
+**Manifestación:** Un breve contacto físico o visual basta.
+
+**Riesgo:** el mago siente el dolor o miedo del otro.
+
+### Lazo Firme
+
+**Efecto:** dos aliados pueden coordinar acciones de forma casi perfecta por unos minutos.
+
+**Manifestación:** Actúan como si conocieran el siguiente movimiento del otro.
+
+**Riesgo:** si se rompe el vínculo en mitad del conjuro, ambos quedan desorientados.
+
+# Magia del cuerpo
+
+*El cuerpo humano es un templo que refleja lo espiritual.*
 
 Basada en respiración, postura, disciplina, dolor, resistencia.
 
 Parecida a artes marciales espirituales.
 
-#### Lo que hace
+## Lo que hace
 
 * calma emociones desbordadas,
 * canaliza energía vital,
@@ -204,7 +278,7 @@ Parecida a artes marciales espirituales.
 * protege contra ataques espirituales (no místicos, sino emocionales o existenciales),
 * estabiliza a alguien en proceso de vaciado.
 
-#### Manifestación
+## Manifestación
 
 * movimientos controlados,
 * cambios de postura,
@@ -212,51 +286,99 @@ Parecida a artes marciales espirituales.
 
 No hay magia visible.
 
-#### Usuarios
+## Usuarios
 
 * monjes guerreros
 * ascetas
 * atletas disciplinados
 * supervivientes extremos
 
----
+## Conjuros
 
-# ⭐ 6. **MAGIA DEL ENTORNO**
+### Respiración de Hierro
 
-### *El mundo físico guarda huellas del plano espiritual humano.*
+**Efecto:** estabiliza cuerpo y mente en situaciones extremas, permitiendo ignorar dolor o estrés durante un rato.
+
+**Manifestación:** El mago respira profunda y rítmicamente; los demás sienten calma.
+
+**Riesgo:** fatiga intensa después.
+
+### Postura del Centinela
+
+**Efecto:** un aliado cercano gana confianza y claridad mental simplemente por estar cerca del mago.
+
+**Manifestación:** La postura del mago transmite fuerza.
+
+**Riesgo:** si el mago pierde equilibrio emocional, el efecto se “invier­te”.
+
+### Eco del Movimiento
+
+**Efecto:** el mago ejecuta una acción física con precisión absoluta (saltar, esquivar, atajar, atrapar).
+
+**Manifestación:** No hay efecto visual; simplemente sale perfecto.
+
+**Riesgo:** sólo funciona si la intención del mago es pura.
+
+# Magia del entorno
+
+*El mundo físico guarda huellas del plano espiritual humano.*
 
 No es elementalismo.
 Es sensibilidad a la resonancia emocional del entorno.
 
-#### Lo que hace
+## Lo que hace
 
 * detecta lugares donde muchos sufrieron o amaron,
 * identifica objetos cargados de significado,
 * puede leer el “clima moral” de una zona,
 * favorece rituales de purificación o protección.
 
-#### Manifestación
+## Manifestación
 
 * los sonidos cambian,
 * los olores se intensifican,
 * imágenes fugaces en la mente.
 
-#### Usuarios
+## Usuarios
 
 * templarios modernos
 * restauradores de arte
 * guías espirituales
 * ciertos policías intuitivos
 
----
+## Conjuros
 
-# ⭐ 7. **MAGIA DEL SILENCIO**
+### Lectura del Lugar
 
-### *La más rara. La más temida por Nexum. La más cercana a Dios.*
+**Efecto:** el mago siente qué tipo de emociones se vivieron recientemente en un lugar.
+
+**Manifestación:** Colores, sonidos o temperaturas cambian ligeramente para él.
+
+**Riesgo:** si el lugar está marcado por tragedias fuertes, el mago puede verse afectado.
+
+### Purificación Menor
+
+**Efecto:** limpia un espacio pequeño de tensión emocional, miedo o “mal ambiente”.
+
+**Manifestación:** La gente respira más tranquila; el aire parece más ligero.
+
+**Riesgo:** el mago absorbe algo del ambiente limpiado.
+
+### Huella Persistente
+
+**Efecto:** el mago deja una “marca emocional” en un objeto o lugar, como protección o aviso.
+
+**Manifestación:** Quien lo toque siente un mensaje emocional breve (paz, alerta, calma).
+
+**Riesgo:** si Nexum detecta la marca, puede imitarla.
+
+# Magia del silencio
+
+*La más rara. La más temida por Nexum. La más cercana a Dios.*
 
 El silencio interior —no el vacío— es una forma pura de presencia espiritual.
 
-#### Lo que hace
+## Lo que hace
 
 * bloquea interferencias de Nexum,
 * protege el mundo interior,
@@ -264,7 +386,7 @@ El silencio interior —no el vacío— es una forma pura de presencia espiritua
 * revela la intención verdadera de alguien,
 * da claridad absoluta en momentos críticos.
 
-#### Manifestación
+## Manifestación
 
 Un silencio denso que aplasta todo ruido emocional.
 
@@ -272,252 +394,38 @@ Los demás sienten paz.
 Los Vacíos sienten miedo (no saben por qué).
 Los seres celestialmente alineados sienten cercanía.
 
-#### Usuarios
+## Usuarios
 
 * monjes contemplativos
 * ermitaños
 * místicos avanzados
 * personas que han sobrevivido a un trauma y han encontrado paz auténtica
 
+## Conjuros
 
-Vamos a crear **conjuros concretos, jugables y coherentes**, uno para cada escuela de magia.
-Recuerda: en tu mundo **la magia no es espectacular**, no lanza rayos ni bolas de fuego.
-Es **espiritual, emocional, interior, humana**, pero igualmente poderosa en la historia.
-
-Cada conjuro tendrá:
-
-* **Nombre**
-* **Efecto jugable**
-* **Cómo se manifiesta (nada visual mágico)**
-* **Riesgo o coste emocional**
-
-Vamos escuela por escuela.
-
----
-
-# ⭐ 1. MAGIA INTERIOR
-
-### *La magia del alma en movimiento.*
-
-
-# ⭐ 2. MAGIA DE LA PALABRA
-
-### *El verbo es un puente hacia lo sagrado.*
-
-## **2.1. Verbo Sincero**
-
-**Efecto:** obliga a cualquier oyente a decir la verdad emocional (no hechos, sino sentimientos reales).
-
-**Manifestación:**
-El tono de voz del mago parece imposible de ignorar.
-
-**Riesgo:** el mago no puede mentir durante un tiempo.
-
----
-
-## **2.2. Palabra que Consuela**
-
-**Efecto:** calma a personas en pánico, dolor o rabia.
-Funciona en tumultos y multitudes pequeñas.
-
-**Manifestación:**
-El ruido alrededor parece disminuir levemente.
-
-**Riesgo:** si el mago miente o está en contradicción consigo mismo, el conjuro falla.
-
----
-
-## **2.3. Voz de Autoridad**
-
-**Efecto:** una orden simple debe ser obedecida por quienes la escuchan, siempre que no contradiga sus valores fundamentales.
-
-**Manifestación:**
-El aire vibra ligeramente; la frase “corta”.
-
-**Riesgo:** usarlo repetidamente desgasta la relación del mago con los demás.
-
----
-
-# ⭐ 3. MAGIA DE LA MEMORIA
-
-### *Recordar es un acto espiritual.*
-
-## **3.1. Puerta Abierta**
-
-**Efecto:** ayuda a otra persona a recordar un momento clave de su vida con nitidez emocional.
-
-**Manifestación:**
-Olores y sonidos del recuerdo parecen más vivos alrededor.
-
-**Riesgo:** el mago se expone a recuerdos ajenos y puede quedar afectado.
-
----
-
-## **3.2. Amnesia Elegida**
-
-**Efecto:** ayuda a alguien a olvidar un dolor específico (no borrar, sino “apagar el volumen”).
-
-**Manifestación:**
-La persona suspira como si dejara caer una carga antigua.
-
-**Riesgo:** borrar demasiado deja a la persona emocionalmente inestable unas horas.
-
----
-
-## **3.3. Refugio del Pasado**
-
-**Efecto:** protege un recuerdo importante contra interferencias internas o espirituales (como los intentos de Nexum).
-
-**Manifestación:**
-La persona siente un ancla emocional firme.
-
-**Riesgo:** el mago debe entregar un recuerdo propio como “pago”.
-
----
-
-# ⭐ 4. MAGIA DEL VÍNCULO
-
-### *Lo que conecta a dos personas es un hilo sagrado.*
-
-## **4.1. Pulso Compartido**
-
-**Efecto:** dos personas sienten lo que la otra siente (a nivel emocional, no pensamiento).
-
-**Manifestación:**
-Ambos respiran de forma sincronizada.
-
-**Riesgo:** emocionalmente agotador si las emociones son intensas.
-
----
-
-## **4.2. Mano Extendida**
-
-**Efecto:** el mago ayuda a otro a resistir dolor, miedo o tentación simplemente compartiendo fuerza interior.
-
-**Manifestación:**
-Un breve contacto físico o visual basta.
-
-**Riesgo:** el mago siente el dolor o miedo del otro.
-
----
-
-## **4.3. Lazo Firme**
-
-**Efecto:** dos aliados pueden coordinar acciones de forma casi perfecta por unos minutos.
-
-**Manifestación:**
-Actúan como si conocieran el siguiente movimiento del otro.
-
-**Riesgo:** si se rompe el vínculo en mitad del conjuro, ambos quedan desorientados.
-
----
-
-# ⭐ 5. MAGIA DEL CUERPO
-
-### *El cuerpo es un templo que transmite voluntad.*
-
-## **5.1. Respiración de Hierro**
-
-**Efecto:** estabiliza cuerpo y mente en situaciones extremas, permitiendo ignorar dolor o estrés durante un rato.
-
-**Manifestación:**
-El mago respira profunda y rítmicamente; los demás sienten calma.
-
-**Riesgo:** fatiga intensa después.
-
----
-
-## **5.2. Postura del Centinela**
-
-**Efecto:** un aliado cercano gana confianza y claridad mental simplemente por estar cerca del mago.
-
-**Manifestación:**
-La postura del mago transmite fuerza.
-
-**Riesgo:** si el mago pierde equilibrio emocional, el efecto se “invier­te”.
-
----
-
-## **5.3. Eco del Movimiento**
-
-**Efecto:** el mago ejecuta una acción física con precisión absoluta (saltar, esquivar, atajar, atrapar).
-
-**Manifestación:**
-No hay efecto visual; simplemente sale perfecto.
-
-**Riesgo:** sólo funciona si la intención del mago es pura.
-
----
-
-# ⭐ 6. MAGIA DEL ENTORNO
-
-### *El mundo físico resuena con lo emocional.*
-
-## **6.1. Lectura del Lugar**
-
-**Efecto:** el mago siente qué tipo de emociones se vivieron recientemente en un lugar.
-
-**Manifestación:**
-Colores, sonidos o temperaturas cambian ligeramente para él.
-
-**Riesgo:** si el lugar está marcado por tragedias fuertes, el mago puede verse afectado.
-
----
-
-## **6.2. Purificación Menor**
-
-**Efecto:** limpia un espacio pequeño de tensión emocional, miedo o “mal ambiente”.
-
-**Manifestación:**
-La gente respira más tranquila; el aire parece más ligero.
-
-**Riesgo:** el mago absorbe algo del ambiente limpiado.
-
----
-
-## **6.3. Huella Persistente**
-
-**Efecto:** el mago deja una “marca emocional” en un objeto o lugar, como protección o aviso.
-
-**Manifestación:**
-Quien lo toque siente un mensaje emocional breve (paz, alerta, calma).
-
-**Riesgo:** si Nexum detecta la marca, puede imitarla.
-
----
-
-# ⭐ 7. MAGIA DEL SILENCIO
-
-### *La presencia sin ruido.*
-
-## **7.1. Silencio Interior**
+### Silencio Interior
 
 **Efecto:** protege al mago contra influencias externas —incluyendo interferencias de Nexum— durante unos minutos.
 
-**Manifestación:**
-El entorno parece amortiguado.
+**Manifestación:** El entorno parece amortiguado.
 
 **Riesgo:** el mago queda emocionalmente “vacío” un rato después, pero no tanto como un Vacío real.
 
----
-
-## **7.2. Escucha Profunda**
+### Escucha Profunda
 
 **Efecto:** permite al mago sentir la auténtica intención de alguien cercano.
 
-**Manifestación:**
-Todo sonido desaparece momentáneamente para el mago.
+**Manifestación:** Todo sonido desaparece momentáneamente para el mago.
 
 **Riesgo:** saber la verdad puede doler más que no saberla.
 
----
-
-## **7.3. Quietud Sagrada**
+### Quietud Sagrada
 
 **Efecto:** todo el estrés, el caos y el ruido emocional desaparecen de una zona pequeña alrededor del mago.
 Ideal para detener discusiones, proteger a heridos o impedir histerias.
 
-**Manifestación:**
-La gente baja la voz sin darse cuenta.
+**Manifestación:** La gente baja la voz sin darse cuenta.
 
 **Riesgo:** si el mago tiene emociones reprimidas, salen a la superficie después.
+
+## 
