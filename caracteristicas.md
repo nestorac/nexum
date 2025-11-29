@@ -8,6 +8,7 @@
 6. Que haya humor sutil.
 7. Narrar a través de la acción.
 8. Definir bien el guión, que no sea surrealista.
+9. Todos los seres tienen un único alineamiento (Legal-Neutro-Caótico, Bueno-Neutral-Malvado).
 
 ## Espiritualidad
 
