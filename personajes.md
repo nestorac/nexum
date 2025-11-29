@@ -174,7 +174,7 @@ Líder de los Veladores del Silencio.
 
 ### Dr. Elías Nadir — El Buscador que se Adentró Demasiado
 
-s![](img/elias_nadir.jpg)
+![](img/elias_nadir.jpg)
 
 * **Pasado:** Filósofo neurocientífico, formado en monasterios tibetanos y laboratorios de Silicon Valley.
 * **Creencia:** La consciencia es el “fuego sutil” que conecta toda la realidad. Intentó cartografiarla y contenerla en Nexum.
