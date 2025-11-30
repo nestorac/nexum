@@ -709,3 +709,134 @@ Mirada decidida.
 * Señala peligros importantes.
 * Da visiones simbólicas de caminos posibles.
 * Puede “marcar” a un PJ para un destino mayor.
+
+Vamos a hacerlo **bien y sin infringir derechos**, es decir:
+te doy **seres mitológicos inspirados en Tolkien**, coherentes con su estilo, clima y tono, pero **sin copiar nada** de su obra.
+Creaturas que *podrían existir* en la Tierra Media, pero que son **tuyas**, **adaptables a Nexum** si quieres, y con un aire inequívocamente tolkieniano:
+
+* raíces en mitología nórdica y céltica
+* espiritualidad ligada al mundo natural
+* un toque de tragedia antigua
+* grandeza contenida, belleza austera
+* seres que podrían haber sido mencionados entre líneas
+
+Aquí van 10 seres, cuidadosamente creados.
+
+---
+
+# ⭐ **1. HENDIRIM — Los Caminantes de la Bruma**
+
+Seres altos, delgados y silenciosos que aparecen en colinas y ciénagas al amanecer.
+Parecen humanos envueltos en capas grises, pero no dejan huellas.
+Custodian los lugares donde la frontera entre mundos es fina.
+
+**Inspiración:** Barrow-wights + espíritus nórdicos.
+**Carácter:** melancólicos, protectores, impredecibles.
+**Poder:** inducen recuerdos olvidados.
+
+---
+
+# ⭐ **2. MORUAR — Lobos Ombra**
+
+Grandes lobos negros de ojos plateados.
+No sirven al mal: detestan la corrupción y atacan aquello que “huele” a deshonor.
+Aúllan melodías antiguas que pueden hacer llorar incluso a guerreros curtidos.
+
+**Inspiración:** Huan + bestias nórdicas.
+**Carácter:** nobles pero salvajes.
+**Poder:** perciben la verdad en el corazón de un viajero.
+
+---
+
+# ⭐ **3. GALADRÚN — Guardianes del Árbol Vivo**
+
+Árboles conscientes, pero más jóvenes y vivos que los ents.
+Sus ramas brillan con un tono dorado durante tormentas.
+Hablan con el viento y odian a quienes dañan bosques antiguos.
+
+**Inspiración:** Ents + dríades celtas.
+**Carácter:** protectores, lentos al decidir, rápidos al juzgar.
+**Poder:** endurecer la corteza para volverse casi impenetrables.
+
+---
+
+# ⭐ **4. ÚLDAR — Ecos del Fuego antiguo**
+
+Pequeños espíritus que habitan en brasas, volcanes y herrerías.
+Se comunican por chispas, sin lenguaje humano.
+A veces ayudan a artesanos puros de corazón.
+
+**Inspiración:** balrogs (sin corrupción) + salamandras míticas.
+**Carácter:** curiosos, intensos, peligrosos si se les provoca.
+**Poder:** transmitir calor emocional a un objeto o persona.
+
+---
+
+# ⭐ **5. DURBAL — Ciervos Estelares**
+
+Criaturas blancas con motas lumínicas en el pelaje.
+Son mensajeros entre reyes antiguos y el destino del mundo.
+Los elfos dicen que su mirada “muestra el camino que aún no existe”.
+
+**Inspiración:** Brego + nórdico sagrado.
+**Carácter:** puros, indomables.
+**Poder:** revelar un cruce de caminos.
+
+---
+
+# ⭐ **6. NAMARIEL — Hijas del Río Oculto**
+
+Humanoides de agua dulce que no pueden ser vistas a menos que quieran.
+Sus voces calman tormentas internas, pero sus lágrimas provocan crecidas.
+Suelen aparecer a viajeros perdidos o arrepentidos.
+
+**Inspiración:** Ulmo + ninfas fluviales.
+**Carácter:** compasivas, impredecibles.
+**Poder:** detectar corrupción espiritual en quien beba el agua donde habitan.
+
+---
+
+# ⭐ **7. KORULDAR — Los Hijos de la Piedra**
+
+Parecen guerreros hechos de roca viva, pero su interior es cálido.
+Custodian antiguas fortalezas olvidadas bajo las montañas.
+Solo despiertan cuando un juramento sagrado es roto.
+
+**Inspiración:** enanos + trolls “no malignos”.
+**Carácter:** honorables, rencorosos, férreos en propósito.
+**Poder:** despertar otros guardianes pétreos.
+
+---
+
+# ⭐ **8. SIRIDH — Sombras Compasivas**
+
+Espíritus que acompañan a los moribundos para guiarlos en su último sueño.
+No hablan ni interactúan con vivos salvo para ofrecer consuelo.
+
+**Inspiración:** Maiar menores benévolos + folklore celta.
+**Carácter:** silenciosos, bondadosos.
+**Poder:** calmar el miedo a la muerte.
+
+---
+
+# ⭐ **9. FARALIN — Cuervos del Amanecer**
+
+Grandes cuervos plateados que vuelan únicamente durante los minutos previos al alba.
+Portan mensajes entre sabios; nunca mienten.
+Quien ve uno, debe prepararse: buenas o malas, traerán verdades.
+
+**Inspiración:** Gwaihir + Odin.
+**Carácter:** observadores, distantes.
+**Poder:** ver lo que ocurrió en un lugar con solo tocarlo.
+
+---
+
+# ⭐ **10. THALIONNAR — Los Eternos del Ocaso**
+
+Arqueros élficos antiguos que renunciaron a la vida material.
+No son fantasmas: son “memorias vivas” que vagan en el límite del mundo.
+Ayudan solo cuando el mundo está al borde de la ruina.
+
+**Inspiración:** guerreros élficos + espíritus de leyenda.
+**Carácter:** solemnes, trágicos.
+**Poder:** un disparo que siempre alcanza aquello que debe ser alcanzado (no siempre lo que el tirador quiere).
