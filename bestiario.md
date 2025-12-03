@@ -8,13 +8,13 @@ Son las fuerzas conscientes que se oponen a los protagonistas. Algunos creen ser
 
 ![](img/hijos_vacio.jpg)
 
-**Descripción:** humanos convertidos en contenedores de consciencias fragmentadas; no viven, sólo repiten ecos.
+**Descripción:** humanos artificiales que no poseen consciencia. Su característica es una marca de fabricación, una cicatriz sutil en la columna vertebral, la segunda, aunque otros modelos de humano artificial podrían ser diferentes.
 
 **Habilidad:** “Murmuro Colectivo” —sus voces conjuntas pueden distorsionar la percepción.
 
 **Debilidad:** cualquier emoción genuina los hace colapsar.
 
-**Ilustración:** grupo de figuras humanas pálidas, con grietas azules en la piel, semblante vacío.
+**Ilustración:** dos jóvenes con aspecto corriente y ropa estándar.
 
 ## Personajes No Jugadores
 

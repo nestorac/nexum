@@ -2,7 +2,7 @@
 
 El plano celestial y el plano terrenal están enlazados. Un personaje del mundo terrenal puede enlazar con uno celestial.
 
-Los seres celestiales comparten su característica principal con los terrenales.
+Los seres celestiales comparten su característica principal con los terrenales. Pertenecen a un plano soñado por Dios, al igual que el terrenal, solo que el plano celestial es el sueño puro de Dios y el terrenal está soñado también por Lucifer.
 
 ## Ser celestial básico
 
@@ -136,119 +136,6 @@ Que las almas humanas se reconcilien consigo mismas.
 ### **Escena sugerida**
 
 Un PJ sueña con alguien muerto que aún necesitaba perdonar… o ser perdonado.
-
----
-
----
-
-# 🌑 DEMONIOS Y ARCHIDEMONIOS (tradición cristiana)
-
----
-
-# **4. Asmodio – El Deseo Que Quema**
-
-**Tradición:** Judaica / cristiana primitiva
-**Rol espiritual:** revelador de deseos reprimidos.
-
-### **Apariencia**
-
-Humano hermoso, intenso, con un magnetismo inquietante.
-No seduce con el cuerpo, sino con la mirada.
-
-### **Esencia**
-
-El deseo verdadero.
-No manipula: **muestra lo que ya existe**.
-
-### **Interacción**
-
-* Pone al PJ en situaciones donde debe admitir lo que quiere.
-* Puede volver irresistibles ciertas tentaciones del entorno.
-* Saca a la luz pasiones que amenazan con dividir al grupo.
-
-### **Teme**
-
-El autoengaño.
-El amor genuino.
-
-### **Desea**
-
-Desatar verdades ocultas, aunque duelan.
-
-### **Escena sugerida**
-
-Durante una discusión, un PJ dice en voz alta algo que llevaba años callando.
-
----
-
-# **5. Belial – El Abandono que Pesa**
-
-**Tradición:** Biblia hebrea / cristianismo
-**Rol:** Indiferencia, resignación, derrota emocional.
-
-### **Apariencia**
-
-Persona gris, cansada, con ojeras profundas.
-Una presencia que invita a sentarse y dejarlo todo.
-
-### **Esencia**
-
-La pereza del alma.
-No el descanso, sino la renuncia.
-
-### **Interacción**
-
-* Un PJ pierde la voluntad de actuar durante unos segundos.
-* Provoca argumentos como “da igual lo que hagamos”.
-* Puede debilitar la cohesión del grupo si no se combate.
-
-### **Teme**
-
-El propósito firme.
-
-### **Desea**
-
-Que los humanos dejen de luchar.
-
-### **Escena sugerida**
-
-El grupo tiene un plan.
-Pero de repente, uno dice: *“¿Y si simplemente… no lo hacemos?”*
-
----
-
-# **6. Astaroth – El Susurro de la Culpa**
-
-**Tradición:** grimorios medievales
-**Rol:** vergüenza, arrepentimiento, autocrítica destructiva.
-
-### **Apariencia**
-
-Persona elegante, voz suave, sonrisa amarga.
-
-### **Esencia**
-
-El peso de los errores.
-Hace que la conciencia del PJ resuene demasiado fuerte.
-
-### **Interacción**
-
-* Intensifica pensamientos autodestructivos.
-* Hace recordar decisiones pasadas en el peor momento.
-* Puede “desatar” un secreto del pasado.
-
-### **Teme**
-
-El perdón verdadero.
-
-### **Desea**
-
-Que el PJ se hunda en sí mismo…
-pero no por maldad; sino porque él también está atrapado en su propio error.
-
----
-
----
 
 # 🌍 ESPÍRITUS MITOLÓGICOS (humanizados, universales)
 

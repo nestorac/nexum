@@ -172,7 +172,10 @@ Líder de los Veladores del Silencio.
 
 **Ilustración:** hombre enjuto con hábito gris, ojos encendidos de fe y una antorcha azul.
 
-### Dr. Elías Nadir — El Buscador que se Adentró Demasiado
+### Dr. Elías Nadir
+*El Buscador que se Adentró Demasiado.*
+
+CEO de Nexum.
 
 ![](img/elias_nadir.jpg)
 
