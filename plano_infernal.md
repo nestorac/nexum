@@ -1,10 +1,13 @@
 # Plano infernal
 
-Los seres que sueña Lucifer pertenecen al plano infernal, que es una corrupción del celestial. Lucifer es un Rebelde, y su sueño está lleno de criaturas que desafían a Dios, su Padre.
+Los seres que sueña Lucifer pertenecen al plano infernal, que es el sueño rebelde de Lucifer, y su sueño está lleno de criaturas que desafían a Dios, su Padre.
+
+El Diablo sueña con la rebeldía, los actos de rebeldía hacia su Padre.
 
 ## Tradición cristiana
 
 ### Asmodio
+
 *El Deseo Que Quema*
 
 **Tradición:** Judaica / cristiana primitiva
@@ -26,6 +29,7 @@ No manipula: **señala lo que ya existe**.
 **Escena sugerida:** durante una discusión, un PJ dice en voz alta algo que llevaba años callando.
 
 ### Belial
+
 *El Abandono que Pesa*
 
 **Tradición:** Biblia hebrea / cristianismo
@@ -61,6 +65,7 @@ El grupo tiene un plan.
 Pero de repente, uno dice: *“¿Y si simplemente… no lo hacemos?”*
 
 ### Astaroth
+
 *El Susurro de la Culpa*
 
 **Tradición:** grimorios medievales
@@ -89,4 +94,3 @@ El perdón verdadero.
 
 Que el PJ se hunda en sí mismo…
 pero no por maldad; sino porque él también está atrapado en su propio error.
-

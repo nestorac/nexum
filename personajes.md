@@ -2,6 +2,8 @@
 
 Meter personajes bíblicos y mitológicos. La Muerte, cupido, etc.
 
+El nivel de los pj/pnj se mide por el poder, que es crear y amar para legales buenos, definir para el resto.
+
 ## Protagonistas
 
 Tienen un enfoque **profundamente humano y terrenal**, enriquecido con el elemento espiritual y energético de inspiración oriental. Todos tienen contradicciones, pasados complejos y dilemas morales. No hay héroes puros, solo personas en búsqueda, algunas más perdidas que otras.
@@ -173,6 +175,7 @@ Líder de los Veladores del Silencio.
 **Ilustración:** hombre enjuto con hábito gris, ojos encendidos de fe y una antorcha azul.
 
 ### Dr. Elías Nadir
+
 *El Buscador que se Adentró Demasiado.*
 
 CEO de Nexum.

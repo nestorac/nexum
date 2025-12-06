@@ -42,7 +42,9 @@ Solo repetir lo que Dios previó.
 
 ---
 
-## ⭐ **2. Lucifer introduce la Entropía**
+## ⭐ **2. Lucifer crea el Tiempo**
+
+Y con ello, la Entropía.
 
 Esto no es rebelión.
 Ni traición.
@@ -129,7 +131,7 @@ son el único experimento de la libertad total.
 
 ---
 
-## ⭐ **6. Dios acepta la entropía**
+## ⭐ **6. Dios acepta el tiempo creado por Lucifer**
 
 Y aquí está la clave que diferencia tu mundo de cualquier otro:
 
