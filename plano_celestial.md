@@ -4,12 +4,13 @@ El plano celestial y el plano terrenal están enlazados. Un personaje del mundo 
 
 Los seres celestiales comparten su característica principal con los terrenales. Pertenecen a un plano soñado por Dios, al igual que el terrenal, solo que el plano celestial es el sueño puro de Dios y el terrenal está soñado también por Lucifer.
 
+Los seres celestiales son perfectos, a imagen de Dios, es su cuerpo enlazado en el plano terrenal el imperfecto.
+
 ## Ser celestial básico
 
 Existe un ser celestial básico con el que enlaza la mayoría de las personas, la gente corriente, y conecta a las personas con Dios sin otorgar ningún poder especial.
 
 ## Seres celestiales
-Estas son las **fichas completas**, narrativas y jugables, de varios seres celestiales de distintas tradiciones, **fieles a su mitología original**, pero reinterpretados para *Nexum* como **humanos espirituales**, sin alas ni monstruosidad explícita, y profundamente conectados con emociones humanas.
 
 Cada ficha incluye:
 
@@ -22,372 +23,261 @@ Cada ficha incluye:
 * **Qué conflictos genera**
 * **Misiones y escenas sugeridas**
 
-# 🌟 ÁNGELES Y ARCÁNGELES (tradición cristiana)
+# Ángeles y arcángeles (tradición cristiana)
 
-# **1. Uriel – El Fuego de la Claridad**
+## Uriel
+*El Fuego de la Claridad.*
 
-**Tradición:** Judeocristiana
-**Rol espiritual:** ilumina la mente humana, revela lo oculto.
+**Tradición** judeocristiana.
+**Rol:** ilumina la mente humana, revela lo oculto.
 
-### **Apariencia humana**
+**Apariencia:** hombre o mujer de rostro sereno, ojos profundamente atentos. Suele aparecer con ropas sencillas, como un maestro o un bibliotecario.
 
-Hombre o mujer de rostro sereno, ojos profundamente atentos.
-Suele aparecer con ropas sencillas, como un maestro o un bibliotecario.
-
-### **Esencia**
-
-Claridad. Revelación. Comprensión del propósito.
+**Esencia:** claridad. Revelación. Comprensión del propósito.
 Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 
-### **Cómo interactúa en partida**
+**Cómo interactúa:**
 
 * Susurra palabras que ordenan el caos mental.
 * Hace que los PJ encuentren objetos significativos.
 * Puede provocar visiones breves del pasado *tal como ocurrió*.
 
-### **Teme**
+**Teme** la mentira que uno se dice a sí mismo, la ceguera voluntaria.
 
-La mentira que uno se dice a sí mismo.
-La ceguera voluntaria.
+**Desea** que los humanos asuman sus propias verdades.
 
-### **Desea**
-
-Que los humanos asuman sus propias verdades.
-
-### **Conflictos típicos**
+**Conflictos:**
 
 * Revela a un PJ una verdad que no está preparado para aceptar.
 * Hace surgir debates morales en mitad de una escena de acción.
 * Provoca tensión entre PJs que “no quieren saber”.
 
-### **Escena sugerida**
+**Escena sugerida:** un PJ encuentra un cuaderno vacío donde, al escribir, aparecen frases que no recuerda haber pensado.
 
-Un PJ encuentra un cuaderno vacío donde, al escribir, aparecen frases que no recuerda haber pensado.
+## Miguel
 
----
+**El Protector.**
 
-# **2. Miguel – El Protector Inamovible**
+**Tradición** judeocristiana.
+**Rol:** defensa, convicción, firmeza interior.
 
-**Tradición:** Judeocristiana
-**Rol espiritual:** defensa, convicción, firmeza interior.
+**Apariencia:** persona robusta, mirada firme, voz controlada. Nunca levanta la voz. Nunca retrocede.
 
-### **Apariencia**
+**Esencia:** fuerza moral. Decisión. Protección emocional.
 
-Persona robusta, mirada firme, voz controlada.
-Nunca levanta la voz. Nunca retrocede.
-
-### **Esencia**
-
-Fuerza moral. Decisión. Protección emocional.
-
-### **Interacción en partida**
+**Interacción:**
 
 * Permite que un PJ mantenga la calma bajo presión extrema.
 * Hace que golpes o palabras dañinas “resbalen”.
 * Lleva a un PJ a intervenir cuando otro está en peligro.
 
-### **Teme**
+**Teme** fallarle a alguien que confía en él.
 
-Fallarle a alguien que confía en él.
+**Desea** que los humanos encuentren su propio coraje.
 
-### **Desea**
-
-Que los humanos encuentren su propio coraje.
-
-### **Conflictos**
+**Conflictos:**
 
 * Su presencia puede forzar al PJ a ser valiente en momentos inoportunos.
 * Puede obstaculizar decisiones prudentes de otros PJs.
 * Detesta la cobardía voluntaria.
 
-### **Escena sugerida**
+**Escena sugerida:** el PJ protegido por Miguel experimenta un “silencio férreo” en mitad del caos, una calma absoluta.
 
-El PJ protegido por Miguel experimenta un “silencio férreo” en mitad del caos, una calma absoluta.
+## Rafael
 
-# **3. Rafael – El Curador de Heridas Invisibles**
+*El Curador de Heridas Invisibles.*
 
-**Tradición:** Judeocristiana
-**Rol espiritual:** sanación emocional, reconciliación.
+**Tradición** judeocristiana
+**Rol:** sanación emocional, reconciliación.
 
-### **Apariencia**
+**Apariencia:** persona cálida, sonrisa triste, manos delicadas.
 
-Persona cálida, sonrisa triste, manos delicadas.
+**Esencia:** compasión profunda, reconoce heridas que los demás ocultan.
 
-### **Esencia**
-
-Compasión profunda.
-Reconoce heridas que los demás ocultan.
-
-### **Interacción**
+**Interacción:**
 
 * Ayuda a un PJ a recordar un trauma con menos dolor.
 * Permite sanar disputas entre personajes.
 * Hace que un enemigo dude antes de atacar.
 
-### **Teme**
+**Teme** el rencor sin fin, el autosabotaje emocional.
 
-El rencor sin fin.
-La autosabotaje emocional.
+**Desea** que las almas humanas se reconcilien consigo mismas.
 
-### **Desea**
+**Escena sugerida:** un PJ sueña con alguien muerto que aún necesitaba perdonar… o ser perdonado.
 
-Que las almas humanas se reconcilien consigo mismas.
+## Sariel
 
-### **Escena sugerida**
+*El Mensajero del Dolor Evitado.*
 
-Un PJ sueña con alguien muerto que aún necesitaba perdonar… o ser perdonado.
+**Tradición ** enociana, cristiana antigua.
 
-# 🌍 ESPÍRITUS MITOLÓGICOS (humanizados, universales)
-
----
-
-# **7. Lamia – La Pregunta del Río**
-
-**Tradición:** Mitología Vasca
-**Rol espiritual:** guía de decisiones difíciles.
-
-### **Apariencia**
-
-Mujer hermosa y humilde, con algo acuático en el aura (no visible).
-Voz profunda, mirada calmada.
-
-### **Esencia**
-
-Sinceridad.
-Busca tu verdad a través de **preguntas**.
-
-### **Interacción**
-
-* Detiene al PJ para hacer preguntas incómodas.
-* No revela el camino: lo descifra contigo.
-* Protege a quien responde con honestidad.
-
-### **Escena sugerida**
-
-Lamia aparece en un cruce de caminos, preguntando:
-
-> “¿Sabes realmente a quién estás siguiendo?”
-
----
-
-# **8. Tengu – El Monje Que Se Cayó**
-
-**Tradición:** Japón
-**Rol:** orgullo, humildad, disciplina espiritual.
-
-### **Apariencia**
-
-Hombre delgado con expresión ascética.
-Lleva ropa de monje, con modales bruscos.
-
-### **Esencia**
-
-La lección tras el error.
-
-### **Interacción**
-
-* Desafía físicamente o mentalmente al PJ.
-* Pone trampas simbólicas para enseñar algo.
-* Se burla con cariño.
-
-### **Escena sugerida**
-
-Un PJ intenta cruzar un puente y Tengu bloquea el paso:
-
-> “Sólo puede cruzar quien sabe por qué camina.”
-
----
-
-# **9. Eleggua – El que Abre y Cierra Caminos**
-
-**Tradición:** Yoruba
-**Rol:** elección, destino, paradojas.
-
-### **Apariencia**
-
-A veces anciano, otras veces niño.
-Siempre con sonrisa enigmática.
-
-### **Esencia**
-
-Oportunidad.
-Los destinos se doblan a su alrededor.
-
-### **Interacción**
-
-* Hace que aparezcan oportunidades inesperadas.
-* Provoca decisiones cruciales.
-* Cambia el escenario de forma sutil para reflejar opciones.
-
-### **Escena sugerida**
-
-Tres puertas idénticas aparecen donde antes había una.
-Eleggua simplemente dice:
-
-> “Yo ya he pasado por todas. ¿Y tú?”
-
-Perfecto: voy a **ampliar el bestiario celestial** creando una segunda oleada de seres —siempre humanos en apariencia, siempre fieles a su tradición, siempre narrativamente potentes para partidas, novelas y cómics—.
-Voy a equilibrar **mitologías europeas, africanas, asiáticas y americanas**, además de más figuras cristianas y demonológicas.
-
-Cada entidad tendrá:
-
-* **Identidad y tradición**
-* **Apariencia humana**
-* **Esencia espiritual (qué representa)**
-* **Interacciones típicas con humanos y PJ**
-* **Temor / deseo**
-* **Conexiones posibles con otros celestiales**
-* **Ideas de escenas**
-
----
-
-# 🌟 **NUEVA OLEADA DE SERES CELESTIALES**
-
----
-
-# ✨ **A) Mitología Cristiana (ángeles, arcángeles, demonios y figuras “menores”)**
-
----
-
-## **10. Sariel – El Mensajero del Dolor Evitado**
-
-**Tradición:** Enociana / cristiana antigua
 **Esencia:** advertencia, intuición, peligro invisible.
 
-### Apariencia
+**Apariencia:** hombre joven con mirada agotada, como si llevara siglos sin dormir. Voz muy suave.
 
-Hombre joven con mirada agotada, como si llevara siglos sin dormir.
-Voz muy suave.
-
-### Interacción
+**Interacción:**
 
 * Hace que un PJ presienta un accidente o traición.
 * Detiene impulsos destructivos con una sensación de “algo no cuadra”.
 * A veces provoca migrañas antes de eventos importantes.
 
-### Teme
+**Teme** ser ignorado: el dolor que pudo evitarse.
 
-Ser ignorado: el dolor que pudo evitarse.
+**Desea** que los humanos escuchen sus instintos.
 
-### Desea
-
-Que los humanos escuchen sus instintos.
-
-### Escena
-
-Un PJ está a punto de firmar un acuerdo o apretar un gatillo.
-Sariel murmura:
+**Escena:** un PJ está a punto de firmar un acuerdo o apretar un gatillo. Sariel murmura:
 
 > “Casi.”
 
----
+## Cassiel
 
-## **11. Cassiel – El Ángel del Tiempo Silencioso**
+*El Ángel del Tiempo Silencioso.*
 
-**Tradición:** Mística judía y cristiana
+**Tradición** mística judía y cristiana.
+
 **Esencia:** paciencia, procesos lentos, destino que no llega aún.
 
-### Apariencia
-
-Anciana de rostro amable o anciano con aire tranquilo.
+**Apariencia:** anciana de rostro amable o anciano con aire tranquilo.
 No tiene prisa nunca.
 
-### Interacción
+**Interacción:**
 
 * “Pausa” las emociones de un PJ para que no actúe impulsivamente.
 * Aparece en lugares donde el tiempo parece detenido.
 * Muestra a los PJ lo que ocurre si *esperan*.
 
-### Teme
+**Teme** los atajos, las decisiones apresuradas.
 
-Los atajos, las decisiones apresuradas.
+**Desea** que cada alma llegue a su momento justo.
 
-### Desea
+## Lilith
 
-Que cada alma llegue a su momento justo.
+*La Primera Rebelde.*
 
----
+**Tradición** mística judía, recreación medieval.
 
-## **12. Lilith – La Primera Rebelde**
-
-**Tradición:** Mística judía, recreaciones medievales
 **Esencia:** libertad personal radical.
 
-### Apariencia
+**Apariencia:** mujer fuerte, imponente, mirada ardiente. No es demoníaca; es indomable.
 
-Mujer fuerte, imponente, mirada ardiente.
-No es demoníaca; es indomable.
-
-### Interacción
+**Interacción:**
 
 * Empuja a los PJ a romper normas injustas.
 * Hace cuestionar autoridades.
 * Puede ser aliada o gran problema según el momento.
 
-### Teme
+**Teme** la sumisión ciega.
 
-La sumisión ciega.
+**Desea** que cada humano recupere su voz propia.
 
-### Desea
+# Seres mitológicos vascos
 
-Que cada humano recupere su voz propia.
+## Lamia
 
----
+*La pregunta del río.*
 
----
+**Tradición:** mitología vasca.
+**Rol espiritual:** guía de decisiones difíciles.
 
-# 🌲 **B) Mitología Vasca (añadiendo más seres locales)**
+**Apariencia:** mujer hermosa y humilde, con algo acuático en el aura (no visible). Voz profunda, mirada calmada.
 
----
+**Esencia:** Sinceridad. Busca tu verdad a través de **preguntas**.
 
-## **13. Mari – La Señora de la Tierra y del Aire**
+**Interacción:**
 
-**Tradición:** Euskal mitología
+* Detiene al PJ para hacer preguntas incómodas.
+* No revela el camino: lo descifra contigo.
+* Protege a quien responde con honestidad.
+
+**Escena sugerida:** la lamia aparece en un cruce de caminos, preguntando:
+
+> “¿Sabes realmente a quién estás siguiendo?”
+
+## Mari
+*La Señora de la Tierra y del Aire.*
+
+**Tradición** vasca.
 **Esencia:** equilibrio natural, honestidad, verdad esencial.
 
-### Apariencia
+**Apariencia:** mujer adulta vestida de forma sencilla. Presencia imponente —cuando entra, la atmósfera cambia.
 
-Mujer adulta vestida de forma sencilla.
-Presencia imponente —cuando entra, la atmósfera cambia.
-
-### Interacción
+**Interacción:**
 
 * Exige respeto por la vida y la naturaleza.
 * Puede hacer que un espacio se calme (viento que baja de golpe).
 * Revela mentiras de forma abrupta.
 
-### Teme
+**Teme** la corrupción espiritual del mundo humano.
 
-La corrupción espiritual del mundo humano.
+**Desea** restaurar la armonía rota por Nexum.
 
-### Desea
+## Basajaun
 
-Restaurar la armonía rota por Nexum.
-
----
-
-## **14. Basajaun – El Guardián Primitivo**
+*El Guardián Primitivo.*
 
 **Esencia:** fuerza ancestral, protección del débil.
 
-### Apariencia
+**Apariencia:**
 
 Hombre corpulento, con barba densa o cabello desordenado.
 Manos enormes, voz profunda.
 
-### Interacción
+**Interacción:**
 
 * Defiende a los indefensos, incluso contra la voluntad del PJ.
 * Puede “cerrar caminos” con troncos caídos, viento o ruidos.
 * Guía a través de bosques o estructuras laberínticas.
 
-### Conflicto
+**Conflicto:** no entiende sutilezas humanas.
 
-No entiende sutilezas humanas.
+# Seres mitológicos japoneses
 
----
+## Tengu
 
----
+**El monje que se cayó.**
+
+**Tradición** japonesa.
+
+**Rol:** orgullo, humildad, disciplina espiritual.
+
+**Apariencia:** hombre delgado con expresión ascética. Lleva ropa de monje, con modales bruscos.
+
+**Esencia:** la lección tras el error.
+
+**Interacción:**
+
+* Desafía físicamente o mentalmente al PJ.
+* Pone trampas simbólicas para enseñar algo.
+* Se burla con cariño.
+
+**Escena sugerida: ** un PJ intenta cruzar un puente y Tengu bloquea el paso:
+
+> “Sólo puede cruzar quien sabe por qué camina.”
+
+# Seres mitológicos yoruba
+
+## Eleggua
+
+**El que Abre y Cierra Caminos.**
+
+**Tradición ** yoruba.
+
+**Rol:** elección, destino, paradojas.
+
+**Apariencia:** a veces anciano, otras veces niño. Siempre con sonrisa enigmática.
+
+**Esencia:** oportunidad. Los destinos se doblan a su alrededor.
+
+**Interacción:**
+
+* Hace que aparezcan oportunidades inesperadas.
+* Provoca decisiones cruciales.
+* Cambia el escenario de forma sutil para reflejar opciones.
+
+**Escena sugerida:** tres puertas idénticas aparecen donde antes había una. Eleggua simplemente dice:
+
+> “Yo ya he pasado por todas. ¿Y tú?”
 
 # 🏯 **C) Mitología Japonesa (Kami, yokai reinterpretados)**
 

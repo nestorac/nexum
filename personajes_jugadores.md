@@ -1,5 +1,7 @@
 # Personajes Jugadores (PJ)
 
+Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello, se van volviendo más poderosos, si van en contra, pierden poder.
+
 ## Nayra Velasco (enfermera)
 
 *La Sanadora Quebrada.*

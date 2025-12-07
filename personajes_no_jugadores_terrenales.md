@@ -1,4 +1,4 @@
-# Personajes
+# Personajes no jugadores (PNJ)
 
 Meter personajes bíblicos y mitológicos. La Muerte, cupido, etc.
 
