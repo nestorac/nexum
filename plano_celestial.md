@@ -279,229 +279,171 @@ Manos enormes, voz profunda.
 
 > “Yo ya he pasado por todas. ¿Y tú?”
 
-# 🏯 **C) Mitología Japonesa (Kami, yokai reinterpretados)**
+# Mitología Japonesa (Kami, yokai reinterpretados)
 
----
+## Amaterasu
 
-## **15. Amaterasu – La Luz Interior**
+*La Luz Interior*
 
 **Tradición:** Shinto
 **Esencia:** esperanza, claridad emocional.
 
-### Apariencia
+**Apariencia:** Persona joven con expresión radiante. Parece que la luz del entorno se ajusta a ella.
 
-Persona joven con expresión radiante.
-Parece que la luz del entorno se ajusta a ella.
-
-### Interacción
+**Interacción:**
 
 * Inspira a actuar con nobleza.
 * Revela la bondad en otros personajes.
 * Puede iluminar recuerdos olvidados.
 
-### Teme
+**Teme** la desesperanza absoluta.
 
-La desesperanza absoluta.
+## Susanoo
 
----
-
-## **16. Susanoo – El Impulso Indomable**
+*El Impulso Indomable*
 
 **Esencia:** caos creativo, valentía arriesgada.
 
-### Apariencia
+**Apariencia:** hombre desordenado, expresivo, impulsivo. Ríe mucho. Se enfada rápido.
 
-Hombre desordenado, expresivo, impulsivo.
-Ríe mucho. Se enfada rápido.
-
-### Interacción
+**Interacción:**
 
 * Lleva a los PJ a “hacer cosas ya”.
 * Puede iniciar peleas por orgullo.
 * Provoca grandes momentos heroicos… o líos enormes.
 
----
+## Yuki-Onna
 
-## **17. Yuki-Onna – El Silencio Frío**
+*El Silencio Frío.*
 
 **Tradición:** Yokai
 **Esencia:** calma extrema, atención compasiva sin emoción.
 
-### Apariencia
+**Apariencia:** mujer pálida, serena, muy elegante. No muestra sentimientos.
 
-Mujer pálida, serena, muy elegante.
-No muestra sentimientos.
-
-### Interacción
+**Interacción:**
 
 * Apaga emociones fuertes para permitir pensar.
 * Ayuda a personajes que sufren ansiedad o pánico.
 * Puede provocar distanciamiento emocional temporal.
 
----
+# Mitología Griega
 
----
+## Hermes
 
-# ⚡ **D) Mitología Griega**
-
----
-
-## **18. Hermes – El Caminante Entre Mundos**
+*El Caminante Entre Mundos.*
 
 **Esencia:** comunicación, intuición, movimiento.
 
-### Apariencia
+**Apariencia:** hombre joven, ágil, sonrisa afilada. O mujer vivaz que parece saber más de lo que dice.
 
-Hombre joven, ágil, sonrisa afilada.
-O mujer vivaz que parece saber más de lo que dice.
-
-### Interacción
+**Interacción:**
 
 * Hace que los PJ encuentren mensajes clave.
 * Desbloquea rutas alternativas.
 * Ideal para misiones de investigación o escape.
 
-### Escena
+**Escena:** un PJ recibe una nota en el bolsillo que no debería estar ahí.
 
-Un PJ recibe una nota en el bolsillo que no debería estar ahí.
+## Hécate
 
----
-
-## **19. Hécate – La de los Cruces**
+*La de los Cruces.*
 
 **Esencia:** decisiones, magia interior, conocimiento femenino ancestral.
 
-### Apariencia
+**Apariencia:** mujer mayor, mirada penetrante, voz baja. A veces tres versiones de ella aparecen en distintos lugares.
 
-Mujer mayor, mirada penetrante, voz baja.
-A veces tres versiones de ella aparecen en distintos lugares.
-
-### Interacción
+**Interacción:**
 
 * Se manifiesta en encrucijadas físicas o morales.
 * Ofrece opciones… nunca la respuesta.
 * Hace que la magia espiritual se intensifique temporalmente.
 
----
+# Mitología egipcia
 
----
+## Anubis
 
-# 🐍 **E) Mitología Egipcia**
-
----
-
-## **20. Anubis – El Guardián del Tránsito**
+*El Guardián del Tránsito.*
 
 **Esencia:** muerte, paso de una etapa a otra.
 
-### Apariencia
+**Apariencia:** hombre delgado, serio, con mirada dura. Nunca sonríe. Nunca levanta la voz.
 
-Hombre delgado, serio, con mirada dura.
-Nunca sonríe. Nunca levanta la voz.
-
-### Interacción
+**Interacción:**
 
 * Ayuda a PJs a superar duelos o pérdidas.
 * Da pistas simbólicas sobre “qué debe dejarse atrás”.
 * Protege contra entidades del Umbral.
 
-### Escena
+**Escena:** un PJ siente que debe “soltar” algo: un miedo, un objeto, una persona, una idea.
 
-Un PJ siente que debe “soltar” algo: un miedo, un objeto, una persona, una idea.
+# Mitología hindú
 
----
+## Durga
 
----
-
-# 🦁 **F) Mitología Hindú**
-
----
-
-## **21. Durga – La Fuerza Que Sonríe**
+*La fuerza que sonríe.*
 
 **Esencia:** determinación compasiva, lucha justa.
 
-### Apariencia
+**Apariencia:** mujer fuerte, ojos brillantes. Da sensación de seguridad.
 
-Mujer fuerte, ojos brillantes.
-Da sensación de seguridad.
-
-### Interacción
+**Interacción:**
 
 * Delega valor.
 * Permite mantener la calma en batallas emocionales.
 * No actúa por ti: te obliga a encontrar tu fuerza.
 
----
+## Ganesha
 
-## **22. Ganesha – El que Quita Obstáculos**
+*El que Quita Obstáculos.*
 
 **Esencia:** resolución de problemas, mapas mentales claros.
 
-### Apariencia
+**Apariencia:** hombre corpulento y simpático, risa contagiosa.
 
-Hombre corpulento y simpático, risa contagiosa.
-
-### Interacción
+**Interacción:**
 
 * Revela soluciones prácticas inesperadas.
 * Ayuda a PJs bloqueados mentalmente.
 * Puede convertir un dilema en algo sencillo.
 
----
+# Mitología nórdica
 
----
+## Freyja
 
-# 🌪️ **G) Mitología Nórdica**
-
----
-
-## **23. Freyja – El Amor Valiente**
+*El Amor Valiente.*
 
 **Esencia:** pasión, sacrificio, magia interior.
 
-### Apariencia
+**Apariencia:** persona atractiva, fuerte, con ojos tristes o intensos.
 
-Persona atractiva, fuerte, con ojos tristes o intensos.
-
-### Interacción
+**Interacción:**
 
 * Revela vínculos emocionales ocultos.
 * Empuja a enfrentar miedos amorosos.
 * Protege a quienes aman de verdad.
 
----
+## Valkyria errante
 
-## **24. Valkyria Errante – La Que Eligió Vivir**
+*La Que Eligió Vivir.*
 
 **Esencia:** destino, segundas oportunidades.
 
-### Apariencia
+**Apariencia:** guerrera moderna, ropa funcional. Mirada decidida.
 
-Guerrera moderna, ropa funcional.
-Mirada decidida.
-
-### Interacción
+**Interacción:**
 
 * Señala peligros importantes.
 * Da visiones simbólicas de caminos posibles.
 * Puede “marcar” a un PJ para un destino mayor.
 
-Vamos a hacerlo **bien y sin infringir derechos**, es decir:
-te doy **seres mitológicos inspirados en Tolkien**, coherentes con su estilo, clima y tono, pero **sin copiar nada** de su obra.
-Creaturas que *podrían existir* en la Tierra Media, pero que son **tuyas**, **adaptables a Nexum** si quieres, y con un aire inequívocamente tolkieniano:
+# Basados en Tolkien
 
-* raíces en mitología nórdica y céltica
-* espiritualidad ligada al mundo natural
-* un toque de tragedia antigua
-* grandeza contenida, belleza austera
-* seres que podrían haber sido mencionados entre líneas
+Estos personajes están basados en la obra de Tolkien pero evitando el plagio sin permiso.
 
-Aquí van 10 seres, cuidadosamente creados.
+## Hendirim
 
----
-
-# ⭐ **1. HENDIRIM — Los Caminantes de la Bruma**
+*Los Caminantes de la Bruma.*
 
 Seres altos, delgados y silenciosos que aparecen en colinas y ciénagas al amanecer.
 Parecen humanos envueltos en capas grises, pero no dejan huellas.
@@ -511,9 +453,9 @@ Custodian los lugares donde la frontera entre mundos es fina.
 **Carácter:** melancólicos, protectores, impredecibles.
 **Poder:** inducen recuerdos olvidados.
 
----
+## Moruar
 
-# ⭐ **2. MORUAR — Lobos Ombra**
+*Lobos Ombra.*
 
 Grandes lobos negros de ojos plateados.
 No sirven al mal: detestan la corrupción y atacan aquello que “huele” a deshonor.
@@ -523,9 +465,9 @@ Aúllan melodías antiguas que pueden hacer llorar incluso a guerreros curtidos.
 **Carácter:** nobles pero salvajes.
 **Poder:** perciben la verdad en el corazón de un viajero.
 
----
+## Galadrún
 
-# ⭐ **3. GALADRÚN — Guardianes del Árbol Vivo**
+*Guardianes del Árbol Vivo.*
 
 Árboles conscientes, pero más jóvenes y vivos que los ents.
 Sus ramas brillan con un tono dorado durante tormentas.
@@ -535,9 +477,9 @@ Hablan con el viento y odian a quienes dañan bosques antiguos.
 **Carácter:** protectores, lentos al decidir, rápidos al juzgar.
 **Poder:** endurecer la corteza para volverse casi impenetrables.
 
----
+## Úldar
 
-# ⭐ **4. ÚLDAR — Ecos del Fuego antiguo**
+*Ecos del Fuego antiguo.*
 
 Pequeños espíritus que habitan en brasas, volcanes y herrerías.
 Se comunican por chispas, sin lenguaje humano.
@@ -547,9 +489,9 @@ A veces ayudan a artesanos puros de corazón.
 **Carácter:** curiosos, intensos, peligrosos si se les provoca.
 **Poder:** transmitir calor emocional a un objeto o persona.
 
----
+## Durbal
 
-# ⭐ **5. DURBAL — Ciervos Estelares**
+*Ciervos Estelares.*
 
 Criaturas blancas con motas lumínicas en el pelaje.
 Son mensajeros entre reyes antiguos y el destino del mundo.
@@ -559,9 +501,9 @@ Los elfos dicen que su mirada “muestra el camino que aún no existe”.
 **Carácter:** puros, indomables.
 **Poder:** revelar un cruce de caminos.
 
----
+## Namariel
 
-# ⭐ **6. NAMARIEL — Hijas del Río Oculto**
+*Hijas del Río Oculto.*
 
 Humanoides de agua dulce que no pueden ser vistas a menos que quieran.
 Sus voces calman tormentas internas, pero sus lágrimas provocan crecidas.
@@ -571,9 +513,9 @@ Suelen aparecer a viajeros perdidos o arrepentidos.
 **Carácter:** compasivas, impredecibles.
 **Poder:** detectar corrupción espiritual en quien beba el agua donde habitan.
 
----
+## Koruldar
 
-# ⭐ **7. KORULDAR — Los Hijos de la Piedra**
+*Los Hijos de la Piedra.*
 
 Parecen guerreros hechos de roca viva, pero su interior es cálido.
 Custodian antiguas fortalezas olvidadas bajo las montañas.
@@ -583,9 +525,9 @@ Solo despiertan cuando un juramento sagrado es roto.
 **Carácter:** honorables, rencorosos, férreos en propósito.
 **Poder:** despertar otros guardianes pétreos.
 
----
+## Siridh
 
-# ⭐ **8. SIRIDH — Sombras Compasivas**
+*Sombras Compasivas.*
 
 Espíritus que acompañan a los moribundos para guiarlos en su último sueño.
 No hablan ni interactúan con vivos salvo para ofrecer consuelo.
@@ -594,9 +536,9 @@ No hablan ni interactúan con vivos salvo para ofrecer consuelo.
 **Carácter:** silenciosos, bondadosos.
 **Poder:** calmar el miedo a la muerte.
 
----
+## Faralin
 
-# ⭐ **9. FARALIN — Cuervos del Amanecer**
+*Cuervos del Amanecer.*
 
 Grandes cuervos plateados que vuelan únicamente durante los minutos previos al alba.
 Portan mensajes entre sabios; nunca mienten.
@@ -606,9 +548,9 @@ Quien ve uno, debe prepararse: buenas o malas, traerán verdades.
 **Carácter:** observadores, distantes.
 **Poder:** ver lo que ocurrió en un lugar con solo tocarlo.
 
----
+# Thalionnar
 
-# ⭐ **10. THALIONNAR — Los Eternos del Ocaso**
+*Los Eternos del Ocaso.*
 
 Arqueros élficos antiguos que renunciaron a la vida material.
 No son fantasmas: son “memorias vivas” que vagan en el límite del mundo.
