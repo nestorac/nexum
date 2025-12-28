@@ -1,0 +1,3 @@
+Azgaar's Fantasy Map Generator (para crear mapas de ciudades).
+Tiled (para crear todo tipo de mapas).
+Inkscape (para modificar mapas reales en formato SVG).
