@@ -25,11 +25,41 @@ Cada ficha incluye:
 
 # Ángeles y arcángeles (tradición cristiana)
 
-## Uriel
-*El Fuego de la Claridad.*
+### Listado exahustivo de arcángeles
+
+Miguel, el jefe del ejército celestial,
+Gabriel, el mensajero celestial,
+Rafael, el protector de los viajeros, de la salud y del noviazgo,
+Uriel, el encargado de las tierras y de los templos de Dios,
+Raguel, el encargado de la justicia, de la imparcialidad y de la armonía,
+Sariel, el encargado de los espíritus de los hombres que pecan,
+Remiel, el encargado de los resucitados.
+Jofiel, el encargado de los inocentes.
+Azrael, el encargado de recibir las almas y conducirlas para ser juzgadas.
+Raziel, el guardián de los secretos.
+Camael, el encargado de fomentar la gratitud hacia Dios.
+Zadkiel, personifica la misericordia de dios.
+Jegudiel, es el patrón de todos los trabajadores.
+Sealtiel, es el encargado de los planetas y los cielos.
+Barachiel, es el jefe de los ángeles guardianes.
+Haniel, es el jefe de los principados y las virtudes.
+Nuriel.
+Serafiel, es el encargado de la purificacion.
+Jehoel, es el líder de la segunda subordinación de ángeles.
+Sandalfón, es el encargado de reunir oraciones y transmitirselas a Dios.
+Hadraniel, colaborador de Sandalfón.
+Shamsiel, enseñó a los hombres las señales del Sol.
+Satariel.
+Zerachiel.
+Cassiel, el ángel de las lágrimas.
+Chamuel o Camael, Arcángel del Amor, conocido por su conexión con el amor divino y la compasión. Paz interior, Estado de tranquilidad y armonía emocional.
+
+## Arcángel Uriel
+
+*El arcángel del sol.*
 
 **Tradición** judeocristiana.
-**Rol:** ilumina la mente humana, revela lo oculto.
+**Rol:** alumbra la mente humana, revela lo oculto.
 
 **Apariencia:** hombre o mujer de rostro sereno, ojos profundamente atentos. Suele aparecer con ropas sencillas, como un maestro o un bibliotecario.
 
@@ -52,18 +82,24 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 * Hace surgir debates morales en mitad de una escena de acción.
 * Provoca tensión entre PJs que “no quieren saber”.
 
+**Poderes:**
+
+- Rayo de luz: el personaje terrenal enlazado puede lanzar un rayo de luz que alumbra el camino y daña a los demonios.
+
+- Verdad por encima de todo: se puede lanzar este poder sobre cualquier personaje y nos revela sus auténticas intenciones y secretos de ese personaje, en función de la cantidad de éxitos de la tirada.
+
 **Escena sugerida:** un PJ encuentra un cuaderno vacío donde, al escribir, aparecen frases que no recuerda haber pensado.
 
-## Miguel
+## Arcángel Miguel
 
-**El Protector.**
+*Jefe de los ejércitos celestiales.*
 
 **Tradición** judeocristiana.
-**Rol:** defensa, convicción, firmeza interior.
+**Rol:** defiende las convicciones y los valores, fomenta la disciplina.
 
 **Apariencia:** persona robusta, mirada firme, voz controlada. Nunca levanta la voz. Nunca retrocede.
 
-**Esencia:** fuerza moral. Decisión. Protección emocional.
+**Esencia:** toma decisiones basadas en la moral. Protege las emociones.
 
 **Interacción:**
 
@@ -81,11 +117,17 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 * Puede obstaculizar decisiones prudentes de otros PJs.
 * Detesta la cobardía voluntaria.
 
+**Poderes:**
+
+- Invocar seres celestiales: el personaje enlazado al arcángel Miguel puede invocar seres celestiales para ayudar en las batallas.
+
+- Disciplina férrea: se lanza sobre personajes aliados y les permite concentrarse y realizar el doble de ataques durante tres turnos.
+
 **Escena sugerida:** el PJ protegido por Miguel experimenta un “silencio férreo” en mitad del caos, una calma absoluta.
 
-## Rafael
+## Arcángel Rafael
 
-*El Curador de Heridas Invisibles.*
+*El que sana las heridas.*
 
 **Tradición** judeocristiana
 **Rol:** sanación emocional, reconciliación.
@@ -100,9 +142,13 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 * Permite sanar disputas entre personajes.
 * Hace que un enemigo dude antes de atacar.
 
-**Teme** el rencor sin fin, el autosabotaje emocional.
+**Teme** el rencor, la gente que se autolesiona.
 
-**Desea** que las almas humanas se reconcilien consigo mismas.
+**Desea** que las personas se cuiden a sí mismas.
+
+**Poderes:**
+
+- Sanar. Cura las heridas de un personaje.
 
 **Escena sugerida:** un PJ sueña con alguien muerto que aún necesitaba perdonar… o ser perdonado.
 
@@ -110,7 +156,7 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 
 *El Mensajero del Dolor Evitado.*
 
-**Tradición ** enociana, cristiana antigua.
+**Tradición** enociana, cristiana antigua.
 
 **Esencia:** advertencia, intuición, peligro invisible.
 
@@ -195,6 +241,7 @@ No tiene prisa nunca.
 > “¿Sabes realmente a quién estás siguiendo?”
 
 ## Mari
+
 *La Señora de la Tierra y del Aire.*
 
 **Tradición** vasca.
