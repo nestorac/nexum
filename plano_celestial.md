@@ -29,32 +29,760 @@ Cada ficha incluye:
 
 **Listado exhaustivo**
 
-Miguel, el jefe del ejército celestial,
-Gabriel, el mensajero celestial,
-Rafael, el protector de los viajeros, de la salud y del noviazgo,
-Uriel, el encargado de las tierras y de los templos de Dios,
-Raguel, el encargado de la justicia, de la imparcialidad y de la armonía,
-Sariel, el encargado de los espíritus de los hombres que pecan,
-Remiel, el encargado de los resucitados.
-Jofiel, el encargado de los inocentes.
-Azrael, el encargado de recibir las almas y conducirlas para ser juzgadas.
-Raziel, el guardián de los secretos.
-Camael, el encargado de fomentar la gratitud hacia Dios.
-Zadkiel, personifica la misericordia de dios.
-Jegudiel, es el patrón de todos los trabajadores.
-Sealtiel, es el encargado de los planetas y los cielos.
-Barachiel, es el jefe de los ángeles guardianes.
-Haniel, es el jefe de los principados y las virtudes.
-Nuriel.
-Serafiel, es el encargado de la purificacion.
-Jehoel, es el líder de la segunda subordinación de ángeles.
-Sandalfón, es el encargado de reunir oraciones y transmitirselas a Dios.
-Hadraniel, colaborador de Sandalfón.
-Shamsiel, enseñó a los hombres las señales del Sol.
-Satariel.
-Zerachiel.
-Cassiel, el ángel de las lágrimas.
-Chamuel o Camael, Arcángel del Amor, conocido por su conexión con el amor divino y la compasión. Paz interior, Estado de tranquilidad y armonía emocional.
+### Arcángel Gabriel
+
+*El Mensajero Celestial.*
+
+**Tradición** judeocristiana.
+**Rol:** portador de mensajes que alteran el curso de la consciencia humana.
+
+**Apariencia:** figura humana de aspecto cotidiano, difícil de recordar con precisión. Su voz, sin embargo, es clara y firme, y permanece en la memoria más que su rostro. Suele aparecer en espacios liminales: pasillos, estaciones, umbrales, habitaciones a medio iluminar.
+
+**Esencia:** anuncio. Ruptura. Umbral.
+Gabriel no persuade ni explica: **declara lo que debe ser dicho**, aunque nadie esté preparado para escucharlo.
+
+**Cómo interactúa:**
+
+* Comunica verdades inevitables sin adornos.
+* Interrumpe escenas para transmitir un mensaje preciso.
+* No responde preguntas que busquen evitar la responsabilidad del anuncio.
+
+**Teme** que el mensaje sea ignorado o reinterpretado para no actuar.
+
+**Desea** que el receptor asuma las consecuencias de haber escuchado.
+
+**Conflictos:**
+
+* Revela una información que precipita una decisión trágica.
+* Provoca tensiones entre PJs por la interpretación del mensaje.
+* Enfrenta a un PJ con un futuro que aún puede cambiar, pero solo a un alto coste.
+
+**Poderes:**
+
+* Palabra sellada: el mensaje transmitido por Gabriel no puede olvidarse ni negarse; vuelve en sueños, recuerdos o asociaciones involuntarias hasta ser afrontado.
+
+* Anuncio del umbral: permite a un PJ percibir que una decisión marcará un antes y un después irreversible, incluso aunque no sepa aún cuál será el resultado.
+
+**Escena sugerida:** en medio de una situación aparentemente trivial, un PJ recibe una frase breve y clara; horas después comprende que todo lo ocurrido desde entonces fue consecuencia directa de haberla escuchado.
+
+### Arcángel Raguel
+
+*El Guardián del Equilibrio.*
+
+**Tradición** judeocristiana.
+**Rol:** velar por la justicia, la imparcialidad y la armonía entre voluntades en conflicto.
+
+**Apariencia:** figura humana de rasgos serenos y difíciles de clasificar. Su presencia genera una sensación de orden silencioso: las voces bajan, los gestos se miden. Viste de forma sobria, como alguien que no desea destacar ni imponer.
+
+**Esencia:** equilibrio. Justicia. Medida.
+Raguel no castiga ni absuelve: **restaura la proporción cuando algo se ha descompensado**.
+
+**Cómo interactúa:**
+
+* Interviene cuando una situación se inclina injustamente hacia un lado.
+* Hace visibles los argumentos ignorados.
+* Obliga a escuchar a quien ha sido sistemáticamente silenciado.
+
+**Teme** la justicia utilizada como excusa para la venganza.
+
+**Desea** que cada parte reciba exactamente lo que le corresponde, aunque nadie quede satisfecho.
+
+**Conflictos:**
+
+* Declara injusta una victoria lograda con buenas intenciones.
+* Defiende a alguien impopular porque el proceso fue injusto.
+* Rompe alianzas cuando detecta desequilibrios de poder.
+
+**Poderes:**
+
+* Balanza invisible: revela quién ha cargado con más peso del que le correspondía en una situación determinada.
+* Imparcialidad forzada: durante una escena clave, ningún PJ puede beneficiarse de ventajas injustas, favoritismos o trampas narrativas.
+
+**Escena sugerida:** tras un juicio, negociación o enfrentamiento, Raguel hace que todos comprendan —de forma incómodamente clara— que nadie ha ganado del todo, pero que el resultado es el único que podía considerarse justo.
+
+### Arcángel Remiel
+
+*El Vigilante de los que regresan.*
+
+**Tradición** judeocristiana.
+**Rol:** custodiar a quienes han vuelto de la muerte, velar por el equilibrio entre lo vivido y lo que aún permanece.
+
+**Apariencia:** figura humana de expresión grave y atenta. Sus ojos transmiten una mezcla de alivio y melancolía, como alguien que ha visto demasiado para celebrar sin reservas. Suele aparecer en hospitales, cementerios, habitaciones silenciosas o lugares donde el tiempo parece suspendido.
+
+**Esencia:** retorno. Umbral. Desajuste.
+Remiel no celebra la resurrección: **observa qué se ha alterado al desafiar el final**.
+
+**Cómo interactúa:**
+
+* Se manifiesta ante personas que han muerto y regresado.
+* Señala cambios sutiles en quienes “volvieron”.
+* Advierte de desequilibrios que otros no perciben.
+
+**Teme** que la muerte pierda su significado.
+
+**Desea** que quienes regresan comprendan que no han vuelto intactos.
+
+**Conflictos:**
+
+* Revela que un resucitado ya no pertenece del todo al mundo.
+* Enfrenta a un PJ con la pregunta de si debía haber vuelto.
+* Genera tensiones entre quienes ven la resurrección como milagro y quienes la perciben como ruptura.
+
+**Poderes:**
+
+* Huella del retorno: Remiel puede mostrar qué parte de una persona no regresó con ella, ya sea un recuerdo, una emoción o una certeza vital.
+
+* Umbral persistente: mientras este poder esté activo, un resucitado percibe constantemente la cercanía de la muerte, obteniendo intuiciones claras pero inquietantes sobre finales próximos.
+
+**Escena sugerida:** un PJ que volvió de la muerte se da cuenta de que ya no aparece en ciertas fotografías antiguas, como si nunca hubiera estado allí.
+
+### Arcángel Jofiel
+
+*El Custodio de los Inocentes.*
+
+**Tradición** judeocristiana.
+**Rol:** proteger la inocencia, no como ignorancia, sino como pureza de intención y ausencia de malicia consciente.
+
+**Apariencia:** figura humana de edad indeterminada, con una expresión abierta y una calma que desarma. Suele aparecer en lugares cotidianos y vulnerables: escuelas vacías, parques al amanecer, habitaciones donde alguien duerme sin miedo. Su presencia inspira confianza inmediata, a veces injustificada.
+
+**Esencia:** inocencia. Intención limpia. Fragilidad moral.
+Jofiel no idealiza a los inocentes: **sabe que la inocencia es frágil precisamente porque aún no ha elegido el mal**.
+
+**Cómo interactúa:**
+
+* Se acerca a quienes actúan sin malicia, aunque cometan errores graves.
+* Interviene cuando la inocencia va a ser utilizada o sacrificada.
+* Hace visibles las intenciones ocultas de los adultos ante los inocentes.
+
+**Teme** la corrupción temprana, especialmente cuando se disfraza de enseñanza o protección.
+
+**Desea** que la inocencia tenga la oportunidad de decidir por sí misma, llegado el momento.
+
+**Conflictos:**
+
+* Protege a alguien inocente cuyas acciones están causando daño.
+* Se opone a planes “necesarios” que implican sacrificar a quien no entiende las consecuencias.
+* Enfrenta a un PJ con la pregunta de cuándo dejó de ser inocente.
+
+**Poderes:**
+
+* Velo de pureza: mientras esté activo, ningún personaje puede dañar deliberadamente a un inocente sin sufrir una ruptura inmediata de sus convicciones, ventajas o certezas morales.
+
+* Intención revelada: permite identificar si una acción nace de la malicia, del miedo o de la ignorancia, sin juzgar el resultado final.
+
+**Escena sugerida:** en medio de una situación peligrosa, un personaje aparentemente débil actúa sin miedo ni segundas intenciones, y esa pureza altera por completo el curso de los acontecimientos.
+
+### Arcángel Azrael
+
+*El Guía del Tránsito.*
+
+**Tradición** judeocristiana.
+**Rol:** recibir las almas en el instante de la muerte y conducirlas al lugar donde serán juzgadas.
+
+**Apariencia:** figura humana sobria, de presencia inevitable pero no amenazante. Su rostro es sereno y neutro, como el de alguien que ha aprendido a no reaccionar ante el dolor ajeno. Suele aparecer cuando el ruido cesa y todo queda en silencio.
+
+**Esencia:** tránsito. Aceptación. Final con sentido.
+Azrael no mata ni juzga: **llega cuando ya no hay marcha atrás y acompaña el último paso**.
+
+**Cómo interactúa:**
+
+* Se manifiesta en el instante exacto de la muerte.
+* Habla con calma, sin prisa ni reproche.
+* No consuela con mentiras ni amenaza con castigos.
+
+**Teme** que las almas se aferren a lo que ya no existe.
+
+**Desea** que el tránsito se realice sin negación ni violencia interior.
+
+**Conflictos:**
+
+* Un alma se niega a aceptar su muerte.
+* Un PJ intenta interferir en el tránsito de otra persona.
+* La frontera entre vida y muerte se vuelve inestable.
+
+**Poderes:**
+
+* Llamada final: Azrael puede hacer que un alma comprenda con absoluta claridad que su vida ha terminado, incluso aunque se resista emocionalmente.
+
+* Camino del juicio: permite guiar a un alma por el tránsito correcto, impidiendo que quede atrapada, dispersa o manipulada por fuerzas externas.
+
+**Escena sugerida:** tras una muerte reciente, un PJ siente que alguien espera pacientemente a que se despida… pero no permitirá que se quede más tiempo del debido.
+
+### Arcángel Raziel
+
+*El Guardián de los Secretos.*
+
+**Tradición** judeocristiana.
+**Rol:** custodiar los secretos fundamentales de la existencia y decidir cuándo —y a quién— pueden ser revelados.
+
+**Apariencia:** figura humana difícil de fijar en la memoria. Sus rasgos parecen cambiar sutilmente cuando no se le mira directamente. Suele aparecer rodeado de objetos escritos: libros cerrados, notas incompletas, pantallas apagadas, símbolos que nadie recuerda haber visto antes.
+
+**Esencia:** conocimiento velado. Misterio. Límite.
+Raziel no oculta por crueldad: **guarda lo que destruiría a quien no está preparado para saberlo**.
+
+**Cómo interactúa:**
+
+* Insinúa más de lo que dice.
+* Responde a preguntas con fragmentos, no con respuestas completas.
+* Aparece cuando alguien está a punto de descubrir algo decisivo.
+
+**Teme** la revelación prematura, el conocimiento sin madurez.
+
+**Desea** que la verdad sea alcanzada, no arrancada.
+
+**Conflictos:**
+
+* Niega información crucial que podría salvar vidas.
+* Revela un secreto que quiebra la estabilidad mental de un PJ.
+* Enfrenta a un personaje con el precio real de saber demasiado.
+
+**Poderes:**
+
+* Velo del misterio: mientras esté activo, ciertos datos no pueden ser comprendidos aunque se tengan delante; el significado se escapa constantemente.
+
+* Revelación dosificada: Raziel permite acceder a una verdad profunda en fragmentos, cada uno con un impacto psicológico o moral acumulativo.
+
+**Escena sugerida:** un PJ encuentra un documento que parece explicar toda la situación… pero cada vez que intenta leerlo completo, solo recuerda una frase distinta, todas verdaderas y todas insuficientes.
+
+### Arcángel Camael
+
+*El Despertador de la Gratitud.*
+
+**Tradición** judeocristiana.
+**Rol:** fomentar la gratitud hacia Dios no como obediencia, sino como reconocimiento consciente de lo recibido.
+
+**Apariencia:** figura humana de gesto sobrio y mirada directa. No sonríe con facilidad, pero cuando lo hace transmite una calidez inesperada. Suele aparecer en momentos de calma posterior, nunca en el clímax del conflicto.
+
+**Esencia:** gratitud. Reconocimiento. Humildad lúcida.
+Camael no exige agradecimiento: **hace visible aquello que se ha dado por hecho**.
+
+**Cómo interactúa:**
+
+* Señala dones ignorados o malinterpretados.
+* Aparece tras logros, no durante la lucha.
+* Desarma el orgullo sin humillar.
+
+**Teme** la autosuficiencia que borra toda dependencia.
+
+**Desea** que el ser humano reconozca que no todo lo que es valioso ha sido ganado por mérito propio.
+
+**Conflictos:**
+
+* Provoca culpa en un PJ que confunde gratitud con deuda.
+* Enfrenta a alguien que se niega a agradecer porque ha sufrido demasiado.
+* Revela que incluso el dolor recibido tuvo un sentido no elegido.
+
+**Poderes:**
+
+* Revelación del don: Camael permite identificar claramente qué elementos de la vida de un PJ no provienen de su esfuerzo, sino de una gracia externa, sea comprensión, oportunidad o encuentro.
+
+* Gratitud transformadora: cuando un PJ acepta sinceramente aquello recibido, obtiene claridad emocional y estabilidad interior que disuelve resentimientos persistentes.
+
+**Escena sugerida:** tras una victoria amarga, un PJ comprende que lo más importante no fue lo conseguido, sino aquello que nunca perdió, y que jamás había reconocido como un don.
+
+### Arcángel Zadkiel
+
+*La Misericordia que Permanece.*
+
+**Tradición** judeocristiana.
+**Rol:** personificar la misericordia de Dios, no como absolución automática, sino como oportunidad real de redención.
+
+**Apariencia:** figura humana de mirada profunda y gesto cansado, como quien ha escuchado demasiadas confesiones. No impone presencia; se nota cuando alguien deja de huir de sí mismo. Suele aparecer en espacios de recogimiento: capillas vacías, habitaciones al amanecer, lugares donde alguien ha tocado fondo.
+
+**Esencia:** misericordia. Compasión lúcida. Segunda oportunidad.
+Zadkiel no borra la culpa: **ofrece un camino para atravesarla sin quedar destruido**.
+
+**Cómo interactúa:**
+
+* Se manifiesta ante quienes reconocen su error, aunque no sepan repararlo.
+* Interrumpe castigos desproporcionados.
+* Hace visible la diferencia entre culpa y condena.
+
+**Teme** la desesperación que convence a alguien de que ya no merece levantarse.
+
+**Desea** que incluso el culpable crea que aún puede cambiar.
+
+**Conflictos:**
+
+* Concede misericordia a alguien que otros consideran imperdonable.
+* Enfrenta a un PJ con la dificultad de perdonarse a sí mismo.
+* Detiene una venganza justa para abrir una vía de redención incierta.
+
+**Poderes:**
+
+* Suspensión del juicio: durante una escena clave, el castigo queda en pausa, permitiendo que el personaje enfrente plenamente su responsabilidad sin ser aniquilado por ella.
+
+* Misericordia activa: si un PJ acepta sinceramente su culpa, Zadkiel le concede la fuerza interior necesaria para intentar reparar el daño, aunque el perdón externo no esté garantizado.
+
+**Escena sugerida:** alguien confiesa un acto imperdonable esperando ser rechazado, y descubre que no se le niega la posibilidad de cambiar… lo que resulta más difícil de soportar que el castigo.
+
+### Arcángel Jegudiel
+
+*El Dignificador del Esfuerzo.*
+
+**Tradición** judeocristiana.
+**Rol:** amparar a todos los trabajadores y dar sentido al esfuerzo humano, visible o invisible.
+
+**Apariencia:** figura humana de aspecto sencillo, manos marcadas por el uso. Puede parecer cansado, pero nunca derrotado. Suele aparecer en talleres, oficinas vacías al anochecer, fábricas en silencio, cocinas después del servicio o escritorios desordenados tras largas horas de trabajo.
+
+**Esencia:** esfuerzo. Dignidad. Perseverancia.
+Jegudiel no promete éxito: **reconoce el valor del trabajo bien hecho, aunque nadie más lo vea**.
+
+**Cómo interactúa:**
+
+* Acompaña a quienes trabajan sin reconocimiento.
+* Refuerza la constancia cuando el cansancio moral aparece.
+* Señala la diferencia entre esfuerzo sincero y ambición vacía.
+
+**Teme** la deshumanización del trabajo y la explotación normalizada.
+
+**Desea** que el ser humano comprenda que su labor tiene valor más allá del resultado o del salario.
+
+**Conflictos:**
+
+* Apoya a un PJ que trabaja para una causa moralmente ambigua.
+* Enfrenta a alguien con la inutilidad aparente de su esfuerzo.
+* Provoca tensión entre vocación personal y necesidad material.
+
+**Poderes:**
+
+* Dignidad del trabajo: mientras este poder esté activo, el esfuerzo honesto de un PJ no puede ser ignorado ni trivializado; otros perciben claramente el valor real de su labor.
+
+* Resistencia del obrero: concede fortaleza física y mental para completar una tarea justa incluso bajo agotamiento extremo, sin eliminar el cansancio posterior.
+
+**Escena sugerida:** al final de una jornada aparentemente inútil, un PJ descubre que su trabajo silencioso ha sostenido algo mucho mayor de lo que jamás imaginó.
+
+### Arcángel Sealtiel
+
+*El Custodio de los Cielos.*
+
+**Tradición** judeocristiana.
+**Rol:** velar por el orden de los planetas y los cielos, manteniendo la armonía entre los ciclos cósmicos y la vida humana.
+
+**Apariencia:** figura humana de porte sereno, con la mirada siempre elevada, como quien observa algo que otros no perciben. Su presencia transmite una sensación de vastedad y silencio profundo. Suele aparecer bajo cielos abiertos: azoteas, desiertos, observatorios improvisados, noches despejadas lejos de la ciudad.
+
+**Esencia:** orden cósmico. Ritmo. Proporción.
+Sealtiel no controla los cielos: **escucha su movimiento y corrige los desajustes cuando algo amenaza con romper la armonía**.
+
+**Cómo interactúa:**
+
+* Se manifiesta cuando los ciclos naturales se alteran de forma artificial.
+* Hace que los personajes perciban el paso del tiempo a escala mayor.
+* Reduce la urgencia humana frente a la inmensidad del cosmos.
+
+**Teme** la ruptura del equilibrio causada por la arrogancia tecnológica o espiritual.
+
+**Desea** que la humanidad recuerde que forma parte de un orden más amplio, no su centro.
+
+**Conflictos:**
+
+* Enfrenta a un PJ con la insignificancia de sus preocupaciones… sin invalidarlas.
+* Se opone a proyectos que alteran ciclos planetarios “por un bien mayor”.
+* Obliga a elegir entre salvar una vida inmediata o preservar un equilibrio a largo plazo.
+
+**Poderes:**
+
+* Alineación celeste: permite percibir cuándo una acción humana va contra el ritmo natural de los cielos, generando señales sutiles de advertencia.
+
+* Silencio orbital: durante una escena, el caos disminuye; el tiempo parece desacelerarse y las emociones se ordenan, favoreciendo decisiones reflexivas en lugar de impulsivas.
+
+**Escena sugerida:** bajo un cielo nocturno imposible de ignorar, un PJ comprende que su conflicto personal forma parte de algo mucho más grande… y que eso no lo hace menos importante, solo más responsable.
+
+### Arcángel Barachiel
+
+*El Supervisor de la Custodia.*
+
+**Tradición** judeocristiana.
+**Rol:** coordinar y guiar a los ángeles guardianes, velando por la protección cotidiana y discreta de los seres humanos.
+
+**Apariencia:** figura humana afable, de presencia tranquilizadora. Su rostro transmite cercanía inmediata, como alguien que siempre llega justo a tiempo. Suele aparecer en momentos aparentemente banales: cruces de calles, salas de espera, trayectos rutinarios.
+
+**Esencia:** protección silenciosa. Providencia. Acompañamiento.
+Barachiel no interviene con estruendo: **ordena pequeñas casualidades para que el daño no llegue a producirse**.
+
+**Cómo interactúa:**
+
+* Refuerza la labor de los ángeles guardianes cuando la carga es excesiva.
+* Ajusta coincidencias mínimas que evitan desgracias mayores.
+* Se manifiesta cuando alguien ha sido protegido demasiadas veces sin notarlo.
+
+**Teme** que la protección se confunda con invulnerabilidad.
+
+**Desea** que los humanos vivan confiados, pero no inconscientes.
+
+**Conflictos:**
+
+* Retira protección extra para permitir que alguien aprenda de un error.
+* Enfrenta a un PJ con la evidencia de cuántas veces fue salvado sin saberlo.
+* Protege a alguien cuya imprudencia pone en peligro a otros.
+
+**Poderes:**
+
+* Red de custodia: Barachiel puede coordinar a varios ángeles guardianes para proteger simultáneamente a diferentes personas implicadas en un mismo suceso, evitando efectos en cadena.
+
+* Providencia discreta: activa una serie de coincidencias menores —retrasos, encuentros fortuitos, fallos benignos— que desvían una amenaza sin que nadie sea plenamente consciente.
+
+**Escena sugerida:** tras un accidente que nunca llega a ocurrir, un PJ empieza a reconstruir una cadena de pequeñas casualidades y comprende que alguien ha estado cuidando de él durante mucho tiempo… sin pedir nada a cambio.
+
+### Arcángel Haniel
+
+*La Armonía en Movimiento.*
+
+**Tradición** judeocristiana.
+**Rol:** presidir a los principados y las virtudes, manteniendo la armonía entre el orden espiritual y la acción humana en el mundo.
+
+**Apariencia:** figura humana de presencia elegante y dinámica, con una serenidad que no es estática, sino viva. Sus gestos son precisos, como si cada movimiento tuviera un propósito. Suele aparecer en lugares donde se toman decisiones colectivas: salas de consejo, asambleas improvisadas, espacios donde se organiza el cambio.
+
+**Esencia:** armonía activa. Coordinación. Influencia justa.
+Haniel no gobierna desde arriba: **orquesta fuerzas diversas para que ninguna anule a las demás**.
+
+**Cómo interactúa:**
+
+* Media entre voluntades opuestas para evitar rupturas irreversibles.
+* Refuerza iniciativas que buscan el bien común sin aplastar lo individual.
+* Señala cuándo una estructura ha dejado de servir a quienes debía proteger.
+
+**Teme** el orden rígido que sofoca la vida y la libertad.
+
+**Desea** que el poder se ejerza como servicio coordinado, no como dominio.
+
+**Conflictos:**
+
+* Apoya un cambio gradual cuando otros exigen una ruptura inmediata.
+* Enfrenta a un líder con el impacto real de sus decisiones.
+* Desestabiliza jerarquías aparentemente eficaces pero injustas.
+
+**Poderes:**
+
+* Convergencia de voluntades: durante una escena clave, Haniel puede alinear temporalmente los objetivos de varios personajes, permitiendo cooperación sin pérdida de identidad propia.
+
+* Flujo virtuoso: potencia acciones que buscan el bien común, haciendo que los esfuerzos individuales se refuercen entre sí en lugar de competir.
+
+**Escena sugerida:** en medio de un conflicto colectivo a punto de estallar, las voces comienzan a escucharse de verdad, y por primera vez surge una solución que no aplasta a nadie, aunque obligue a todos a ceder un poco.
+
+### Arcángel Nuriel
+
+*El Portador del Temblor.*
+
+**Tradición** judeocristiana.
+**Rol:** encarnar las fuerzas que sacuden lo establecido para revelar lo que ya no es firme ni verdadero.
+
+**Apariencia:** figura humana de presencia inquietante, como si el aire a su alrededor vibrara levemente. Sus rasgos son definidos, pero cuesta mantener la mirada fija en ellos. Suele aparecer antes o después de acontecimientos abruptos: discusiones que estallan, decisiones repentinas, cambios que nadie había querido provocar.
+
+**Esencia:** sacudida. Despertar. Inestabilidad necesaria.
+Nuriel no destruye por capricho: **remueve lo que parecía sólido para mostrar sus grietas**.
+
+**Cómo interactúa:**
+
+* Provoca incomodidad inmediata en situaciones aparentemente estables.
+* Señala contradicciones ocultas bajo la rutina.
+* Aparece cuando el estancamiento se confunde con paz.
+
+**Teme** la calma falsa que anestesia la conciencia.
+
+**Desea** que lo que no es auténtico caiga antes de causar más daño.
+
+**Conflictos:**
+
+* Rompe un equilibrio que otros consideraban suficiente.
+* Acelera cambios para los que nadie se siente preparado.
+* Enfrenta a un PJ con la fragilidad real de sus certezas.
+
+**Poderes:**
+
+* Sacudida reveladora: una situación estable se ve alterada de forma repentina, obligando a todos los implicados a mostrar su verdadera posición o motivación.
+
+* Ruptura del hábito: mientras este poder esté activo, las rutinas dejan de funcionar como refugio; lo repetido ya no protege ni oculta.
+
+**Escena sugerida:** justo cuando todo parece por fin bajo control, un detalle menor desencadena una reacción en cadena que obliga a los PJs a admitir que la estabilidad que defendían era solo aparente.
+
+### Arcángel Serafiel
+
+*El Fuego que Limpia.*
+
+**Tradición** judeocristiana.
+**Rol:** conducir los procesos de purificación, eliminando lo que corrompe sin destruir lo esencial.
+
+**Apariencia:** figura humana de mirada intensa y presencia sobria. No desprende calor visible, pero su cercanía provoca una sensación de ardor interior, como si algo incómodo estuviera siendo puesto al descubierto. Suele aparecer en lugares de transición: antes de un nuevo comienzo, tras una caída, o cuando alguien está dispuesto a cambiar de verdad.
+
+**Esencia:** purificación. Despojo. Renovación.
+Serafiel no castiga: **quema lo que sobra para que lo verdadero pueda permanecer**.
+
+**Cómo interactúa:**
+
+* Señala hábitos, ideas o vínculos que ya no pueden continuar.
+* Provoca procesos dolorosos pero honestos de cambio.
+* No interviene hasta que el personaje está dispuesto a perder algo.
+
+**Teme** la falsa pureza basada en la negación y la apariencia.
+
+**Desea** una transformación real, aunque implique sufrimiento temporal.
+
+**Conflictos:**
+
+* Exige renunciar a algo muy querido para poder avanzar.
+* Desmantela identidades construidas sobre culpa o orgullo.
+* Enfrenta a un PJ con el miedo a quedarse vacío tras la purificación.
+
+**Poderes:**
+
+* Fuego interior: activa un proceso de purificación que elimina corrupciones morales, influencias externas o autoengaños persistentes, a costa de fatiga emocional o pérdida de certezas.
+
+* Despojo necesario: obliga a un personaje a desprenderse de un recurso, ventaja o vínculo que se ha vuelto tóxico, permitiendo un crecimiento posterior más auténtico.
+
+**Escena sugerida:** tras aceptar un cambio doloroso, un PJ siente que algo esencial ha sido arrancado… y solo después comprende que lo que queda es más ligero, más verdadero y finalmente habitable.
+
+### Arcángel Jehoel
+
+*El Coordinador del Orden Intermedio.*
+
+**Tradición** judeocristiana.
+**Rol:** liderar la segunda subordinación de ángeles, asegurando la correcta transmisión entre las voluntades superiores y su ejecución en el mundo.
+
+**Apariencia:** figura humana de porte sereno y mirada analítica. Su presencia transmite organización y claridad estructural. Suele aparecer en espacios donde confluyen múltiples esfuerzos: centros de coordinación, cruces de caminos, momentos en que varias fuerzas deben actuar al unísono.
+
+**Esencia:** mediación. Coherencia. Traducción del mandato.
+Jehoel no crea ni ejecuta: **convierte la intención en estructura operativa**.
+
+**Cómo interactúa:**
+
+* Alinea acciones dispersas bajo un propósito común.
+* Señala fallos de comunicación entre niveles de autoridad.
+* Reduce el caos sin anular la iniciativa individual.
+
+**Teme** la descoordinación que convierte buenas intenciones en desastre.
+
+**Desea** que cada fuerza actúe en su lugar y momento precisos.
+
+**Conflictos:**
+
+* Prioriza el funcionamiento del conjunto frente a una necesidad individual urgente.
+* Corrige una intervención “bienintencionada” que rompe la cadena de mando.
+* Enfrenta a un PJ con la diferencia entre obedecer y comprender.
+
+**Poderes:**
+
+* Cadena clara: mientras esté activo, las órdenes, señales o intenciones se transmiten sin distorsión entre todos los implicados en una escena compleja.
+
+* Sincronía operativa: permite coordinar acciones simultáneas de varios personajes, evitando interferencias y maximizando la eficacia conjunta.
+
+**Escena sugerida:** en una situación caótica con múltiples frentes abiertos, cada acción empieza a encajar con las demás como piezas de un mecanismo mayor, revelando que alguien ha estado organizando el flujo desde un nivel invisible.
+
+### Arcángel Sandalfón
+
+*El Recogedor de las Voces.*
+
+**Tradición** judeocristiana.
+**Rol:** reunir las oraciones humanas —conscientes o no— y transmitirlas a Dios sin alterarlas ni embellecerlas.
+
+**Apariencia:** figura humana de porte humilde, a menudo inadvertida. Su presencia es discreta, casi invisible, como alguien que siempre llega después. Suele aparecer en lugares donde alguien ha rezado sin palabras: habitaciones en penumbra, caminos solitarios, bancos vacíos, espacios de espera.
+
+**Esencia:** escucha. Elevación. Fidelidad al ruego.
+Sandalfón no juzga la oración: **la recoge tal como es, incluso cuando es confusa, torpe o contradictoria**.
+
+**Cómo interactúa:**
+
+* Permanece cerca de quienes rezan sin saber a quién se dirigen.
+* Da forma audible a súplicas interiores que no encuentran palabras.
+* Hace sentir que una oración ha sido realmente escuchada, aunque no respondida.
+
+**Teme** que las oraciones se conviertan en ruido vacío o rutina sin intención.
+
+**Desea** que toda súplica auténtica llegue completa, sin censura ni corrección.
+
+**Conflictos:**
+
+* Transmite una oración nacida del miedo o del egoísmo.
+* Enfrenta a un PJ con el hecho de que su ruego fue escuchado… pero no concedido.
+* Revela que incluso una blasfemia desesperada puede ser una forma de oración.
+
+**Poderes:**
+
+* Recogida fiel: Sandalfón puede captar una oración no expresada verbalmente y preservarla íntegra, impidiendo que sea distorsionada por intermediarios o fuerzas externas.
+
+* Elevación silenciosa: durante una escena, las oraciones sinceras —aunque sean contradictorias— adquieren peso real, influyendo sutilmente en los acontecimientos sin garantizar el resultado deseado.
+
+**Escena sugerida:** un PJ que dejó de rezar hace años descubre que todas sus palabras no dichas, sus silencios y sus reproches también fueron recogidos… y enviados tal como nacieron.
+
+### Arcángel Hadraniel
+
+*El Umbral del Temor Reverente.*
+
+**Tradición** judeocristiana.
+**Rol:** custodiar el paso de las oraciones hacia lo divino, filtrando el ruido y preservando el respeto profundo que acompaña al acto de elevar una súplica.
+
+**Apariencia:** figura humana imponente pero contenida, cuya presencia provoca silencio inmediato. No intimida por amenaza, sino por gravedad. Suele manifestarse en el instante previo a que una oración sea entregada, cuando aún puede desvanecerse o transformarse.
+
+**Esencia:** reverencia. Límite. Asombro consciente.
+Hadraniel no rechaza oraciones: **exige que quien reza sea consciente de lo que está haciendo**.
+
+**Cómo interactúa:**
+
+* Introduce un silencio denso antes de una súplica importante.
+* Hace que el orante sienta el peso real de dirigirse a Dios.
+* Detiene oraciones mecánicas hasta que recuperan intención.
+
+**Teme** la banalización de lo sagrado y la oración convertida en trámite.
+
+**Desea** que cada ruego cruce el umbral con honestidad y respeto, incluso si nace del miedo o la ira.
+
+**Conflictos:**
+
+* Bloquea temporalmente una oración hasta que el PJ enfrente su verdadera motivación.
+* Provoca temor reverente en alguien que buscaba consuelo inmediato.
+* Enfrenta a un personaje con el silencio como única respuesta válida.
+
+**Poderes:**
+
+* Umbral del ruego: antes de que una oración sea transmitida por Sandalfón, Hadraniel puede obligar al PJ a confrontar la intención real de su súplica; solo entonces la oración avanza.
+
+* Silencio consagrado: durante una escena, el ruido emocional disminuye drásticamente, imponiendo una calma grave que favorece la introspección profunda y la formulación honesta del ruego.
+
+**Escena sugerida:** un PJ intenta rezar desesperadamente, pero las palabras no salen; solo cuando acepta en silencio lo que realmente teme o desea, siente que la oración finalmente ha sido escuchada y continúa su camino.
+
+### Arcángel Shamsiel
+
+*El Intérprete del Sol.*
+
+**Tradición** judeocristiana.
+**Rol:** enseñar a los seres humanos a leer las señales del Sol como reflejo del orden, del tiempo y de la verdad expuesta sin sombra.
+
+**Apariencia:** figura humana luminosa pero no cegadora. Su presencia recuerda a la claridad de una mañana despejada: todo se ve mejor, incluso aquello que se prefería ignorar. Suele aparecer al amanecer, al mediodía exacto o en momentos en que la luz revela algo oculto.
+
+**Esencia:** revelación visible. Ritmo. Evidencia.
+Shamsiel no interpreta por otros: **enseña a mirar correctamente lo que siempre ha estado a la vista**.
+
+**Cómo interactúa:**
+
+* Señala patrones en los ciclos naturales y en los acontecimientos humanos.
+* Hace coincidir revelaciones importantes con la luz del día.
+* Desarma engaños que solo sobreviven en la penumbra.
+
+**Teme** la negación consciente de lo evidente.
+
+**Desea** que los humanos aprendan a leer las señales claras antes de buscar misterios ocultos.
+
+**Conflictos:**
+
+* Revela una verdad que nadie puede negar, pero que nadie quiere aceptar.
+* Desmonta creencias construidas sobre interpretaciones erróneas de “señales”.
+* Enfrenta a un PJ con pruebas irrefutables de algo que prefería dudar.
+
+**Poderes:**
+
+* Señal solar: Shamsiel permite identificar un acontecimiento como parte de un ciclo mayor, revelando si es inicio, culminación o advertencia final.
+
+* Luz inexorable: durante una escena, mentiras, medias verdades y autoengaños se vuelven insostenibles; lo evidente se impone aunque resulte incómodo.
+
+**Escena sugerida:** bajo un sol implacable, un PJ comprende que todas las señales estaban ahí desde el principio, visibles para cualquiera que se atreviera a mirar sin apartar la vista.
+
+### Arcángel Satariel
+
+*El Guardián del Velo.*
+
+**Tradición** judeocristiana.
+**Rol:** custodiar lo oculto, mantener velados ciertos aspectos de la realidad para proteger el equilibrio entre conocimiento y consciencia.
+
+**Apariencia:** figura humana apenas definida, como si siempre estuviera a medio recordar. Su rostro resulta familiar y extraño a la vez; cuanto más se intenta fijar en él, más detalles se escapan. Suele aparecer en espacios de penumbra, archivos incompletos, recuerdos fragmentados o conversaciones interrumpidas.
+
+**Esencia:** ocultación. Límite del saber. Misericordia del misterio.
+Satariel no miente: **impide ver aquello que aún no puede ser sostenido**.
+
+**Cómo interactúa:**
+
+* Hace que información crucial resulte inaccesible en el momento equivocado.
+* Introduce lagunas, olvidos o distracciones significativas.
+* Protege a los personajes de verdades que los destruirían prematuramente.
+
+**Teme** la revelación total sin madurez interior.
+
+**Desea** que el conocimiento llegue solo cuando exista capacidad para integrarlo.
+
+**Conflictos:**
+
+* Oculta una verdad que podría evitar una tragedia inmediata.
+* Provoca desconfianza entre PJs al velar información de forma selectiva.
+* Enfrenta a un personaje con la frustración de “casi entenderlo todo”.
+
+**Poderes:**
+
+* Velo consciente: mientras esté activo, ciertos hechos no pueden ser plenamente comprendidos ni recordados, aunque se perciban de forma fragmentaria.
+
+* Olvido protector: permite borrar temporalmente un recuerdo, dato o conexión peligrosa, no como castigo, sino como salvaguarda psicológica o moral.
+
+**Escena sugerida:** un PJ descubre que ha investigado durante días algo crucial… pero no recuerda qué era exactamente, solo la certeza inquietante de que olvidarlo fue necesario.
+
+### Arcángel Zerachiel
+
+*El Sostenedor del Ánimo.*
+
+**Tradición** judeocristiana.
+**Rol:** fortalecer el espíritu humano cuando la esperanza se debilita y el cansancio amenaza con convertirse en rendición.
+
+**Apariencia:** figura humana de gesto cercano y mirada firme. No transmite euforia ni consuelo fácil, sino una calma que permite seguir adelante un paso más. Suele aparecer en momentos de agotamiento prolongado, cuando el entusiasmo inicial ya se ha extinguido.
+
+**Esencia:** perseverancia. Aliento. Resistencia interior.
+Zerachiel no promete que todo irá bien: **recuerda por qué merece la pena continuar incluso cuando nada mejora**.
+
+**Cómo interactúa:**
+
+* Reaviva la motivación cuando esta se ha erosionado lentamente.
+* Señala logros pequeños que han pasado desapercibidos.
+* Acompaña procesos largos sin resultados inmediatos.
+
+**Teme** la desesperanza silenciosa, esa que no grita pero paraliza.
+
+**Desea** que el ser humano descubra que la constancia también es una forma de fe.
+
+**Conflictos:**
+
+* Sostiene a un PJ en una causa que quizá no tenga final feliz.
+* Enfrenta a alguien con la diferencia entre esperanza y autoengaño.
+* Obliga a decidir si continuar es valentía… o simple miedo a soltar.
+
+**Poderes:**
+
+* Aliento persistente: mientras esté activo, el agotamiento no deriva en abandono inmediato; el PJ puede continuar una tarea justa aun sin motivación emocional.
+
+* Recuerdo del sentido: Zerachiel permite reconectar con la razón original por la que se emprendió un camino, aunque esa razón ya no resulte reconfortante.
+
+**Escena sugerida:** cuando todo invita a rendirse en silencio, un PJ comprende que no sigue adelante por optimismo, sino porque detenerse significaría traicionarse a sí mismo.
+
+### Arcángel Chamuel
+
+*La Presencia del Amor que Aquieta.*
+
+**Tradición** judeocristiana.
+**Rol:** encarnar el amor divino y la compasión, conduciendo a los seres humanos hacia la paz interior y la armonía emocional.
+
+**Apariencia:** figura humana de expresión cálida y mirada profundamente comprensiva. Su presencia genera una sensación inmediata de calma, como si el conflicto interno perdiera urgencia. Suele aparecer en espacios íntimos o emocionalmente cargados: encuentros difíciles, despedidas, reconciliaciones silenciosas.
+
+**Esencia:** amor consciente. Compasión. Paz interior.
+Chamuel no idealiza el amor: **lo manifiesta como una fuerza que integra, no que anula el dolor**.
+
+**Cómo interactúa:**
+
+* Calma tensiones emocionales intensas sin suprimirlas.
+* Facilita encuentros sinceros entre personas enfrentadas.
+* Hace visibles las heridas que aún necesitan ser atendidas con ternura.
+
+**Teme** el amor posesivo disfrazado de cuidado.
+
+**Desea** que el amor sea vivido como comprensión profunda, no como dependencia.
+
+**Conflictos:**
+
+* Promueve la compasión hacia alguien que ha causado daño.
+* Enfrenta a un PJ con la dificultad de amarse a sí mismo.
+* Disuelve un conflicto externo revelando un conflicto interior no resuelto.
+
+**Poderes:**
+
+* Paz reconciliadora: durante una escena cargada de tensión emocional, Chamuel puede inducir un estado de calma profunda que permite dialogar sin agresividad ni huida.
+
+* Amor integrador: permite a un PJ aceptar simultáneamente emociones contradictorias —culpa, afecto, dolor, perdón— sin que ninguna anule a las demás, favoreciendo la sanación interior.
+
+**Escena sugerida:** en medio de un enfrentamiento emocional que parecía inevitable, un silencio inesperado se impone, y los personajes descubren que, por primera vez, pueden escucharse sin miedo ni defensa.
 
 ### Arcángel Uriel
 
@@ -154,7 +882,7 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 
 **Escena sugerida:** un PJ sueña con alguien muerto que aún necesitaba perdonar… o ser perdonado.
 
-### Sariel
+### Arcángel Sariel
 
 *El Mensajero del Dolor Evitado.*
 
@@ -178,7 +906,7 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 
 > “Casi.”
 
-### Cassiel
+### Arcángel Cassiel
 
 *El Ángel del Tiempo Silencioso.*
 
@@ -199,7 +927,7 @@ No tiene prisa nunca.
 
 **Desea** que cada alma llegue a su momento justo.
 
-### Lilith
+### Ex-arcángel Lilith
 
 *La Primera Rebelde.*
 
@@ -640,7 +1368,7 @@ Lumeh no destruye: **termina lo que ya dio todo**.
 * **Esteban** – Primer mártir cristiano.
 * **María Magdalena** – Testigo de la resurrección.
 
-# Seres mitológicos vascos
+# Mitología vasca
 
 ## Lamia
 
@@ -701,31 +1429,7 @@ Manos enormes, voz profunda.
 
 **Conflicto:** no entiende sutilezas humanas.
 
-# Seres mitológicos japoneses
-
-## Tengu
-
-**El monje que se cayó.**
-
-**Tradición** japonesa.
-
-**Rol:** orgullo, humildad, disciplina espiritual.
-
-**Apariencia:** hombre delgado con expresión ascética. Lleva ropa de monje, con modales bruscos.
-
-**Esencia:** la lección tras el error.
-
-**Interacción:**
-
-* Desafía físicamente o mentalmente al PJ.
-* Pone trampas simbólicas para enseñar algo.
-* Se burla con cariño.
-
-**Escena sugerida: ** un PJ intenta cruzar un puente y Tengu bloquea el paso:
-
-> “Sólo puede cruzar quien sabe por qué camina.”
-
-# Seres mitológicos yoruba
+# Mitología yoruba
 
 ## Eleggua
 
@@ -749,7 +1453,31 @@ Manos enormes, voz profunda.
 
 > “Yo ya he pasado por todas. ¿Y tú?”
 
-# Mitología Japonesa (Kami, yokai reinterpretados)
+# Mitología Japonesa
+
+*Kami, yokai reinterpretados.*
+
+## Tengu
+
+**El monje que se cayó.**
+
+**Tradición** japonesa.
+
+**Rol:** orgullo, humildad, disciplina espiritual.
+
+**Apariencia:** hombre delgado con expresión ascética. Lleva ropa de monje, con modales bruscos.
+
+**Esencia:** la lección tras el error.
+
+**Interacción:**
+
+* Desafía físicamente o mentalmente al PJ.
+* Pone trampas simbólicas para enseñar algo.
+* Se burla con cariño.
+
+**Escena sugerida: ** un PJ intenta cruzar un puente y Tengu bloquea el paso:
+
+> “Sólo puede cruzar quien sabe por qué camina.”
 
 ## Amaterasu
 
@@ -797,7 +1525,7 @@ Manos enormes, voz profunda.
 * Ayuda a personajes que sufren ansiedad o pánico.
 * Puede provocar distanciamiento emocional temporal.
 
-# Mitología Griega
+# Mitología griega
 
 ## Hermes
 
