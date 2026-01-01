@@ -6,7 +6,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Sanadora Quebrada.*
 
-![](/home/nestor/Documents/nexum/img/pj/nayra_velasco.jpg)
+![](img/pj/nayra_velasco.jpg)
 
 * **Profesión:** Enfermera de cuidados paliativos, formada en terapias holísticas.
 * **Relación con lo espiritual:** Estudió medicina tradicional china y reiki. Sentía que podía “acompañar almas” al final del camino.
@@ -18,7 +18,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Luchador Inmóvil.*
 
-![](/home/nestor/Documents/nexum/img/pj/julen_tanaka.jpg)
+![](img/pj/julen_tanaka.jpg)
 
 * **Profesión:** Maestro de Aikido, hijo de inmigrantes japoneses, trabajaba como vigilante nocturno.
 * **Relación con lo espiritual:** Cree en el *ki* como energía del movimiento puro.
@@ -30,7 +30,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Escéptica del Alma.*
 
-![](/home/nestor/Documents/nexum/img/pj/mireya_sanjuan.jpg)
+![](img/pj/mireya_sanjuan.jpg)
 
 * **Profesión:** Ingeniera cuántica. No creía en el alma ni en Dios, pero sí en la belleza del caos.
 * **Relación con lo espiritual:** Tras su encierro en Nexum, empezó a experimentar “presencias” inexplicables.
@@ -42,7 +42,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Exiliado Silencioso.*
 
-![](/home/nestor/Documents/nexum/img/pj/ilyas_rafiq.jpg)
+![](img/pj/ilyas_rafiq.jpg)
 
 * **Profesión:** Refugiado político y poeta sufí. Huyó de una guerra que nadie recuerda.
 * **Relación con lo espiritual:** Practicaba la danza giratoria (*sema*) como forma de meditación y recuerdo.
@@ -54,7 +54,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Cazadora de Ecos.*
 
-![](/home/nestor/Documents/nexum/img/pj/yaiza_galvez.jpg)
+![](img/pj/yaiza_galvez.jpg)
 
 * **Profesión:** Exmilitar y rastreadora, devota del monte y del silencio.
 * **Relación con lo espiritual:** No reza, no medita, pero “escucha” cosas. Siempre las ha escuchado.
@@ -66,7 +66,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Impostor Compasivo.*
 
-![](/home/nestor/Documents/nexum/img/pj/omar_ziani.jpg)
+![](img/pj/omar_ziani.jpg)
 
 * **Profesión:** Estafador profesional. Se hacía pasar por sanador espiritual, hasta que lo creyó de verdad.
 * **Relación con lo espiritual:** Aprendió mantras, posturas, terminología… para engañar. Pero algo despertó.
@@ -78,7 +78,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Niña Lúcida.*
 
-![](/home/nestor/Documents/nexum/img/pj/luna.jpg)
+![](img/pj/luna.jpg)
 
 * **Edad:** 11 años
 * **Origen:** Nacida dentro de Nexum. Su madre fue absorbida estando embarazada.
@@ -90,7 +90,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Hereje del Sistema.*
 
-![](/home/nestor/Documents/nexum/img/pj/rodrigo_navarro.jpg)
+![](img/pj/rodrigo_navarro.jpg)
 
 * **Profesión:** Programador de videojuegos indie. Conocedor del ocultismo y la cábala por afición.
 * **Relación con lo espiritual:** Cree que todo es simbología, código y narración. Considera que la consciencia es una interfaz.
@@ -102,7 +102,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Ingeniero del Error.*
 
-![](/home/nestor/Documents/nexum/img/pj/aitor_larrinaga.jpg)
+![](img/pj/aitor_larrinaga.jpg)
 
 **Profesión:** técnico de mantenimiento en Nexum
 **Motivación:** demostrar que el sistema falla porque *debe* fallar
@@ -113,7 +113,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Madre que No Reza.*
 
-![](/home/nestor/Documents/nexum/img/pj/salma_haddad.jpg)
+![](img/pj/salma_haddad.jpg)
 
 **Profesión:** enfermera de urgencias
 **Motivación:** proteger a su hijo, vaciado parcialmente
@@ -124,7 +124,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Profesor Cansado.*
 
-![](/home/nestor/Documents/nexum/img/pj/tomas_royo.jpg)
+![](img/pj/tomas_royo.jpg)
 
 **Profesión:** docente de filosofía en instituto público
 **Motivación:** que alguien todavía se haga preguntas
@@ -135,7 +135,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Rastreadora.*
 
-![](/home/nestor/Documents/nexum/img/pj/irati_goikoetxea.jpg)
+![](img/pj/irati_goikoetxea.jpg)
 
 **Profesión:** inspectora de personas desaparecidas
 **Motivación:** encontrar patrones donde nadie quiere verlos
@@ -146,7 +146,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Constructor.*
 
-![](/home/nestor/Documents/nexum/img/pj/maxim_volkov.jpg)
+![](img/pj/maxim_volkov.jpg)
 
 **Profesión:** obrero, reformista urbano
 **Motivación:** dejar algo sólido antes de morir
@@ -157,7 +157,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Restauradora.*
 
-![](/home/nestor/Documents/nexum/img/pj/clara_mendizabal.jpg)
+![](img/pj/clara_mendizabal.jpg)
 
 **Profesión:** restauradora de arte sacro
 **Motivación:** conservar la huella humana en lo religioso
@@ -168,7 +168,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Repartidor.*
 
-![](/home/nestor/Documents/nexum/img/pj/youssef_benali.jpg)
+![](img/pj/youssef_benali.jpg)
 
 **Profesión:** mensajero urbano
 **Motivación:** llegar siempre a destino
@@ -179,7 +179,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Cantante del Silencio.*
 
-![](/home/nestor/Documents/nexum/img/pj/leire_ugarte.jpg)
+![](img/pj/leire_ugarte.jpg)
 
 **Profesión:** vocalista de coro
 **Motivación:** encontrar una nota que devuelva sentido
@@ -190,7 +190,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *El Abogado del Vacío.*
 
-![](/home/nestor/Documents/nexum/img/pj/hector_salinas.jpg)
+![](img/pj/hector_salinas.jpg)
 
 **Profesión:** abogado de derechos humanos
 **Motivación:** que los Vacíos sigan siendo personas legales
@@ -201,7 +201,7 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 *La Chica que No Sueña.*
 
-![](/home/nestor/Documents/nexum/img/pj/naia_uribe.jpg)
+![](img/pj/naia_uribe.jpg)
 
 **Profesión:** estudiante, indefinida
 **Motivación:** entender por qué no sueña
