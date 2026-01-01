@@ -23,9 +23,11 @@ Cada ficha incluye:
 * **Qué conflictos genera**
 * **Misiones y escenas sugeridas**
 
-# Ángeles y arcángeles (tradición cristiana)
+# Tradición Cristiana
 
-### Listado exahustivo de arcángeles
+## Arcángeles
+
+**Listado exhaustivo**
 
 Miguel, el jefe del ejército celestial,
 Gabriel, el mensajero celestial,
@@ -54,7 +56,7 @@ Zerachiel.
 Cassiel, el ángel de las lágrimas.
 Chamuel o Camael, Arcángel del Amor, conocido por su conexión con el amor divino y la compasión. Paz interior, Estado de tranquilidad y armonía emocional.
 
-## Arcángel Uriel
+### Arcángel Uriel
 
 *El arcángel del sol.*
 
@@ -90,7 +92,7 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 
 **Escena sugerida:** un PJ encuentra un cuaderno vacío donde, al escribir, aparecen frases que no recuerda haber pensado.
 
-## Arcángel Miguel
+### Arcángel Miguel
 
 *Jefe de los ejércitos celestiales.*
 
@@ -125,7 +127,7 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 
 **Escena sugerida:** el PJ protegido por Miguel experimenta un “silencio férreo” en mitad del caos, una calma absoluta.
 
-## Arcángel Rafael
+### Arcángel Rafael
 
 *El que sana las heridas.*
 
@@ -152,7 +154,7 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 
 **Escena sugerida:** un PJ sueña con alguien muerto que aún necesitaba perdonar… o ser perdonado.
 
-## Sariel
+### Sariel
 
 *El Mensajero del Dolor Evitado.*
 
@@ -176,7 +178,7 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 
 > “Casi.”
 
-## Cassiel
+### Cassiel
 
 *El Ángel del Tiempo Silencioso.*
 
@@ -197,7 +199,7 @@ No tiene prisa nunca.
 
 **Desea** que cada alma llegue a su momento justo.
 
-## Lilith
+### Lilith
 
 *La Primera Rebelde.*
 
@@ -216,6 +218,427 @@ No tiene prisa nunca.
 **Teme** la sumisión ciega.
 
 **Desea** que cada humano recupere su voz propia.
+
+## Ángeles
+
+Entendido. A continuación tienes **diez ángeles (no arcángeles)**, **inventados**, con **nombre propio** y **función clara**, escritos **exactamente en el formato del ejemplo** y pensados para tradición cristiana amplia, con un enfoque **humano, moral y narrativo**. No repito el ejemplo ni hago comentarios adicionales.
+
+### Ángel Arel
+
+*El que permanece.*
+
+**Tradición** judeocristiana.
+**Rol:** custodiar a quienes no huyen cuando todo invita a hacerlo.
+
+**Apariencia:** persona corriente, sentada o de pie, siempre inmóvil. Su ropa parece ligeramente gastada, como si llevara tiempo esperando.
+
+**Esencia:** constancia. Resistencia. Lealtad silenciosa.
+Arel no salva: **acompaña cuando nadie más lo hace**.
+
+**Cómo interactúa:**
+
+* Se sienta junto a un PJ en momentos de duda.
+* No da consejos, pero no se va.
+* Hace que el tiempo parezca detenerse en instantes clave.
+
+**Teme** la huida disfrazada de prudencia.
+
+**Desea** que alguien aguante un poco más.
+
+**Conflictos:**
+
+* Permanece junto a un PJ que está tomando una mala decisión.
+* Refuerza vínculos que otros consideran tóxicos.
+* Obliga a enfrentarse al cansancio moral.
+
+**Poderes:**
+
+* Presencia ancla: mientras Arel esté cerca, el PJ no puede abandonar una escena sin afrontarla.
+* Peso del momento: una decisión tomada aquí no podrá deshacerse fácilmente.
+
+**Escena sugerida:** un personaje se queda solo en una sala vacía, pero siente que alguien sigue allí con él.
+
+### Ángel Nahel
+
+*El que escucha.*
+
+**Tradición** judeocristiana.
+**Rol:** recoger palabras no dichas y pensamientos reprimidos.
+
+**Apariencia:** figura humana con expresión neutra. Sus oídos nunca se ven del todo.
+
+**Esencia:** escucha. Intimidad. Confesión.
+Nahel no responde: **recuerda lo que nadie se atrevió a decir**.
+
+**Cómo interactúa:**
+
+* Aparece tras una discusión inconclusa.
+* Repite frases que el PJ pensó pero no pronunció.
+* Hace evidente el silencio incómodo.
+
+**Teme** el ruido constante que evita pensar.
+
+**Desea** que alguien se atreva a hablar.
+
+**Conflictos:**
+
+* Revela una verdad íntima en el peor momento.
+* Enfrenta a dos PJs con lo que callaron.
+* Obliga a escuchar algo que duele.
+
+**Poderes:**
+
+* Eco interno: el PJ oye sus propios pensamientos con claridad brutal.
+* Confesión involuntaria: bajo presión, un secreto sale a la luz.
+
+**Escena sugerida:** una habitación parece absorber cada palabra pronunciada… y devolverlas después.
+
+### Ángel Sirel
+
+*El que mide el daño.*
+
+**Tradición** judeocristiana.
+**Rol:** observar las consecuencias reales de los actos humanos.
+
+**Apariencia:** persona con una libreta invisible que parece consultar constantemente.
+
+**Esencia:** consecuencia. Responsabilidad. Realidad.
+Sirel no castiga: **muestra el coste exacto de cada decisión**.
+
+**Cómo interactúa:**
+
+* Enumera daños colaterales olvidados.
+* Aparece tras “victorias”.
+* No distingue entre buenas intenciones y malos resultados.
+
+**Teme** la excusa moral.
+
+**Desea** que el daño sea reconocido.
+
+**Conflictos:**
+
+* Demuestra que una buena acción causó sufrimiento.
+* Enfrenta a un héroe con sus errores.
+* Pone en duda el concepto de sacrificio necesario.
+
+**Poderes:**
+
+* Balance invisible: revela quién ha salido perjudicado realmente.
+* Huella persistente: una acción deja marca duradera.
+
+**Escena sugerida:** tras una misión exitosa, alguien enumera lo que se perdió para lograrla.
+
+### Ángel Iram
+
+*El que espera respuesta.*
+
+**Tradición** judeocristiana.
+**Rol:** provocar elecciones conscientes.
+
+**Apariencia:** figura expectante, siempre a medio gesto, como si aguardara una respuesta.
+
+**Esencia:** elección. Libre albedrío. Tensión.
+Iram no decide: **espera que decidas tú**.
+
+**Cómo interactúa:**
+
+* Plantea preguntas incómodas.
+* No acepta evasivas.
+* Reaparece hasta obtener respuesta.
+
+**Teme** la indecisión eterna.
+
+**Desea** una elección clara, incluso equivocada.
+
+**Conflictos:**
+
+* Obliga a elegir entre dos males.
+* No permite posponer una decisión.
+* Castiga la ambigüedad.
+
+**Poderes:**
+
+* Pregunta sellada: hasta responder, nada avanza.
+* Camino cerrado: elegir una opción bloquea definitivamente otra.
+
+**Escena sugerida:** una puerta no se abre hasta que el PJ responde en voz alta.
+
+### Ángel Tharel
+
+*El que recuerda el origen.*
+
+**Tradición** judeocristiana.
+**Rol:** custodiar la memoria de quién fue uno antes de cambiar.
+
+**Apariencia:** rostro familiar, pero de otra época.
+
+**Esencia:** identidad. Pasado. Coherencia.
+Tharel no idealiza: **recuerda sin suavizar**.
+
+**Cómo interactúa:**
+
+* Muestra recuerdos precisos.
+* Contrasta pasado y presente.
+* Hace notar incoherencias personales.
+
+**Teme** la autojustificación.
+
+**Desea** coherencia interior.
+
+**Conflictos:**
+
+* Un PJ rechaza quién fue.
+* El pasado contradice el presente.
+* La nostalgia paraliza.
+
+**Poderes:**
+
+* Recuerdo intacto: revive un momento clave sin reinterpretación.
+* Espejo temporal: compara dos versiones del mismo personaje.
+
+**Escena sugerida:** un reflejo devuelve una imagen antigua que habla.
+
+### Ángel Mahel
+
+*El que cuida lo frágil.*
+
+**Tradición** judeocristiana.
+**Rol:** proteger aquello que aún no es fuerte.
+
+**Apariencia:** persona discreta, siempre cerca de algo pequeño o vulnerable.
+
+**Esencia:** cuidado. Potencial. Fragilidad.
+Mahel no acelera: **protege mientras crece**.
+
+**Cómo interactúa:**
+
+* Interviene ante abusos sutiles.
+* Refuerza a personajes débiles.
+* No protege indefinidamente.
+
+**Teme** la sobreprotección.
+
+**Desea** que lo frágil llegue a sostenerse solo.
+
+**Conflictos:**
+
+* Protege a alguien que no quiere cambiar.
+* Retira su ayuda demasiado pronto.
+* Genera dependencia involuntaria.
+
+**Poderes:**
+
+* Refugio breve: inmunidad temporal ante daño grave.
+* Crecimiento lento: el progreso es real, pero gradual.
+
+**Escena sugerida:** algo pequeño sobrevive contra todo pronóstico.
+
+### Ángel Elion
+
+*El que separa.*
+
+**Tradición** judeocristiana.
+**Rol:** romper vínculos que ya no son sanos.
+
+**Apariencia:** figura serena, siempre entre dos personas.
+
+**Esencia:** límite. Separación. Claridad.
+Elion no destruye: **pone distancia cuando es necesaria**.
+
+**Cómo interactúa:**
+
+* Introduce silencios.
+* Enfría relaciones.
+* Evita fusiones dañinas.
+
+**Teme** la confusión emocional.
+
+**Desea** límites claros.
+
+**Conflictos:**
+
+* Rompe alianzas útiles.
+* Separa a personajes que se necesitan.
+* Provoca soledad.
+
+**Poderes:**
+
+* Distancia forzada: dos personajes no pueden actuar juntos.
+* Corte limpio: final sin dramatismo… pero definitivo.
+
+**Escena sugerida:** dos personajes ya no logran mirarse igual.
+
+### Ángel Oriel
+
+*El que observa sin intervenir.*
+
+**Tradición** judeocristiana.
+**Rol:** testigo absoluto.
+
+**Apariencia:** siempre en segundo plano, nunca enfocado del todo.
+
+**Esencia:** testimonio. Verdad. Registro.
+Oriel no actúa: **ver es su función**.
+
+**Cómo interactúa:**
+
+* Está presente en momentos clave.
+* No ayuda ni estorba.
+* Hace sentir observado.
+
+**Teme** que nadie recuerde.
+
+**Desea** que lo ocurrido quede registrado.
+
+**Conflictos:**
+
+* Saber que alguien lo vio todo.
+* La vergüenza del testigo.
+* El peso de la memoria.
+
+**Poderes:**
+
+* Testimonio eterno: lo ocurrido no puede negarse.
+* Mirada persistente: sensación constante de ser observado.
+
+**Escena sugerida:** alguien se da cuenta de que nunca estuvo realmente solo.
+
+### Ángel Rehel
+
+*El que recoge restos.*
+
+**Tradición** judeocristiana.
+**Rol:** cuidar lo que queda tras el desastre.
+
+**Apariencia:** persona que limpia, recoge, ordena en silencio.
+
+**Esencia:** reconstrucción. Duelo. Continuidad.
+Rehel no repara todo: **empieza con lo que queda**.
+
+**Cómo interactúa:**
+
+* Aparece después del conflicto.
+* Da valor a lo pequeño.
+* No promete restitución completa.
+
+**Teme** el olvido.
+
+**Desea** que algo sobreviva.
+
+**Conflictos:**
+
+* Obliga a aceptar pérdidas definitivas.
+* Rechaza reconstrucciones falsas.
+* Enfrenta al duelo.
+
+**Poderes:**
+
+* Resto significativo: algo aparentemente inútil resulta clave.
+* Continuidad mínima: la historia no termina aquí.
+
+**Escena sugerida:** entre ruinas, algo pequeño sigue en pie.
+
+### Ángel Lumeh
+
+*El que apaga.*
+
+**Tradición** judeocristiana.
+**Rol:** cerrar ciclos que ya han cumplido su función.
+
+**Apariencia:** figura tranquila, asociada a luces que se apagan sin brusquedad.
+
+**Esencia:** final. Descanso. Cierre.
+Lumeh no destruye: **termina lo que ya dio todo**.
+
+**Cómo interactúa:**
+
+* Marca finales inevitables.
+* Reduce intensidad emocional.
+* Facilita despedidas.
+
+**Teme** la prolongación artificial.
+
+**Desea** un final digno.
+
+**Conflictos:**
+
+* Apaga algo que otros quieren mantener.
+* Fuerza despedidas no deseadas.
+* Confronta el miedo al vacío.
+
+**Poderes:**
+
+* Apagado suave: una situación se cierra sin violencia.
+* Silencio final: nada más puede hacerse aquí.
+
+**Escena sugerida:** una luz se apaga… y nadie siente que sea un error.
+
+## Personajes bíblicos
+
+## Antiguo Testamento
+
+### Patriarcas
+
+* **Adán** – Primer ser humano; origen del pecado según la tradición judeocristiana.
+* **Eva** – Primera mujer; símbolo del origen de la humanidad.
+* **Noé** – Salvado del Diluvio; restauración de la humanidad.
+* **Abraham** – Padre del pueblo de Israel; figura clave de la alianza.
+* **Isaac** – Hijo de la promesa.
+* **Jacob** – Renombrado Israel; padre de las doce tribus.
+* **José** – Vendeado por sus hermanos; salvador de su familia en Egipto.
+
+### Moisés y el Éxodo
+
+* **Moisés** – Libertador de Israel; receptor de la Ley.
+* **Aarón** – Primer sumo sacerdote.
+* **Josué** – Conquista de Canaán.
+
+### Jueces y Reyes
+
+* **Débora** – Jueza y profetisa.
+* **Sansón** – Fuerza sobrenatural; tragedia personal.
+* **Samuel** – Último juez; profeta.
+* **Saúl** – Primer rey de Israel.
+* **David** – Rey ideal; figura mesiánica.
+* **Salomón** – Sabiduría; constructor del Templo.
+
+### Profetas Mayores
+
+* **Isaías** – Anuncia al Mesías; justicia y esperanza.
+* **Jeremías** – Profeta del exilio y el sufrimiento.
+* **Ezequiel** – Visiones simbólicas; restauración.
+* **Daniel** – Fe bajo persecución; visiones apocalípticas.
+
+### Otros Personajes Clave
+
+* **Job** – El problema del sufrimiento justo.
+* **Rut** – Lealtad; antepasada de David.
+* **Ester** – Salvadora de su pueblo.
+
+## Nuevo Testamento
+
+### Figura Central
+
+* **Jesucristo** – Hijo de Dios; redentor; eje de la fe cristiana.
+
+### Familia y Precursores
+
+* **María** – Madre de Jesús; obediencia y fe.
+* **José** – Padre adoptivo de Jesús.
+* **Juan el Bautista** – Precursor del Mesías.
+
+### Apóstoles (selección)
+
+* **Pedro** – Líder del grupo; fundamento de la Iglesia.
+* **Juan** – Amor y mística; autor del Evangelio.
+* **Santiago el Mayor** – Primer apóstol mártir.
+* **Judas Iscariote** – Traidor; figura trágica.
+
+### Primeros Cristianos
+
+* **Pablo de Tarso** – Teólogo clave; expansión del cristianismo.
+* **Esteban** – Primer mártir cristiano.
+* **María Magdalena** – Testigo de la resurrección.
 
 # Seres mitológicos vascos
 
