@@ -1,104 +1,116 @@
 # Profesiones
 
-### Profesiones tecnológicas y del mundo decadente
+Se indica en cada profesión los alineamientos que son compatibles.
 
-#### Ingeniero de Ruinas
+### Profesiones tecnológicas decadentes
 
-- **Descripción:** Heredero de un conocimiento a medias. No entiende toda la ciencia antigua, pero sabe reparar lo que otros han abandonado, improvisando con piezas que ya no existen.
+#### Ingeniero de ruinas
 
-- **Rasgos:** práctico, obstinado, con dedos siempre manchados de grasa.
+Cualquier alineamiento es compatible.
 
-- **Habilidades:**
-  
-  - **Reparar chatarra:** consigue que máquinas casi muertas funcionen un poco más.
-  
-  - **Improvisación:** puede sustituir piezas con materiales insólitos.
-  
-  - **Ojo clínico:** distingue enseguida lo útil de lo inútil en un montón de desechos.
+**Descripción:** heredero de un conocimiento a medias. No entiende toda la ciencia antigua, pero sabe reparar lo que otros han abandonado, improvisando con piezas que ya no existen.
 
-- **Debilidad:** nunca arregla nada del todo; lo que funciona hoy puede fallar mañana.
+**Rasgos:** práctico, obstinado, con dedos siempre manchados de grasa.
 
-#### Cartógrafo de Redes Muertas
+**Habilidades:**
 
-- **Descripción:** Explora nodos, terminales y túneles donde aún laten fragmentos de datos antiguos. Sus mapas son mitad técnicos, mitad místicos.
+- **Reparar chatarra:** consigue que máquinas casi muertas funcionen un poco más.
 
-- **Rasgos:** solitario, curioso, obsesionado con símbolos y líneas.
+- **Improvisación:** puede sustituir piezas con materiales insólitos.
 
-- **Habilidades:**
-  
-  - **Mapeo residual:** reconoce patrones de energía en cables, pantallas o ruinas.
-  
-  - **Lectura de datos corruptos:** descifra mensajes incompletos o dañados.
-  
-  - **Orientación digital:** nunca se pierde en estructuras tecnológicas.
+- **Ojo clínico:** distingue enseguida lo útil de lo inútil en un montón de desechos.
 
-- **Debilidad:** su obsesión por los mapas lo hace perder de vista lo inmediato.
+**Debilidad:** nunca arregla nada del todo; lo que funciona hoy puede fallar mañana.
 
-#### Restaurador de Autómatas
+#### Cartógrafo de redes muertas
 
-- **Descripción:** Intenta devolver a la vida máquinas, drones y robots olvidados. Sus creaciones funcionan, pero siempre con un toque extraño, como si estuvieran “poseídas”.
+Cualquier alineamiento es compatible.
 
-- **Rasgos:** excéntrico, coleccionista, con cicatrices de accidentes pasados.
+**Descripción:** Explora nodos, terminales y túneles donde aún laten fragmentos de datos antiguos. Sus mapas son mitad técnicos, mitad místicos.
 
-- **Habilidades:**
-  
-  - **Reparación avanzada:** puede devolver movimiento a máquinas inertes.
-  
-  - **Reprogramación rudimentaria:** da nuevas órdenes a viejos sistemas.
-  
-  - **Acompañante autómata:** suele llevar un robot defectuoso con funciones limitadas.
+**Rasgos:** solitario, curioso, obsesionado con símbolos y líneas.
 
-- **Debilidad:** los autómatas nunca son fiables; a menudo generan problemas inesperados.
+**Habilidades:**
 
-#### Recolector de Chatarra Viva
+- **Mapeo residual:** reconoce patrones de energía en cables, pantallas o ruinas.
 
-- **Descripción:** Busca y comercia con restos de máquinas que parecen conservar un pulso extraño, como si tuvieran consciencia residual.
+- **Lectura de datos corruptos:** descifra mensajes incompletos o dañados.
 
-- **Rasgos:** codicioso, supersticioso, con buen olfato para lo raro.
+- **Orientación digital:** nunca se pierde en estructuras tecnológicas.
 
-- **Habilidades:**
-  
-  - **Instinto de hallazgo:** sabe dónde encontrar piezas valiosas.
-  
-  - **Extracción rápida:** desmonta estructuras sin destruir lo esencial.
-  
-  - **Detección de “vida”:** reconoce objetos que vibran con energía extraña.
+**Debilidad:** su obsesión por los mapas lo hace perder de vista lo inmediato.
 
-- **Debilidad:** se arriesga demasiado por tesoros tecnológicos, aunque sean peligrosos.
+#### Restaurador de autómatas
 
-#### Archivista Errante
+Cualquier alineamiento es compatible.
 
-- **Descripción:** Vaga por comunidades recopilando fragmentos de saber: discos, códices, documentos incompletos. Su mochila es un archivo vivo.
+**Descripción:** Intenta devolver a la vida máquinas, drones y robots olvidados. Sus creaciones funcionan, pero siempre con un toque extraño, como si estuvieran “poseídas”.
 
-- **Rasgos:** culto, misterioso, con un aire de maestro o profeta.
+**Rasgos:** excéntrico, coleccionista, con cicatrices de accidentes pasados.
 
-- **Habilidades:**
-  
-  - **Memoria férrea:** recuerda textos enteros tras leerlos una vez.
-  
-  - **Comparación de fuentes:** encuentra patrones y contradicciones en documentos.
-  
-  - **Acceso social:** muchos lo respetan por su conocimiento.
+**Habilidades:**
 
-- **Debilidad:** guarda demasiados secretos; no siempre distingue la verdad de la superstición.
+- **Reparación avanzada:** puede devolver movimiento a máquinas inertes.
 
-#### Falsificador de Identidades
+- **Reprogramación rudimentaria:** da nuevas órdenes a viejos sistemas.
 
-- **Descripción:** Manipula registros, credenciales y recuerdos para dar nuevas vidas a los demás… o a sí mismo.
+- **Acompañante autómata:** suele llevar un robot defectuoso con funciones limitadas.
 
-- **Rasgos:** persuasivo, cínico, siempre con una sonrisa.
+**Debilidad:** los autómatas nunca son fiables; a menudo generan problemas inesperados.
 
-- **Habilidades:**
-  
-  - **Documentos creíbles:** crea papeles, carnés o marcas que engañan a la mayoría.
-  
-  - **Actuación convincente:** interpreta el rol de otra persona sin dudar.
-  
-  - **Hackeo menor:** altera registros básicos en terminales aún activos.
+#### Recolector de chatarra viva
 
-- **Debilidad:** si alguien investiga a fondo, la mentira se derrumba.
+**Descripción:** Busca y comercia con restos de máquinas que parecen conservar un pulso extraño, como si tuvieran consciencia residual.
 
-#### Vigilante de Generadores
+**Rasgos:** codicioso, supersticioso, con buen olfato para lo raro.
+
+**Habilidades:**
+
+- **Instinto de hallazgo:** sabe dónde encontrar piezas valiosas.
+
+- **Extracción rápida:** desmonta estructuras sin destruir lo esencial.
+
+- **Detección de “vida”:** reconoce objetos que vibran con energía extraña.
+
+**Debilidad:** se arriesga demasiado por tesoros tecnológicos, aunque sean peligrosos.
+
+#### Archivista errante
+
+Cualquier alineamiento es compatible.
+
+**Descripción:** vaga por comunidades recopilando fragmentos de saber: discos, códices, documentos incompletos. Su mochila es un archivo vivo.
+
+**Rasgos:** culto, misterioso, con un aire de maestro o profeta.
+
+**Habilidades:**
+
+- **Memoria férrea:** recuerda textos enteros tras leerlos una vez.
+
+- **Comparación de fuentes:** encuentra patrones y contradicciones en documentos.
+
+- **Acceso social:** muchos lo respetan por su conocimiento.
+
+**Debilidad:** guarda demasiados secretos; no siempre distingue la verdad de la superstición.
+
+#### Falsificador de identidades
+
+Generalmente, es compatible con un alineamiento Malvado, ya que es una actividad criminal, aunque no necesariamente.
+
+**Descripción:** Manipula registros, credenciales y recuerdos para dar nuevas vidas a los demás… o a sí mismo.
+
+**Rasgos:** persuasivo, cínico, siempre con una sonrisa.
+
+**Habilidades:**
+
+- **Documentos creíbles:** crea papeles, carnés o marcas que engañan a la mayoría.
+
+- **Actuación convincente:** interpreta el rol de otra persona sin dudar.
+
+- **Hackeo menor:** altera registros básicos en terminales aún activos.
+
+**Debilidad:** si alguien investiga a fondo, la mentira se derrumba.
+
+#### Vigilante de generadores
 
 - **Descripción:** Controla uno de los pocos puntos de energía que siguen activos. La comunidad depende de él para tener luz, calor o agua.
 

@@ -10,7 +10,7 @@ Enfermera. *La sanadora quemada.*
 
 **Estadísticas:** este personaje es muy sabio, debido a su gran empatía y a su experiencia con el sufrimiento, pero también es inteligente y posee un gran carisma.
 
-![](img/pj/nayra_velasco.jpg)
+![](img/pj/nayra_velasco.jpg){ width=8cm }
 
 * **Profesión:** Enfermera de cuidados paliativos.
 * **Relación con lo espiritual:** Estudió medicina tradicional china y reiki. Los tejemanejes de las farmacéuticas no le gustan en absoluto, y quería explorar una forma más humana de abordar las enfermedades, especialmente, desde la prevención.
@@ -26,7 +26,7 @@ Seguridad privada. *El luchador del ki.*
 
 **Estadísticas:** Tiene una Destreza tremenda con armas de fuego, y con katanas, aunque maneja casi cualquier arma. Es bastante Fuerte, lo que significa que posee una gran Agilidad.
 
-![](img/pj/julen_tanaka.jpg)
+![](img/pj/julen_tanaka.jpg){ width=8cm }
 
 * **Profesión:** Maestro de Aikido, hijo de inmigrantes japoneses, trabajaba como vigilante nocturno.
 * **Relación con lo espiritual:** Cree en el *ki* como energía del movimiento puro.

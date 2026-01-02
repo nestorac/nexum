@@ -1,3 +1,12 @@
 Azgaar's Fantasy Map Generator (para crear mapas de ciudades).
 Tiled (para crear todo tipo de mapas).
 Inkscape (para modificar mapas reales en formato SVG).
+
+Pandoc para generar PDF de la mejor manera posible:
+
+pandoc personajes_jugadores.md \
+  -o aux/personajes_jugadores.pdf \
+  --pdf-engine=pdflatex \
+  --metadata-file=aux/metadata.yaml
+
+Falta colocar las imágenes a la derecha con texto fluyendo por la izquierda. Y, al hacer la edición del fichero MD a mano, se rompen las imágenes al abrirlo con MarkText.

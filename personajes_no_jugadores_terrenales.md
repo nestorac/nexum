@@ -6,8 +6,6 @@ El nivel de los pj/pnj se mide por el poder, que es crear y amar para legales bu
 
 ## Protagonistas
 
-
-
 ### Lucifer
 
 *El que cree en nosotros.*
