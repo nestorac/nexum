@@ -9,6 +9,7 @@
 7. Narrar a través de la acción.
 8. Definir bien el guión, que no sea surrealista.
 9. Todos los seres tienen un único alineamiento (Legal-Neutro-Caótico, Bueno-Neutral-Malvado).
+10. El rol dentro del rol sirve para acceder al plano celestial y demoníaco.
 
 ## Espiritualidad
 
