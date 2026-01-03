@@ -10,7 +10,12 @@ Enfermera. *La sanadora quemada.*
 
 **Estadísticas:** este personaje es muy sabio, debido a su gran empatía y a su experiencia con el sufrimiento, pero también es inteligente y posee un gran carisma.
 
-![](img/pj/nayra_velasco.jpg){ width=8cm }
+\begin{wrapfigure}{r}{0.42\textwidth}
+  \centering
+  \vspace{-6pt}
+  \includegraphics[width=0.40\textwidth]{img/pj/nayra_velasco.jpg}
+  \vspace{-6pt}
+\end{wrapfigure}
 
 * **Profesión:** Enfermera de cuidados paliativos.
 * **Relación con lo espiritual:** Estudió medicina tradicional china y reiki. Los tejemanejes de las farmacéuticas no le gustan en absoluto, y quería explorar una forma más humana de abordar las enfermedades, especialmente, desde la prevención.
