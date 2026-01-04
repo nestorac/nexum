@@ -1,10 +1,13 @@
-papersize: A4
+papersize: A5
 fontsize: 11pt
 geometry:
+  - landscape
   - margin=1cm
 lang: es-ES
 header-includes:
   - |
     \usepackage{wrapfig}
     \usepackage{graphicx}
+    \usepackage{needspace}
     \newcommand{\pjfield}[2]{\textbf{#1:} #2\\}
+    \pagenumbering{gobble}

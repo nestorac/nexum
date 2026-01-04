@@ -6,30 +6,21 @@ Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello,
 
 Enfermera. *La sanadora quemada.*
 
-\noindent
-\begin{minipage}[t]{0.34\textwidth}
-\vspace{0pt}
-\centering
-\includegraphics[width=\linewidth]{img/pj/nayra_velasco.jpg}
-\end{minipage}\hfill
-\begin{minipage}[t]{0.62\textwidth}
-\vspace{0pt}
+![](img/pj/nayra_velasco.jpg)
 
-\pjfield{Alineamiento}{Neutral Bueno.}
+**Alineamiento:** Neutral Bueno.
 
-\pjfield{Estadísticas}{este personaje es muy sabio, debido a su gran empatía y a su experiencia con el sufrimiento, pero también es inteligente y posee un gran carisma.}
+**Estadísticas:** este personaje es muy sabio, debido a su gran empatía y a su experiencia con el sufrimiento, pero también es inteligente y posee un gran carisma.
 
-\pjfield{Profesión}{Enfermera de cuidados paliativos.}
+**Profesión:** Enfermera de cuidados paliativos.
 
-\pjfield{Relación con lo espiritual}{Estudió medicina tradicional china y reiki. Los tejemanejes de las farmacéuticas no le gustan en absoluto, y quería explorar una forma más humana de abordar las enfermedades, especialmente, desde la prevención.}
+**Relación con lo espiritual:** Estudió medicina tradicional china y reiki. Los tejemanejes de las farmacéuticas no le gustan en absoluto, y quería explorar una forma más humana de abordar las enfermedades, especialmente, desde la prevención.
 
-\pjfield{Trauma}{Vio cómo sus pacientes eran vaciados por Nexum, aunque en aquel momento no comprendía bien lo que estaba pasando. Ella misma se resistió como pudo y logró escapar.}
+**Trauma:** Vio cómo sus pacientes eran vaciados por Nexum, aunque en aquel momento no comprendía bien lo que estaba pasando. Ella misma se resistió como pudo y logró escapar.
 
-\pjfield{Habilidad}{Puede sentir desequilibrios energéticos en otros. A veces, al tocar a alguien, ve fragmentos de su dolor.}
+**Habilidad:** Puede sentir desequilibrios energéticos en otros. A veces, al tocar a alguien, ve fragmentos de su dolor.
 
-\pjfield{Dilema}{¿Curar o dejar morir? ¿Y si la única forma de sanar este mundo es destruirlo?}
-
-\end{minipage}
+**Dilema:** ¿Curar o dejar morir? ¿Y si la única forma de sanar este mundo es destruirlo?
 
 ## Jalen Tanaka
 
@@ -39,7 +30,7 @@ Seguridad privada. *El luchador del ki.*
 
 **Estadísticas:** Tiene una Destreza tremenda con armas de fuego, y con katanas, aunque maneja casi cualquier arma. Es bastante Fuerte, lo que significa que posee una gran Agilidad.
 
-![](img/pj/julen_tanaka.jpg){ width=8cm }
+![](img/pj/julen_tanaka.jpg)
 
 **Profesión:** Maestro de Aikido, hijo de inmigrantes japoneses, trabajaba como vigilante nocturno.
 

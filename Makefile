@@ -12,7 +12,8 @@ PANDOC_OPTS := \
   --from=markdown+smart \
   --standalone \
   --pdf-engine=$(PDF_ENGINE) \
-  --metadata-file=$(METADATA)
+  --metadata-file=$(METADATA) \
+  --lua-filter=filtros/pj.lua
 
 .PHONY: all clean
 
