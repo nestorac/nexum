@@ -1,0 +1,23 @@
+[arcangel-gabriel]
+prompt=Retrato en escala de grises de hombre joven, unos 30 años, expresión seria y mirada fija que transmite determinación, con cabello corto y ropa sencilla tipo camisa clara y chaqueta ligera, en un fondo blanco sin detalles.
+negative=alas, cuernos, halo literal, demonio monstruoso, texto, tipografía, watermark, logo, color, gore, terror, hiperrealismo, 3d, render, manos deformes, mala anatomía
+
+[arcangel-raguel]
+prompt=Retrato en escala de grises de hombre adulto joven con expresión serena y mirada neutral, cabello corto y peinado sencillo, viste camisa sobria y sin adornos, composición primer plano con fondo blanco, líneas limpias y sombreado suave en estilo manga elegante.
+negative=alas, cuernos, halo literal, demonio monstruoso, texto, tipografía, watermark, logo, color, gore, terror, hiperrealismo, 3d, render, manos deformes, mala anatomía
+
+[arcangel-remiel]
+prompt=Retrato en escala de grises de un hombre joven-adulto con expresión grave y ojos que reflejan alivio y melancolía, mirada atenta enfocada ligeramente hacia un lado, cabello corto y sencillo, viste ropa casual moderna (camisa de manga larga, sin adornos), fondo blanco liso, línea limpia y sombreado suave, plano medio.
+negative=alas, cuernos, halo literal, demonio monstruoso, texto, tipografía, watermark, logo, color, gore, terror, hiperrealismo, 3d, render, manos deformes, mala anatomía
+
+[arcangel-jofiel]
+prompt=Retrato en escala de grises de un hombre adulto de rostro sereno y expresión amable, mirada calmada y abierta, con cabello corto y despeinado, vestido con ropa sencilla y moderna, con un gesto que transmite tranquilidad y protección, fondo blanco, línea limpia y sombreado suave, estilo manga sencillo y elegante, plano medio.
+negative=alas, cuernos, halo literal, demonio monstruoso, texto, tipografía, watermark, logo, color, gore, terror, hiperrealismo, 3d, render, manos deformes, mala anatomía
+
+[angel-arel]
+prompt=Retrato en escala de grises de hombre adulto joven, expresión tranquila y mirada fija al frente, cabello corto y ropa sencilla y ligeramente gastada, sentado en plano medio sobre fondo blanco, estilo manga sencillo y elegante con línea limpia y sombreado suave.
+negative=alas, cuernos, halo literal, demonio monstruoso, texto, tipografía, watermark, logo, color, gore, terror, hiperrealismo, 3d, render, manos deformes, mala anatomía
+
+[angel-nahel]
+prompt=Retrato en escala de grises de hombre joven, expresión neutra y ojos atentos, cabello corto ligeramente despeinado, orejas semiocultas tras mechones, ropa sencilla y moderna, plano medio sobre fondo blanco, línea limpia y sombreado suave estilo manga sencillo y elegante.
+negative=alas, cuernos, halo literal, demonio monstruoso, texto, tipografía, watermark, logo, color, gore, terror, hiperrealismo, 3d, render, manos deformes, mala anatomía
