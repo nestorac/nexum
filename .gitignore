@@ -1,3 +1,4 @@
 .*.drawio.bkp
 tmp/*
 !tmp/.gitkeep
+.*.swp

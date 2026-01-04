@@ -5,6 +5,11 @@ METADATA    := metadata.yaml
 OUT_DIR     := tmp
 PDF         := $(OUT_DIR)/personajes_jugadores.pdf
 
+CELESTIALES_MD_IN   := test.md
+CELESTIALES_MD_OUT  := test_out.md
+CELESTIALES_IMG_DIR := img/celestiales
+CELESTIALES_SCRIPT  := generar_celestiales.py
+
 PANDOC      := pandoc
 PDF_ENGINE  := xelatex
 
@@ -18,6 +23,15 @@ PANDOC_OPTS := \
 .PHONY: all clean
 
 all: $(PDF)
+
+celestiales_img:
+	@echo ">> Generando ilustraciones de personajes celestiales"
+	mkdir -p $(CELESTIALES_IMG_DIR)
+	./$(CELESTIALES_SCRIPT) \
+		$(CELESTIALES_MD_IN) \
+		$(CELESTIALES_IMG_DIR) \
+		$(CELESTIALES_MD_OUT)
+	@echo ">> OK: $(CELESTIALES_MD_OUT)"
 
 $(OUT_DIR):
 	mkdir -p $(OUT_DIR)

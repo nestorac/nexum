@@ -1301,7 +1301,7 @@ Lumeh no destruye: **termina lo que ya dio todo**.
 
 **Escena sugerida:** una luz se apaga… y nadie siente que sea un error.
 
-## Personajes bíblicos
+# Personajes bíblicos
 
 ## Antiguo Testamento
 
