@@ -1,1 +1,11 @@
-La magia es la influencia de lo celestial en lo terrenal, pero y, ¿al revés? ¿Lo terrenal en lo celestial?
+* La magia es la influencia de lo celestial en lo terrenal, pero y, ¿al revés? ¿Lo terrenal en lo celestial?
+* Generar personajes femeninos a partir de una semilla propia, la variable SEMILLA_MUJERES_NEXUM en .zshrc
+* Generar cómic de forma automatizada.
+* Generar novela de forma automatizada.
+* Generar aventuras de rol de forma automatizada (el reglamento, que es también propio, descriptivo con d6, va aparte).
+* El usuario puede elaborar un fichero personalizacion.md con lo que considere oportuno para personalizar el lore, luego se alimenta a la IA con él.
+* Ofrecer la posibilidad de generar imágenes con calidad baja, normal o alta.
+* Ordenar los scripts y demás para que todo esté más limpio, usar scripts python con parámetros para indicar como mínimo el fichero de entrada y el de salida.
+* Pulir el Makefile.
+* Pulir los prompt generados desde el MD de celestiales a test_prompts.txt para que las ilustraciones generadas sean adecuadas.
+* Ignorar directorio img/ en git.

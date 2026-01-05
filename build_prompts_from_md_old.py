@@ -49,9 +49,6 @@ DEFAULT_NEGATIVE = (
     "manos deformes, mala anatomía"
 )
 
-# Límite duro solicitado: el prompt final debe caber en este número de caracteres.
-DEFAULT_MAX_PROMPT_CHARS = 700
-
 def eprint(msg: str) -> None:
     print(msg, file=sys.stderr, flush=True)
 
@@ -65,31 +62,6 @@ def truncate(s: str, max_chars: int = 4000) -> str:
 
 def pretty_json(obj) -> str:
     return json.dumps(obj, ensure_ascii=False, indent=2)
-
-
-def trim_to_limit(text: str, limit: int) -> str:
-    """Recorta un texto a `limit` caracteres, intentando no cortar a mitad de palabra.
-
-    - Si ya cabe, devuelve tal cual.
-    - Si no cabe, corta en el último separador razonable antes del límite (espacio o puntuación).
-    - Si no hay separador, corta a pelo.
-    """
-    t = text.strip()
-    if len(t) <= limit:
-        return t
-
-    cut = t[:limit]
-    # Busca un punto de corte "natural" (prioriza puntuación, luego espacio)
-    m = re.search(r"[\.!?;:、，,]\s+[^\s]*$", cut)
-    if m:
-        cut = cut[: m.start()].rstrip()
-    else:
-        last_space = cut.rfind(" ")
-        if last_space >= int(limit * 0.70):
-            cut = cut[:last_space].rstrip()
-
-    # Garantía: nunca devolvemos vacío
-    return cut if cut else t[:limit]
 
 
 def slugify(name: str) -> str:
@@ -227,7 +199,6 @@ def call_model_for_prompt(
     character_sheet: str,
     default_negative: str,
     temperature: float,
-    max_prompt_chars: int = DEFAULT_MAX_PROMPT_CHARS,
     verbose: bool = False,
     dry_run: bool = False,
     max_retries: int = 4,
@@ -259,7 +230,6 @@ def call_model_for_prompt(
         "3) Estética: humano corriente, sin alas/cuernos/halo literal, sin iconografía religiosa explícita.\n"
         "4) Fondo blanco, escala de grises, estilo manga sobrio y elegante, línea limpia, sombreado suave.\n"
         "5) No incluyas texto dentro de la imagen.\n"
-        f"6) Longitud: el campo 'prompt' DEBE tener como máximo {max_prompt_chars} caracteres (incluyendo espacios).\n"
         "Devuelve SOLO JSON válido según el schema."
     )
 
@@ -314,20 +284,6 @@ def call_model_for_prompt(
             prompt = collapse_spaces(data.get("prompt", ""))
             negative = collapse_spaces(data.get("negative", "")) or default_negative
 
-            # Límite duro de longitud solicitado.
-            if len(prompt) > max_prompt_chars:
-                if attempt < max_retries:
-                    raise ValueError(
-                        f"Prompt demasiado largo ({len(prompt)} chars) > {max_prompt_chars}."
-                    )
-                # Último intento: recortamos de forma limpia para no abortar el pipeline.
-                trimmed = trim_to_limit(prompt, max_prompt_chars)
-                if verbose:
-                    eprint(
-                        f"[API] AVISO: prompt recortado de {len(prompt)} a {len(trimmed)} chars para cumplir el máximo."
-                    )
-                prompt = trimmed
-
             # Validaciones anti-genérico (endurece tu requisito)
             # Si quieres ser aún más estricto, sube el mínimo de longitud.
             if len(prompt) < 260:
@@ -371,12 +327,6 @@ def main() -> int:
     ap.add_argument("--cache", default=".cache/prompt_cache.json", help="Cache JSON para evitar pagar dos veces")
     ap.add_argument("--force", action="store_true", help="Ignora cache y regenera todo")
     ap.add_argument("--min-delay", type=float, default=0.2, help="Pausa mínima entre llamadas (segundos)")
-    ap.add_argument(
-        "--max-prompt-chars",
-        type=int,
-        default=DEFAULT_MAX_PROMPT_CHARS,
-        help=f"Longitud máxima del campo prompt en caracteres (por defecto: {DEFAULT_MAX_PROMPT_CHARS})",
-    )
     ap.add_argument("-v", "--verbose", action="store_true", help="Muestra payload enviado a la API y respuesta recibida")
     ap.add_argument("--dry-run", action="store_true", help="No llama a la API; solo muestra qué enviaría")
 
@@ -414,10 +364,7 @@ def main() -> int:
 
             eprint(f"[{p.name}] ({idx}/{total}) Generando prompt para: {ch.header}  ->  [{section_id}]")
 
-            fp = content_fingerprint(
-                sheet_payload
-                + f"|model={args.model}|temp={args.temperature}|max={args.max_prompt_chars}"
-            )
+            fp = content_fingerprint(sheet_payload + f"|model={args.model}|temp={args.temperature}")
 
             if (not args.force) and fp in cache:
                 eprint(f"[{p.name}] ({idx}/{total}) Cache HIT: {ch.header}")
@@ -434,7 +381,6 @@ def main() -> int:
                     character_sheet=sheet_payload,
                     default_negative=DEFAULT_NEGATIVE,
                     temperature=args.temperature,
-                    max_prompt_chars=args.max_prompt_chars,
                     verbose=args.verbose,
                     dry_run=args.dry_run,
                 )

@@ -10,6 +10,7 @@
 8. Definir bien el guión, que no sea surrealista.
 9. Todos los seres tienen un único alineamiento (Legal-Neutro-Caótico, Bueno-Neutral-Malvado).
 10. El rol dentro del rol sirve para acceder al plano celestial y demoníaco.
+11. Busco una intensidad 6/10 y mucho aroma, como el café colombiano.
 
 ## Espiritualidad
 
