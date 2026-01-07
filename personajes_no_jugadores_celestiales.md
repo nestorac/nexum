@@ -1,3 +1,100 @@
+# PNJ celestiales
+
+A continuación se presenta una **estructura de apartados** clara y reutilizable para una **ficha de personaje**, válida tanto para **personajes jugadores (PJ)** como **no jugadores (PNJ)**. Está pensada para uso narrativo, rol de mesa o desarrollo de lore, y puede simplificarse o ampliarse según necesidad.
+
+**Miedos, deseos, conflictos, traumas (todo ser celestial al enlazarse con uno terrenal causa traumas, mayores cuanto mayor sea su poder)...**
+
+**Identificación**
+
+* Nombre
+* Título, alias o epíteto
+* Naturaleza (humano, entidad, criatura, etc.)
+* Rol narrativo o función en la historia
+
+**Apariencia**
+
+* Descripción física general
+* Vestimenta y elementos visibles
+* Rasgos distintivos
+
+**Presencia y lenguaje corporal**
+
+* Postura habitual
+* Gestualidad
+* Impresión que causa al estar cerca
+
+**Personalidad**
+
+* Rasgos dominantes
+* Temperamento
+* Virtudes y defectos
+
+**Motivaciones**
+
+* Deseos principales
+* Objetivos conscientes
+* Necesidades no resueltas
+
+**Trasfondo**
+
+* Origen
+* Eventos clave del pasado
+* Relaciones importantes
+
+**Creencias y valores**
+
+* Código moral o ético
+* Lealtades
+* Conflictos internos
+
+**Habilidades y capacidades**
+
+* Talentos naturales
+* Conocimientos adquiridos
+* Competencias especiales
+
+**Poderes o dones** (si aplica)
+
+* Naturaleza del poder
+* Alcance y límites
+* Coste o consecuencias
+
+**Debilidades**
+
+* Limitaciones físicas o mentales
+* Miedos
+* Dependencias
+
+**Equipo u objetos relevantes**
+
+* Objetos personales
+* Artefactos significativos
+* Recursos disponibles
+
+**Comportamiento en escena**
+
+* Cómo actúa bajo presión
+* Reacciones típicas
+* Forma de interactuar con otros
+
+**Relaciones**
+
+* Aliados
+* Oponentes
+* Vínculos emocionales
+
+**Rol mecánico** (opcional, si hay sistema)
+
+* Atributos
+* Habilidades numéricas
+* Ventajas y desventajas
+
+**Notas del director / autor**
+
+* Uso previsto en la historia o partida
+* Secretos que el personaje oculta
+* Posibles arcos de evolución
+
 ## Ser celestial básico
 
 Existe un ser celestial básico con el que enlaza la mayoría de las personas, la gente corriente, y conecta a las personas con Dios sin otorgar ningún poder especial.
@@ -7,6 +104,10 @@ Existe un ser celestial básico con el que enlaza la mayoría de las personas, l
 ## Arcángeles
 
 **Listado exhaustivo**
+
+### Metatrón
+
+Menudo nombre...
 
 ### Arcángel Gabriel
 
@@ -528,12 +629,24 @@ Barachiel no interviene con estruendo: **ordena pequeñas casualidades para que 
 
 ### Arcángel Haniel
 
-*La Armonía en Movimiento.*
+*La de los principados y las virtudes.*
 
 **Tradición** judeocristiana.
 **Rol:** presidir a los principados y las virtudes, manteniendo la armonía entre el orden espiritual y la acción humana en el mundo.
 
-**Apariencia:** figura humana de presencia elegante y dinámica, con una serenidad que no es estática, sino viva. Sus gestos son precisos, como si cada movimiento tuviera un propósito. Suele aparecer en lugares donde se toman decisiones colectivas: salas de consejo, asambleas improvisadas, espacios donde se organiza el cambio.
+**Apariencia:** La arcángel Haniel suele estar relacionada con la esmeralda y se asocia con la rosa (el símbolo de las cualidades de belleza). Por lo general se representa como un andrógino con alas grises anchas. Lleva un vestido verde esmeralda y una linterna de color marrón.
+
+Haniel se distingue por su relación con los ciclos internos, la gracia y la percepción sensible del tiempo y la emoción. Mientras otros arcángeles actúan, anuncian, equilibran o custodian, Haniel afina.
+
+* **Gracia como resonancia, no como intervención:** Haniel no corrige ni impone. Su influencia es una sintonía que permite que las cosas fluyan cuando están maduras. No provoca el cambio: lo acompaña.
+
+* **Vinculación a los ciclos (luna, ritmos, transiciones):** a diferencia de arcángeles asociados a actos puntuales (mensaje, juicio, cierre), Haniel se asocia a procesos repetidos y naturales: fases emocionales, maduración interior, retorno y renovación. No hay clímax; hay ritmo.
+
+* **Sensibilidad emocional y estética:** donde Jofiel ordena el pensamiento y Zadkiel suspende la ley, Haniel escucha. Se vincula a la empatía, la belleza sentida y la percepción fina de estados anímicos. No intelectualiza ni moraliza.
+
+* **Presencia suave, no solemne:** su autoridad no es grave ni doméstica como Barachiel; es íntima y silenciosa. La serenidad que genera no tranquiliza por certeza, sino por aceptación del vaivén.
+
+* **Iconografía lunar y acuosa:** luz plateada, reflejos, velos, agua tranquila. No símbolos de poder ni objetos funcionales. Todo remite a lo mutable pero constante.
 
 **Esencia:** armonía activa. Coordinación. Influencia justa.
 Haniel no gobierna desde arriba: **orquesta fuerzas diversas para que ninguna anule a las demás**.
@@ -564,12 +677,27 @@ Haniel no gobierna desde arriba: **orquesta fuerzas diversas para que ninguna an
 
 ### Arcángel Nuriel
 
-*El Portador del Temblor.*
+*El responsable de las granizadas.*
 
 **Tradición** judeocristiana.
 **Rol:** encarnar las fuerzas que sacuden lo establecido para revelar lo que ya no es firme ni verdadero.
 
-**Apariencia:** figura humana de presencia inquietante, como si el aire a su alrededor vibrara levemente. Sus rasgos son definidos, pero cuesta mantener la mirada fija en ellos. Suele aparecer antes o después de acontecimientos abruptos: discusiones que estallan, decisiones repentinas, cambios que nadie había querido provocar.
+**Apariencia:** Los distintivos físicos del arcángel Nuriel están pensados para expresar estado, clima y afinación interna. Sus rasgos declaran cómo se siente estar en su presencia.
+
+* **Ausencia de armas:** Nuriel no porta armas. Ni espada, ni vara, ni balanza, ni instrumento de castigo o corrección. Esto es deliberado: cualquier arma implicaría juicio, defensa o acción. Nuriel no confronta ni decide; acompaña procesos ya iniciados.
+
+* **Objeto simbólico: luz no direccional:** cuando sostiene algo, suele ser una linterna, lámpara o cuenco de luz suave, nunca un foco que ilumine un camino concreto. La luz no guía ni revela verdades externas: permite ver lo que ya está, sin énfasis ni urgencia. No señala, no destaca, no acusa.
+
+* **Vestimenta fluida y orgánica:** ropas largas, sueltas, sin estructura rígida. Tejidos que recuerdan al agua, al lino fino o a velos superpuestos. No hay armadura, ni cinturones marciales, ni elementos jerárquicos. Los colores habituales son verdes profundos, grises suaves, plateados apagados o tonos acuosos, nunca colores chillones.
+
+* **Alas amplias y apagadas:** si aparecen alas, son anchas, grises o ceniza, más asociadas al abrigo que al vuelo. No están desplegadas de forma épica: suelen caer ligeramente, envolver o proteger el espacio. Las alas indican contención y cuidado.
+
+* **Rostro empático y contenido:** la expresión es uno de sus principales distintivos. Su rostro transmite comprensión sin indulgencia: ve, entiende, pero no absuelve ni consuela activamente.
+
+* **Ausencia de símbolos jerárquicos:** No corona, no halo explícito, no inscripciones, no emblemas. Si hay símbolos, son secundarios y naturales: reflejos de luna, agua calma, bruma ligera. Nada que pueda leerse como rango o mandato.
+
+* **Postura de acompañamiento:** Nuriel no avanza ni se impone en la escena.
+  Suele estar ligeramente inclinado, a la misma altura que el otro, o en una posición lateral. No ocupa el centro como autoridad; ocupa el espacio como presencia compartida.
 
 **Esencia:** sacudida. Despertar. Inestabilidad necesaria.
 Nuriel no destruye por capricho: **remueve lo que parecía sólido para mostrar sus grietas**.
@@ -1052,6 +1180,10 @@ No tiene prisa nunca.
 ## Ángeles
 
 Entendido. A continuación tienes **diez ángeles (no arcángeles)**, **inventados**, con **nombre propio** y **función clara**, escritos **exactamente en el formato del ejemplo** y pensados para tradición cristiana amplia, con un enfoque **humano, moral y narrativo**. No repito el ejemplo ni hago comentarios adicionales.
+
+### Ángeles de la guarda
+
+...
 
 ### Ángel Arel
 
