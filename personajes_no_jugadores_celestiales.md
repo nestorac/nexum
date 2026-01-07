@@ -108,7 +108,19 @@ Raguel no castiga ni absuelve: **restaura la proporción cuando algo se ha desco
 **Tradición** judeocristiana.
 **Rol:** custodiar a quienes han vuelto de la muerte, velar por el equilibrio entre lo vivido y lo que aún permanece.
 
-**Apariencia:** figura humana de expresión grave y atenta. Sus ojos transmiten una mezcla de alivio y melancolía, como alguien que ha visto demasiado para celebrar sin reservas. Suele aparecer en hospitales, cementerios, habitaciones silenciosas o lugares donde el tiempo parece suspendido.
+**Apariencia:** el arcángel Remiel se distingue menos por símbolos explícitos y más por la sensación de suspensión y observación imparcial que genera. Es semi-transparente, casi fantasmal. Si Gabriel interrumpe y Raguel regula, Remiel permanece. Observa. Remiel se reconoce porque su imagen no avanza ni resuelve. Donde otros arcángeles producen cambio, Remiel introduce pausa. No castiga, no anuncia, no corrige: observa hasta que ya no queda nada más que aceptar.
+
+* **Presencia de espera, no de acción:** Remiel no actúa ni anuncia. Su postura es estática, contenida, a menudo ligeramente retraída. Visualmente transmite que está ahí porque aún no es el momento. No hay tensión dinámica, sino una calma densa, casi incómoda.
+
+* **Mirada evaluadora pero distante:** a diferencia de la mirada directa de Gabriel o la neutralidad reguladora de Raguel, Remiel observa como quien registra. Su mirada no atraviesa ni juzga activamente: pesa, compara, memoriza. Puede parecer que mira “a través del tiempo” más que al interlocutor.
+
+* **Composición vertical y espacio vacío:** Remiel suele representarse en composiciones con mucho espacio negativo, especialmente por debajo o alrededor de la figura. Esto refuerza la idea de umbral prolongado, de almas o decisiones “en espera”. La imagen no empuja al espectador: lo mantiene suspendido.
+
+* **Vestimenta austera, casi administrativa:** ropas simples, funcionales, incluso impersonales. Nada que denote gloria, guerra o anuncio. Si hay capas o túnicas, caen rectas, sin movimiento. Remiel no destaca: registra.
+
+* **Ausencia deliberada de objetos icónicos:** tradicionalmente se le asocia al juicio de las almas, pero visualmente es más potente no darle balanza ni libro. Si aparece algún elemento, es sutil y secundario. Su función no está en lo que porta, sino en su presencia constante.
+
+**Luz plana, sin dramatismo:** la luz en Remiel no revela ni equilibra: detiene. Suele ser uniforme, sin claroscuros marcados. No hay clímax visual; hay espera prolongada.
 
 **Esencia:** retorno. Umbral. Desajuste.
 Remiel no celebra la resurrección: **observa qué se ha alterado al desafiar el final**.
@@ -139,12 +151,25 @@ Remiel no celebra la resurrección: **observa qué se ha alterado al desafiar el
 
 ### Arcángel Jofiel
 
-*El Custodio de los Inocentes.*
+*Arcángel de la sabiduría, la comprensión y el juicio.*
 
 **Tradición** judeocristiana.
 **Rol:** proteger la inocencia, no como ignorancia, sino como pureza de intención y ausencia de malicia consciente.
 
-**Apariencia:** figura humana de edad indeterminada, con una expresión abierta y una calma que desarma. Suele aparecer en lugares cotidianos y vulnerables: escuelas vacías, parques al amanecer, habitaciones donde alguien duerme sin miedo. Su presencia inspira confianza inmediata, a veces injustificada.
+**Apariencia:** el arcángel Jofiel no posee una iconografía tan estable como Miguel o Gabriel, pero existen patrones recurrentes en su representación, especialmente en tradiciones místicas, artísticas y esotéricas posteriores:
+
+* **Asociación con la sabiduría y la claridad mental**
+  Jofiel suele representarse como una figura **serena y luminosa**, vinculada al intelecto, la comprensión y la belleza del pensamiento. No transmite poder ni juicio, sino **lucidez**.
+
+* **Luz dorada o amarilla:** es uno de sus signos más constantes. La luz no es teatral ni violenta: resplandor suave, atmósfera clara, iluminación homogénea. Simboliza entendimiento, orden mental y discernimiento.
+
+* **Apariencia cuidada, armoniosa:** en muchas representaciones aparece como una figura andrógina o de belleza equilibrada con rasgos suaves y proporcionados y vestiduras limpias, claras, a veces doradas o blancas. No es belleza sensual ni épica, sino **belleza intelectual y formal**.
+
+* **Objetos simbólicos:** suelen ser discretos: libro abierto o cerrado, pergamino, llama o foco de luz gesto de señalar o contemplar. En enfoques más sobrios, estos objetos se eliminan y la función se expresa solo por la composición y la luz.
+
+* **Actitud contemplativa:** Jofiel raramente actúa. Se le muestra observando, reflexionando, esperando que el otro comprenda, sin interrumpir.
+
+* **Invita a pensar:** Jofiel actúa sobre la mente.
 
 **Esencia:** inocencia. Intención limpia. Fragilidad moral.
 Jofiel no idealiza a los inocentes: **sabe que la inocencia es frágil precisamente porque aún no ha elegido el mal**.
@@ -175,15 +200,26 @@ Jofiel no idealiza a los inocentes: **sabe que la inocencia es frágil precisame
 
 ### Arcángel Azrael
 
-*El Guía del Tránsito.*
+*El guía del tránsito de la vida a la muerte.*
 
 **Tradición** judeocristiana.
 **Rol:** recibir las almas en el instante de la muerte y conducirlas al lugar donde serán juzgadas.
 
-**Apariencia:** figura humana sobria, de presencia inevitable pero no amenazante. Su rostro es sereno y neutro, como el de alguien que ha aprendido a no reaccionar ante el dolor ajeno. Suele aparecer cuando el ruido cesa y todo queda en silencio.
+**Apariencia:** El arcángel Azrael, encargado de guiar a los muertos, se distingue visualmente del resto de arcángeles por la relación directa con el final. Es un ser tenebroso, de aspecto siniestro, que inspira miedo. Su iconografía, cuando se aborda desde un enfoque sobrio y no épico, se reconoce por una serie de rasgos muy específicos.
 
-**Esencia:** tránsito. Aceptación. Final con sentido.
-Azrael no mata ni juzga: **llega cuando ya no hay marcha atrás y acompaña el último paso**.
+* **Presencia de cierre, no de acción:** Azrael no irrumpe ni regula. Visualmente transmite conclusión. Su postura suele ser inmóvil, contenida, sin tensión narrativa. No anuncia un cambio: certifica que el cambio ya ha ocurrido.
+
+* **Expresión neutral y compasiva, sin consuelo:** su rostro no juzga ni amenaza, pero tampoco tranquiliza. No hay épica ni severidad heroica. La expresión es calmada, distante, casi administrativa: Azrael no decide la muerte, la acompaña.
+
+* **Relación con el silencio:** Azrael se reconoce por el vacío que genera. Fondos neutros, espacios abiertos, ausencia de elementos superfluos. La escena parece detenida después de algo irreversible.
+
+* **Iluminación apagada y mate:** en Azrael predominan grises suaves, blancos velados, sombras ligeras. La luz no revela: amortigua.
+
+* **Símbolos explícitos** suele portar una guadaña, y a veces un libro de almas o un reloj.
+
+* **Sensación de tránsito concluido:** Azrael representa el momento donde concluye la vida. Visualmente parece llegar tarde, pero siempre llega a tiempo.
+
+**Esencia:** tránsito. Aceptación. Final con sentido. Azrael no mata ni juzga: llega cuando ya no hay marcha atrás y acompaña el último paso.
 
 **Cómo interactúa:**
 
@@ -216,7 +252,19 @@ Azrael no mata ni juzga: **llega cuando ya no hay marcha atrás y acompaña el �
 **Tradición** judeocristiana.
 **Rol:** custodiar los secretos fundamentales de la existencia y decidir cuándo —y a quién— pueden ser revelados.
 
-**Apariencia:** figura humana difícil de fijar en la memoria. Sus rasgos parecen cambiar sutilmente cuando no se le mira directamente. Suele aparecer rodeado de objetos escritos: libros cerrados, notas incompletas, pantallas apagadas, símbolos que nadie recuerda haber visto antes.
+**Apariencia:** el arcángel Raziel se diferencia del resto de arcángeles no por una función visible o interventora, sino por su relación con el conocimiento que no debe ser plenamente comprendido. Mientras otros arcángeles actúan, anuncian, equilibran o cierran, Raziel codifica.
+
+* **Guardián del conocimiento oculto:** Raziel no transmite mensajes directos como Gabriel ni guía procesos como Azrael. Custodia verdades estructurales del universo: leyes, patrones, correspondencias. Su saber no está pensado para ser usado, sino preservado.
+
+* **Saber que excede la comprensión:** su conocimiento es completo pero impracticable. No ilumina ni consuela: abruma. Raziel no enseña para aclarar, sino para mostrar los límites de la mente humana.
+
+* **Presencia intelectual, no emocional:** donde Jofiel ordena el pensamiento y Raguel regula relaciones, Raziel permanece distante. Su figura sugiere abstracción, densidad conceptual, capas de sentido superpuestas.
+
+* **Iconografía:** se asocia a libros sellados, pergaminos imposibles, geometrías complejas, escrituras superpuestas o símbolos que no se alinean. Visualmente, Raziel se reconoce por la sensación de cifrado, portar un libro antiguo con un candado lo resume muy bien.
+
+* **Función pasiva pero peligrosa:** no interviene activamente, pero su mera existencia introduce riesgo: quien accede a su conocimiento puede perder certeza, identidad o equilibrio. Raziel no destruye, sino que desestabiliza por exceso de verdad.
+
+* **En síntesis:** Raziel es el archivo del universo. No responde preguntas; demuestra que algunas respuestas existen, pero no están hechas para ser usadas.
 
 **Esencia:** conocimiento velado. Misterio. Límite.
 Raziel no oculta por crueldad: **guarda lo que destruiría a quien no está preparado para saberlo**.
@@ -247,12 +295,23 @@ Raziel no oculta por crueldad: **guarda lo que destruiría a quien no está prep
 
 ### Arcángel Camael
 
-*El Despertador de la Gratitud.*
+El de la fuerza, el valor y la guerra.
 
 **Tradición** judeocristiana.
 **Rol:** fomentar la gratitud hacia Dios no como obediencia, sino como reconocimiento consciente de lo recibido.
 
-**Apariencia:** figura humana de gesto sobrio y mirada directa. No sonríe con facilidad, pero cuando lo hace transmite una calidez inesperada. Suele aparecer en momentos de calma posterior, nunca en el clímax del conflicto.
+**Apariencia:** En términos visuales, Camael se distingue de otros arcángeles por vestir armadura medieval, una espada y un escudo, pero también por cómo su presencia comunica fuerza contenida y severidad interior. Las diferencias clave son las siguientes:
+
+- **Fuerza latente, no exhibida:** mientras Miguel se reconoce por la acción y Gabriel por el anuncio, Camael se identifica por una tensión interna constante. Su cuerpo parece en reposo, pero cargado de energía retenida. No amenaza ni avanza; su sola presencia sugiere que podría hacerlo si fuera necesario.
+* **Expresión dura y cerrada:** el rostro de Camael suele ser severo, impenetrable, con emociones comprimidas. No hay consuelo (Azrael), ni claridad intelectual (Jofiel), ni equilibrio visible (Raguel). La mirada no comunica un mensaje: evalúa resistencia.
+
+* **Postura firme y compacta:** visualmente es macizo y estable. Donde otros arcángeles generan vacío, pausa o simetría, Camael “ocupa” el espacio. La composición transmite peso, densidad y arraigo, como un bloque que no cede.
+
+* **Ausencia deliberada de ornamento:** no necesita símbolos. Si aparece un arma, suele estar presente pero inactiva, integrada como extensión de su función, no como foco visual. La vestimenta es sobria, funcional, incluso austera.
+
+* **Iluminación contenida y contraste seco:** la luz no es dorada ni reveladora; es dura, neutra o contrastada, reforzando la idea de prueba, fricción y confrontación. No hay épica: hay fricción moral.
+
+* **Sensación que produce en el observador:** Camael no inspira esperanza ni temor inmediato. Inspira exigencia. Su imagen comunica que algo será puesto a prueba: voluntad, lealtad o límite personal.
 
 **Esencia:** gratitud. Reconocimiento. Humildad lúcida.
 Camael no exige agradecimiento: **hace visible aquello que se ha dado por hecho**.
@@ -283,12 +342,22 @@ Camael no exige agradecimiento: **hace visible aquello que se ha dado por hecho*
 
 ### Arcángel Zadkiel
 
-*La Misericordia que Permanece.*
+*El de la libertad, la benevolencia, la misericordia, y el perdón.*
 
 **Tradición** judeocristiana.
 **Rol:** personificar la misericordia de Dios, no como absolución automática, sino como oportunidad real de redención.
 
-**Apariencia:** figura humana de mirada profunda y gesto cansado, como quien ha escuchado demasiadas confesiones. No impone presencia; se nota cuando alguien deja de huir de sí mismo. Suele aparecer en espacios de recogimiento: capillas vacías, habitaciones al amanecer, lugares donde alguien ha tocado fondo.
+**Apariencia:** El arcángel Zadkiel es hermoso. Una luz violeta que proviene de una llama lo alumbra todo. Este arcángel renuncia consciente a ejercer la fuerza máxima, aunque sea legítima.
+
+* **Custodio de la misericordia que interrumpe la ley:** mientras arcángeles como Miguel ejecutan la justicia y Raguel restaura el equilibrio, Zadkiel es el que detiene la mano cuando la ley ya ha sido invocada. No niega la norma ni la autoridad: introduce una excepción consciente. Su presencia no invalida el castigo; lo suspende.
+
+* **Fuerza contenida, no descargada:** Zadkiel no es débil ni blando. Se le asocia a un poder inmenso que **elige no manifestarse**. Donde Camael tensa y Miguel actúa, Zadkiel **absorbe**. La tensión no desaparece; se interioriza.
+
+* **Misericordia como carga moral, no como consuelo:** su compasión no tranquiliza. Al contrario: **desplaza el peso moral** del acto hacia quien lo recibe. Ser perdonado por Zadkiel no alivia; obliga a vivir con la responsabilidad de haber sido perdonado.
+
+* **Diferencia clave frente a otros arcángeles:** Zadkiel interrumpe el desenlace cuando ya es inevitable.
+
+* **Identidad visual y atmosférica:** visualmente se reconoce por una **calma densa**, ausencia de gesto heroico, luz no triunfal (a menudo asociada al violeta apagado o a grises suaves) y una postura que sugiere “todavía no”. No hay acción, pero tampoco descanso.
 
 **Esencia:** misericordia. Compasión lúcida. Segunda oportunidad.
 Zadkiel no borra la culpa: **ofrece un camino para atravesarla sin quedar destruido**.
@@ -319,12 +388,22 @@ Zadkiel no borra la culpa: **ofrece un camino para atravesarla sin quedar destru
 
 ### Arcángel Jegudiel
 
-*El Dignificador del Esfuerzo.*
+*El de la penitencia y el trabajo.*
 
 **Tradición** judeocristiana.
 **Rol:** amparar a todos los trabajadores y dar sentido al esfuerzo humano, visible o invisible.
 
-**Apariencia:** figura humana de aspecto sencillo, manos marcadas por el uso. Puede parecer cansado, pero nunca derrotado. Suele aparecer en talleres, oficinas vacías al anochecer, fábricas en silencio, cocinas después del servicio o escritorios desordenados tras largas horas de trabajo.
+**Apariencia:** El arcángel Jegudiel se reconoce por una autoridad interior asociada a la responsabilidad y al mérito, representada con una corona dorada en una mano y un látigo en la otra. Visualmente, su diferencia se articula en estos rasgos coherentes:
+
+* **Autoridad silenciosa, no ejecutiva:** no aparece combatiendo (Miguel) ni anunciando (Gabriel). Su postura es **erguida, contenida**, como quien **evalúa y sostiene un peso moral** ya asumido.
+
+* **Rostro grave con dignidad moral:** la expresión es **severa pero justa**. No consuela ni amenaza: **reconoce el esfuerzo y la carga**. La mirada no interpela; **registra**.
+
+* **Iconografía del mérito:** tradicionalmente porta **corona** (honor ganado) y, a veces, **látigo o vara** (disciplina). En enfoques sobrios, estos símbolos se **reducen o sugieren**, integrados sin teatralidad.
+
+* **Paleta dorada apagada:** predominan **dorados mate, ocres y grises**. No es la luz intelectual de Jofiel ni la llama violeta de Zadkiel, sino un **brillo contenido**, asociado al deber cumplido.
+
+* **Presencia de sostén, no de interrupción:** mientras Raguel equilibra y Zadkiel suspende, Jegudiel **sostiene el peso del mérito**. Su imagen transmite **responsabilidad asumida**, no alivio.
 
 **Esencia:** esfuerzo. Dignidad. Perseverancia.
 Jegudiel no promete éxito: **reconoce el valor del trabajo bien hecho, aunque nadie más lo vea**.
@@ -355,12 +434,24 @@ Jegudiel no promete éxito: **reconoce el valor del trabajo bien hecho, aunque n
 
 ### Arcángel Sealtiel
 
-*El Custodio de los Cielos.*
+*El que reza.*
 
 **Tradición** judeocristiana.
 **Rol:** velar por el orden de los planetas y los cielos, manteniendo la armonía entre los ciclos cósmicos y la vida humana.
 
-**Apariencia:** figura humana de porte sereno, con la mirada siempre elevada, como quien observa algo que otros no perciben. Su presencia transmite una sensación de vastedad y silencio profundo. Suele aparecer bajo cielos abiertos: azoteas, desiertos, observatorios improvisados, noches despejadas lejos de la ciudad.
+**Apariencia:** El arcángel Sealtiel es representado con las manos juntas en oración profunda o con el incienso de adoración, representando así su unión gozosa con Dios. Cuando es representado en iconografía o con características individuales, se le muestra con los ojos abatidos y los brazos cruzados sobre su pecho. Su cualidad especial es el rezo.
+
+* **Postura de recogimiento:** cuerpo ligeramente inclinado o cerrado sobre sí mismo. No avanza ni sostiene el espacio; se concentra. A menudo aparece con la cabeza inclinada.
+
+* **Gestualidad mínima y cerrada:** manos juntas, entrelazadas o próximas al pecho. No porta símbolos de poder ni instrumentos: el gesto es la oración.
+
+* **Expresión introspectiva:** rostro sereno, ausente, casi abstraído. No mira al espectador ni al mundo; mira hacia dentro. No juzga ni consuela.
+
+* **Ausencia de iconografía activa:** sin espada, trompeta, balanza o corona. Si hay objetos, son secundarios y apagados. Su función no se representa: se percibe.
+
+* **Iluminación descendente y suave:** luz tenue, a menudo desde arriba o lateral, sin contrastes dramáticos. Paleta apagada: grises, ocres, dorados muy mates.
+
+* **Composición vertical y silenciosa:** espacio estrecho o cerrado, sensación de cámara interior. La imagen no “respira” hacia fuera; se contiene.
 
 **Esencia:** orden cósmico. Ritmo. Proporción.
 Sealtiel no controla los cielos: **escucha su movimiento y corrige los desajustes cuando algo amenaza con romper la armonía**.
@@ -391,12 +482,22 @@ Sealtiel no controla los cielos: **escucha su movimiento y corrige los desajuste
 
 ### Arcángel Barachiel
 
-*El Supervisor de la Custodia.*
+*El líder de los ángeles de la guarda.*
 
 **Tradición** judeocristiana.
 **Rol:** coordinar y guiar a los ángeles guardianes, velando por la protección cotidiana y discreta de los seres humanos.
 
-**Apariencia:** figura humana afable, de presencia tranquilizadora. Su rostro transmite cercanía inmediata, como alguien que siempre llega justo a tiempo. Suele aparecer en momentos aparentemente banales: cruces de calles, salas de espera, trayectos rutinarios.
+**Apariencia:** lleva una rosa blanca sujeta contra el pecho y muchos pétalos de rosa blanca desprendidos, sobre todo en su manto. En cuanto a su personalidad, Barachiel no actúa, no anuncia ni corrige; habilita.
+
+* **Bendición como condición, no como acto:** la bendición de Barachiel no es un gesto puntual ni un milagro visible. Es una disposición del mundo: abre caminos, suaviza resistencias, aumenta la probabilidad de que lo justo o lo fértil pueda darse. No decide el resultado; mejora el terreno.
+
+* **Presencia alegre pero no eufórica:** A diferencia de la solemnidad grave de otros arcángeles, Barachiel se asocia a una alegría contenida, serena, casi doméstica. No es júbilo ni celebración; es bienestar silencioso, sensación de que “todo encaja un poco mejor”.
+
+* **Iconografía secundaria y orgánica:** tradicionalmente se le asocia a rosas, flores, lluvia suave o luz cálida, pero nunca como símbolos de poder. Son signos de abundancia natural, no de autoridad. Si aparecen, no dominan la imagen.
+
+* **Relación con lo cotidiano:** mientras otros arcángeles operan en umbrales, juicios o momentos límite, Barachiel se manifiesta en lo pequeño: hogares, encuentros, trabajos que prosperan, vínculos que florecen. Es el arcángel más cercano a la vida ordinaria que funciona.
+
+* **No genera tensión dramática:** visual y narrativamente, Barachiel se reconoce porque **no introduce conflicto**. Donde está, la escena se relaja. No hay amenaza, ni mandato, ni expectativa épica. Solo una sensación de favor inmerecido pero real.
 
 **Esencia:** protección silenciosa. Providencia. Acompañamiento.
 Barachiel no interviene con estruendo: **ordena pequeñas casualidades para que el daño no llegue a producirse**.

@@ -9,3 +9,6 @@
 * Pulir el Makefile.
 * Pulir los prompt generados desde el MD de celestiales a test_prompts.txt para que las ilustraciones generadas sean adecuadas.
 * Ignorar directorio img/ en git.
+* Debe poder elegirse si generar las ilustraciones y PDF en color o escala de grises.
+* Debe poderse elegir el estilo de las ilustraciones: manga, realista, cómic europeo...
+* Debe poderse elegir la IA que se quiera usar: ChatGPT, Grok...
