@@ -875,17 +875,7 @@ Hadraniel no rechaza oraciones: **exige que quien reza sea consciente de lo que 
 
 * **Ausencia deliberada de espada**: Zerachiel no ejecuta; certifica y constata.
 
-* **Objetos que NO porta:** 
-
-* Sin halo luminoso.
-
-* Sin gestos dramáticos.
-
-* Sin símbolos de misericordia ni de castigo físico.
-
-* Sin ornamentación dorada ni iconografía triunfal.
-
-Si quieres, en un siguiente paso puedo **reducir esto a un prompt visual de ≤700 caracteres**, o adaptarlo explícitamente al **estilo manga en escala de grises** que estás utilizando para el resto del coro.
+* **Lo que NO debe aparecer:** Ni halo luminoso, ni gestos dramáticos, ni símbolos de misericordia ni de castigo físico, ni ornamentación dorada ni iconografía triunfal.
 
 **Esencia:** perseverancia. Aliento. Resistencia interior. Zerachiel no promete que todo irá bien: **recuerda por qué merece la pena continuar incluso cuando nada mejora**.
 
@@ -913,14 +903,48 @@ Si quieres, en un siguiente paso puedo **reducir esto a un prompt visual de ≤7
 
 **Escena sugerida:** cuando todo invita a rendirse en silencio, un PJ comprende que no sigue adelante por optimismo, sino porque detenerse significaría traicionarse a sí mismo.
 
-### Arcángel Chamuel
+### Arcángel Camael
 
-*La Presencia del Amor que Aquieta.*
+*El de la fuerza, el valor y la guerra.*
 
 **Tradición** judeocristiana.
 **Rol:** encarnar el amor divino y la compasión, conduciendo a los seres humanos hacia la paz interior y la armonía emocional.
 
-**Apariencia:** figura humana de expresión cálida y mirada profundamente comprensiva. Su presencia genera una sensación inmediata de calma, como si el conflicto interno perdiera urgencia. Suele aparecer en espacios íntimos o emocionalmente cargados: encuentros difíciles, despedidas, reconciliaciones silenciosas.
+**Apariencia:** A continuación tienes una **descripción concreta, literal y no simbólica** de aquello que identifica a **Camael** como arcángel:
+
+* **Apariencia general:** Camael se presenta como una figura **claramente humana**, de **gran tamaño**, sólida y pesada. No flota ni adopta posturas dinámicas: **permanece plantado**, con los pies firmes en el suelo. Su presencia ocupa espacio físico y obliga a rodearlo o enfrentarlo.
+
+* **Complexión:** muy robusta y musculada, hombros anchos, torso grueso, cuello fuerte. No estilizado.
+* **Altura:** superior a la humana media, pero sin gigantismo.
+* **Rostro:** anguloso, mandíbula marcada, pómulos duros. Expresión severa, sin ira ni compasión.
+* **Mirada:** directa y fija; no evita los ojos, no intimida activamente.
+* **Piel:** tonos apagados (carne curtida, gris cálido, bronce oscuro). Sin brillo sobrenatural.
+* **Cabello:** corto o recogido, funcional; colores oscuros o ceniza.
+* **Marcas visibles:** cicatrices antiguas, desgaste físico real.
+
+**Vestimenta:**
+
+* **Armadura funcional**, no ceremonial: placas gruesas en pecho y hombros, con señales de uso.
+* **Tejidos pesados** debajo: lana, cuero, telas bastas.
+* **Colores:** rojos apagados, óxidos, marrones, grises oscuros. Nunca dorado ni blanco puro.
+* Nada decorativo. Todo cumple una función defensiva o estructural.
+
+**Alas:**
+
+* **Dos alas grandes**, densas y pesadas.
+* Normalmente **plegadas** o apenas abiertas.
+* Plumas compactas, oscuras, sin efecto etéreo.
+* No se usan para volar en escena salvo necesidad explícita.
+
+**Objetos identificativos:**
+
+* **Bastón largo y recto**, simple, sin inscripciones.
+* Cáliz.
+* **No porta** libros, balanzas, pergaminos ni símbolos administrativos.
+
+**Elementos ausentes:** Sin halo; sin luz propia; sin gestos dramáticos; sin símbolos de misericordia, juicio o revelación; sin iconografía triunfal.
+
+Camael es reconocible porque **está preparado para ejercer fuerza**, aunque no la esté usando en ese momento. Su condición de arcángel se percibe **por lo que es y porta**, no por lo que simboliza.
 
 **Esencia:** amor consciente. Compasión. Paz interior.
 Chamuel no idealiza el amor: **lo manifiesta como una fuerza que integra, no que anula el dolor**.
