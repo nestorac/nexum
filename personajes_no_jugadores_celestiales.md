@@ -724,79 +724,7 @@ Nuriel no destruye por capricho: **remueve lo que parecía sólido para mostrar 
 
 * Ruptura del hábito: mientras este poder esté activo, las rutinas dejan de funcionar como refugio; lo repetido ya no protege ni oculta.
 
-**Escena sugerida:** justo cuando todo parece por fin bajo control, un detalle menor desencadena una reacción en cadena que obliga a los PJs a admitir que la estabilidad que defendían era solo aparente.
-
-### Arcángel Serafiel
-
-*El Fuego que Limpia.*
-
-**Tradición** judeocristiana.
-**Rol:** conducir los procesos de purificación, eliminando lo que corrompe sin destruir lo esencial.
-
-**Apariencia:** figura humana de mirada intensa y presencia sobria. No desprende calor visible, pero su cercanía provoca una sensación de ardor interior, como si algo incómodo estuviera siendo puesto al descubierto. Suele aparecer en lugares de transición: antes de un nuevo comienzo, tras una caída, o cuando alguien está dispuesto a cambiar de verdad.
-
-**Esencia:** purificación. Despojo. Renovación.
-Serafiel no castiga: **quema lo que sobra para que lo verdadero pueda permanecer**.
-
-**Cómo interactúa:**
-
-* Señala hábitos, ideas o vínculos que ya no pueden continuar.
-* Provoca procesos dolorosos pero honestos de cambio.
-* No interviene hasta que el personaje está dispuesto a perder algo.
-
-**Teme** la falsa pureza basada en la negación y la apariencia.
-
-**Desea** una transformación real, aunque implique sufrimiento temporal.
-
-**Conflictos:**
-
-* Exige renunciar a algo muy querido para poder avanzar.
-* Desmantela identidades construidas sobre culpa o orgullo.
-* Enfrenta a un PJ con el miedo a quedarse vacío tras la purificación.
-
-**Poderes:**
-
-* Fuego interior: activa un proceso de purificación que elimina corrupciones morales, influencias externas o autoengaños persistentes, a costa de fatiga emocional o pérdida de certezas.
-
-* Despojo necesario: obliga a un personaje a desprenderse de un recurso, ventaja o vínculo que se ha vuelto tóxico, permitiendo un crecimiento posterior más auténtico.
-
-**Escena sugerida:** tras aceptar un cambio doloroso, un PJ siente que algo esencial ha sido arrancado… y solo después comprende que lo que queda es más ligero, más verdadero y finalmente habitable.
-
-### Arcángel Jehoel
-
-*El Coordinador del Orden Intermedio.*
-
-**Tradición** judeocristiana.
-**Rol:** liderar la segunda subordinación de ángeles, asegurando la correcta transmisión entre las voluntades superiores y su ejecución en el mundo.
-
-**Apariencia:** figura humana de porte sereno y mirada analítica. Su presencia transmite organización y claridad estructural. Suele aparecer en espacios donde confluyen múltiples esfuerzos: centros de coordinación, cruces de caminos, momentos en que varias fuerzas deben actuar al unísono.
-
-**Esencia:** mediación. Coherencia. Traducción del mandato.
-Jehoel no crea ni ejecuta: **convierte la intención en estructura operativa**.
-
-**Cómo interactúa:**
-
-* Alinea acciones dispersas bajo un propósito común.
-* Señala fallos de comunicación entre niveles de autoridad.
-* Reduce el caos sin anular la iniciativa individual.
-
-**Teme** la descoordinación que convierte buenas intenciones en desastre.
-
-**Desea** que cada fuerza actúe en su lugar y momento precisos.
-
-**Conflictos:**
-
-* Prioriza el funcionamiento del conjunto frente a una necesidad individual urgente.
-* Corrige una intervención “bienintencionada” que rompe la cadena de mando.
-* Enfrenta a un PJ con la diferencia entre obedecer y comprender.
-
-**Poderes:**
-
-* Cadena clara: mientras esté activo, las órdenes, señales o intenciones se transmiten sin distorsión entre todos los implicados en una escena compleja.
-
-* Sincronía operativa: permite coordinar acciones simultáneas de varios personajes, evitando interferencias y maximizando la eficacia conjunta.
-
-**Escena sugerida:** en una situación caótica con múltiples frentes abiertos, cada acción empieza a encajar con las demás como piezas de un mecanismo mayor, revelando que alguien ha estado organizando el flujo desde un nivel invisible.
+**Escena sugerida:** justo cuando todo parece por fin bajo control, un detalle menor desencadena una reacción en cadena que obliga a los PJs a admitir que la estabilidad que defendían era solo aparente. 
 
 ### Arcángel Sandalfón
 
@@ -805,10 +733,34 @@ Jehoel no crea ni ejecuta: **convierte la intención en estructura operativa**.
 **Tradición** judeocristiana.
 **Rol:** reunir las oraciones humanas —conscientes o no— y transmitirlas a Dios sin alterarlas ni embellecerlas.
 
-**Apariencia:** figura humana de porte humilde, a menudo inadvertida. Su presencia es discreta, casi invisible, como alguien que siempre llega después. Suele aparecer en lugares donde alguien ha rezado sin palabras: habitaciones en penumbra, caminos solitarios, bancos vacíos, espacios de espera.
+**Apariencia:** El arcángel Sandalfón se diferencia del resto por rasgos físicos muy concretos y repetidos en la tradición. Visualmente es uno de los más *anómalos* dentro del conjunto angelical. Diferencias físicas:
+
+* **Estatura desproporcionada y cuerpo alargado:** Sandalfón es descrito como **extremadamente alto**, más que cualquier otro arcángel. No es solo “imponente”: su cuerpo aparece **antinaturalmente alargado**, a veces casi vertical, como si no cupiera del todo en el plano humano. En iconografía mística puede ocupar varios “niveles” de la escena.
+
+* **Apariencia más humana y pesada:** Sandalfón tiene un **cuerpo más denso y terrenal**: hombros anchos, manos grandes, pies bien apoyados. No parece ligero ni flotante. Su peso visual es claro.
+
+* **Posición baja o conectada al suelo:** mientras muchos arcángeles se representan suspendidos o elevados, Sandalfón aparece **de pie, apoyado, anclado**. A veces incluso en planos inferiores, cerca de la tierra, escalones, raíces o estructuras verticales.
+
+* **Vestimenta larga, continua, sin cortes:** sus ropajes suelen ser **túnicas muy largas**, casi infinitas, sin armadura ni capas heroicas. La ropa refuerza la sensación de verticalidad y continuidad, como si su cuerpo fuera una columna.
+
+* **Ausencia de gesto heroico:** no alza armas, no señala, no avanza. Su postura es **recta y contenida**, con brazos relajados o manos bajas. No hay dramatismo corporal.
+
+* **Alas discretas o inexistentes:** cuando aparecen alas, son secundarias, pequeñas o plegadas. En muchas representaciones directamente no se muestran, reforzando su aspecto humano y terrestre.
+
+El arcángel Sandalfón porta muy pocos objetos, y cuando aparecen son claros, físicos y funcionales. Estos son los ítems concretos asociados a su iconografía:
+
+* **Vara o bastón largo:** puede portar una vara sencilla, recta y sin ornamentación. No es cetro de mando ni arma. Funciona como apoyo, medida o eje vertical, reforzando su altura. Si aparece, suele tocar el suelo.
+
+* **Escalera o estructura vertical:** en muchas representaciones no la “sostiene”, pero está vinculada físicamente a él: una escalera, columna o eje que conecta cielo y tierra. No es simbólica abstracta: es un objeto visible en la escena.
+
+* **Instrumento musical simple:** a veces se le representa con instrumentos sobrios (lira, arpa sencilla, cuenco sonoro). No como músico activo, sino como contenedor del objeto. Nunca en gesto performativo.
+
+* **Pergaminos, flores o plegarias materiales:** puede portar objetos físicos pequeños: pergaminos enrollados, ramos simples, ofrendas. Se sostienen bajos, cerca del cuerpo, sin alzarlos ni mostrarlos.
+
+**Lo que NO porta:** no porta espada, ni libro de conocimiento, ni balanza, ni trompeta, ni corona, ni luz que emana.
 
 **Esencia:** escucha. Elevación. Fidelidad al ruego.
-Sandalfón no juzga la oración: **la recoge tal como es, incluso cuando es confusa, torpe o contradictoria**.
+Sandalfón no juzga la oración: la recoge tal como es, incluso cuando es confusa, torpe o contradictoria.
 
 **Cómo interactúa:**
 
@@ -836,12 +788,28 @@ Sandalfón no juzga la oración: **la recoge tal como es, incluso cuando es conf
 
 ### Arcángel Hadraniel
 
-*El Umbral del Temor Reverente.*
+*El guardián de la segunda puerta del cielo.*
 
 **Tradición** judeocristiana.
 **Rol:** custodiar el paso de las oraciones hacia lo divino, filtrando el ruido y preservando el respeto profundo que acompaña al acto de elevar una súplica.
 
-**Apariencia:** figura humana imponente pero contenida, cuya presencia provoca silencio inmediato. No intimida por amenaza, sino por gravedad. Suele manifestarse en el instante previo a que una oración sea entregada, cuando aún puede desvanecerse o transformarse.
+**Apariencia:** **Hadraniel** se diferencia del resto de entidades angelicales por una materialidad defensiva y liminal muy concreta. Su apariencia comunica *frontera*, *control de paso* y *resistencia estructural*, no juicio ni mensaje.
+
+* **Rasgos físicos distintivos:** Hadraniel se presenta como una figura **masiva y densa**, más ancha que alta en proporción visual. El cuerpo parece **construido para resistir**, no para moverse con gracia. Hombros muy amplios, cuello corto, torso compacto. No es esbelto ni luminoso: es **volumen y peso**. La piel o superficie corporal puede sugerir **piedra pulida, metal viejo o carne endurecida**, como si su forma hubiese sido erosionada por siglos de impacto. No transmite cercanía ni serenidad: transmite *no pasar*.
+
+* **Vestimenta y estructura:** no viste túnica fluida ni manto ceremonial. Lleva una **coraza funcional**, sin ornamentación heroica, pensada para cubrir y bloquear. Puede combinar placas rígidas con telas gruesas, casi arquitectónicas. Los colores son apagados: grises, ocres, bronces envejecidos. Nada ondea. Todo cae o encaja.
+
+**Objetos que porta:** aquí está su rasgo más identificable:
+
+* **Lanza o pica larga**: recta, pesada, sin filo decorativo. No es un arma de ataque, sino un instrumento de contención. Su longitud refuerza la idea de distancia y perímetro.
+
+* **Escudo macizo o barrera portátil**: grande, casi desproporcionado, más cercano a una puerta móvil que a un escudo de combate. Puede estar marcado, agrietado, con señales de impactos antiguos.
+
+* **Llaves monumentales:** una o varias, grandes, pesadas, colgando o sujetas con firmeza. No son elegantes; son herramientas de cierre.
+
+* **Elemento arquitectónico integrado:** a veces su silueta se confunde con el marco de una puerta, un arco, una reja. No lo acompaña: forma parte de él.
+
+* **Postura y actitud:** Hadraniel está plantado, con las piernas firmes y el peso repartido. No avanza ni amenaza. Simplemente ocupa el paso. Su mirada no juzga ni anuncia: verifica. No hay emoción visible, solo función cumplida.
 
 **Esencia:** reverencia. Límite. Asombro consciente.
 Hadraniel no rechaza oraciones: **exige que quien reza sea consciente de lo que está haciendo**.
@@ -870,89 +838,56 @@ Hadraniel no rechaza oraciones: **exige que quien reza sea consciente de lo que 
 
 **Escena sugerida:** un PJ intenta rezar desesperadamente, pero las palabras no salen; solo cuando acepta en silencio lo que realmente teme o desea, siente que la oración finalmente ha sido escuchada y continúa su camino.
 
-### Arcángel Shamsiel
-
-*El Intérprete del Sol.*
-
-**Tradición** judeocristiana.
-**Rol:** enseñar a los seres humanos a leer las señales del Sol como reflejo del orden, del tiempo y de la verdad expuesta sin sombra.
-
-**Apariencia:** figura humana luminosa pero no cegadora. Su presencia recuerda a la claridad de una mañana despejada: todo se ve mejor, incluso aquello que se prefería ignorar. Suele aparecer al amanecer, al mediodía exacto o en momentos en que la luz revela algo oculto.
-
-**Esencia:** revelación visible. Ritmo. Evidencia.
-Shamsiel no interpreta por otros: **enseña a mirar correctamente lo que siempre ha estado a la vista**.
-
-**Cómo interactúa:**
-
-* Señala patrones en los ciclos naturales y en los acontecimientos humanos.
-* Hace coincidir revelaciones importantes con la luz del día.
-* Desarma engaños que solo sobreviven en la penumbra.
-
-**Teme** la negación consciente de lo evidente.
-
-**Desea** que los humanos aprendan a leer las señales claras antes de buscar misterios ocultos.
-
-**Conflictos:**
-
-* Revela una verdad que nadie puede negar, pero que nadie quiere aceptar.
-* Desmonta creencias construidas sobre interpretaciones erróneas de “señales”.
-* Enfrenta a un PJ con pruebas irrefutables de algo que prefería dudar.
-
-**Poderes:**
-
-* Señal solar: Shamsiel permite identificar un acontecimiento como parte de un ciclo mayor, revelando si es inicio, culminación o advertencia final.
-
-* Luz inexorable: durante una escena, mentiras, medias verdades y autoengaños se vuelven insostenibles; lo evidente se impone aunque resulte incómodo.
-
-**Escena sugerida:** bajo un sol implacable, un PJ comprende que todas las señales estaban ahí desde el principio, visibles para cualquiera que se atreviera a mirar sin apartar la vista.
-
-### Arcángel Satariel
-
-*El Guardián del Velo.*
-
-**Tradición** judeocristiana.
-**Rol:** custodiar lo oculto, mantener velados ciertos aspectos de la realidad para proteger el equilibrio entre conocimiento y consciencia.
-
-**Apariencia:** figura humana apenas definida, como si siempre estuviera a medio recordar. Su rostro resulta familiar y extraño a la vez; cuanto más se intenta fijar en él, más detalles se escapan. Suele aparecer en espacios de penumbra, archivos incompletos, recuerdos fragmentados o conversaciones interrumpidas.
-
-**Esencia:** ocultación. Límite del saber. Misericordia del misterio.
-Satariel no miente: **impide ver aquello que aún no puede ser sostenido**.
-
-**Cómo interactúa:**
-
-* Hace que información crucial resulte inaccesible en el momento equivocado.
-* Introduce lagunas, olvidos o distracciones significativas.
-* Protege a los personajes de verdades que los destruirían prematuramente.
-
-**Teme** la revelación total sin madurez interior.
-
-**Desea** que el conocimiento llegue solo cuando exista capacidad para integrarlo.
-
-**Conflictos:**
-
-* Oculta una verdad que podría evitar una tragedia inmediata.
-* Provoca desconfianza entre PJs al velar información de forma selectiva.
-* Enfrenta a un personaje con la frustración de “casi entenderlo todo”.
-
-**Poderes:**
-
-* Velo consciente: mientras esté activo, ciertos hechos no pueden ser plenamente comprendidos ni recordados, aunque se perciban de forma fragmentaria.
-
-* Olvido protector: permite borrar temporalmente un recuerdo, dato o conexión peligrosa, no como castigo, sino como salvaguarda psicológica o moral.
-
-**Escena sugerida:** un PJ descubre que ha investigado durante días algo crucial… pero no recuerda qué era exactamente, solo la certeza inquietante de que olvidarlo fue necesario.
-
 ### Arcángel Zerachiel
 
-*El Sostenedor del Ánimo.*
+*La luz de Dios y cura para la mente.*
 
 **Tradición** judeocristiana.
 **Rol:** fortalecer el espíritu humano cuando la esperanza se debilita y el cansancio amenaza con convertirse en rendición.
 
-**Apariencia:** figura humana de gesto cercano y mirada firme. No transmite euforia ni consuelo fácil, sino una calma que permite seguir adelante un paso más. Suele aparecer en momentos de agotamiento prolongado, cuando el entusiasmo inicial ya se ha extinguido.
+**Apariencia:** A continuación se enumeran rasgos físicos concretos e identificables de Zerachiel:
 
-**Esencia:** perseverancia. Aliento. Resistencia interior.
-Zerachiel no promete que todo irá bien: **recuerda por qué merece la pena continuar incluso cuando nada mejora**.
+* **Constitución recta y contenida**: cuerpo erguido, proporciones humanas precisas, sin exageración heroica ni monumental. No flota ni adopta posturas dinámicas.
+
+* **Rostro severo y neutro**: facciones definidas, mandíbula firme, cejas rectas; expresión imperturbable. No muestra ira ni compasión visibles.
+
+* **Mirada directa pero no acusadora**: ojos abiertos, fijos, sin brillo sobrenatural. La mirada evalúa; no amenaza.
+
+* **Piel y presencia cromática**: tonos fríos y apagados (grises, piedra clara, marfil envejecido). Ausencia de luz propia.
+
+* **Vestimenta estructurada**: túnica o manto de líneas rectas, tejidos densos y pesados. Sin pliegues ornamentales ni elementos decorativos.
+
+* **Posible coraza parcial**: placas simples en pecho u hombros, funcionales, sin grabados heroicos.
+
+**Alas:**
+
+* Dos alas cerradas o apenas abiertas, compactas y ordenadas.
+* Plumas rígidas, bien alineadas, sin efecto etéreo ni expansión simbólica.
+* Integradas visualmente en la silueta, como extensión estructural, no como espectáculo.
+
+**Objetos que porta:**
+
+* **Balanza sobria**: pequeña, de brazos cortos y simétricos. No cuelga de cadenas largas ni se muestra en acción; suele sostenerse a la altura del torso.
+
+* **Libro de registro o tablilla**: encuadernación rígida, sin títulos visibles. Puede estar cerrado o sostenido contra el cuerpo.
+
+* **Vara recta o bastón corto (opcional)**: liso, sin remate, usado como insignia de función, no como arma.
+
+* **Ausencia deliberada de espada**: Zerachiel no ejecuta; certifica y constata.
+
+* **Objetos que NO porta:** 
+
+* Sin halo luminoso.
+
+* Sin gestos dramáticos.
+
+* Sin símbolos de misericordia ni de castigo físico.
+
+* Sin ornamentación dorada ni iconografía triunfal.
+
+Si quieres, en un siguiente paso puedo **reducir esto a un prompt visual de ≤700 caracteres**, o adaptarlo explícitamente al **estilo manga en escala de grises** que estás utilizando para el resto del coro.
+
+**Esencia:** perseverancia. Aliento. Resistencia interior. Zerachiel no promete que todo irá bien: **recuerda por qué merece la pena continuar incluso cuando nada mejora**.
 
 **Cómo interactúa:**
 
@@ -1177,6 +1112,101 @@ No tiene prisa nunca.
 
 **Desea** que cada humano recupere su voz propia.
 
+## Serafines
+
+### Serafín Serafiel
+
+*El líder de los serafines.*
+
+**Tradición** judeocristiana.
+**Rol:** conducir los procesos de purificación, eliminando lo que corrompe sin destruir lo esencial.
+
+**Apariencia:** Serafiel pertenece al coro de los serafines, el orden más cercano a Dios en la angelología clásica. No actúa como mensajero, juez o acompañante de procesos humanos. **Su función es la alabanza y la vibración continua**, no la mediación.
+
+* **Multiplicidad de alas:** mientras los arcángeles suelen representarse con dos alas (o cuatro en enfoques más simbólicos), Serafiel se distingue por seis alas, siguiendo la tradición de Isaías: dos cubren el rostro, dos cubren el cuerpo y dos se usan para volar. Esto no es decorativo: visualmente comunica exceso de sacralidad, imposibilidad de exposición directa.
+
+* **Rostro velado o parcialmente oculto:** Serafiel no se muestra plenamente. Su rostro suele estar cubierto por alas, difuminado por la luz y apenas insinuado.
+
+* **Cuerpo menos humano:** los arcángeles en Nexus conservan rasgos humanos reconocibles. Serafiel, en cambio, tiende a tener una anatomía menos definida, proporciones irreales, un cuerpo casi disuelto en luz, fuego o vibración. No es andrógino por equilibrio, sino por trascendencia de forma.
+
+* **Luz activa, no suave:** luz intensa, vibrante, abrasiva. La luz de Serafiel no permite ver mejor, sino que consume, transforma o satura. Colores habituales: blanco incandescente, dorados extremos, rojos ígneos, a veces, azul eléctrico o violeta muy luminoso. Nunca apagados.
+
+* **Postura no relacional:** Serafiel no se coloca *a la altura del otro*, su postura es vertical, ascensional o completamente estática, como suspendido en un canto eterno. No mira al espectador. No hay relación horizontal.
+
+**Esencia:** purificación. Despojo. Renovación. Serafiel no castiga: **quema lo que sobra para que lo verdadero pueda permanecer**.
+
+**Cómo interactúa:**
+
+- Señala hábitos, ideas o vínculos que ya no pueden continuar.
+- Provoca procesos dolorosos pero honestos de cambio.
+- No interviene hasta que el personaje está dispuesto a perder algo.
+
+**Teme** la falsa pureza basada en la negación y la apariencia.
+
+**Desea** una transformación real, aunque implique sufrimiento temporal.
+
+**Conflictos:**
+
+- Exige renunciar a algo muy querido para poder avanzar.
+- Desmantela identidades construidas sobre culpa o orgullo.
+- Enfrenta a un PJ con el miedo a quedarse vacío tras la purificación.
+
+**Poderes:**
+
+- Fuego interior: activa un proceso de purificación que elimina corrupciones morales, influencias externas o autoengaños persistentes, a costa de fatiga emocional o pérdida de certezas.
+
+- Despojo necesario: obliga a un personaje a desprenderse de un recurso, ventaja o vínculo que se ha vuelto tóxico, permitiendo un crecimiento posterior más auténtico.
+
+**Escena sugerida:** tras aceptar un cambio doloroso, un PJ siente que algo esencial ha sido arrancado… y solo después comprende que lo que queda es más ligero, más verdadero y finalmente habitable.
+
+### Serafín Jehoel
+
+*El lugarteniente de Serafiel.*
+
+**Tradición** judeocristiana.
+**Rol:** liderar la segunda subordinación de ángeles, asegurando la correcta transmisión entre las voluntades superiores y su ejecución en el mundo.
+
+**Apariencia:** Jehoel se define por pocos elementos. No hay ambigüedad simbólica, lo que lleva indica cargo, no acción. Elementos habituales y coherentes:
+
+* **Corona sobria** No es ornamental ni triunfal. Suele ser simple, cerrada o apenas insinuada, sin joyas excesivas. Representa autoridad reconocida, no gloria ni realeza épica.
+
+* **Cetro corto o vara de mando:** cuando aparece, es reducido, recto y sin ornamentación. No se usa para señalar ni castigar. Funciona como insignia administrativa, equivalente a un bastón de cargo.
+
+* **Vestimenta estructurada:** túnica o manto bien definido, con caída limpia y simétrica. La ropa de Jehoel marca forma y estabilidad. Colores habituales: dorados apagados, blancos densos, ocres o grises claros.
+
+* **Postura erguida y frontal:** no avanza, no flota, no se repliega. El cuerpo está vertical y centrado, con peso visual. Esta postura es parte del *equipo*, comunica presidencia.
+
+* **Manos visibles y controladas:** a menudo una mano sostiene la corona o la vara; la otra permanece relajada. No hay gesto dramático, bendición ni señalización.
+
+* **Ausencia deliberada de otros elementos:** no lleva espada, balanza, libro, alas desplegadas en exceso ni efectos de luz protagonistas. Esa ausencia es clave: Jehoel no ejecuta ni media.
+
+**Esencia:** mediación. Coherencia. Traducción del mandato.
+Jehoel no crea ni ejecuta: **convierte la intención en estructura operativa**.
+
+**Cómo interactúa:**
+
+- Alinea acciones dispersas bajo un propósito común.
+- Señala fallos de comunicación entre niveles de autoridad.
+- Reduce el caos sin anular la iniciativa individual.
+
+**Teme** la descoordinación que convierte buenas intenciones en desastre.
+
+**Desea** que cada fuerza actúe en su lugar y momento precisos.
+
+**Conflictos:**
+
+- Prioriza el funcionamiento del conjunto frente a una necesidad individual urgente.
+- Corrige una intervención “bienintencionada” que rompe la cadena de mando.
+- Enfrenta a un PJ con la diferencia entre obedecer y comprender.
+
+**Poderes:**
+
+- Cadena clara: mientras esté activo, las órdenes, señales o intenciones se transmiten sin distorsión entre todos los implicados en una escena compleja.
+
+- Sincronía operativa: permite coordinar acciones simultáneas de varios personajes, evitando interferencias y maximizando la eficacia conjunta.
+
+**Escena sugerida:** en una situación caótica con múltiples frentes abiertos, cada acción empieza a encajar con las demás como piezas de un mecanismo mayor, revelando que alguien ha estado organizando el flujo desde un nivel invisible.
+
 ## Ángeles
 
 Entendido. A continuación tienes **diez ángeles (no arcángeles)**, **inventados**, con **nombre propio** y **función clara**, escritos **exactamente en el formato del ejemplo** y pensados para tradición cristiana amplia, con un enfoque **humano, moral y narrativo**. No repito el ejemplo ni hago comentarios adicionales.
@@ -1184,6 +1214,116 @@ Entendido. A continuación tienes **diez ángeles (no arcángeles)**, **inventad
 ### Ángeles de la guarda
 
 ...
+
+### Ángel Shamsiel
+
+*Gobernante del Cuarto Cielo.*
+
+**Tradición** judeocristiana.
+**Rol:** enseñar a los seres humanos a leer las señales del Sol como reflejo del orden, del tiempo y de la verdad expuesta sin sombra.
+
+**Apariencia:** Shamsiel se diferencia del resto de entidades angelicales por todo lo siguiente:
+
+* **Complexión y cuerpo:**  Shamsiel presenta una **figura alta y rectilínea**, pero no musculada ni masiva. Su cuerpo es **delgado, firme y tenso**, como una estructura pensada para **soportar exposición prolongada**, no impacto ni combate. No transmite peso ni ligereza: transmite **resistencia a la intemperie**. La piel suele representarse **oscurecida o curtida**, como quemada por el sol, con tonos bronce, cobre o arena tostada. No es luminosa ni etérea; parece **reseca**, marcada por calor constante.
+
+* **Rostro y cabeza:** rostro **severo y endurecido**, pómulos marcados, ojos hundidos o protegidos por sombras profundas. La mirada no evalúa ni juzga: **vigila hacia lo alto o hacia el horizonte**. No suele mirar al observador. Cabello corto, rapado o muy controlado; en algunas representaciones, cubierto parcialmente por telas o cascos abiertos. Nunca melena suelta.
+
+* **Vestimenta:** viste ropa funcional contra el sol: túnica gruesa o capas superpuestas, tejidos densos, similares a lona, cuero tratado o lino pesado; colores apagados: ocres, arena, marrones, bronce viejo, grises cálidos; puede llevar capucha, velo o manto corto que protege cuello y cabeza, no para ocultarse sino para resistir la exposición. Nada fluido ni ornamental. La ropa parece gastada, pensada para durar.
+
+**Objetos que porta:**
+
+* **Bastón largo o vara recta** simple, sin símbolos. Funciona como apoyo, marcador de posición o instrumento de observación.
+
+* **Disco solar, placa metálica o medallón grande**, a veces colgado al pecho o integrado en la vestimenta. No brilla: absorbe luz.
+
+* **Instrumentos de medición:** anillos, marcas grabadas, líneas rectas, como si midiera ciclos o posiciones solares.
+
+* **Nunca lleva:** espada, trompeta, libro sellado, balanza ni llaves.
+
+**Alas:** si se representan, son alas rígidas y tensas, con plumas compactas o incluso aspecto casi mineralizado por el calor. No se despliegan en gesto épico; suelen estar recogidas o apenas abiertas, como protegiendo la espalda del sol.
+
+**Esencia:** revelación visible. Ritmo. Evidencia.
+Shamsiel no interpreta por otros: **enseña a mirar correctamente lo que siempre ha estado a la vista**.
+
+**Cómo interactúa:**
+
+- Señala patrones en los ciclos naturales y en los acontecimientos humanos.
+- Hace coincidir revelaciones importantes con la luz del día.
+- Desarma engaños que solo sobreviven en la penumbra.
+
+**Teme** la negación consciente de lo evidente.
+
+**Desea** que los humanos aprendan a leer las señales claras antes de buscar misterios ocultos.
+
+**Conflictos:**
+
+- Revela una verdad que nadie puede negar, pero que nadie quiere aceptar.
+- Desmonta creencias construidas sobre interpretaciones erróneas de “señales”.
+- Enfrenta a un PJ con pruebas irrefutables de algo que prefería dudar.
+
+**Poderes:**
+
+- Señal solar: Shamsiel permite identificar un acontecimiento como parte de un ciclo mayor, revelando si es inicio, culminación o advertencia final.
+
+- Luz inexorable: durante una escena, mentiras, medias verdades y autoengaños se vuelven insostenibles; lo evidente se impone aunque resulte incómodo.
+
+**Escena sugerida:** bajo un sol implacable, un PJ comprende que todas las señales estaban ahí desde el principio, visibles para cualquiera que se atreviera a mirar sin apartar la vista.
+
+### Ángel caído Satariel
+
+*Decimoséptimo Vigilante de los 20 líderes de los 200 ángeles caídos.*
+
+**Tradición** judeocristiana.
+**Rol:** custodiar lo oculto, mantener velados ciertos aspectos de la realidad para proteger el equilibrio entre conocimiento y consciencia.
+
+**Apariencia:** Satariel se distingue porque no revela, no guía y no actúa. Su función es cerrar el acceso, introducir ruido, niebla y barreras. Visualmente, es el ángel que hace que el espectador no pueda terminar de entender lo que está viendo, y esa incomodidad es exactamente su firma.
+
+* **Aspecto general:** Satariel no se presenta como figura clara o legible. Su silueta es incompleta o interferida, como si algo faltara o estuviera mal alineado. A menudo parece envuelto en capas de sombra, velo o distorsión visual. No es oscuro en sentido maligno, sino opaco. Donde otros ángeles se definen por presencia, Satariel se define por ausencia perceptiva.
+
+* **Rostro y mirada:** el rostro suele estar oculto, velado o fragmentado. Puede carecer de ojos visibles, o tenerlos cubiertos, cerrados o hundidos en sombra total. Si hay mirada, no enfoca: no establece contacto ni observa; bloquea. Su expresión no es severa ni compasiva: es inaccesible.
+
+* **Cuerpo y fisicidad:** su cuerpo puede parecer parcial, como si no terminara de materializarse. A veces demasiado delgado, a veces desproporcionado, a veces envuelto en capas que impiden discernir su forma real. No transmite peso físico ni ligereza espiritual: transmite indeterminación.
+
+* **Vestimenta:** no hay túnicas claras ni estructuras jerárquicas. Viste capas superpuestas, telas densas, velos, mantos cerrados. Los pliegues no decoran: ocultan. Colores apagados, grises profundos, negros mates, tonos ceniza o violáceos muy oscuros. Nada refleja la luz de forma limpia.
+
+* **Alas:** si se representan, son compactas, cerradas o plegadas, a veces casi indistinguibles del manto. No sugieren vuelo ni protección. Funcionan como paredes, no como extensión.
+
+* **Luz:** la luz en torno a Satariel es irregular: zonas apagadas, sombras que no corresponden con la fuente lumínica. La escena parece oscura a propósito, como si algo evitara ser visto con claridad.
+
+**Objetos característicos:**
+Satariel no porta armas ni símbolos de autoridad. Sus objetos, si aparecen, son instrumentos de bloqueo, barreras conceptuales:
+
+* **Sellos cerrados**, cerraduras sin llave visible.
+* **Cajas negras**, cofres opacos, superficies sin inscripción legible.
+* **Pergaminos velados**, textos tachados, escritura incompleta.
+* **Espejos oscurecidos** o superficies que no devuelven reflejo.
+
+**Esencia:** ocultación. Límite del saber. Misericordia del misterio.
+Satariel impide ver aquello que aún no puede ser sostenido.
+
+**Cómo interactúa:**
+
+- Hace que información crucial resulte inaccesible en el momento equivocado.
+- Introduce lagunas, olvidos o distracciones significativas.
+- Protege a los personajes de verdades que los destruirían prematuramente.
+
+**Teme** la revelación total sin madurez interior.
+
+**Desea** que el conocimiento llegue solo cuando exista capacidad para integrarlo.
+
+**Conflictos:**
+
+- Oculta una verdad que podría evitar una tragedia inmediata.
+- Provoca desconfianza entre PJs al velar información de forma selectiva.
+- Enfrenta a un personaje con la frustración de “casi entenderlo todo”.
+
+**Poderes:**
+
+- Velo consciente: mientras esté activo, ciertos hechos no pueden ser plenamente comprendidos ni recordados, aunque se perciban de forma fragmentaria.
+
+- Olvido protector: permite borrar temporalmente un recuerdo, dato o conexión peligrosa, no como castigo, sino como salvaguarda psicológica o moral.
+
+**Escena sugerida:** un PJ descubre que ha investigado durante días algo crucial… pero no recuerda qué era exactamente, solo la certeza inquietante de que olvidarlo fue necesario.
 
 ### Ángel Arel
 

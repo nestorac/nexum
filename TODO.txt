@@ -13,3 +13,6 @@
 * Debe poderse elegir el estilo de las ilustraciones: manga, realista, cómic europeo...
 * Debe poderse elegir la IA que se quiera usar: ChatGPT, Grok...
 * Añadir las descripciones de Wikipedia de los seres celestiales.
+* Revisar todas las Apariencias de personajes celestiales, añadir sección Personalidad y mover ahí las que sean descripciones de la personalidad, no físicas.
+* Documentarme bien sobre celestiales y plasmarlo en el manual.
+* Desarrollar la historia del Cielo y del Infierno, no solo de la Tierra.
