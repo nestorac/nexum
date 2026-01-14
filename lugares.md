@@ -119,3 +119,9 @@
 - **Simbolismo:** la creación sin amor, la belleza fría.
 
 - **Posible escena:** los personajes encuentran una flor que responde al pensamiento humano.
+
+## Ciudad de Osaka
+
+## Ciudad de Nueva York
+
+### Laboratorio central de Nexum
