@@ -915,11 +915,17 @@ Hadraniel no rechaza oraciones: **exige que quien reza sea consciente de lo que 
 * **Apariencia general:** Camael se presenta como una figura **claramente humana**, de **gran tamaño**, sólida y pesada. No flota ni adopta posturas dinámicas: **permanece plantado**, con los pies firmes en el suelo. Su presencia ocupa espacio físico y obliga a rodearlo o enfrentarlo.
 
 * **Complexión:** muy robusta y musculada, hombros anchos, torso grueso, cuello fuerte. No estilizado.
+
 * **Altura:** superior a la humana media, pero sin gigantismo.
+
 * **Rostro:** anguloso, mandíbula marcada, pómulos duros. Expresión severa, sin ira ni compasión.
+
 * **Mirada:** directa y fija; no evita los ojos, no intimida activamente.
+
 * **Piel:** tonos apagados (carne curtida, gris cálido, bronce oscuro). Sin brillo sobrenatural.
+
 * **Cabello:** corto o recogido, funcional; colores oscuros o ceniza.
+
 * **Marcas visibles:** cicatrices antiguas, desgaste físico real.
 
 **Vestimenta:**
@@ -1853,7 +1859,44 @@ Manos enormes, voz profunda.
 
 # Mitología Japonesa
 
-*Kami, yokai reinterpretados.*
+*Kami, yokai reinterpretados.
+
+**Apariencia** Karasu Tengu (tengu cuervo), que tienen caras de pájaro con picos largos,caras rojas y el atuendo de un monje budista itinerante, con grandes alas que salen de sus espaldas; estas alas les permiten volar libremente por el aire.
+
+Amaterasu
+
+**Apariencia ** Amaterasu es representada como una mujer hermosa y juvenil con largos cabellos dorados, a menudo llamada la "Diosa de Oro.
+
+Amaterasu Ō-Mikami o Amaterasu Okami , es la diosa del sol en la mitología japonesa uno de los gobernantes del reino celestial (Takamagahara) y el antepasado mítico de la familia imperial japonesa a través de su nieto Ninigi. Junto con sus hermanos, la deidad lunar Tsukuyomi y el impetuoso dios de la tormenta Susanoo, se la considera uno de los tres descendientes más importantes del dios creador Izanagi.
+
+Susanoo
+
+Tradicion Susanoo en el sintoísmo, es el dios del mar, de las tormentas y las tempestades, y de las batallas. Es el hermano de Amaterasu, la diosa del Sol, y de Tsukuyomi, el dios de la Luna.
+
+apariencia Susanoo en la mitología japonesa se representa comúnmente como un dios de aspecto imponente: cabello negro largo, barba y bigote, túnica blanca y una espada en la mano, con una mirada desafiante.
+
+Yuki-onna
+
+*Apariencia* es representada como una mujer alta, hermosa, de largos cabellos, que se manifiesta en una noche nevada. Su piel es pálida o aún transparente o incluso de color morado, podría decirse que casi inhumana. Su color hace que se la confunda en paisajes nevados. A veces usa un kimono blanco.
+
+Yuki-onna, está asociada al invierno y a las tempestades de nieve, se dice en algunas leyendas que parece ser el espíritu de un individuo que ha fallecido de frío en la nieve. Es al mismo tiempo hermosa y serena, más allá de su despiadada matanza de mortales confiados.
+
+MItologia Griega
+
+hermes
+
+En la mitología griega, Hermes (en griego antiguo: Ἑρμῆς, Hermḗs), hijo de Zeus y la pléyade Maya, es el dios olímpico mensajero, dios también de las fronteras y de los viajeros que las cruzan, del ingenio y del comercio en general, de la astucia, de los ladrones y de los mentirosos, además de ser el encargado de guiar a las almas hacia el inframundo, el Hades.En la posterior mitología romana era denominado como Mercurio.
+
+Apariencia Hermes es generalmente representado como un joven hermoso, atlético y de apariencia juvenil.
+
+hecate
+
+Hécate es una diosa de la mitología griega asociada con la magia, la brujería, la noche, los caminos de entrada, las encrucijadas y los fantasmas.
+
+Apariencia
+
+figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capacidad para vigilar todos los caminos y límites.
+ Fue venerada como protectora de los hogares, especialmente en Atenas, donde se le rendía culto por su papel en la prosperidad diaria y la protección. Tambien representa las tres fases lunares,Cuando se la invoca hay que referirse a ella como la doncella la madre y la anciana.
 
 ## Tengu
 
