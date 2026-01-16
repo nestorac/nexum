@@ -1859,44 +1859,7 @@ Manos enormes, voz profunda.
 
 # Mitología Japonesa
 
-*Kami, yokai reinterpretados.
-
-**Apariencia** Karasu Tengu (tengu cuervo), que tienen caras de pájaro con picos largos,caras rojas y el atuendo de un monje budista itinerante, con grandes alas que salen de sus espaldas; estas alas les permiten volar libremente por el aire.
-
-Amaterasu
-
-**Apariencia ** Amaterasu es representada como una mujer hermosa y juvenil con largos cabellos dorados, a menudo llamada la "Diosa de Oro.
-
-Amaterasu Ō-Mikami o Amaterasu Okami , es la diosa del sol en la mitología japonesa uno de los gobernantes del reino celestial (Takamagahara) y el antepasado mítico de la familia imperial japonesa a través de su nieto Ninigi. Junto con sus hermanos, la deidad lunar Tsukuyomi y el impetuoso dios de la tormenta Susanoo, se la considera uno de los tres descendientes más importantes del dios creador Izanagi.
-
-Susanoo
-
-Tradicion Susanoo en el sintoísmo, es el dios del mar, de las tormentas y las tempestades, y de las batallas. Es el hermano de Amaterasu, la diosa del Sol, y de Tsukuyomi, el dios de la Luna.
-
-apariencia Susanoo en la mitología japonesa se representa comúnmente como un dios de aspecto imponente: cabello negro largo, barba y bigote, túnica blanca y una espada en la mano, con una mirada desafiante.
-
-Yuki-onna
-
-*Apariencia* es representada como una mujer alta, hermosa, de largos cabellos, que se manifiesta en una noche nevada. Su piel es pálida o aún transparente o incluso de color morado, podría decirse que casi inhumana. Su color hace que se la confunda en paisajes nevados. A veces usa un kimono blanco.
-
-Yuki-onna, está asociada al invierno y a las tempestades de nieve, se dice en algunas leyendas que parece ser el espíritu de un individuo que ha fallecido de frío en la nieve. Es al mismo tiempo hermosa y serena, más allá de su despiadada matanza de mortales confiados.
-
-MItologia Griega
-
-hermes
-
-En la mitología griega, Hermes (en griego antiguo: Ἑρμῆς, Hermḗs), hijo de Zeus y la pléyade Maya, es el dios olímpico mensajero, dios también de las fronteras y de los viajeros que las cruzan, del ingenio y del comercio en general, de la astucia, de los ladrones y de los mentirosos, además de ser el encargado de guiar a las almas hacia el inframundo, el Hades.En la posterior mitología romana era denominado como Mercurio.
-
-Apariencia Hermes es generalmente representado como un joven hermoso, atlético y de apariencia juvenil.
-
-hecate
-
-Hécate es una diosa de la mitología griega asociada con la magia, la brujería, la noche, los caminos de entrada, las encrucijadas y los fantasmas.
-
-Apariencia
-
-figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capacidad para vigilar todos los caminos y límites.
- Fue venerada como protectora de los hogares, especialmente en Atenas, donde se le rendía culto por su papel en la prosperidad diaria y la protección. Tambien representa las tres fases lunares,Cuando se la invoca hay que referirse a ella como la doncella la madre y la anciana.
+*Kami, yokai reinterpretados.*
 
 ## Tengu
 
@@ -1906,7 +1869,7 @@ figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capac
 
 **Rol:** orgullo, humildad, disciplina espiritual.
 
-**Apariencia:** hombre delgado con expresión ascética. Lleva ropa de monje, con modales bruscos.
+**Apariencia:** Karasu Tengu (tengu cuervo) tiene cara de pájaro con un largo pico, cara de color rojo y el atuendo de un monje budista itinerante, con grandes alas que salen de su espalda,  estas alas le permiten volar libremente por el aire.
 
 **Esencia:** la lección tras el error.
 
@@ -1922,12 +1885,14 @@ figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capac
 
 ## Amaterasu
 
-*La Luz Interior*
+*La Luz Interior.*
+
+Amaterasu Ō-Mikami o Amaterasu Okami , es la diosa del sol en la mitología japonesa uno de los gobernantes del reino celestial (Takamagahara) y el antepasado mítico de la familia imperial japonesa a través de su nieto Ninigi. Junto con sus hermanos, la deidad lunar Tsukuyomi y el impetuoso dios de la tormenta Susanoo, se la considera uno de los tres descendientes más importantes del dios creador Izanagi.
 
 **Tradición:** Shinto
 **Esencia:** esperanza, claridad emocional.
 
-**Apariencia:** Persona joven con expresión radiante. Parece que la luz del entorno se ajusta a ella.
+**Apariencia:** Amaterasu es representada como una mujer hermosa y juvenil con largos cabellos dorados, a menudo llamada la "Diosa de Oro.
 
 **Interacción:**
 
@@ -1939,11 +1904,13 @@ figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capac
 
 ## Susanoo
 
-*El Impulso Indomable*
+*El Impulso Indomable.*
+
+Susanoo, en el sintoísmo, es el dios del mar, de las tormentas y las tempestades y de las batallas. Es el hermano de Amaterasu, la diosa del Sol, y de Tsukuyomi, el dios de la Luna.
 
 **Esencia:** caos creativo, valentía arriesgada.
 
-**Apariencia:** hombre desordenado, expresivo, impulsivo. Ríe mucho. Se enfada rápido.
+**Apariencia:** Susanoo se representa comúnmente como un dios de aspecto imponente: cabello negro largo, barba y bigote, túnica blanca y una espada en la mano, con una mirada desafiante.
 
 **Interacción:**
 
@@ -1953,12 +1920,14 @@ figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capac
 
 ## Yuki-Onna
 
-*El Silencio Frío.*
+*El Silencio Frío.
+
+Yuki-onna está asociada al invierno y a las tempestades de nieve, se dice en algunas leyendas que parece ser el espíritu de un individuo que ha fallecido de frío en la nieve.*
 
 **Tradición:** Yokai
 **Esencia:** calma extrema, atención compasiva sin emoción.
 
-**Apariencia:** mujer pálida, serena, muy elegante. No muestra sentimientos.
+**Apariencia:** Yuki-Onna es representada como una mujer alta, hermosa, de largos cabellos, que se manifiesta en una noche nevada. Su piel es pálida o aún transparente o incluso de color morado, podría decirse que casi inhumana. Su color hace que se la confunda en paisajes nevados. A veces usa un kimono blanco. Es al mismo tiempo hermosa y serena, más allá de su despiadada matanza de mortales confiados.
 
 **Interacción:**
 
@@ -1972,9 +1941,11 @@ figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capac
 
 *El Caminante Entre Mundos.*
 
+En la mitología griega, Hermes (en griego antiguo: Ἑρμῆς, Hermḗs), hijo de Zeus y la pléyade Maya, es el dios olímpico mensajero, dios también de las fronteras y de los viajeros que las cruzan, del ingenio y del comercio en general, de la astucia, de los ladrones y de los mentirosos, además de ser el encargado de guiar a las almas hacia el inframundo, el Hades. En la posterior mitología romana era denominado como Mercurio.
+
 **Esencia:** comunicación, intuición, movimiento.
 
-**Apariencia:** hombre joven, ágil, sonrisa afilada. O mujer vivaz que parece saber más de lo que dice.
+**Apariencia:** Hermes es generalmente representado como un joven hermoso, atlético y de apariencia juvenil.
 
 **Interacción:**
 
@@ -1988,9 +1959,11 @@ figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capac
 
 *La de los Cruces.*
 
+Hécate es una diosa de la mitología griega asociada con la magia, la brujería, la noche, los caminos de entrada, las encrucijadas y los fantasmas.
+
 **Esencia:** decisiones, magia interior, conocimiento femenino ancestral.
 
-**Apariencia:** mujer mayor, mirada penetrante, voz baja. A veces tres versiones de ella aparecen en distintos lugares.
+**Apariencia:** Tiene una figura triple, a menudo mostrada con tres cuerpos o caras, simbolizando su capacidad para vigilar todos los caminos y límites. Fue venerada como protectora de los hogares, especialmente en Atenas, donde se le rendía culto por su papel en la prosperidad diaria y la protección. TambieSn representa las tres fases lunares, al invocarla, hay que referirse a ella como la doncella, la madre y la anciana.
 
 **Interacción:**
 
