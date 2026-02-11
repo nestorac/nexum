@@ -107,7 +107,9 @@ Existe un ser celestial básico con el que enlaza la mayoría de las personas, l
 
 ### Metatrón
 
-Menudo nombre...
+Metatrón (en hebreo bíblico: מֶטָטְרוֹן), también conocido como Mattatron o Metator,En algunas ramas del judaísmo, Metatrón es el nombre de un arcángel de rango elevado. En la tradición judaica Merkaváh se considera que es el propio Enoc ascendido al estado angelical, dado que fue elevado a los cielos sin conocer la muerte según el Génesis.
+
+Cubo de metatrón ó flor dela vida En las primeras escrituras cabalísticas se dice que Metatrón creó este cubo a partir de su propia alma.Metatrón es comúnmente representado como una figura de luz resplandeciente, con alas majestuosas y rodeado de un aura brillante, simbolizando su conexión directa con lo divino.
 
 ### Arcángel Gabriel
 
@@ -1975,7 +1977,9 @@ Hécate es una diosa de la mitología griega asociada con la magia, la brujería
 
 ## Anubis
 
-*El Guardián del Tránsito.*
+*El Guardián del Tránsito.
+
+Anubis (en egipcio: 𓇋𓈖𓊪𓅱, jnpw) inpu es el guardián de las tumbas asociado con la muerte y la vida después de ésta en la religión del Antiguo Egipto señor de las necrópolis y patrón de los embalsamadores, representado como un chacal o como un hombre con cabeza de chacal.
 
 **Esencia:** muerte, paso de una etapa a otra.
 
@@ -1991,9 +1995,15 @@ Hécate es una diosa de la mitología griega asociada con la magia, la brujería
 
 # Mitología hindú
 
+## Shiva
+
+Shiva es conocido como «El Destructor» dentro de la trimurti (trinidad hinduista), en la que representa el papel del dios destructor del universo y posteriormente lo renueva, con Brahmá (Dios creador) y Vishnu (Dios preservador). En la tradición shivaita, Shiva es el Señor Supremo que crea, protege y transforma el universo. En su faceta más feroz, se le suele representar matando demonios. Shiva también es conocido como Adiyogi Shiva, considerado el dios patrón del yoga, la meditación y las artes.Los atributos iconográficos de Shiva son la serpiente alrededor de su cuello, la media luna que lo adorna, el río sagrado Ganges que fluye de su pelo enmarañado, el tercer ojo en la frente (el ojo que convierte en cenizas todo lo que tiene delante cuando se abre), el trishula o tridente como arma y el tambor damaru. Suele venerársele en la forma anicónica de lingam.
+
 ## Durga
 
 *La fuerza que sonríe.*
+
+Durga es una importante diosa hindú, venerada como aspecto principal de la diosa madre Mahadevi. Se la asocia con la protección, la fuerza, la maternidad, la destrucción y las guerras.​Es una forma de Devi, una deidad del hinduismo, descrita como la suprema diosa radiante, que se representa con numerosos brazos, portando armas y una flor de loto, que posee una sonrisa meditabunda, y practica mudras.
 
 **Esencia:** determinación compasiva, lucha justa.
 
@@ -2008,6 +2018,8 @@ Hécate es una diosa de la mitología griega asociada con la magia, la brujería
 ## Ganesha
 
 *El que Quita Obstáculos.*
+
+Ganesha (Gaṇeśa) o Ganesh es uno de los dioses más conocidos y adorados del panteón hinduista.Su forma física es de cuerpo humano y cabeza de elefante. Es ampliamente reverenciado como removedor de obstáculos, patrono de las artes, de las ciencias y señor de la abundancia.
 
 **Esencia:** resolución de problemas, mapas mentales claros.
 
@@ -2025,6 +2037,10 @@ Hécate es una diosa de la mitología griega asociada con la magia, la brujería
 
 *El Amor Valiente.*
 
+En las Eddas, Freyja es descrita como la diosa del amor, la belleza y la fertilidad. La gente la invocaba para obtener felicidad en el amor,asistir en los partos y para tener buenas estaciones.
+
+Freyja también era asociada con la guerra, la muerte, la magia, la profecía y la riqueza.
+
 **Esencia:** pasión, sacrificio, magia interior.
 
 **Apariencia:** persona atractiva, fuerte, con ojos tristes o intensos.
@@ -2035,9 +2051,11 @@ Hécate es una diosa de la mitología griega asociada con la magia, la brujería
 * Empuja a enfrentar miedos amorosos.
 * Protege a quienes aman de verdad.
 
-## Valkyria errante
+## Valkyrias
 
 *La Que Eligió Vivir.*
+
+Son dísir, entidades femeninas menores que servían a Odín bajo el mando de Freyja, en la mitología nórdica. Su propósito era elegir a los más heroicos de aquellos caídos en batalla y llevarlos al Valhalla donde se convertían en einherjar.
 
 **Esencia:** destino, segundas oportunidades.
 
@@ -2171,37 +2189,3 @@ Ayudan solo cuando el mundo está al borde de la ruina.
 **Inspiración:** guerreros élficos + espíritus de leyenda.
 **Carácter:** solemnes, trágicos.
 **Poder:** un disparo que siempre alcanza aquello que debe ser alcanzado (no siempre lo que el tirador quiere).
-
-
-
-===
-
-Anubis (en egipcio: 𓇋𓈖𓊪𓅱, jnpw) inpu es el guardián de las tumbas asociado con la muerte y la vida después de ésta en la religión del Antiguo Egipto señor de las necrópolis y patrón de los embalsamadores, representado como un chacal o como un hombre con cabeza de chacal.
-
-Durga
-
-Es una importante diosa hindú, venerada como aspecto principal de la diosa madre Mahadevi. Se la asocia con la protección, la fuerza, la maternidad, la destrucción y las guerras.​Es una forma de Devi, una deidad del hinduismo, descrita como la suprema diosa radiante, que se representa con numerosos brazos, portando armas y una flor de loto, que posee una sonrisa meditabunda, y practica mudras
-
-Metatrón (en hebreo bíblico: מֶטָטְרוֹן), también conocido como Mattatron o Metator,En algunas ramas del judaísmo, Metatrón es el nombre de un arcángel de rango elevado. En la tradición judaica Merkaváh se considera que es el propio Enoc ascendido al estado angelical, dado que fue elevado a los cielos sin conocer la muerte según el Génesis.
-
-Cubo de metatrón ó flor dela vida En las primeras escrituras cabalísticas se dice que Metatrón creó este cubo a partir de su propia alma.Metatrón es comúnmente representado como una figura de luz resplandeciente, con alas majestuosas y rodeado de un aura brillante, simbolizando su conexión directa con lo divino.
-
-![](/home/tetsuya/Descargas/Metatron_s_Cube_Fruit_of_Life_Symbols.webp)
-
-Mitologia HIndu
-
-Ganesha (Gaṇeśa) o Ganesh es uno de los dioses más conocidos y adorados del panteón hinduista.Su forma física es de cuerpo humano y cabeza de elefante. Es ampliamente reverenciado como removedor de obstáculos, patrono de las artes, de las ciencias y señor de la abundancia
-
-Shiva
-
-Shiva es conocido como «El Destructor» dentro de la trimurti (trinidad hinduista), en la que representa el papel del dios destructor del universo y posteriormente lo renueva, con Brahmá (Dios creador) y Vishnu (Dios preservador). En la tradición shivaita, Shiva es el Señor Supremo que crea, protege y transforma el universo. En su faceta más feroz, se le suele representar matando demonios. Shiva también es conocido como Adiyogi Shiva, considerado el dios patrón del yoga, la meditación y las artes.Los atributos iconográficos de Shiva son la serpiente alrededor de su cuello, la media luna que lo adorna, el río sagrado Ganges que fluye de su pelo enmarañado, el tercer ojo en la frente (el ojo que convierte en cenizas todo lo que tiene delante cuando se abre), el trishula o tridente como arma y el tambor damaru. Suele venerársele en la forma anicónica de lingam.
-
-Mitologia nordica
-
-En las Eddas, Freyja es descrita como la diosa del amor, la belleza y la fertilidad. La gente la invocaba para obtener felicidad en el amor,asistir en los partos y para tener buenas estaciones.
-
-Freyja también era asociada con la guerra, la muerte, la magia, la profecía y la riqueza.
-
-Las valquirias o valkirias
-
-Son dísir, entidades femeninas menores que servían a Odín bajo el mando de Freyja, en la mitología nórdica. Su propósito era elegir a los más heroicos de aquellos caídos en batalla y llevarlos al Valhalla donde se convertían en einherjar.
