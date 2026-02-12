@@ -988,7 +988,17 @@ Chamuel no idealiza el amor: **lo manifiesta como una fuerza que integra, no que
 **Tradición** judeocristiana.
 **Rol:** alumbra la mente humana, revela lo oculto.
 
-**Apariencia:** hombre o mujer de rostro sereno, ojos profundamente atentos. Suele aparecer con ropas sencillas, como un maestro o un bibliotecario.
+**Apariencia:** la apariencia de Uriel varía según la tradición (judía apócrifa, cristiana oriental, mística medieval), pero mantiene una iconografía bastante coherente.
+
+* **Juventud solemne:** se le representa como un varón joven, de rostro sereno e inteligente. No transmite agresividad (como Miguel), sino contemplación y lucidez. La expresión suele ser grave, reflexiva.
+
+* **Vestiduras luminosas:** suele llevar túnicas doradas, rojas o blancas. El **dorado** simboliza sabiduría divina. El **rojo intenso** se asocia al fuego espiritual. El **blanco** indica pureza y claridad.
+
+* **El fuego como atributo principal:** su símbolo más característico es **una llama o antorcha** sostenida en la mano. Uriel significa tradicionalmente *“Fuego de Dios”* o *“Luz de Dios”*. El fuego no es destructivo, sino iluminador: representa conocimiento, revelación y discernimiento.
+
+* **Libro o pergamino:** en algunas representaciones porta un libro, símbolo de sabiduría y revelación divina.
+
+* **Alas amplias y claras:** En el arte cristiano aparece con alas blancas o doradas, aunque en textos antiguos no siempre se describen físicamente.
 
 **Esencia:** claridad. Revelación. Comprensión del propósito.
 Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
@@ -1024,7 +1034,17 @@ Uriel no “sabe más”, sino que **te hace ver lo que ya sabes**.
 **Tradición** judeocristiana.
 **Rol:** defiende las convicciones y los valores, fomenta la disciplina.
 
-**Apariencia:** persona robusta, mirada firme, voz controlada. Nunca levanta la voz. Nunca retrocede.
+**Apariencia:** La iconografía de Miguel es una de las más definidas dentro de la tradición judeocristiana. Su representación está fuertemente vinculada al combate espiritual y a la justicia divina.
+
+* **Figura juvenil pero marcial**
+
+* **Armadura de guerrero:** habitualmente viste armadura romana o medieval: coraza metálica, faldellín militar, grebas, capa roja o azul. La armadura simboliza su rol como comandante de los ejércitos celestiales.
+
+* **Espada o lanza:** su atributo principal es una espada flamígera o una lanza. Representa la defensa del orden divino, la lucha contra el mal, la autoridad ejecutiva de Dios.
+
+* **El dragón o demonio bajo sus pies:** frecuentemente aparece venciendo a un dragón, que simboliza a Satanás según el Apocalipsis. La postura suele ser dinámica: un pie firme sobre la criatura derrotada.
+
+* **Alas amplias y potentes:** en la tradición artística cristiana posee grandes alas blancas o doradas, enfatizando su naturaleza celestial.
 
 **Esencia:** toma decisiones basadas en la moral. Protege las emociones.
 
