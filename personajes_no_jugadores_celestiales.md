@@ -1384,7 +1384,65 @@ Satariel impide ver aquello que aún no puede ser sostenido.
 **Tradición** judeocristiana.
 **Rol:** custodiar a quienes no huyen cuando todo invita a hacerlo.
 
-**Apariencia:** persona corriente, sentada o de pie, siempre inmóvil. Su ropa parece ligeramente gastada, como si llevara tiempo esperando.
+**Apariencia:** Arel no presenta rasgos sobrenaturales evidentes, aparte de las alas de ángel. Se manifiesta como un varón joven —entre 25 y 30 años aparentes— de complexión delgada pero firme, con una presencia serena que resulta imponente.
+
+- **Rostro:** anguloso, pómulos marcados, mandíbula definida pero no agresiva. Expresión contenida, casi meditativa.
+
+- **Mirada:** ojos grandes, oscuros, de enfoque penetrante. No intimidan; examinan. Cuando fija la vista, parece atravesar la intención del interlocutor.
+
+- **Cabello:** negro o castaño muy oscuro, liso, ligeramente largo en la parte superior y cayendo en mechones suaves sobre la frente.
+
+- **Piel:** clara, sin imperfecciones visibles, pero no artificial; más bien parece “limpia” de desgaste.
+
+- **Postura:** erguido, hombros relajados, movimientos económicos y precisos. Nunca gesticula de más.
+
+Su vestimenta es discreta:
+
+- **Abrigo largo oscuro** (gris antracita o negro), corte recto y sobrio.
+
+- **Camisa sencilla**, sin estampados.
+
+- **Botas negras**, funcionales, sin ornamentación.
+
+No lleva símbolos religiosos visibles. Nada en él grita “ángel”; todo sugiere profundidad y autocontrol.
+
+**Objetos que porta:** Arel no acumula artefactos; cada objeto tiene función simbólica y narrativa.
+
+1. **Cuaderno encuadernado en cuero oscuro**
+   
+   - Sin título en la portada.
+   
+   - Contiene nombres, fechas y breves anotaciones.
+   
+   - No predice el futuro: registra decisiones y sus consecuencias.
+   
+   - Es un instrumento de memoria moral, no de juicio.
+
+2. **Reloj mecánico antiguo**
+   
+   - Esfera blanca, sin marca visible.
+   
+   - No siempre marca la hora real.
+   
+   - Representa la tensión entre tiempo humano y tiempo trascendente.
+
+3. **Pluma estilográfica metálica**
+   
+   - De trazo fino.
+   
+   - La usa para escribir en el cuaderno.
+   
+   - Nunca la presta.
+
+4. **Una pequeña piedra lisa gris**
+   
+   - Guardada en el bolsillo interior del abrigo.
+   
+   - Procede de un lugar significativo (no necesariamente sagrado).
+   
+   - Es su ancla a lo terrenal; un recordatorio de que lo eterno habita lo ordinario.
+
+Arel causa una honda impresión por su coherencia. Transmite **responsabilidad**.
 
 **Esencia:** constancia. Resistencia. Lealtad silenciosa.
 Arel no salva: **acompaña cuando nadie más lo hace**.
@@ -1419,10 +1477,45 @@ Arel no salva: **acompaña cuando nadie más lo hace**.
 **Tradición** judeocristiana.
 **Rol:** recoger palabras no dichas y pensamientos reprimidos.
 
-**Apariencia:** figura humana con expresión neutra. Sus oídos nunca se ven del todo.
+**Apariencia:** Nahel se presenta con una apariencia joven, alrededor de los veintitantos años, de estatura media y complexión estilizada. Su presencia resulta envolvente, con una calma que se percibe antes incluso de que hable, evoca claridad interior y concentración, como si cada gesto estuviera alineado con un propósito íntimo y consciente. Nahel transmite equilibrio y delicadeza.
 
-**Esencia:** escucha. Intimidad. Confesión.
-Nahel no responde: **recuerda lo que nadie se atrevió a decir**.
+- **Rostro:** ovalado, rasgos suaves y proporcionados. Los pómulos delicadamente definidos aportan armonía al conjunto.
+
+- **Mirada:** ojos claros —gris plateado o miel pálida— con brillo constante, atentos y profundos. Su forma es ligeramente almendrada.
+
+- **Cabello:** castaño claro, liso, de longitud media, cayendo con naturalidad hasta la altura de la nuca. Algunos mechones enmarcan el rostro con elegancia.
+
+- **Piel:** tono claro con matiz cálido, textura uniforme.
+
+- **Manos:** finas, de dedos largos y precisos, con movimientos medidos.
+
+**Vestimenta** sobria y elegante:
+
+- **Abrigo largo en tonos claros** —gris perla o marfil suave— de caída fluida.
+
+- **Camisa de tejido ligero**, cuello limpio y estructura simple.
+
+- **Pantalón recto oscuro** que equilibra el conjunto.
+
+- **Botas discretas**, bien cuidadas.
+
+Cada elemento encaja con naturalidad, transmitiendo orden y coherencia.
+
+**Objetos que porta**
+
+1. **Un libro de tapas lisas color arena**  
+   Contiene textos escritos a mano con caligrafía minuciosa. Entre sus páginas aparecen diagramas geométricos y breves reflexiones. Lo sostiene con cuidado, como si cada página guardara un momento significativo.
+
+2. **Un colgante de hilo fino con una pieza de cuarzo translúcido**  
+   La piedra capta la luz ambiental y la dispersa en matices suaves. Permanece a la altura del pecho, en contacto con la piel.
+
+3. **Un pequeño cuenco metálico pulido**  
+   Cabe en la palma de su mano. En ocasiones deposita agua en él antes de realizar actos simbólicos vinculados a la purificación o la reflexión.
+
+4. **Un pañuelo blanco plegado con precisión**  
+   Guardado en el bolsillo interior del abrigo. Lo utiliza para limpiar el cuenco o secar sus manos tras tocar el agua.
+
+**Esencia:** escucha. Intimidad. Confesión. Nahel no responde: **recuerda lo que nadie se atrevió a decir**.
 
 **Cómo interactúa:**
 
@@ -1454,7 +1547,43 @@ Nahel no responde: **recuerda lo que nadie se atrevió a decir**.
 **Tradición** judeocristiana.
 **Rol:** observar las consecuencias reales de los actos humanos.
 
-**Apariencia:** persona con una libreta invisible que parece consultar constantemente.
+**Apariencia:** Sirel adopta la figura de un hombre de unos treinta años, alto y de complexión definida. Su presencia llena el espacio con una energía concentrada, como si cada músculo estuviera alineado con una intención clara. Sirel transmite determinación y enfoque. Cada gesto parece calculado, cada objeto integrado en una lógica interna de propósito y responsabilidad.
+
+- **Rostro:** rasgos marcados, línea de la mandíbula firme, pómulos altos. La expresión habitual es seria y atenta.
+
+- **Mirada:** ojos oscuros, profundos, con un brillo decidido. Sostiene el contacto visual con intensidad sostenida.
+
+- **Cabello:** negro azabache, ligeramente ondulado, peinado hacia atrás con algunos mechones que caen cerca de la sien.
+
+- **Piel:** tono claro con matiz frío, superficie tersa.
+
+- **Postura:** erguida, hombros abiertos, pasos medidos y seguros.
+
+Vestimenta:
+
+- **Abrigo largo negro** de corte recto y líneas definidas.
+
+- **Chaleco ajustado** bajo el abrigo, tejido firme.
+
+- **Camisa oscura** de cuello alto.
+
+- **Botas de cuero negro**, pulidas.
+
+El conjunto proyecta autoridad y disciplina.
+
+**Objetos que porta**
+
+1. **Un anillo de metal oscuro**  
+   Lleva grabados símbolos geométricos en el interior. Lo porta en la mano derecha. Representa compromiso con un pacto antiguo.
+
+2. **Una cadena fina de acero**  
+   Enrollada en el bolsillo interior del abrigo. Sus eslabones son pequeños y perfectamente ensamblados. Se utiliza en rituales de vínculo o juramento.
+
+3. **Un cuaderno de tapas rígidas negras**  
+   Contiene esquemas estratégicos, nombres y fechas. Las anotaciones siguen un orden meticuloso.
+
+4. **Una llave antigua de hierro ennegrecido**  
+   De diseño alargado y cabeza ornamentada con un patrón radial. La guarda en un compartimento interno del abrigo.
 
 **Esencia:** consecuencia. Responsabilidad. Realidad.
 Sirel no castiga: **muestra el coste exacto de cada decisión**.
@@ -1489,7 +1618,41 @@ Sirel no castiga: **muestra el coste exacto de cada decisión**.
 **Tradición** judeocristiana.
 **Rol:** provocar elecciones conscientes.
 
-**Apariencia:** figura expectante, siempre a medio gesto, como si aguardara una respuesta.
+**Apariencia:** Iram adopta una figura esbelta, de estatura ligeramente superior a la media, con proporciones armónicas y movimientos de gran fluidez. Su edad aparente ronda los treinta años. Iram proyecta profundidad emocional y percepción aguda. Su presencia se siente como una corriente constante que conecta memoria, dirección y sentido interior.
+
+- **Rostro:** alargado y equilibrado, mentón fino, pómulos suaves. La expresión descansa en una serenidad reflexiva.
+
+- **Mirada:** ojos amplios de tono verde grisáceo, con un brillo húmedo que parece captar matices invisibles para otros. La atención que proyecta es profunda y sostenida.
+
+- **Cabello:** largo hasta los hombros, castaño oscuro con reflejos cobrizos, cayendo en capas ligeras que se desplazan con el movimiento.
+
+- **Piel:** tono claro con matiz oliva suave, textura uniforme.
+
+- **Manos:** estilizadas, dedos largos, gestos delicados y precisos.
+
+Su vestimenta combina estructura y fluidez:
+
+- **Capa ligera de tejido vaporoso** en tonos azul noche, que se despliega con amplitud al caminar.
+
+- **Túnica interior gris ceniza**, de caída recta y cintura ajustada mediante una faja estrecha.
+
+- **Botas altas de cuero oscuro**, flexibles y bien cuidadas.
+
+El conjunto transmite introspección y sensibilidad atenta.
+
+**Objetos que porta**
+
+1. **Un frasco de cristal transparente con tapa de plata**  
+   En su interior guarda un líquido claro. Lo manipula con cuidado, sosteniéndolo a la altura del corazón en momentos de contemplación.
+
+2. **Un cuaderno de papel grueso con bordes irregulares**  
+   Encuadernado en tela azul apagada. Contiene dibujos de paisajes, símbolos y anotaciones manuscritas.
+
+3. **Un colgante circular de metal mate**  
+   Grabado con un patrón concéntrico. Reposa sobre el pecho, sostenido por una cadena fina.
+
+4. **Una pequeña brújula antigua**  
+   De latón pulido, con aguja delicada y cristal ligeramente curvado. La consulta antes de emprender decisiones relevantes.
 
 **Esencia:** elección. Libre albedrío. Tensión.
 Iram no decide: **espera que decidas tú**.
@@ -1524,7 +1687,43 @@ Iram no decide: **espera que decidas tú**.
 **Tradición** judeocristiana.
 **Rol:** custodiar la memoria de quién fue uno antes de cambiar.
 
-**Apariencia:** rostro familiar, pero de otra época.
+**Apariencia:** Tharel adopta la figura de un hombre de unos cuarenta años aparentes, de estatura alta y complexión sólida. Su presencia transmite firmeza asentada, como una estructura interior perfectamente ordenada. Tharel irradia estabilidad y criterio estructurado. Su figura evoca liderazgo reflexivo, continuidad y responsabilidad consciente.
+
+- **Rostro:** líneas definidas, frente amplia, cejas rectas y bien delineadas. El mentón marcado aporta gravedad a su expresión.
+
+- **Mirada:** ojos de tono ámbar profundo, enfoque estable y consciente. Mantiene la atención con una serenidad sostenida.
+
+- **Cabello:** castaño oscuro con ligeros matices plateados en las sienes, peinado hacia atrás con pulcritud.
+
+- **Piel:** tono claro con matiz cálido, textura uniforme.
+
+- **Constitución:** hombros anchos, postura vertical, pasos firmes y medidos.
+
+Su vestimenta responde a una estética estructurada y sobria:
+
+- **Abrigo largo color marrón oscuro**, de tejido grueso y caída recta.
+
+- **Camisa de cuello alto en tono marfil**, perfectamente ajustada.
+
+- **Guantes de cuero fino**, color tabaco.
+
+- **Botas altas de cuero envejecido**, de suela firme.
+
+Cada elemento encaja con precisión, proyectando autoridad contenida.
+
+**Objetos que porta**
+
+1. **Un bastón de madera oscura pulida**  
+   Rematado con una empuñadura metálica grabada con un patrón radial. Lo sostiene con naturalidad al caminar.
+
+2. **Un sello de lacre con emblema geométrico**  
+   Guardado en un estuche pequeño de cuero. Lo utiliza para cerrar documentos significativos.
+
+3. **Un reloj de bolsillo de latón**  
+   Cadena fina sujeta al interior del chaleco. La tapa exterior presenta un grabado sobrio en espiral.
+
+4. **Un pergamino enrollado y asegurado con cinta de hilo rojo**  
+   Contiene trazos caligráficos precisos y diagramas simbólicos.
 
 **Esencia:** identidad. Pasado. Coherencia.
 Tharel no idealiza: **recuerda sin suavizar**.
@@ -1557,12 +1756,87 @@ Tharel no idealiza: **recuerda sin suavizar**.
 *El que cuida lo frágil.*
 
 **Tradición** judeocristiana.
-**Rol:** proteger aquello que aún no es fuerte.
+**Rol:** Dentro de un universo donde la consciencia y la libertad humana poseen peso decisivo, Mahel actúa como **catalizador de responsabilidad afectiva**. Su influencia aparece cuando alguien transforma dolor en compromiso o duda en acción coherente.
 
-**Apariencia:** persona discreta, siempre cerca de algo pequeño o vulnerable.
+Su fuerza no reside en la imposición, sino en la capacidad de encender voluntad desde dentro.
+
+Mahel es el **ángel del acompañamiento activo**.  Su esencia se vincula a la presencia que sostiene, impulsa y fortalece sin sustituir la voluntad de quien camina.
+
+Encauza energía hacia la **restauración interior y la acción concreta**. Donde existe desgaste emocional o dispersión, él favorece cohesión y avance.
+
+**Función**
+
+Sus funciones principales son:
+
+- Reavivar la determinación cuando la motivación se debilita.
+
+- Facilitar reconciliaciones mediante escucha profunda.
+
+- Convertir intuiciones morales en decisiones prácticas.
+
+- Fortalecer vínculos basados en responsabilidad compartida.
+
+Interviene desde la cercanía, generando confianza suficiente para que la persona asuma su propio proceso.
+
+**Rasgos esenciales**
+
+- **Empatía estructurada:** comprende emociones sin perder claridad de criterio.
+
+- **Impulso constructivo:** orienta hacia soluciones realizables.
+
+- **Calidez estable:** transmite seguridad emocional sostenida.
+
+- **Presencia movilizadora:** inspira acción sin presión externa.
+
+**Símbolos asociados**
+
+- La **llama constante**, que aporta calor y dirección.
+
+- El **aceite consagratorio**, como signo de cuidado y activación.
+
+- La **mano extendida**, gesto de apoyo consciente.
+
+# 
+
+**Apariencia:** Mahel se presenta con una apariencia de unos treinta años, estatura media y complexión ágil. Su presencia genera cercanía inmediata, con una energía cálida que fluye de manera natural en sus gestos. Mahel proyecta humanidad luminosa y presencia activa. Su figura combina decisión práctica con sensibilidad atenta, como alguien dispuesto a acompañar y sostener con firmeza serena.
+
+- **Rostro:** facciones armoniosas, pómulos suaves y labios bien definidos que suelen curvarse en una sonrisa serena.
+
+- **Mirada:** ojos de tono miel dorado, expresivos y atentos, capaces de transmitir empatía profunda.
+
+- **Cabello:** castaño claro con reflejos dorados, ligeramente ondulado, peinado con sencillez y movimiento suelto.
+
+- **Piel:** tono claro con matiz cálido, textura luminosa.
+
+- **Postura:** relajada y abierta, hombros sueltos, pasos fluidos.
+
+Su vestimenta combina funcionalidad y elegancia discreta:
+
+- **Abrigo largo color arena**, tejido ligero y flexible.
+
+- **Camisa de lino blanco**, de cuello simple.
+
+- **Pantalón oscuro recto**, cómodo y bien ajustado.
+
+- **Botas marrón oscuro**, de cuero trabajado.
+
+El conjunto transmite equilibrio entre acción y sensibilidad.
+
+**Objetos que porta**
+
+1. **Una libreta pequeña de tapas color ocre**  
+   Contiene notas breves, nombres y pensamientos escritos con caligrafía ágil.
+
+2. **Un rosario de cuentas de madera clara**  
+   Lo sostiene a veces entre los dedos mientras reflexiona o escucha.
+
+3. **Una navaja plegable de mango de madera pulida**  
+   De hoja fina y bien afilada, herramienta versátil para tareas cotidianas.
+
+4. **Un pequeño frasco de aceite aromático**  
+   Guardado en el bolsillo interior del abrigo; lo utiliza para ungir o consagrar objetos en momentos significativos.
 
 **Esencia:** cuidado. Potencial. Fragilidad.
-Mahel no acelera: **protege mientras crece**.
 
 **Cómo interactúa:**
 
@@ -1592,9 +1866,81 @@ Mahel no acelera: **protege mientras crece**.
 *El que separa.*
 
 **Tradición** judeocristiana.
-**Rol:** romper vínculos que ya no son sanos.
+**Rol:** En este lore —donde la consciencia, la libertad humana y la responsabilidad ocupan un lugar central— Elion actúa como **arquitecto conceptual**. No impone verdad; facilita comprensión estructurada para que cada ser decida con mayor lucidez.
 
-**Apariencia:** figura serena, siempre entre dos personas.
+Su influencia se percibe cuando alguien logra formular con precisión aquello que antes solo intuía.
+
+Elion es el **ángel de la comprensión estructural**.  Su esencia se orienta hacia el orden profundo que subyace a los acontecimientos, las decisiones y las relaciones. Allí donde otros perciben hechos aislados, él percibe sistemas.
+
+Opera en el ámbito de la **claridad intelectual alineada con propósito moral**. No se limita a analizar: integra.
+
+Su función principal consiste en:
+
+- Detectar patrones invisibles en procesos humanos y espirituales.
+
+- Revelar coherencias ocultas entre causa y consecuencia.
+
+- Establecer puentes entre intuición y formulación precisa.
+
+- Traducir experiencias complejas en estructuras comprensibles.
+
+Cuando interviene, no altera directamente la voluntad de las personas; reorganiza el marco desde el que comprenden su realidad.
+
+**Rasgos esenciales**
+
+- **Pensamiento geométrico:** concibe la realidad como una red de relaciones dinámicas.
+
+- **Concentración sostenida:** mantiene la atención en múltiples variables sin perder cohesión.
+
+- **Lenguaje preciso:** utiliza palabras exactas, evitando ambigüedades.
+
+- **Equilibrio interno:** armoniza emoción y razón dentro de un mismo eje.
+
+**Símbolos asociados**
+
+- La **luz refractada**, que revela componentes internos.
+
+- El **círculo concéntrico**, representación de capas de significado.
+
+- El **prisma**, instrumento de descomposición y síntesis.
+
+**Apariencia:** Elion adopta la figura de un hombre de unos treinta y pocos años aparentes, alto y de constitución esbelta. Su presencia se percibe como una vibración sutil que ordena el entorno a su alrededor.
+
+- **Rostro:** proporciones refinadas, mentón definido y pómulos suaves. La expresión habitual es serena, con una concentración silenciosa.
+
+- **Mirada:** ojos de tono gris muy claro con matices plateados, profundos y sostenidos, capaces de fijarse en los detalles mínimos.
+
+- **Cabello:** plateado claro, liso, de longitud media, peinado hacia atrás con algunos mechones que caen con naturalidad sobre la frente.
+
+- **Piel:** clara, de textura uniforme y luminosa.
+
+- **Postura:** erguida y estable, movimientos precisos y elegantes.
+
+Su vestimenta responde a una estética armónica y depurada:
+
+- **Abrigo largo en tono gris claro**, de tejido fino y caída limpia.
+
+- **Chaleco ajustado color grafito**, con botones pequeños y discretos.
+
+- **Camisa blanca de cuello alto**, perfectamente alineada.
+
+- **Botas oscuras de cuero pulido**, de líneas simples.
+
+El conjunto transmite claridad estructural y equilibrio interior.
+
+**Objetos que porta**
+
+1. **Un prisma de cristal facetado**  
+   De tamaño reducido, cabe en la palma de su mano. Capta la luz y la fragmenta en haces nítidos.
+
+2. **Un cuaderno de tapas blancas rígidas**  
+   Contiene diagramas geométricos, fórmulas simbólicas y anotaciones escritas con caligrafía precisa.
+
+3. **Un lápiz metálico de trazo fino**  
+   Lo guarda en el bolsillo interior del abrigo y lo utiliza para realizar cálculos o trazos exactos.
+
+4. **Un medallón circular de plata**  
+   Grabado con un patrón concéntrico que recuerda órbitas entrelazadas. Reposa sobre el pecho, sostenido por una cadena fina.
 
 **Esencia:** límite. Separación. Claridad.
 Elion no destruye: **pone distancia cuando es necesaria**.

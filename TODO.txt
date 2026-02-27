@@ -16,3 +16,4 @@
 * Revisar todas las Apariencias de personajes celestiales, añadir sección Personalidad y mover ahí las que sean descripciones de la personalidad, no físicas.
 * Documentarme bien sobre celestiales y plasmarlo en el manual.
 * Desarrollar la historia del Cielo y del Infierno, no solo de la Tierra.
+* Añadir Personalidad a los seres celestiales.
