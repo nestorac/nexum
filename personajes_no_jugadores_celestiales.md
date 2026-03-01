@@ -1,5 +1,7 @@
 # PNJ celestiales
 
+## Características de cada ser celestial
+
 A continuación se presenta una **estructura de apartados** clara y reutilizable para una **ficha de personaje**, válida tanto para **personajes jugadores (PJ)** como **no jugadores (PNJ)**. Está pensada para uso narrativo, rol de mesa o desarrollo de lore, y puede simplificarse o ampliarse según necesidad.
 
 **Miedos, deseos, conflictos, traumas (todo ser celestial al enlazarse con uno terrenal causa traumas, mayores cuanto mayor sea su poder)...**
@@ -1794,9 +1796,7 @@ Interviene desde la cercanía, generando confianza suficiente para que la person
 
 - El **aceite consagratorio**, como signo de cuidado y activación.
 
-- La **mano extendida**, gesto de apoyo consciente.
-
-# 
+- La **mano extendida**, gesto de apoyo consciente. 
 
 **Apariencia:** Mahel se presenta con una apariencia de unos treinta años, estatura media y complexión ágil. Su presencia genera cercanía inmediata, con una energía cálida que fluye de manera natural en sus gestos. Mahel proyecta humanidad luminosa y presencia activa. Su figura combina decisión práctica con sensibilidad atenta, como alguien dispuesto a acompañar y sostener con firmeza serena.
 
@@ -1975,10 +1975,45 @@ Elion no destruye: **pone distancia cuando es necesaria**.
 **Tradición** judeocristiana.
 **Rol:** testigo absoluto.
 
-**Apariencia:** siempre en segundo plano, nunca enfocado del todo.
+**Apariencia:** Oriel adopta la figura de un hombre de unos treinta y cinco años aparentes, de estatura elevada y complexión firme. Su presencia se percibe densa y estable, como si su energía se asentara con peso propio en el espacio que ocupa. Oriel proyecta equilibrio ponderado y criterio firme.  Su figura encarna evaluación consciente, responsabilidad asumida y la capacidad de sostener decisiones con coherencia sostenida en el tiempo.
 
-**Esencia:** testimonio. Verdad. Registro.
-Oriel no actúa: **ver es su función**.
+- **Rostro:** estructura amplia, mandíbula definida, frente recta. Sus facciones transmiten determinación contenida.
+
+- **Mirada:** ojos de tono verde oscuro con destellos dorados, enfoque profundo y sostenido. Cuando fija la vista, parece evaluar capas internas de aquello que observa.
+
+- **Cabello:** castaño oscuro con matices cobrizos, corto en los laterales y ligeramente más largo en la parte superior, peinado hacia atrás con sobriedad.
+
+- **Piel:** tono claro con matiz cálido, textura uniforme.
+
+- **Constitución:** hombros anchos, pecho expandido, postura vertical y sólida. Sus movimientos son medidos y seguros.
+
+Viste con una estética funcional y estructurada:
+
+- **Abrigo largo verde oscuro**, de tejido grueso y líneas rectas.
+
+- **Camisa de cuello alto color marfil**, perfectamente ajustada.
+
+- **Cinturón ancho de cuero trabajado**, con hebilla de diseño geométrico.
+
+- **Botas de cuero marrón profundo**, de suela firme y acabado cuidado.
+
+El conjunto transmite autoridad práctica y estabilidad interior.
+
+**Objetos que porta**
+
+1. **Una balanza portátil de latón**  
+   Plegable, con platillos pequeños y cadena fina. La guarda en un estuche rígido dentro del abrigo.
+
+2. **Un cuaderno de tapas verde oscuro**  
+   Contiene registros detallados de decisiones, acuerdos y consecuencias observadas. Las anotaciones siguen un orden cronológico preciso.
+
+3. **Un sello metálico con emblema circular**  
+   Lo utiliza para marcar documentos relevantes. El grabado muestra un diseño simétrico compuesto por líneas entrelazadas.
+
+4. **Una piedra pulida de tono ámbar**  
+   De superficie lisa y cálida al tacto. La sostiene en la mano en momentos de deliberación profunda.
+
+**Esencia:** testimonio. Verdad. Registro. Oriel no actúa: **ver es su función**.
 
 **Cómo interactúa:**
 
@@ -2010,7 +2045,43 @@ Oriel no actúa: **ver es su función**.
 **Tradición** judeocristiana.
 **Rol:** cuidar lo que queda tras el desastre.
 
-**Apariencia:** persona que limpia, recoge, ordena en silencio.
+**Apariencia:** Rehel adopta la figura de un hombre de unos veintiocho años aparentes, de estatura media-alta y complexión ágil. Su presencia transmite dinamismo enfocado, como una corriente que avanza con dirección definida. Rehel proyecta iniciativa disciplinada y atención constante.  Su figura encarna movimiento orientado, reacción rápida y capacidad para activar procesos con precisión estratégica.
+
+- **Rostro:** rasgos afilados y proporcionados, mentón firme, pómulos marcados. La expresión habitual muestra concentración activa.
+
+- **Mirada:** ojos de tono azul intenso con brillo nítido, atención rápida y penetrante.
+
+- **Cabello:** castaño oscuro, corto y ligeramente texturizado, peinado hacia atrás con naturalidad.
+
+- **Piel:** tono claro con matiz neutro, superficie tersa.
+
+- **Postura:** vertical y preparada, pasos ligeros y decididos, manos siempre listas para actuar.
+
+Su vestimenta combina movilidad y estructura:
+
+- **Chaqueta larga gris grafito**, de tejido flexible y corte limpio.
+
+- **Camisa ajustada color marfil**, cuello estructurado.
+
+- **Pantalón oscuro de líneas rectas**, cómodo para el movimiento.
+
+- **Botas negras de cuero flexible**, bien adaptadas al desplazamiento constante.
+
+El conjunto proyecta eficacia y vigilancia activa.
+
+**Objetos que porta**
+
+1. **Un brazalete metálico grabado con líneas radiales**  
+   Ajustado al antebrazo izquierdo. El diseño geométrico sugiere expansión y enfoque simultáneos.
+
+2. **Un cuaderno compacto de tapas azul oscuro**  
+   Contiene esquemas tácticos, rutas y anotaciones breves escritas con trazo firme.
+
+3. **Una pluma estilográfica de cuerpo plateado**  
+   De punta fina y escritura precisa, guardada en el bolsillo interior de la chaqueta.
+
+4. **Un silbato metálico pulido**  
+   Suspendido de un cordón oscuro y guardado bajo la ropa. Lo utiliza para emitir señales breves y claras en momentos decisivos.
 
 **Esencia:** reconstrucción. Duelo. Continuidad.
 Rehel no repara todo: **empieza con lo que queda**.
@@ -2045,10 +2116,45 @@ Rehel no repara todo: **empieza con lo que queda**.
 **Tradición** judeocristiana.
 **Rol:** cerrar ciclos que ya han cumplido su función.
 
-**Apariencia:** figura tranquila, asociada a luces que se apagan sin brusquedad.
+**Apariencia:** Lumeh adopta la figura de una persona de unos treinta años aparentes, de estatura media y complexión ligera. Su presencia se percibe como una irradiación suave que atrae la atención con naturalidad. Lumeh proyecta claridad inspiradora y energía ascendente. Su figura encarna impulso creativo, orientación luminosa y capacidad para encender convicción en quienes le rodean.
 
-**Esencia:** final. Descanso. Cierre.
-Lumeh no destruye: **termina lo que ya dio todo**.
+- **Rostro:** ovalado, rasgos delicados y equilibrados. Los pómulos aportan definición sin dureza, y los labios muestran una curva serena.
+
+- **Mirada:** ojos de tono ámbar luminoso, con reflejos dorados que parecen intensificarse al hablar. La expresión visual transmite inspiración y foco interior.
+
+- **Cabello:** rubio oscuro con matices cobrizos, de longitud media, cayendo en capas fluidas alrededor del rostro.
+
+- **Piel:** tono claro con matiz cálido, textura uniforme y luminosa.
+
+- **Movimiento:** gestos amplios y armoniosos, manos expresivas que acompañan cada palabra.
+
+Su vestimenta sigue una línea clara y fluida:
+
+- **Túnica larga color marfil**, de tejido ligero y caída natural.
+
+- **Capa corta en tono dorado suave**, que se despliega con elegancia al caminar.
+
+- **Cinturón fino trenzado**, ajustado a la cintura.
+
+- **Sandalias de cuero trabajado**, de diseño sencillo y firme.
+
+El conjunto transmite vitalidad serena y energía expansiva.
+
+**Objetos que porta**
+
+1. **Una lámpara pequeña de metal pulido**  
+   De diseño estilizado, con cristal tallado que amplifica la luz interior. La sostiene con cuidado al desplazarse en lugares oscuros.
+
+2. **Un medallón ovalado de cobre bruñido**  
+   Grabado con un motivo solar de líneas radiales. Reposa sobre el pecho, suspendido de una cadena fina.
+
+3. **Un cuaderno de tapas color crema**  
+   Contiene reflexiones escritas con trazo claro y esquemas que representan trayectorias ascendentes.
+
+4. **Un frasco de vidrio con polvo dorado fino**  
+   Guardado en un bolsillo interior. Lo utiliza en rituales simbólicos de renovación y activación.
+
+**Esencia:** final. Descanso. Cierre. Lumeh no destruye: **termina lo que ya dio todo**.
 
 **Cómo interactúa:**
 
@@ -2544,7 +2650,7 @@ Quien ve uno, debe prepararse: buenas o malas, traerán verdades.
 **Carácter:** observadores, distantes.
 **Poder:** ver lo que ocurrió en un lugar con solo tocarlo.
 
-# Thalionnar
+## Thalionnar
 
 *Los Eternos del Ocaso.*
 
