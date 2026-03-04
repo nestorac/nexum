@@ -109,9 +109,103 @@ Existe un ser celestial básico con el que enlaza la mayoría de las personas, l
 
 ### Metatrón
 
-Metatrón (en hebreo bíblico: מֶטָטְרוֹן), también conocido como Mattatron o Metator,En algunas ramas del judaísmo, Metatrón es el nombre de un arcángel de rango elevado. En la tradición judaica Merkaváh se considera que es el propio Enoc ascendido al estado angelical, dado que fue elevado a los cielos sin conocer la muerte según el Génesis.
+Metatrón (en hebreo bíblico: מֶטָטְרוֹן), también conocido como Mattatron o Metator. En algunas ramas del judaísmo, Metatrón es el nombre de un arcángel de rango elevado. En la tradición judaica Merkaváh se considera que es el propio Enoc ascendido al estado angelical, dado que fue elevado a los cielos sin conocer la muerte según el Génesis.
 
-Cubo de metatrón ó flor dela vida En las primeras escrituras cabalísticas se dice que Metatrón creó este cubo a partir de su propia alma.Metatrón es comúnmente representado como una figura de luz resplandeciente, con alas majestuosas y rodeado de un aura brillante, simbolizando su conexión directa con lo divino.
+Cubo de metatrón o flor de la vida. En las primeras escrituras cabalísticas se dice que Metatrón creó este cubo a partir de su propia alma.Metatrón es comúnmente representado como una figura de luz resplandeciente, con alas majestuosas y rodeado de un aura brillante, simbolizando su conexión directa con lo divino.
+
+El **arcángel Metatrón** aparece principalmente en la literatura mística judía (sobre todo en la **Cábala** y en textos como el *3º Libro de Enoc*). En ese corpus no se describe tanto como un guerrero, sino como una figura de **intelecto, orden y mediación** entre lo divino y la creación. Su personalidad refleja ese papel.
+
+**Identificación**
+
+*Nombre*: Metatrón
+
+*Alias*: ninguno
+
+*Naturaleza*: arcángel
+
+*Rol narrativo*: por definir.
+
+*Nivel de poder*: 9/10
+
+**Apariencia**
+
+Metatrón aparece como un hombre de edad indefinida, normalmente joven adulto, de rasgos finos y simétricos. Su rostro es sereno y concentrado, con una mirada muy clara y penetrante, como si observara simultáneamente el presente y una estructura más profunda de la realidad. Sus ojos suelen representarse luminosos o de un color muy claro, transmitiendo atención absoluta.
+
+Su cabello cae recto hasta los hombros, generalmente oscuro o castaño profundo. La expresión de su rostro es calmada y analítica, más propia de un escriba o un sabio que de un guerrero.
+
+La presencia de Metatrón se percibe como extremadamente clara y ordenada. Su entorno suele aparecer lleno de líneas de luz, figuras geométricas o estructuras simétricas que evocan la arquitectura del cosmos.
+
+Su autoridad proviene de la comprensión perfecta del orden de la creación.
+
+**Vestimenta**
+
+Viste túnicas largas y limpias, de tonos claros o dorados, a veces con patrones geométricos muy precisos. Las telas parecen ligeras y ordenadas, sin adornos excesivos, reforzando la idea de simplicidad y perfección estructural.
+
+En algunas representaciones lleva un cinturón o broches con símbolos geométricos o letras antiguas.
+
+**Objetos que porta**
+
+Metatrón suele representarse con elementos asociados al conocimiento y al registro de la realidad:
+
+- **Un libro o pergamino**, donde se registran los acontecimientos del universo o las acciones humanas.
+
+- **Una pluma o cálamo**, símbolo de su papel como escriba celestial.
+
+- **Un cubo geométrico luminoso**, conocido como *Cubo de Metatrón*, que representa la estructura matemática de la creación.
+
+- En algunas representaciones sostiene **un bastón fino o vara de autoridad**, asociado al orden divino.
+
+**Personalidad**
+
+Metatrón se caracteriza por una mente extraordinariamente estructurada. Su forma de pensar es analítica, precisa y orientada a comprender el funcionamiento profundo de la realidad. No actúa impulsivamente: observa, registra, compara y solo después interviene.
+
+Su presencia transmite calma y autoridad intelectual. Habla poco, pero cuando lo hace sus palabras tienen peso porque suelen expresar una comprensión amplia de las consecuencias.
+
+A diferencia de otros arcángeles asociados a la guerra o a la compasión directa, Metatrón encarna la **inteligencia organizadora del cosmos**. Su actitud hacia los seres humanos es distante pero respetuosa: observa la libertad humana con atención, como quien estudia un fenómeno complejo que puede revelar algo importante sobre la creación.
+
+*Rasgos dominantes*: Los rasgos que suelen definirse como centrales en su carácter son:
+
+- **Orden mental extremo.** Tiende a estructurar todo lo que percibe: acontecimientos, decisiones, causas y consecuencias.
+
+- **Capacidad de observación.** Es más observador que interventor. Analiza patrones y procesos.
+
+- **Sentido de responsabilidad.** Asume seriamente su función como registrador o guardián del conocimiento divino.
+
+- **Distancia emocional.** No se deja arrastrar fácilmente por emociones intensas.
+
+*Temperamento*: Su temperamento es **sereno y reflexivo**.
+
+No es impetuoso ni agresivo. Prefiere la claridad conceptual a la acción inmediata. Puede permanecer mucho tiempo contemplando o analizando una situación antes de intervenir.
+
+En términos de tipología narrativa, se parece más a un **sabio o estratega** que a un héroe de acción.
+
+*Virtudes*: **Rigor intelectual**  
+Tiene una mente extremadamente clara. Comprende sistemas complejos y relaciones causales con gran precisión.
+
+**Imparcialidad**  
+Tiende a evaluar situaciones sin dejarse llevar por favoritismos o emociones momentáneas.
+
+**Memoria y conocimiento**  
+Se le atribuye un conocimiento vasto de la historia y de la estructura del mundo.
+
+**Fidelidad al orden divino**  
+Cumple su función con disciplina y constancia.
+
+*Defectos*: En la tradición narrativa, incluso los seres muy elevados suelen tener tensiones internas o limitaciones.
+
+**Distancia emocional excesiva**  
+Su tendencia a observar más que a implicarse puede hacerlo parecer frío o inaccesible.
+
+**Rigidez conceptual**  
+Una mente extremadamente estructurada puede tener dificultades para aceptar lo caótico, lo ambiguo o lo paradójico.
+
+**Tendencia al control del orden**  
+Puede valorar demasiado la estabilidad y el sistema frente a la espontaneidad o la libertad imprevisible.
+
+**Dificultad para comprender la irracionalidad humana**  
+La creatividad, la contradicción o la emoción intensa pueden resultarle difíciles de interpretar.
+
+Si quieres, también puedo hacer algo que suele ser útil para narrativa o rol: **comparar la personalidad de Metatrón con la de otros arcángeles** (Miguel, Gabriel, Rafael, etc.), porque se ve muy bien qué tipo de arquetipo representa cada uno.
 
 ### Arcángel Gabriel
 
