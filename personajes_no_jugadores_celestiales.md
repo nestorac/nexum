@@ -12,12 +12,14 @@ A continuación se presenta una **estructura de apartados** clara y reutilizable
 * Título, alias o epíteto
 * Naturaleza (humano, entidad, criatura, etc.)
 * Rol narrativo o función en la historia
+* Misión
+* Nivel 1..10
 
 **Apariencia**
 
 * Descripción física general
 * Vestimenta y elementos visibles
-* Rasgos distintivos
+* Objetos que lleva
 
 **Presencia y lenguaje corporal**
 
@@ -30,6 +32,7 @@ A continuación se presenta una **estructura de apartados** clara y reutilizable
 * Rasgos dominantes
 * Temperamento
 * Virtudes y defectos
+* Peculiaridades
 
 **Motivaciones**
 
