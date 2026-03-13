@@ -17,3 +17,8 @@
 * Documentarme bien sobre celestiales y plasmarlo en el manual.
 * Desarrollar la historia del Cielo y del Infierno, no solo de la Tierra.
 * Añadir Personalidad a los seres celestiales.
+* Añadir casos a resolver como aventuras: homicidios, robos...
+* Los PJ de nivel bajo no ven todo lo que verían con niveles más altos, es decir, la dificultad de las aventuras se adapta al nivel de los personajes.
+* Incluir profecías, místicos, adivinos y mentalistas.
+* Incluir las herramientas necesarias para crear lores de forma automatizada a partir de Nexum.
+* Elaborar grimorios y libros varios.
