@@ -114,9 +114,7 @@ Existe un ser celestial básico con el que enlaza la mayoría de las personas, l
 
 Metatrón (en hebreo bíblico: מֶטָטְרוֹן), también conocido como Mattatron o Metator. En algunas ramas del judaísmo, Metatrón es el nombre de un arcángel de rango elevado. En la tradición judaica Merkaváh se considera que es el propio Enoc ascendido al estado angelical, dado que fue elevado a los cielos sin conocer la muerte según el Génesis.
 
-Cubo de metatrón o flor de la vida. En las primeras escrituras cabalísticas se dice que Metatrón creó este cubo a partir de su propia alma.Metatrón es comúnmente representado como una figura de luz resplandeciente, con alas majestuosas y rodeado de un aura brillante, simbolizando su conexión directa con lo divino.
-
-El **arcángel Metatrón** aparece principalmente en la literatura mística judía (sobre todo en la **Cábala** y en textos como el *3º Libro de Enoc*). En ese corpus no se describe tanto como un guerrero, sino como una figura de **intelecto, orden y mediación** entre lo divino y la creación. Su personalidad refleja ese papel.
+El **arcángel Metatrón** aparece principalmente en la literatura mística judía, sobre todo en la **Cábala** y en textos como el *3º Libro de Enoc*. En ese corpus es descrito como una figura de **intelecto, orden y mediación** entre lo divino y la creación. Su personalidad refleja ese papel. Metatrón es comúnmente representado como una figura de luz resplandeciente, con alas majestuosas y rodeado de un aura brillante, simbolizando su conexión directa con lo divino. También simboliza el ascenso de lo humano a lo celestial.
 
 **Identificación**
 
@@ -126,23 +124,21 @@ El **arcángel Metatrón** aparece principalmente en la literatura mística jud�
 
 *Naturaleza*: arcángel
 
-*Rol narrativo*: por definir.
+*Rol narrativo*: es un personaje de extraordinario poder.
 
-*Nivel de poder*: 9/10
+*Nivel de poder*: 10/10
 
 **Apariencia**
 
-Metatrón aparece como un hombre de edad indefinida, normalmente joven adulto, de rasgos finos y simétricos. Su rostro es sereno y concentrado, con una mirada muy clara y penetrante, como si observara simultáneamente el presente y una estructura más profunda de la realidad. Sus ojos suelen representarse luminosos o de un color muy claro, transmitiendo atención absoluta.
+Metatrón aparece como un hombre de edad indefinida, de rasgos finos y simétricos. Su rostro es sereno, con una mirada muy clara y penetrante, como si observara simultáneamente pasado y presente. Sus ojos suelen representarse luminosos o de un color muy claro, y transmiten la sensación de estar viendo todo con detalle.
 
-Su cabello cae recto hasta los hombros, generalmente oscuro o castaño profundo. La expresión de su rostro es calmada y analítica, más propia de un escriba o un sabio que de un guerrero.
+Su cabello cae recto hasta los hombros, generalmente castaño oscuro. La expresión de su rostro es calmada y neutra, propia de un escriba o un sabio. Tiene una presencia pulcra. Su entorno suele aparecer lleno de líneas de luz, figuras geométricas o estructuras simétricas que evocan la arquitectura del cosmos.
 
-La presencia de Metatrón se percibe como extremadamente clara y ordenada. Su entorno suele aparecer lleno de líneas de luz, figuras geométricas o estructuras simétricas que evocan la arquitectura del cosmos.
+Su poder proviene de la observación del orden de la Creación.
 
-Su autoridad proviene de la comprensión perfecta del orden de la creación.
+*Vestimenta*
 
-**Vestimenta**
-
-Viste túnicas largas y limpias, de tonos claros o dorados, a veces con patrones geométricos muy precisos. Las telas parecen ligeras y ordenadas, sin adornos excesivos, reforzando la idea de simplicidad y perfección estructural.
+Viste túnicas largas y limpias, de tonos claros o dorados, a veces con patrones geométricos muy precisos. Las telas parecen ligeras y ordenadas, sin adornos excesivos, reforzando la idea de simplicidad y perfección.
 
 En algunas representaciones lleva un cinturón o broches con símbolos geométricos o letras antiguas.
 
@@ -150,65 +146,107 @@ En algunas representaciones lleva un cinturón o broches con símbolos geométri
 
 Metatrón suele representarse con elementos asociados al conocimiento y al registro de la realidad:
 
-- **Un libro o pergamino**, donde se registran los acontecimientos del universo o las acciones humanas.
-
 - **Una pluma o cálamo**, símbolo de su papel como escriba celestial.
 
-- **Un cubo geométrico luminoso**, conocido como *Cubo de Metatrón*, que representa la estructura matemática de la creación.
+- **Un cubo geométrico luminoso**, conocido como *Cubo de Metatrón*, que representa la estructura matemática de la creación. En las primeras escrituras cabalísticas se dice que Metatrón creó este cubo a partir de su propia alma.
 
 - En algunas representaciones sostiene **un bastón fino o vara de autoridad**, asociado al orden divino.
 
 **Personalidad**
 
-Metatrón se caracteriza por una mente extraordinariamente estructurada. Su forma de pensar es analítica, precisa y orientada a comprender el funcionamiento profundo de la realidad. No actúa impulsivamente: observa, registra, compara y solo después interviene.
+Metatrón se caracteriza por servir de puente entre Dios y las personas, incluso, entre el resto de los ángeles.
 
-Su presencia transmite calma y autoridad intelectual. Habla poco, pero cuando lo hace sus palabras tienen peso porque suelen expresar una comprensión amplia de las consecuencias.
+*Rasgos dominantes:*
 
-A diferencia de otros arcángeles asociados a la guerra o a la compasión directa, Metatrón encarna la **inteligencia organizadora del cosmos**. Su actitud hacia los seres humanos es distante pero respetuosa: observa la libertad humana con atención, como quien estudia un fenómeno complejo que puede revelar algo importante sobre la creación.
+- **Puente entre Dios y las personas.** Metatrón se comunica con las personas para transmitir la palabra de Dios. También con otros ángeles, especialmente, los de bajo rango.
 
-*Rasgos dominantes*: Los rasgos que suelen definirse como centrales en su carácter son:
+*Temperamento*: es **paciente**, porque está acostumbrado a tener que esperar para poder transmitir la palabra de Dios.
 
-- **Orden mental extremo.** Tiende a estructurar todo lo que percibe: acontecimientos, decisiones, causas y consecuencias.
+*Virtudes*:
 
-- **Capacidad de observación.** Es más observador que interventor. Analiza patrones y procesos.
+* **Capacidad de escucha:** Tiene paciencia y buenos oídos
 
-- **Sentido de responsabilidad.** Asume seriamente su función como registrador o guardián del conocimiento divino.
+* **Políglota:** habla y entiende todos los idiomas.
 
-- **Distancia emocional.** No se deja arrastrar fácilmente por emociones intensas.
+* **Imparcialidad:** Tiende a evaluar situaciones sin dejarse llevar por favoritismos o emociones momentáneas.
 
-*Temperamento*: Su temperamento es **sereno y reflexivo**.
+* **Memoria y conocimiento:** A consecuencia de su rol de observador, se le atribuye un conocimiento vasto de la historia y de la estructura del mundo.
 
-No es impetuoso ni agresivo. Prefiere la claridad conceptual a la acción inmediata. Puede permanecer mucho tiempo contemplando o analizando una situación antes de intervenir.
+* **Mano derecha de Dios:** Aunque no ejecuta las órdenes de Dios, sí las transmite, es por ello, el ser de mayor confianza de Dios.
 
-En términos de tipología narrativa, se parece más a un **sabio o estratega** que a un héroe de acción.
+*Defectos*: en la tradición narrativa, incluso los seres muy elevados suelen tener tensiones internas o limitaciones.
 
-*Virtudes*: **Rigor intelectual**  
-Tiene una mente extremadamente clara. Comprende sistemas complejos y relaciones causales con gran precisión.
+* **Distancia emocional excesiva:** Su tendencia a observar más que a implicarse puede hacerlo parecer frío o inaccesible.
 
-**Imparcialidad**  
-Tiende a evaluar situaciones sin dejarse llevar por favoritismos o emociones momentáneas.
+* **Rasgos obsesivos:** una mente tan observadora y analítica suele tener rasgos obsesivos, que se manifiestan como un intento de controlar lo observado, algo contra lo que el personaje debe luchar.
 
-**Memoria y conocimiento**  
-Se le atribuye un conocimiento vasto de la historia y de la estructura del mundo.
+* **Dificultad para comprender a las personas:** al situarse en un plano distante, Metatrón tiene dificultades para entender las reacciones de las personas, que generalmente se basan en sus instintos y en sus sentimientos más que en razones.
 
-**Fidelidad al orden divino**  
-Cumple su función con disciplina y constancia.
+*Peculiaridades:* si baja a la Tierra, puede desarrollar un Trastorno Obsesivo Compulsivo.
 
-*Defectos*: En la tradición narrativa, incluso los seres muy elevados suelen tener tensiones internas o limitaciones.
+**Motivaciones**
 
-**Distancia emocional excesiva**  
-Su tendencia a observar más que a implicarse puede hacerlo parecer frío o inaccesible.
+*Deseos principales:* Metatrón desea transmitir la palabra de Dios a las personas.
 
-**Rigidez conceptual**  
-Una mente extremadamente estructurada puede tener dificultades para aceptar lo caótico, lo ambiguo o lo paradójico.
+*Objetivos conscientes:* informar a las personas de los deseos divinos, para que obedezcan, cosa que no suelen hacer.
 
-**Tendencia al control del orden**  
-Puede valorar demasiado la estabilidad y el sistema frente a la espontaneidad o la libertad imprevisible.
+*Necesidades no resueltas:* se le suele olvidar transmitir la palabra de las personas a Dios.
 
-**Dificultad para comprender la irracionalidad humana**  
-La creatividad, la contradicción o la emoción intensa pueden resultarle difíciles de interpretar.
+**Trasfondo**
 
-Si quieres, también puedo hacer algo que suele ser útil para narrativa o rol: **comparar la personalidad de Metatrón con la de otros arcángeles** (Miguel, Gabriel, Rafael, etc.), porque se ve muy bien qué tipo de arquetipo representa cada uno.
+*Origen:* Metatrón es el alma de Enoc transformada en arcángel.
+
+*Eventos clave de su pasado:* Metatrón acaba desenterrando su pasado humano para entender a las personas, y para llevar la palabra de ellas a Dios, de forma que la comunicación vaya en ambos sentidos.
+
+*Relaciones importantes:* 
+
+**Creencias y valores**
+
+*Código moral y ético:* obediencia a Dios.
+
+*Lealtades:* es leal a Dios.
+
+*Conflictos internos:* desprecia a las personas, habiendo sido una persona.
+
+**Habilidades y capacidades**
+
+*Talentos naturales:* es políglota, sabe escuchar, sabe transmitir.
+
+*Conocimientos adquiridos:* empieza a recordar su pasado como Enoc.
+
+*Competencias especiales:* idiomas, escritura.
+
+**Poderes o dones**
+
+*Naturaleza del poder:* es capaz de hablar con las personas telepáticamente.
+
+*Alcance y límites:* funciona desde cualquier lugar, durante un minuto aproximadamente, luego debe esperar un día para hablar con la misma persona. Cuando Metatrón conecta con su yo Enoc, es capaz también de escuchar lo que esa persona piensa, de forma que la comunicación va en ambos sentidos.
+
+*Coste y consecuencias:* comunicarse de esta manera le produce migraña.
+
+**Debilidades**
+
+*Limitaciones físicas o mentales:* Si no ha conectado con su pasado de Enoc, sólo puede hablar telepáticamente. Además, debe conocer a esa persona.
+
+*Miedos:* Metatrón teme equivocarse y contrariar a Dios.
+
+*Dependencias:* depende de sus objetos mágicos.
+
+**Comportamiento en escena**
+
+*Cómo actúa bajo presión*
+
+*Reacciones típicas*
+
+*Forma de interactuar con otros*
+
+**Relaciones**
+
+*Aliados*
+
+*Oponentes*
+
+*Vínculos emocionales*
 
 ### Arcángel Gabriel
 
