@@ -8,97 +8,125 @@ A continuación se presenta una **estructura de apartados** clara y reutilizable
 
 **Identificación**
 
-* Nombre
-* Título, alias o epíteto
-* Naturaleza (humano, entidad, criatura, etc.)
-* Rol narrativo o función en la historia
-* Misión
-* Nivel 1..10
+*Nombre:* 
+
+*Título, alias o epíteto:* 
+
+*Naturaleza:* 
+
+*Rol narrativo:* 
+
+*Misión:* 
+
+*Nivel:* 
 
 **Apariencia**
 
-* Descripción física general
-* Vestimenta y elementos visibles
-* Objetos que lleva
+*Descripción física general:* 
+
+*Vestimenta:* 
+
+*Objetos que lleva:* 
 
 **Presencia y lenguaje corporal**
 
-* Postura habitual
-* Gestualidad
-* Impresión que causa al estar cerca
+*Postura habitual:* 
+
+*Gestualidad:* 
+
+*Impresión que causa al estar cerca:* 
 
 **Personalidad**
 
-* Rasgos dominantes
-* Temperamento
-* Virtudes y defectos
-* Peculiaridades
+*Rasgos dominantes:* 
+
+*Temperamento:* 
+
+*Virtudes y defectos:* 
+
+*Peculiaridades:* 
 
 **Motivaciones**
 
-* Deseos principales
-* Objetivos conscientes
-* Necesidades no resueltas
+*Deseos principales:* 
+
+*Objetivos conscientes:* 
+
+*Necesidades no resueltas:* 
 
 **Trasfondo**
 
-* Origen
-* Eventos clave del pasado
-* Relaciones importantes
+*Origen:* 
+
+*Eventos clave del pasado:* 
+
+*Relaciones importantes:* 
 
 **Creencias y valores**
 
-* Código moral o ético
-* Lealtades
-* Conflictos internos
+*Alineamiento:* 
+
+*Código moral:* 
+
+*Lealtades:* 
+
+*Conflictos internos:* 
 
 **Habilidades y capacidades**
 
-* Talentos naturales
-* Conocimientos adquiridos
-* Competencias especiales
+*Talentos naturales:* 
 
-**Poderes o dones** (si aplica)
+*Conocimientos adquiridos:* 
 
-* Naturaleza del poder
-* Alcance y límites
-* Coste o consecuencias
+*Competencias especiales:* 
+
+**Poderes o dones**
+
+*Descripción de sus poderes:* 
+
+*Alcance y límites:* 
+
+*Coste y efectos secundarios:* 
 
 **Debilidades**
 
-* Limitaciones físicas o mentales
-* Miedos
-* Dependencias
+*Limitaciones físicas o mentales:* 
 
-**Equipo u objetos relevantes**
+*Miedos:* 
 
-* Objetos personales
-* Artefactos significativos
-* Recursos disponibles
+*Dependencias:* 
 
 **Comportamiento en escena**
 
-* Cómo actúa bajo presión
-* Reacciones típicas
-* Forma de interactuar con otros
+*Cómo actúa bajo presión:* 
+
+*Reacciones típicas:* 
+
+*Cómo interactúa con otros:* 
 
 **Relaciones**
 
-* Aliados
-* Oponentes
-* Vínculos emocionales
+*Aliados:* 
 
-**Rol mecánico** (opcional, si hay sistema)
+*Oponentes:* 
 
-* Atributos
-* Habilidades numéricas
-* Ventajas y desventajas
+*Vínculos emocionales:* 
+
+**Rol mecánico**
+
+*Atributos:* 
+
+*Habilidades numéricas:* 
+
+*Ventajas y desventajas:* 
 
 **Notas del director / autor**
 
-* Uso previsto en la historia o partida
-* Secretos que el personaje oculta
-* Posibles arcos de evolución
+*Uso previsto en el lore:* 
+
+*Secretos de este PNJ:* 
+
+*Posibles arcos de evolución:* 
 
 ## Ser celestial básico
 
@@ -108,9 +136,9 @@ Existe un ser celestial básico con el que enlaza la mayoría de las personas, l
 
 ## Arcángeles
 
-**Listado exhaustivo**
-
 ### Metatrón
+
+*La voz de Dios.*
 
 Metatrón (en hebreo bíblico: מֶטָטְרוֹן), también conocido como Mattatron o Metator. En algunas ramas del judaísmo, Metatrón es el nombre de un arcángel de rango elevado. En la tradición judaica Merkaváh se considera que es el propio Enoc ascendido al estado angelical, dado que fue elevado a los cielos sin conocer la muerte según el Génesis.
 
@@ -234,23 +262,23 @@ Metatrón se caracteriza por servir de puente entre Dios y las personas, incluso
 
 **Comportamiento en escena**
 
-*Cómo actúa bajo presión*
+*Cómo actúa bajo presión:* se pone nervioso y empieza a decir tonterías.
 
-*Reacciones típicas*
+*Reacciones típicas:* cuando algo está fuera de sitio, insiste en colocarlo en su lugar.
 
-*Forma de interactuar con otros*
+*Forma de interactuar con otros:* tartamudea, cosa que no hace cuando transmite la voz de Dios.
 
 **Relaciones**
 
-*Aliados*
+*Aliados:* se lleva bien con los demás ángeles, con los humanos no, hasta que descubre su origen humano.
 
-*Oponentes*
+*Oponentes:* los seres malvados en general.
 
-*Vínculos emocionales*
+*Vínculos emocionales:* Está estrechamente unido a Dios, algo que suscita envidias, a veces.
 
 ### Arcángel Gabriel
 
-*El Mensajero Celestial.*
+*El heraldo celestial.*
 
 **Tradición** judeocristiana.
 **Rol:** portador de mensajes que alteran el curso de la consciencia humana.
@@ -296,14 +324,12 @@ Gabriel no persuade ni explica: **declara lo que debe ser dicho**, aunque nadie 
 
 ### Arcángel Raguel
 
-*El Guardián del Equilibrio.*
+*El Guardián del Equilibrio y la Justicia.*
 
 **Tradición** judeocristiana.
 **Rol:** velar por la justicia, la imparcialidad y la armonía entre voluntades en conflicto.
 
 **Apariencia:** Visualmente, el arcángel Raguel se distingue porque sujeta una balanza de platillos.
-
-* **Composición equilibrada y simétrica:** Raguel suele aparecer en composiciones estables: eje central claro, pesos visuales repartidos, ausencia de diagonales agresivas. La imagen “descansa”. No hay tensión dramática; hay proporción restaurada.
 
 * **Presencia que regula, no que actúa:** no gesticula, no señala, no avanza. Su postura es contenida, casi inmóvil. Visualmente transmite que no interviene con fuerza, sino que hace que las fuerzas se ajusten entre sí.
 
