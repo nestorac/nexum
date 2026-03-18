@@ -1,133 +1,5 @@
 # PNJ celestiales
 
-## Características de cada ser celestial
-
-A continuación se presenta una **estructura de apartados** clara y reutilizable para una **ficha de personaje**, válida tanto para **personajes jugadores (PJ)** como **no jugadores (PNJ)**. Está pensada para uso narrativo, rol de mesa o desarrollo de lore, y puede simplificarse o ampliarse según necesidad.
-
-**Miedos, deseos, conflictos, traumas (todo ser celestial al enlazarse con uno terrenal causa traumas, mayores cuanto mayor sea su poder)...**
-
-**Identificación**
-
-*Nombre:* 
-
-*Título, alias o epíteto:* 
-
-*Naturaleza:* 
-
-*Rol narrativo:* 
-
-*Misión:* 
-
-*Nivel:* 
-
-**Apariencia**
-
-*Descripción física general:* 
-
-*Vestimenta:* 
-
-*Objetos que lleva:* 
-
-**Presencia y lenguaje corporal**
-
-*Postura habitual:* 
-
-*Gestualidad:* 
-
-*Impresión que causa al estar cerca:* 
-
-**Personalidad**
-
-*Rasgos dominantes:* 
-
-*Temperamento:* 
-
-*Virtudes y defectos:* 
-
-*Peculiaridades:* 
-
-**Motivaciones**
-
-*Deseos principales:* 
-
-*Objetivos conscientes:* 
-
-*Necesidades no resueltas:* 
-
-**Trasfondo**
-
-*Origen:* 
-
-*Eventos clave del pasado:* 
-
-*Relaciones importantes:* 
-
-**Creencias y valores**
-
-*Alineamiento:* 
-
-*Código moral:* 
-
-*Lealtades:* 
-
-*Conflictos internos:* 
-
-**Habilidades y capacidades**
-
-*Talentos naturales:* 
-
-*Conocimientos adquiridos:* 
-
-*Competencias especiales:* 
-
-**Poderes o dones**
-
-*Descripción de sus poderes:* 
-
-*Alcance y límites:* 
-
-*Coste y efectos secundarios:* 
-
-**Debilidades**
-
-*Limitaciones físicas o mentales:* 
-
-*Miedos:* 
-
-*Dependencias:* 
-
-**Comportamiento en escena**
-
-*Cómo actúa bajo presión:* 
-
-*Reacciones típicas:* 
-
-*Cómo interactúa con otros:* 
-
-**Relaciones**
-
-*Aliados:* 
-
-*Oponentes:* 
-
-*Vínculos emocionales:* 
-
-**Rol mecánico**
-
-*Atributos:* 
-
-*Habilidades numéricas:* 
-
-*Ventajas y desventajas:* 
-
-**Notas del director / autor**
-
-*Uso previsto en el lore:* 
-
-*Secretos de este PNJ:* 
-
-*Posibles arcos de evolución:* 
-
 ## Ser celestial básico
 
 Existe un ser celestial básico con el que enlaza la mayoría de las personas, la gente corriente, y conecta a las personas con Dios sin otorgar ningún poder especial.
@@ -324,7 +196,7 @@ Gabriel no persuade ni explica: **declara lo que debe ser dicho**, aunque nadie 
 
 ### Arcángel Raguel
 
-*El Guardián del Equilibrio y la Justicia.
+*El Guardián del Equilibrio y la Justicia.*
 
 **Tradición** judeocristiana.
 
@@ -454,7 +326,7 @@ Gabriel no persuade ni explica: **declara lo que debe ser dicho**, aunque nadie 
 - **Dependencia emocional del respeto mutuo y la buena fe**  
   Aunque es sereno e imperturbable ante manipulaciones directas, su rol como "amigo de Dios" y mediador lo hace vulnerable cuando las partes involucradas rechazan por completo la reconciliación o la verdad. Si alguien responde a sus intentos de armonía con cinismo absoluto, desprecio o traición repetida (especialmente si es alguien que él intentó ayudar/empoderar), puede sufrir un "desgaste espiritual" — pérdida temporal de motivación, reducción en auras de apoyo o incluso un raro momento de ira contenida que lo hace menos imparcial por un tiempo. En términos de rol: si el grupo o un NPC clave lo traiciona o ignora sus esfuerzos de paz una y otra vez, Raguel podría volverse más distante o rígido, afectando su rol de soporte y pacificador.
 
-**Comportamiento en escena**
+**Comportamiento en escena:** 
 
 **Relaciones**
 
