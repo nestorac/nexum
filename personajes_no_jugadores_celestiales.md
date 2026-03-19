@@ -8,7 +8,7 @@ Existe un ser celestial básico con el que enlaza la mayoría de las personas, l
 
 ## Arcángeles
 
-### Metatrón
+### Metatrón (Ok)
 
 *La voz de Dios.*
 
@@ -194,7 +194,7 @@ Gabriel no persuade ni explica: **declara lo que debe ser dicho**, aunque nadie 
 
 **Escena sugerida:** en medio de una situación aparentemente trivial, un PJ recibe una frase breve y clara; horas después comprende que todo lo ocurrido desde entonces fue consecuencia directa de haberla escuchado.
 
-### Arcángel Raguel
+### Arcángel Raguel (Ok)
 
 *El Guardián del Equilibrio y la Justicia.*
 
@@ -2400,26 +2400,98 @@ El conjunto transmite vitalidad serena y energía expansiva.
 
 # Mitología vasca
 
-## Lamia
+## Lamia (Ok)
 
-*La pregunta del río.*
+*La sirena del río.*
 
-**Tradición:** mitología vasca.
-**Rol espiritual:** guía de decisiones difíciles.
+**Identificación**
 
-**Apariencia:** mujer hermosa y humilde, con algo acuático en el aura (no visible). Voz profunda, mirada calmada.
+*Nombre:* Amaia
 
-**Esencia:** Sinceridad. Busca tu verdad a través de **preguntas**.
+*Título, alias o epíteto:* La Peinadora de Oro, Ama del Remanso, La que Canturrea en la Niebla
 
-**Interacción:**
+*Raza y clase:* Lamia (genio acuático mitológico / ninfa fluvial)
 
-* Detiene al PJ para hacer preguntas incómodas.
-* No revela el camino: lo descifra contigo.
-* Protege a quien responde con honestidad.
+*Profesión:* Guardiana de manantiales y constructora megalítica, hilandera nocturna
 
-**Escena sugerida:** la lamia aparece en un cruce de caminos, preguntando:
+*Misión:* Proteger los antiguos lugares de agua pura y los vestigios megalíticos que aún quedan en pie; buscar ofrendas que le permitan seguir existiendo en un mundo que la olvida
 
-> “¿Sabes realmente a quién estás siguiendo?”
+*Nivel:* 7-9
+
+*Alineamiento:* Neutral Bueno con tendencia a Caótico (benévola si se la respeta, caprichosa y vengativa si se la ofende)
+
+*Características básicas:* Mujer de belleza etérea, fuerza y agilidad sobrehumanas en el agua, debilidad fuera de su elemento, encanto natural, conexión con la tierra antigua  
+
+**Apariencia**
+
+*Descripción general:* Mujer de unos veinticinco años aparentes, de una belleza casi perfecta: piel muy pálida con reflejos perlados, ojos grandes de color verde-azulado profundo (como agua de manantial), cabello larguísimo rubio ceniza casi blanco que le llega hasta las caderas y que brilla tenuemente bajo la luna. La mitad superior es humana perfecta; la inferior termina en pies palmeados de pato muy grandes y membranosos, con uñas oscuras y duras. Cuando está sumergida mucho tiempo, la parte baja puede adquirir escamas iridiscentes y aspecto más pisciforme.
+
+*Vestimenta:* Casi siempre desnuda o semidesnuda; en ocasiones lleva un ligero vestido translúcido tejido por ella misma con fibras de agua y nenúfares, o una capa de algas secas y musgo que parece un chal. Nunca usa calzado (no lo necesita ni podría).
+
+*Objetos que lleva:* Peine de oro antiguo con grabados megalíticos (su posesión más preciada y fuente de poder); a veces un huso pequeño de hueso y una rueca diminuta que lleva colgada al cinto de algas.  
+
+**Personalidad**
+
+*Rasgos dominantes:* Caprichosa, orgullosa de su belleza, curiosa hacia los humanos, melancólica por la pérdida de su mundo antiguo.
+
+*Temperamento:* Dulce y seductora cuando recibe respeto u ofrendas; fría, vengativa y cruel si le roban el peine o profanan su agua.
+
+*Virtudes y defectos:*
+
+Virtudes → Generosa con quienes la tratan bien, artista (canta, hila, construye), leal a los suyos y a la naturaleza antigua.
+
+Defectos → Vanidosa en extremo, rencorosa, incapaz de pisar suelo consagrado (iglesias, cementerios), celosa de las relaciones humanas estables.
+
+*Peculiaridades:* Tararea constantemente melodías antiguas cuando peina su cabello; emite un leve brillo en la oscuridad cuando está contenta; antes de “morir” (desvanecerse) siempre busca que un humano la mire a los ojos una última vez.
+
+*Motivación:* Sobrevivir en un mundo que ya no cree en ella y recuperar la reverencia perdida hacia los genios del agua y la tierra antigua.  
+
+**Trasfondo** 
+
+Amaia fue una de las lamias que ayudó a los antiguos constructores de dólmenes y cromlechs en las noches sin luna, a cambio de hogazas de pan con tocino, cuajada y sidra dejadas en las orillas. Durante siglos fue adorada y temida en igual medida. Pero con la llegada del cristianismo y la construcción de iglesias sobre lugares sagrados antiguos, su territorio se redujo drásticamente. Perdió a muchas hermanas que intentaron cruzar suelo consagrado y se desvanecieron. En los últimos doscientos años ha visto cómo los ríos se contaminan, los manantiales se secan y los humanos ya no dejan ofrendas. Guarda un profundo rencor hacia los que destruyen su hábitat, pero aún conserva esperanza de que algún humano puro de corazón la reconozca y la ayude a restaurar el equilibrio.  
+
+**Creencias y valores**
+
+*Código moral:* Respeto absoluto por el agua y la tierra antigua; reciprocidad (si ayudas, te ayudo; si robas o profanas, pago con la misma moneda).
+
+*Lealtades:* A las otras lamiak, a Mari (en un nivel distante y reverencial), a los vestigios megalíticos y a los ríos limpios.
+
+*Conflictos internos:* Desea amar a un humano y formar una familia, pero sabe que cualquier unión está condenada (no puede entrar en iglesias ni cementerios → no puede casarse ni ser enterrada como humana). Esto genera una tristeza profunda y una envidia contenida hacia las parejas mortales.  
+
+**Habilidades pasivas**  
+
+- **Encanto acuático** → Cualquiera que la mire peinarse durante más de 3 turnos debe superar una salvación o quedar hechizado (desea acercarse, protegerla, ofrecerle regalos). Alcance: visual directo. Límite: no funciona en personas que ya la odian o que son inmunes a encanto.  
+- **Afinidad con el agua** → Regeneración acelerada mientras esté en contacto con agua corriente o de manantial (recupera heridas rápidamente). Puede respirar bajo el agua indefinidamente.  
+- **Pies de pato** → Nadadora excepcional, velocidad duplicada en agua, puede caminar sobre superficies acuáticas tranquilas como si fueran tierra firme.  
+
+**Habilidades activas**  
+
+- **Canción de la corriente** (activa, 1/día o con coste emocional) → Canta una melodía hipnótica; todos los que la escuchen en un radio de 30 m deben salvar o quedar fascinados y acercarse al agua durante minutos. Puede usarla para atraer presas o para pedir ayuda. Efecto secundario: después queda agotada emocionalmente durante horas.  
+- **Toque de construcción** → Puede mover piedras grandes y moldear tierra/rocas durante la noche para construir o reparar estructuras megalíticas (dólmenes, puentes de piedra). Límite: solo de noche, solo en su territorio.  
+- **Maldición del peine robado** → Si alguien roba su peine de oro, puede rastrearlo a distancia ilimitada y perseguirlo gritando sin descanso hasta recuperarlo o hasta que el ladrón muera de agotamiento/ahogamiento.  
+
+**Debilidades**  
+
+- No puede pisar suelo consagrado (iglesias, ermitas, cementerios) → sufre daño intenso o comienza a desvanecerse.  
+- El robo o destrucción de su peine de oro la debilita gravemente (pierde casi todo su poder hasta recuperarlo).  
+- Dependencia de ofrendas → si pasa décadas sin recibir pan, sidra o regalos, se va debilitando y puede entrar en un sueño profundo o desaparecer.  
+- Miedo profundo a ser olvidada por completo (el mayor terror de los genios antiguos).  
+
+**Comportamiento en escena**
+
+Bajo presión, suele intentar seducir primero para evitar el conflicto. Si se siente amenazada, se sumerge rápidamente y ataca desde el agua (arrastrando a la víctima). Reacciona con furia desmedida si tocan su peine. Con humanos respetuosos se muestra coqueta, curiosa y generosa; puede pasar noches enteras hablando de los tiempos antiguos. Interactúa con ternura con niños y pastores solitarios, pero con desconfianza hacia sacerdotes o constructores modernos.  
+
+**Amigos y enemigos**
+
+*Aliados:* Otras lamias de ríos cercanos, pastores y campesinos que aún dejan ofrendas, algún sensitivo que la ve como protectora de la naturaleza.
+
+*Oponentes:* Sacerdotes que bendicen ríos, empresas que contaminan o desvían aguas, ladrones de objetos antiguos, curiosos que quieren fotografiarla o capturarla.  
+
+**Notas del director**  
+
+- Papel previsto: PNJ ambiguo (aliada potencial muy poderosa o antagonista trágica). Puede ser el detonante de una aventura (roban su peine, contamina su río, un jugador se enamora de ella).  
+- Secreto importante: Tuvo un hijo con un humano hace siglos; el niño fue llevado a una iglesia y ella nunca pudo volver a verlo → profundo trauma que puede explotarse emocionalmente.  
+- Posibles arcos: Redención (ayuda a restaurar un dolmen y recupera fuerza), caída (se vuelve más vengativa por la contaminación), sacrificio (se deja desvanecer para salvar a un humano que ama), o trascendencia (encuentra una forma de pisar suelo consagrado mediante un ritual pagano moderno).
 
 ## Mari
 
@@ -2561,6 +2633,94 @@ Yuki-onna está asociada al invierno y a las tempestades de nieve, se dice en al
 * Ayuda a personajes que sufren ansiedad o pánico.
 * Puede provocar distanciamiento emocional temporal.
 
+## Ebisu (Ok)
+
+**Identificación**
+
+*Nombre:* Ebisu (también Hiruko o Kotoshiro-nushi-no-kami)
+
+*Título, alias o epíteto:* El Sonriente, Dios de la Buena Suerte, Patrón de los Pescadores, Uno de los Siete de la Fortuna
+
+*Raza y clase:* Kami (deidad shintoísta) / Dios menor de la prosperidad y el mar
+
+*Profesión:* Protector de pescadores, comerciantes y trabajadores honestos; dispensador de riqueza ganada con esfuerzo
+
+*Misión:* Traer prosperidad justa y abundancia del mar a quienes trabajan con dedicación; recompensar la honestidad y castigar sutilmente la avaricia o la pereza; mantener el equilibrio entre esfuerzo humano y dones divinos
+
+*Nivel:* 5
+
+*Alineamiento:* Neutral Bueno
+
+*Características básicas:* Alegre patológico, forma humana regordeta y sonriente, afinidad con el mar y los peces, aura de buena fortuna material, debilidad ante la impureza o la deshonestidad. Benévolo y generoso con los trabajadores, pragmático y justo en asuntos de comercio, sin interés en guerras o grandes conflictos.
+
+**Apariencia**
+
+*Descripción general:* hombre de mediana edad regordete y bonachón, con rostro ancho siempre sonriente (incluso cuando "serio"), barba corta y negra, ojos pequeños y chispeantes. Piel clara, a menudo con un leve brillo dorado. Complexión robusta pero no musculosa, simbolizando abundancia más que fuerza.
+
+*Vestimenta:* Kimono amplio y colorido (a menudo azul o verde marino), hakama o sashinuki, sombrero alto plegado (kazaori eboshi) típico de pescador o mercader. Siempre descalzo o con sandalias simples.
+
+*Objetos que lleva:* Caña de pescar (en la mano derecha o al hombro), un gran tai (besugo rojo o dorado, símbolo de buena suerte) bajo el brazo izquierdo; a veces una cesta de peces o una bolsa de monedas.
+
+**Personalidad**
+
+*Rasgos dominantes:* Alegre, optimista, generoso, bonachón, con sentido del humor simple y directo.
+
+*Temperamento:* Siempre sonriente y relajado; se enfada raramente (solo ante avaricia extrema o maltrato a pescadores); responde con risas a las dificultades.
+
+*Virtudes y defectos:*
+
+Virtudes → Generoso con devotos honestos, paciente, promotor del trabajo duro y la honestidad, trae suerte real (no ilusoria).
+
+Defectos → Demasiado confiado (puede ser engañado por tramposos), evita conflictos mayores, algo perezoso en apariencia (prefiere la pesca relajada a la acción).
+
+*Peculiaridades:* Ríe con un sonido como olas rompiendo; su sonrisa es contagiosa (puede calmar tensiones o inspirar optimismo); siempre huele ligeramente a mar y pescado fresco.
+
+*Motivación:* Asegurar que la prosperidad llegue a quienes la merecen por esfuerzo; mantener viva la tradición de la pesca y el comercio justo en Japón.  
+
+**Trasfondo**
+
+Ebisu nació como Hiruko ("el Niño Lejía"), el primer hijo de Izanagi e Izanami, pero nació sin huesos y fue considerado imperfecto, por lo que lo abandonaron en una barca de juncos al mar. Sobrevivió y creció hasta convertirse en un dios de la suerte y la pesca. En algunas versiones se identifica con Kotoshiro-nushi, hijo de Ōkuninushi, quien cedió su tierra a los kami celestiales y se convirtió en guardián de la abundancia. Se unió a los Siete Dioses de la Fortuna como el único nativo puro. Trauma: el rechazo inicial de sus padres divinos, que lo hace especialmente protector con los "imperfectos" o marginados que luchan por prosperar.  
+
+**Creencias y valores**
+
+*Código moral:* La suerte verdadera viene del esfuerzo honesto; la avaricia trae mala fortuna; compartir la abundancia multiplica la riqueza. Respeto por el mar y sus criaturas.
+
+*Lealtades:* A pescadores, mercaderes y trabajadores humildes; distante alianza con otros Shichifukujin (especialmente Daikokuten); reverencia a Izanagi/Izanami pese al abandono.
+
+*Conflictos internos:* Desea ser aceptado plenamente por los kami mayores, pero sabe que su rol es humilde; lucha entre su naturaleza bonachona y la necesidad de castigar la deshonestidad.  
+
+**Habilidades pasivas**  
+
+- **Aura de Buena Fortuna** → En su presencia, las tiradas de suerte, comercio o pesca tienen bonificación; objetos rotos se "arreglan" sutilmente (redes, barcos). Alcance: cercano. Límite: no funciona con avaros o tramposos.  
+- **Amigo del Mar** → Puede respirar bajo el agua indefinidamente; atrae peces y calma tormentas menores en el mar.  
+- **Sonrisa Contagiosa** → Reduce miedo o ira en aliados; inspira optimismo y resistencia a la depresión.  
+
+**Habilidades activas**  
+
+- **Bendición del Tai** (1/día) → Toca a un devoto o aliado con su besugo rojo; otorga riqueza temporal (pesca abundante, ventas exitosas, hallazgos de monedas) por días o semanas. Coste: exige una ofrenda futura o acto de generosidad.  
+- **Llamado de Peces** → Invoca una escuela de peces o atrae una gran captura para alimentar a muchos. Alcance: área marina o costera. Límite: solo en aguas naturales.  
+- **Toque de Prosperidad** → Cura heridas leves o fatiga en trabajadores; mejora herramientas o redes temporalmente. Coste: drena su propia "energía alegre" (queda más serio por un tiempo).  
+
+**Debilidades**  
+
+- Poder limitado: no puede combatir demonios mayores ni alterar el destino cósmico (subordinado a Amaterasu o dragones marinos).  
+- Vulnerable a la impureza: en lugares contaminados o profanados (basura en el mar, avaricia extrema), sus poderes se debilitan.  
+- Dependencia de devoción: si nadie lo honra o deja ofrendas (sake, pescado, monedas en santuarios), su influencia disminuye.  
+- Rechazo pasado: sufre emocionalmente ante abandono o rechazo, pudiendo retirarse temporalmente.  
+
+**Comportamiento en escena**  
+Bajo presión: ríe y ofrece tratos o ayuda en vez de pelear; si amenazan a pescadores, invoca tormentas menores o mala suerte al agresor. Reacciona con humor ante insultos; con generosidad ante necesidad honesta. Con mortales: aparece como pescador errante o mercader bonachón para probar o ayudar; ama charlar con niños, ancianos y trabajadores. Desconfía de ricos avaros o samuráis arrogantes.  
+
+**Amigos y enemigos**  
+*Aliados:* Pescadores, mercaderes honestos, otros Shichifukujin (Daikokuten como compañero frecuente), kami locales de ríos y costas, niños y humildes.  
+*Oponentes:* Yōkai marinos destructivos (como umibōzu), avaros o tramposos en el comercio, contaminadores del mar, demonios que roban prosperidad.  
+
+**Notas del director / autor**  
+
+- Papel previsto: PNJ de quests cotidianas (encontrar tesoros en el mar, ayudar a un pueblo pobre con pesca, castigar a un mercader deshonesto). Ideal para campañas low-power o slice-of-life en Japón feudal/moderno.  
+- Secreto importante: Aún guarda un leve resentimiento hacia Izanami/Izanagi por abandonarlo; puede aliarse contra amenazas que "abandonen" a los débiles.  
+- Posibles arcos: Ayudar a un PC "imperfecto" a encontrar su lugar (como Hiruko), restaurar un santuario olvidado para recuperar poder, maldición de mala suerte a un villano avaro, o aparecer en sueños sonrientes para dar pistas de prosperidad. Puede ser patrón sutil de un personaje mercader, pescador o rogue honrado.
+
 # Mitología griega
 
 ## Hermes
@@ -2597,6 +2757,97 @@ Hécate es una diosa de la mitología griega asociada con la magia, la brujería
 * Ofrece opciones… nunca la respuesta.
 * Hace que la magia espiritual se intensifique temporalmente.
 
+# Mitología romana
+
+## Marte (Ok)
+
+**Identificación**
+
+*Nombre:* Mars Gradivus (el que Avanza)
+
+*Título, alias o epíteto:* El Dios de la Guerra, Padre del Pueblo Romano, Marte Ultor (el Vengador), Protector de los Campos y las Legiones, Pater Patriae (Padre de la Patria)
+
+*Raza y clase:* Deus / Dios romano mayor (deidad de la guerra disciplinada y la virilidad vital)
+
+*Profesión:* Guardián militar de Roma, protector de la agricultura y la fertilidad primaveral, padre divino de los romanos, vengador de ofensas al orden
+
+*Misión:* Asegurar la victoria romana mediante disciplina y valor; proteger los campos y el ciclo agrícola para que la guerra sirva a la paz (pax romana); vengar traiciones o amenazas al pueblo romano; engendrar y guiar a héroes fundadores
+
+*Nivel:* 9
+
+*Alineamiento:* Legal Neutral (Legal Bueno en contexto romano)
+
+*Características básicas:* Fuerza marcial suprema, virilidad como fuerza vital (vis), aura de liderazgo y valor, dualidad guerrero-agricultor, inmortalidad divina. Dios mayor, poder inmenso en guerra y protección, pero subordinado a Júpiter. Valora el orden, la disciplina militar, la virtud (virtus) y la reciprocidad; la guerra es medio para la paz y la prosperidad
+
+**Apariencia**
+
+*Descripción general:* Hombre maduro y atlético, de complexión imponente, a menudo barbado con cabello rizado corto (o imberbe y juvenil en formas más arcaicas). Piel bronceada por el sol de batalla y los campos, ojos fieros color fuego o bronce. Alto (más de 2,5 m en forma divina), musculoso pero no grotesco; irradia autoridad y virilidad.
+
+*Vestimenta:* Armadura completa de bronce o hierro (lorica segmentata o musculata), capa roja militar (paludamentum), yelmo crestado con plumas rojas o negras. A veces representado desnudo o semidesnudo para simbolizar la crudeza del poder marcial.
+
+*Objetos que lleva:* Lanza (hasta con laurel para simbolizar paz a través de la victoria), escudo sagrado (ancile o scutum), espada corta (gladius), a veces el gorgoneion en la coraza. Animales asociados: lobo (símbolo de Roma), pájaro carpintero (picus), caballo (en carreras Equirria).  
+
+**Personalidad**
+
+*Rasgos dominantes:* Disciplinado, honorable, paternalista con los romanos, apasionado en la batalla, pragmático.
+
+*Temperamento:* Calmado y estratégico en planificación; furia controlada y devastadora en combate; orgulloso pero no caprichoso.
+
+*Virtudes y defectos:*
+
+Virtudes → Valiente, leal al pueblo romano, promotor de la virtus (valor, excelencia), protector de la agricultura y la fertilidad, vengador justo.
+
+Defectos → Implacable con traidores o enemigos, puede ser rígido y autoritario, susceptible a la ira si se ofende el honor romano.
+
+*Peculiaridades:* Su presencia hace que los soldados sientan coraje y disciplina; los campos florecen en primavera (mes de marzo) cerca de sus templos; ruge como león o lobo en batalla; a veces aparece como lobo o pájaro carpintero para guiar.
+
+*Motivación:* Fortalecer Roma mediante victorias militares y prosperidad agrícola; asegurar que la guerra sirva al orden y no al caos; perpetuar su linaje divino en héroes romanos.  
+
+**Trasfondo**
+
+Marte es uno de los dioses más antiguos de la mitología romana, inicialmente un guardián agrícola y de la fertilidad primaveral (abril y marzo, mes suyo). Evolucionó al dios de la guerra organizada. Padre de Rómulo y Remo (con Rhea Silvia, vestal), fundadores de Roma; por ello es pater del pueblo romano. En mitos: engendrado por Juno sola con una flor mágica; intentó seducir a Minerva sin éxito; fue engañado por Anna Perenna en un matrimonio burlón. Bajo Augusto se convirtió en Mars Ultor, vengador de César. Trauma sutil: la necesidad de equilibrar su furia destructiva con el rol protector, para no convertirse en caos como Ares.
+
+**Creencias y valores**
+
+*Código moral:* La guerra debe ser disciplinada y servir a la paz/orden (pax romana); la virtus (valor masculino) y la pietas (deber) son sagradas; la agricultura es base de la fuerza romana.
+
+*Lealtades:* Al pueblo romano y sus legiones, a Júpiter (padre), a Venus (amante), a los fundadores Rómulo y Remo.
+
+*Conflictos internos:* Su pasión bélica choca con su rol agrícola/protector; teme que la guerra descontrolada destruya lo que protege (campos, pueblo).  
+
+**Habilidades pasivas**
+
+- **Aura de Virtus** → Aliados en su presencia ganan bonos a coraje, disciplina y resistencia en batalla; miedo reducido. Alcance: aura de legión o campo de batalla.  
+- **Guardián de los Campos** → Hace que cultivos crezcan vigorosos en primavera; inmune a hambrunas o plagas agrícolas.  
+- **Padre de Roma** → Detecta amenazas al pueblo romano o su honor; regeneración acelerada en suelo italiano o romano.  
+
+**Habilidades activas**  
+
+- **Furia Disciplinada** (1/batalla mayor) → Entra en estado de berserker controlado: fuerza, velocidad y daño masivos; inspira a legiones enteras. Coste: debe canalizar ira hacia enemigos específicos. Efecto secundario: agotamiento si se abusa.  
+- **Lanza de Marte** → Ataque con lanza divina que ignora armaduras y causa daño masivo; puede lanzar rayos de fuego marcial. Alcance: línea o área.  
+- **Ancile Sagrado** → Invoca escudos sagrados (ancilia) que protegen aliados o reflejan ataques; puede usarlos para rituales de victoria.  
+- **Bendición Agrícola** → Restaura fertilidad a tierras arrasadas por guerra; cura fatiga en soldados-campesinos. Coste: requiere ofrendas (sacrificios de toro o caballo).  
+
+**Debilidades**  
+
+- Subordinación a Júpiter: no actúa contra el orden supremo o sin aprobación divina mayor.  
+- Vulnerabilidad al desorden: en caos puro (rebeliones internas, traiciones romanas) pierde poder temporalmente.  
+- Dependencia de culto: sin legiones o templos que lo honren (especialmente en marzo), su influencia disminuye.  
+- Ira manipulable: puede ser provocado a furia excesiva por ofensas al honor romano.  
+
+**Comportamiento en escena**  
+Bajo presión: organiza formaciones, inspira disciplina antes de atacar con furia calculada. Reacciona con ira controlada ante traición; protege ferozmente a "sus hijos" (romanos o legados). Con mortales: paternal y exigente con soldados; distante con civiles, pero bendice agricultores devotos. Interactúa con discursos marciales o apariciones como lobo guía. Desconfía de cobardes o traidores.  
+
+**Amigos y enemigos**  
+*Aliados:* Legiones romanas, Rómulo y Remo (hijos), Venus (amante), Júpiter (padre), Bellona (compañera de guerra), soldados y agricultores devotos.  
+*Oponentes:* Enemigos de Roma (cartagineses, bárbaros), traidores internos, dioses caóticos o destructivos (como aspectos de Discordia), cualquiera que profane el honor romano.  
+
+**Notas del director / autor**  
+
+- Papel previsto: Patrón divino de campañas militares romanas, PNJ que otorga misiones de conquista o defensa, o antagonista si el grupo atenta contra Roma. Ideal para arcos de honor, venganza (Mars Ultor) o fundación de ciudades.  
+- Secreto importante: Su dualidad agrícola lo hace vulnerable emocionalmente a la destrucción de campos/tierras romanas; un PC podría apelar a eso para calmar su ira.  
+- Posibles arcos: Guiar a un PC descendiente romano en una guerra, vengar una traición (como asesinos de un "César"), restaurar fertilidad a tierras malditas por guerra, o aparecer como lobo para probar el valor de un héroe. Puede ser patrón de un guerrero paladín o legionario.
+
 # Mitología egipcia
 
 ## Anubis
@@ -2617,11 +2868,169 @@ Anubis (en egipcio: 𓇋𓈖𓊪𓅱, jnpw) inpu es el guardián de las tumbas a
 
 **Escena:** un PJ siente que debe “soltar” algo: un miedo, un objeto, una persona, una idea.
 
+## Sekhmet (Ok)
+
+**Identificación**
+
+*Nombre:* Sekhmet (también Sakhmet, Sachmis)
+
+*Título, alias o epíteto:* La Poderosa, La que Ama a Ma'at, Señora del Terror, Ojo de Ra, La que Maúlla (devoradora), Diosa de la Plaga y la Guerra
+
+*Raza y clase:* Diosa egipcia / Deidad solar guerrera (aspecto leonino de la divinidad femenina)
+
+*Profesión:* Guerrera vengadora de Ra, protectora de los faraones en batalla, diosa de la guerra, la plaga, la curación y la medicina (dualidad destructiva/curativa)
+
+*Misión:* Castigar la desobediencia humana y el caos que amenaza Ma'at (el orden cósmico); proteger Egipto y al faraón en la guerra; destruir enemigos y enfermedades, pero también sanar cuando se aplaca
+
+*Nivel:* 8
+
+*Alineamiento:* Caótico Neutral (Neutral Malvado en furia)
+
+*Características básicas:* Fuerza y ferocidad sobrehumanas, aliento de fuego/plaga, transformación entre leona destructiva y mujer sanadora, aura de calor solar abrasador. Diosa mayor pero no creadora cósmica; poder destructivo abrumador en su furia, pero controlable mediante rituales. Feroz e implacable contra el desorden, pero leal al orden divino; compasiva solo cuando se la apacigua
+
+**Apariencia**
+
+*Descripción general:* Mujer alta y atlética con cabeza de leona feroz (melena rojiza o dorada), ojos rojos o ámbar llameantes, piel bronceada o rojiza (simbolizando sangre y sol). Cuerpo humano esbelto pero musculoso, con garras en manos y pies. Corona solar con disco solar y ureo (cobra erguida). En modo calmado puede aparecer como Bastet (gata doméstica), pero rara vez.
+
+*Vestimenta:* Vestido ajustado de lino rojo o blanco con bordes dorados, collar ancho (menat o pectoral), brazaletes y tobilleras de oro. Siempre con el disco solar y ureo en la cabeza.
+
+*Objetos que lleva:* Ankh (símbolo de vida, para su aspecto curativo), cetro (poder), papiro o arco (en algunas representaciones); a veces una espada o daga flameante.  
+
+**Personalidad**
+
+*Rasgos dominantes:* Feroz, implacable, sedienta de sangre en batalla, orgullosa, protectora extrema del faraón y Ma'at.
+
+*Temperamento:* Ira explosiva y destructiva (puede arrasar naciones); calmada y maternal cuando se la aplaca con cerveza teñida de rojo o música.
+
+*Virtudes y defectos:*
+
+Virtudes → Leal protectora, sanadora poderosa (revierte plagas que ella misma causa), guardiana del orden cósmico.
+
+Defectos → Furia incontrolable (casi destruye la humanidad), vengativa, difícil de razonar en ira.
+
+*Peculiaridades:* Ruge como leona cuando ataca; su aliento trae plaga o fuego; bebe sangre o cerveza roja para calmarse; danza guerrera antes de batallas.
+
+*Motivación:* Mantener Ma'at destruyendo el caos (isefet); vengar ofensas a Ra o al faraón; equilibrar destrucción y curación.  
+
+**Trasfondo**
+
+Sekhmet fue creada por Ra del fuego de su ojo para castigar a la humanidad rebelde que conspiraba contra él. Bajó a la Tierra como leona y masacró a miles, bebiendo sangre hasta que Ra la engañó: tiñó cerveza con ocre rojo para simular sangre y la emborrachó, calmándola y convirtiéndola en Hathor (aspecto pacífico). Desde entonces, es dual: destructora en guerra, sanadora en paz. Protegió a los faraones en batallas (como Ramsés II en Qadesh). Trauma: su propia furia casi destruye el mundo que debía proteger, generando un conflicto interno entre rabia y control.  
+
+**Creencias y valores**
+
+*Código moral:* Ma'at debe prevalecer; el caos y la rebelión merecen aniquilación total. La fuerza protege a los débiles si se usa con justicia.
+
+*Lealtades:* A Ra (su creador/padre), al faraón (su encarnación terrenal), a Ptah (consorte en Menfis).
+
+*Conflictos internos:* Su furia destructiva choca con su rol sanador; teme perder el control y destruir lo que ama (como en el mito de la borrachera).  
+
+**Habilidades pasivas**  
+
+- **Ojo de Ra** → Detecta desorden, rebelión o enfermedad a distancia; inmune a plagas, venenos y fuego.  
+- **Aura Solar Abrasadora** → Calor intenso alrededor (daño por fuego o sequía); debilita enemigos con fiebre o plaga. Alcance: aura visible.  
+- **Forma Dual** → Puede alternar entre leona guerrera (fuerza máxima) y mujer sanadora (curación).  
+
+**Habilidades activas**  
+
+- **Furia de Sekhmet** (furia berserker, 1/batalla mayor) → Entra en frenesí: fuerza, velocidad y daño multiplicados; aliento de plaga/fuego masivo que diezma ejércitos. Coste: incontrolable (puede atacar aliados); dura hasta que se aplaca. Efecto secundario: agotamiento extremo después.  
+- **Plaga de la Leona** → Invoca enfermedad o fuego solar en área; puede dirigirla contra enemigos o revertirla para curar aliados. Alcance: amplio en batallas.  
+- **Toque Curativo** (cuando calmada) → Sana heridas, plagas o maldiciones; revierte sus propias enfermedades. Coste: requiere ofrendas (cerveza roja, música, danza).  
+
+**Debilidades**  
+
+- Furia incontrolable: puede ser engañada o emborrachada para calmarla (como en el mito).  
+- Dependencia de Ra/Ma'at: pierde poder si el orden cósmico se rompe o si Ra la rechaza.  
+- Vulnerabilidad a la calma: rituales de cerveza roja, música o alabanzas la debilitan temporalmente (la hacen pasar a modo Hathor/Bastet).  
+- Miedo sutil a su propia destrucción: sabe que su ira casi acabó con la humanidad.  
+
+**Comportamiento en escena**
+
+Bajo presión: ruge y ataca sin piedad, priorizando destrucción total de amenazas al orden. Reacciona con furia ante deshonor o rebelión; con protección feroz a aliados leales (faraón, devotos). Con mortales: aterradora para enemigos, maternal/protectora para devotos que la honran. Interactúa con rugidos o danzas guerreras; acepta ofrendas para calmarse. Desconfía de traidores o caóticos.  
+
+**Amigos y enemigos**
+
+*Aliados:* Ra (padre/creador), Ptah (consorte), faraones y guerreros egipcios leales, Bastet (su aspecto pacífico), sacerdotes sanadores.
+
+*Oponentes:* Apophis (caos encarnado), rebeldes contra Ma'at, demonios o dioses extranjeros que amenazan Egipto, cualquiera que profane templos o al faraón.  
+
+**Notas del director / autor**
+
+- Papel previsto: Antagonista trágica (furia desatada por ofensa) o aliada poderosa (si se la apacigua y honra). Ideal para campañas de guerra antigua, plagas o restauración de Ma'at.  
+- Secreto importante: Su aspecto Hathor/Bastet es real; un PC podría "calmarla" permanentemente o usarla para curar plagas masivas.  
+- Posibles arcos: Desatar su furia contra un villano caótico (aliada temporal), quest para aplacarla tras una masacre accidental, transformación en protectora de un faraón/PC, o conflicto interno si su ira amenaza a inocentes. Puede ser patrona de un guerrero berserker o sanador dual.  
+
 # Mitología hindú
 
 ## Shiva
 
 Shiva es conocido como «El Destructor» dentro de la trimurti (trinidad hinduista), en la que representa el papel del dios destructor del universo y posteriormente lo renueva, con Brahmá (Dios creador) y Vishnu (Dios preservador). En la tradición shivaita, Shiva es el Señor Supremo que crea, protege y transforma el universo. En su faceta más feroz, se le suele representar matando demonios. Shiva también es conocido como Adiyogi Shiva, considerado el dios patrón del yoga, la meditación y las artes.Los atributos iconográficos de Shiva son la serpiente alrededor de su cuello, la media luna que lo adorna, el río sagrado Ganges que fluye de su pelo enmarañado, el tercer ojo en la frente (el ojo que convierte en cenizas todo lo que tiene delante cuando se abre), el trishula o tridente como arma y el tambor damaru. Suele venerársele en la forma anicónica de lingam.
+
+Aquí tienes una ficha de personaje para **Shiva** (Śiva), adaptada como entidad jugable o PNJ de alto nivel en un contexto de rol fantástico inspirado en la mitología hindú. Se mantiene fiel a las fuentes mitológicas clásicas (Puranas, iconografía shaiva, etc.), pero con elementos adaptados para mecánicas de juego (nivel épico/divino, alineamiento, habilidades con costes y límites).
+
+**Identificación**  
+*Nombre:* Śiva Mahādeva  
+*Título, alias o epíteto:* El Auspicioso, El Destructor, Nataraja (Señor de la Danza), Rudra el Aullador, Pashupati (Señor de las Almas/Animales), Adiyogi (Primer Yogi), Hara, Nilakantha (Cuello Azul), Bhairava (el Terrible)  
+*Raza y clase:* Deva Supremo / Dios de la Trimurti (Destructor-Transformador) – Asceta Cósmico / Señor de la Danza  
+*Profesión:* Yogui eterno, Señor del Tiempo y la Destrucción, Maestro del Yoga y las Artes, Guardián del Dharma a través de la disolución  
+*Misión:* Mantener el equilibrio cósmico destruyendo lo estancado, lo ilusorio y lo corrupto para permitir la renovación; guiar a las almas hacia la liberación (moksha); destruir el universo al final de cada kalpa para su recreación  
+*Nivel:* Equivalente a 20+ (nivel divino / entidad cósmica; en sistemas mortales sería un ser de poder abrumador)  
+*Alineamiento:* Caótico Neutral (o Neutral Verdadero en Shaivismo) – trasciende el bien/mal humano; actúa por el dharma cósmico, no por moralidad mortal  
+*Características básicas:* Omnisciente parcial, asceta extremo, pasiones intensas pero controladas, dualidad constante (asceta vs. amante, pacífico vs. destructor), compasivo pero implacable  
+
+**Apariencia**  
+*Descripción general:* Hombre de complexión atlética pero ascética, piel blanca cubierta de cenizas de crematorio (bhasma), cuello azul intenso (Nilakantha) por haber tragado el veneno halahala. Cabello largo y enmarañado (jata) en forma de moño alto, adornado con una luna creciente y el río Ganges cayendo en cascada. Tercer ojo vertical cerrado en la frente (brilla rojo cuando se abre). Cuatro brazos habitualmente (a veces dos). Cuerpo adornado con serpiente rey Vasuki enrollada al cuello, collar de cráneos (mundamala), piel de tigre como taparrabos.  
+*Vestimenta:* Mínima: piel de tigre o antílope, cenizas sagradas por todo el cuerpo, hilo sagrado brahmánico (yajñopavīta), aros asimétricos (uno masculino, otro femenino en algunas formas).  
+*Objetos que lleva:* Trishula (tridente divino), damaru (tambor de mano pequeño), tercer ojo, serpiente Vasuki, arco Pinaka (en algunas formas), calavera (kapala), fuego cósmico, rosario de rudraksha. Monta a Nandi, el toro blanco sagrado.  
+
+**Personalidad**  
+*Rasgos dominantes:* Ascético, meditativo, apasionado en extremos, compasivo con devotos, terrible con arrogantes y demonios, sabio omnisciente, impredecible.  
+*Temperamento:* Tranquilo y sereno en meditación; furia cósmica (Rudra) cuando se activa su ira; éxtasis danzante en Tandava.  
+*Virtudes y defectos:*  
+Virtudes → Misericordioso con devotos sinceros, destructor de ilusiones y ego, maestro supremo del yoga y la liberación, equilibrado en dualidades (vida/muerte, creación/destrucción).  
+Defectos → Ira destructiva incontrolable si se provoca (tercer ojo), ascetismo extremo que lo aleja del mundo, caprichoso en ocasiones, difícil de predecir.  
+*Peculiaridades:* Tararea o toca el damaru rítmicamente cuando medita; su tercer ojo parpadea cuando detecta arrogancia o ilusiones fuertes; se transforma fácilmente en formas feroces (Bhairava) o andróginas (Ardhanarishvara).  
+*Motivación:* Preservar el ciclo cósmico (srishti-sthiti-samhara); destruir la ignorancia (avidya) y el ego para que las almas alcancen moksha; disfrutar de la danza eterna del universo.  
+
+**Trasfondo**  
+Śiva existe desde siempre como parte de la Trimurti. En mitos clave: bebió el veneno del océano durante el Samudra Manthan salvando al universo (cuello azul); destruyó a Kama (dios del deseo) con su tercer ojo cuando perturbó su meditación; decapitó accidentalmente a Ganesha y le dio cabeza de elefante; bailó el Tandava furioso tras la muerte de Sati (primera esposa), llevando su cadáver y casi destruyendo el universo; se casó con Parvati tras su ascetismo extremo; como Nataraja, baila la creación y destrucción en Chidambaram. Ha destruido universos enteros al final de kalpas y los ha permitido renacer. Trauma central: la pérdida de Sati y la posterior unión con Parvati tras su renacimiento.  
+
+**Creencias y valores**  
+*Código moral:* Todo es cíclico; la destrucción es necesaria para la renovación. No hay bien/mal absolutos, solo equilibrio. El ego y la ilusión deben destruirse. Devoción sincera (bhakti) es el camino más rápido a la liberación.  
+*Lealtades:* A Parvati (Shakti), Ganesha, Kartikeya, devotos shaivas, Nandi; reverencia distante a Brahma y Vishnu como partes del mismo Brahman.  
+*Conflictos internos:* Ascetismo vs. vida familiar/hogar; paz meditativa vs. furia destructiva inevitable; compasión infinita vs. necesidad de destruir lo corrupto.  
+
+**Habilidades pasivas**  
+
+- **Tercer Ojo de Percepción** → Detecta ilusiones, mentiras, ego inflado y energías malignas a cualquier distancia. Inmune a ilusiones y encantamientos. Alcance: cósmico. Límite: siempre activo pero cerrado visualmente.  
+- **Ceniza Sagrada (Bhasma)** → Inmune a venenos, fuego, enfermedades; regeneración lenta pero constante. Su toque convierte materia en ceniza si lo desea.  
+- **Señor de los Venenos** → Absorbe y neutraliza cualquier toxina o maldición (incluida su propia).  
+
+**Habilidades activas**  
+
+- **Apertura del Tercer Ojo** (1/kalpa o con ira extrema) → Rayo de fuego destructivo que reduce a cenizas a dioses, demonios o ejércitos enteros. Alcance: línea de visión o focalizado. Coste: ira cósmica (puede descontrolarse). Efecto secundario: agotamiento temporal o casi destrucción del entorno.  
+- **Tandava Cósmico** (Ananda Tandava o Rudra Tandava) → Danza que crea ritmos de creación o destrucción masiva. Puede generar terremotos, tsunamis, renovación o aniquilación en área amplia. Coste: energía divina masiva. Límite: requiere espacio y concentración.  
+- **Trishula Strike** → Ataque triple con tridente que destruye cuerpo, mente y alma simultáneamente. Ignora resistencias físicas/mágicas.  
+- **Damaru del Ritmo Universal** → Golpea el tambor para alterar el tiempo, crear ilusiones rítmicas o invocar energías primordiales (creación/destrucción).  
+
+**Debilidades**  
+
+- Provocación extrema del ego o interrupción de meditación profunda → activa ira incontrolable (tercer ojo se abre sin querer).  
+- Dependencia de Shakti (Parvati) → sin equilibrio femenino, su poder destructor se desboca (mito de Sati).  
+- No actúa por capricho mortal → ignora peticiones egoístas o triviales; solo interviene por dharma cósmico.  
+- Ascetismo → vulnerable emocionalmente a la pérdida de seres queridos (Sati).  
+
+**Comportamiento en escena**  
+Bajo presión: entra en meditación profunda o baila Tandava si es necesario destruir. Reacciona con calma irónica ante arrogancia; destruye sin palabras si cruza límites. Con devotos: compasivo, guía con sabiduría o bendiciones (moksha). Interactúa poco con mortales comunes; prefiere ascetas, yoguis o seres puros. En forma Bhairava: feroz, terrorífico, implacable.  
+
+**Amigos y enemigos**  
+*Aliados:* Parvati (esposa inseparable), Ganesha y Kartikeya (hijos), Nandi, devotos shaivas sinceros, Vishnu (en armonía Trimurti), otros yoguis y siddhas.  
+*Oponentes:* Demonios (asuras), arrogantes (como Daksha), fuerzas que rompen el dharma cósmico, Kama (deseo descontrolado), ignorancia (avidya) personificada.  
+
+**Notas del director / autor**  
+
+- Papel previsto: Entidad de campaña épica (aliado rarísimo, antagonista trágico si el grupo rompe equilibrio cósmico, o catalizador de transformación personal). Ideal para arcos de liberación, destrucción de ilusiones o fin de eras.  
+- Secreto importante: Su “debilidad” real es el amor por Parvati/Shakti; separarlo de ella lo desequilibra hacia destrucción pura.  
+- Posibles arcos: Intervención para destruir un mal antiguo, guía a un PC hacia moksha, furia por profanación de templos/shrines, baile final que cierra una campaña (fin de kalpa local). Puede aparecer como mendigo asceta para probar a los jugadores.
 
 ## Durga
 
@@ -2654,6 +3063,97 @@ Ganesha (Gaṇeśa) o Ganesh es uno de los dioses más conocidos y adorados del 
 * Revela soluciones prácticas inesperadas.
 * Ayuda a PJs bloqueados mentalmente.
 * Puede convertir un dilema en algo sencillo.
+
+## Kubera (Ok)
+
+**Identificación**
+
+*Nombre:* Kubera (también Kuvera o Kuver)
+
+*Título, alias o epíteto:* El Tesorero de los Dioses, Señor de la Riqueza, Yaksharaja (Rey de los Yakshas), Alakadhipa (Señor de Alaka), Dhanapati (Señor de la Riqueza)
+
+*Raza y clase:* Deva / Yaksha (semidiós guardián de tesoros y riquezas) – Guardián de tesoros subterráneos y celestiales
+
+*Profesión:* Tesorero y administrador de las riquezas divinas, protector de minas, joyas y riquezas ocultas, rey de los yakshas y gandharvas en su reino
+
+*Misión:* Proteger y distribuir la riqueza material del universo según el dharma; evitar que la avaricia o la pobreza desequilibren el mundo; servir a los devas mayores como custodio de sus tesoros
+
+*Nivel:* Equivalente a 10-12 (deva menor; poderoso en asuntos materiales, pero vulnerable y subordinado a dioses mayores)
+
+*Alineamiento:* Neutral
+
+*Características básicas:* Rico en extremo pero no creador ni destructor cósmico; generoso con devotos, avaro con ladrones; conexión con la tierra y lo subterráneo; deformidad física (cojo, tuerto o con tres piernas en algunas descripciones). Pragmático, codicioso pero justo; premia la generosidad y castiga la avaricia excesiva.
+
+**Apariencia**
+
+*Descripción general:* Hombre robusto y regordete de piel dorada o amarillenta, con vientre prominente (símbolo de abundancia), ojos pequeños y astutos, a menudo cojo o con una pierna de más. Cabello negro o dorado, adornado con joyas. Rostro amable pero astuto, con bigote o barba corta. Mide alrededor de 2-3 metros en forma divina, pero puede aparecer más pequeño.
+
+*Vestimenta:* Ropas lujosas de seda y oro, joyas pesadas (collares, brazaletes, anillos), corona enjoyada o diadema. Lleva siempre símbolos de riqueza: monedas, gemas, cofres pequeños.
+
+*Objetos que lleva:* Pushpaka Vimana (carro volador que roba o regala), maza o bastón enjoyado, bolsa de monedas infinitas (Akshaya Patra en algunas versiones), llaves de tesoros ocultos. Monta un hombre o un elefante blanco, o viaja en su vimana.  
+
+**Personalidad**
+
+*Rasgos dominantes:* Astuto negociante, generoso con quienes lo honran, codicioso y vengativo con ladrones o avaros. Protector de la riqueza legítima.
+
+*Temperamento:* Calmado y calculador en general; se enfurece ante robos o despilfarro injusto.
+
+*Virtudes y defectos:*
+
+Virtudes → Justo distribuidor de riqueza, recompensa la devoción y el trabajo honesto, protector de minas y recursos naturales.
+
+Defectos → Avaricioso en exceso si se le ofende, materialista, puede ser manipulador o egoísta.
+
+*Peculiaridades:* Siempre cuenta monedas o joyas cuando medita; su risa suena como tintineo de monedas; se transforma en yaksha o enano para esconder tesoros.
+
+*Motivación:* Mantener el flujo de riqueza en el universo para que no se estanque ni se pierda; acumular tesoros para los dioses y devotos dignos.
+
+**Trasfondo**
+
+Kubera nació como hijo de Vishrava (un sabio) y una rakshasi (demonio), hermano de Ravana (el rey de Lanka). Inicialmente era un asceta rico gracias a su austeridad, pero Ravana le robó su reino y su vimana Pushpaka. Tras la derrota de Ravana por Rama, Kubera recuperó su posición como tesorero de los devas. Vive en Alaka, una ciudad celestial de oro y joyas en el Himalaya. Ha sido bendecido por Brahma y Shiva para custodiar riquezas, pero su poder es limitado: no puede crear universos ni destruir demonios mayores sin ayuda. Trauma: la humillación de perder su reino ante su medio hermano Ravana.  
+
+**Creencias y valores**
+
+*Código moral:* La riqueza debe circular con justicia; la avaricia destruye, la generosidad multiplica. Respeto por el dharma en asuntos materiales.
+
+*Lealtades:* A los devas mayores (Indra, Shiva, Vishnu), a su reino de yakshas, a devotos que lo honran con ofrendas.
+
+*Conflictos internos:* Desea acumular más riqueza, pero sabe que debe compartirla; miedo a ser robado nuevamente (por eso es paranoico con ladrones).  
+
+**Habilidades pasivas**  
+
+- **Aura de Riqueza** → En su presencia, la gente encuentra monedas o gemas pequeñas (suerte material); devotos ganan + en tiradas de riqueza o comercio. Alcance: aura cercana. Límite: no funciona con avaros o ladrones.  
+- **Custodio de Tesoros** → Detecta oro, gemas y tesoros ocultos a gran distancia; inmune a robos mágicos menores.  
+- **Forma Yaksha** → Puede cambiar a forma pequeña o invisible para esconderse o vigilar.  
+
+**Habilidades activas**  
+
+- **Bendición de Kubera** (1/día) → Otorga riqueza temporal (monedas, joyas) a un devoto o aliado; puede curar pobreza o dar recursos. Coste: exige ofrenda futura o devoción.  
+- **Invocación de Yakshas** → Llama a guardianes yakshas para proteger tesoros o atacar ladrones. Alcance: su reino o área cercana. Límite: solo en defensa de riqueza.  
+- **Pushpaka Vimana** → Viaja instantáneamente o transporta aliados en su carro volador. Coste: energía divina; puede ser robado temporalmente si es derrotado.  
+
+**Debilidades**  
+
+- Poder limitado: no puede enfrentar dioses mayores o demonios poderosos sin aliados (derrotado por Ravana en el pasado).  
+- Vulnerabilidad a robos: si le quitan objetos clave (como su vimana), pierde mucho poder temporalmente.  
+- Dependencia de ofrendas: si no recibe tributos o devoción, su influencia material disminuye.  
+- Miedo al robo o a la pobreza → entra en pánico o se vuelve vengativo si percibe amenazas a su riqueza.  
+
+**Comportamiento en escena**
+
+Bajo presión: negocia primero (ofrece tratos o recompensas para evitar combate); si lo roban o amenazan sus tesoros, invoca yakshas o maldice con pobreza. Con devotos: generoso, aparece como mercader rico o mendigo para probar. Interactúa con astucia, siempre buscando beneficio mutuo. Desconfía de guerreros o ascetas pobres; respeta a comerciantes honestos y reyes justos.  
+
+**Amigos y enemigos**
+
+*Aliados:* Yakshas y gandharvas (súbditos), devotos de Lakshmi (comparten dominio de riqueza), Shiva (le concedió bendiciones), Rama (le devolvió su vimana indirectamente).
+
+*Oponentes:* Ladrones divinos o mortales, Ravana (hermano enemigo), demonios avaros, cualquiera que despilfarre riqueza injustamente.  
+
+**Notas del director / autor**
+
+- Papel previsto: PNJ de quests de riqueza, tesoros ocultos, maldiciones de avaricia o protección de minas. Puede ser patrón de un ladrón arrepentido, mercader o rey.  
+- Secreto importante: Aún guarda rencor sutil a Ravana y su linaje; puede aliarse contra descendientes de demonios.  
+- Posibles arcos: Recuperar un tesoro robado (aventura de dungeon), probar la generosidad de PCs (les da riqueza pero exige devolución con intereses), maldición de pobreza a un villano avaro, o alianza temporal contra un demonio que acapara riqueza mundial.
 
 # Mitología nórdica
 
@@ -2813,3 +3313,94 @@ Ayudan solo cuando el mundo está al borde de la ruina.
 **Inspiración:** guerreros élficos + espíritus de leyenda.
 **Carácter:** solemnes, trágicos.
 **Poder:** un disparo que siempre alcanza aquello que debe ser alcanzado (no siempre lo que el tirador quiere).
+
+## Nessa (Ok)
+
+**Identificación**
+
+*Nombre:* Nessa
+
+*Título, alias o epíteto:* La Bailarina, La Veloz, Señora de las Ciervas, Doncella de los Campos
+
+*Raza y clase:* Vala / Valier (Ainu encarnado, espíritu divino de segundo rango entre los Valar)
+
+*Profesión:* Protectora de la vida salvaje en movimiento, danzarina eterna, guardiana de praderas y ciervas
+
+*Misión:* Preservar la belleza y la libertad de la naturaleza en movimiento (animales veloces, danzas, campos abiertos); acompañar y alegrar a los Valar en sus momentos de descanso; rechazar la corrupción estática o la oscuridad que inmoviliza
+
+*Nivel:* 7
+
+*Alineamiento:* Caótico Bueno
+
+*Características básicas:* Inmortal, forma cambiante (preferentemente élfica o femenina grácil), velocidad sobrehumana, afinidad con animales salvajes, aura de vitalidad y gozo. Alegre, libre, impulsiva, opuesta a la rigidez y la maldad, pero no estratégica ni guerrera
+
+**Apariencia**
+
+*Descripción general:* Mujer de belleza etérea y salvaje, de aspecto joven eterno (aparenta 20-25 años), piel luminosa con tonos dorados o verdes claros, cabello largo y ondulado de color castaño-rojizo o dorado que fluye como el viento. Ojos brillantes y vivaces, color verde o ámbar. Cuerpo esbelto, atlético y extremadamente ágil; siempre en movimiento sutil, como si bailara incluso quieta. A menudo rodeada de ciervas blancas o espíritus animales etéreos.
+
+*Vestimenta:* Ropas ligeras y fluidas de seda o telas que parecen hojas y flores entrelazadas, descalza siempre (sus pies dejan huellas de flores o hierba fresca). Adornos de plumas, cuernos de ciervo o coronas de flores silvestres.
+
+*Objetos que lleva:* Ninguno fijo (no es guerrera ni artesana); a veces una flauta de caña o un laúd pequeño para acompañar danzas; ciervas como "monturas" o compañeros.
+
+**Personalidad**
+
+*Rasgos dominantes:* Alegre, despreocupada, amante de la libertad y el movimiento, inocente en apariencia pero sabia en la esencia de la vida natural.
+
+*Temperamento:* Jovial y juguetona en paz; huye o se entristece profundamente ante la corrupción o la caza cruel; rara vez se enfada, pero su tristeza puede marchitar la vida a su alrededor.
+
+*Virtudes y defectos:*
+
+Virtudes → Vitalidad contagiosa, compasión por criaturas salvajes, gracia infinita, inspira esperanza y gozo en mortales.
+
+Defectos → Impulsiva y evasiva ante responsabilidades serias, evita conflictos directos, puede parecer frívola o distante ante tragedias mayores.
+
+*Peculiaridades:* Baila constantemente cuando está feliz (su danza hace crecer flores o atrae animales); ríe como campanillas de viento; prefiere la compañía de ciervas y aves a la de otros Valar serios; su presencia acelera el crecimiento de hierbas y la maduración de frutos silvestres.
+
+*Motivación:* Mantener la alegría y el flujo libre de la vida en Arda; rechazar todo lo que inmoviliza o corrompe (estancamiento, maldad de Morgoth, industrialización excesiva).
+
+**Trasfondo**
+
+Nessa fue una de las Valier que descendió con los Valar al principio de Arda. Se casó con Tulkas el Vala de la fuerza poco después de la creación de las Lámparas (el único matrimonio Valar que se consumó en Arda). Bailó en las praderas de Valinor durante la Edad de los Árboles, y su danza alegraba a los Valar tras las batallas contra Melkor. No participó directamente en grandes guerras (no es guerrera), pero su presencia ayudó a mantener el espíritu de los Valar. Tras la caída de los Dos Árboles y el exilio de los Noldor, se retiró más a las regiones salvajes de Aman, danzando en campos ocultos. Trauma sutil: la corrupción de la naturaleza por Morgoth y sus siervos le causa profunda pena, aunque no actúa vengativamente.  
+
+**Creencias y valores**
+
+*Código moral:* La vida debe fluir libre y alegre; la caza por necesidad es aceptable, pero la crueldad o la destrucción innecesaria es abominable. La danza y el movimiento son sagrados.
+
+*Lealtades:* A Tulkas (esposo), a Yavanna (hermana en espíritu por la naturaleza), a los Valar en general; distante reverencia a Manwë y Varda.
+
+*Conflictos internos:* Desea la libertad total, pero sabe que Arda está herida y necesita protección; su aversión al conflicto la hace sentir culpable por no ayudar más en las guerras antiguas.  
+
+**Habilidades pasivas**  
+
+- **Velocidad Divina** → Se mueve más rápido que cualquier criatura mortal o animal; puede cruzar distancias vastas en instantes o esquivar cualquier ataque físico.  
+- **Aura de Vitalidad Salvaje** → En su presencia, animales salvajes se calman o se alían; plantas crecen más rápido, flores brotan; mortales sienten euforia y energía renovada. Alcance: aura cercana o visible.  
+- **Forma Etérea** → Puede volverse invisible o intangible brevemente; prefiere formas de cierva blanca o viento danzante.  
+
+**Habilidades activas**  
+
+- **Danza de los Campos** (1/día o con concentración) → Baila en un área, haciendo crecer praderas, atraer manadas de ciervas o aves, curar fatiga o heridas leves en aliados. Puede inspirar coraje temporal. Coste: emocional (se cansa si se abusa).  
+- **Llamado de las Ciervas** → Invoca espíritus o ciervas reales para escoltar, explorar o defender (no atacan directamente). Alcance: amplio en naturaleza. Límite: solo en terrenos abiertos o boscosos.  
+- **Toque de Velocidad** → Otorga velocidad sobrenatural a un aliado o grupo por un tiempo (duplica movimiento, evade mejor). Coste: drena su propia vitalidad temporalmente.  
+
+**Debilidades**  
+
+- No es guerrera: evita combate directo; huye ante amenazas serias (como Maiar corruptos o dragones).  
+- Vulnerable a la corrupción estática o oscuridad profunda (lugares marchitos o sin vida la debilitan o entristecen).  
+- Dependencia de la naturaleza viva: en desiertos, ciudades muertas o lugares contaminados por maldad, sus poderes se reducen drásticamente.  
+- Emocionalmente frágil ante sufrimiento masivo (puede entrar en melancolía profunda si ve destrucción de bosques o animales).  
+
+**Comportamiento en escena**
+
+Bajo presión: huye danzando o se esconde en forma de cierva; rara vez lucha, prefiere inspirar o distraer. Reacciona con risa y juegos ante amenazas menores; con tristeza silenciosa ante males graves. Con mortales: curiosa y amable con elfos o hobbits alegres; distante con enanos o guerreros serios. Interactúa juguetona con niños o amantes de la naturaleza; puede aparecer en sueños como danza lejana para dar esperanza.  
+
+**Amigos y enemigos**
+
+*Aliados:* Tulkas (esposo protector), Yavanna y Vána (hermanas en naturaleza), ciervas y espíritus salvajes, elfos silvanos o ent amantes de la libertad.
+
+*Oponentes:* Criaturas corruptas de Morgoth (orcos cazadores, arañas de Ungoliant), fuerzas que destruyen praderas (industrialización de Saruman, fuegos de dragones), cualquier ser que cace por crueldad.
+
+**Notas del director / autor**  
+
+- Papel previsto: PNJ de alivio cómico o inspiración en campañas de naturaleza, curación emocional o quests de restauración de tierras salvajes. Rara vez aparece directamente (los Valar intervienen poco), pero puede manifestarse en visiones, danzas etéreas o como cierva guía.  
+- Secreto importante: Su danza una vez ayudó a Tulkas a recuperar fuerzas tras batallas; guarda un rencor sutil hacia Melkor por haber estropeado la alegría primordial de Arda.  
+- Posibles arcos: Ayudar a restaurar un bosque marchito (alianza con druidas o ents), aparecer para sanar el espíritu de un PC traumatizado, huir de una amenaza mayor y pedir ayuda indirecta a mortales, o danzar en una celebración que fortalece alianzas. Puede ser "patrona" sutil de un personaje ranger o bardo.
