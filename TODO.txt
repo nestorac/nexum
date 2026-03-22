@@ -22,3 +22,4 @@
 * Incluir profecías, místicos, adivinos y mentalistas.
 * Incluir las herramientas necesarias para crear lores de forma automatizada a partir de Nexum.
 * Elaborar grimorios y libros varios.
+* Concepto de taberna o posada. Sitio seguro y confortable en medio del peligro y de lo salvaje.
