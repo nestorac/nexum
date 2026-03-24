@@ -46,3 +46,7 @@ Nexum es un lore personal que estoy desarrollando con ayuda de la IA ChatGPT.
 
 1. Definir el esquema de arriba.
 2. ...
+
+## Ideas
+
+1. Se define la semilla a mano, todo lo demás se genera por IA, y se van agregando contenidos hechos a mano o con IA pero corregidos, y va ampliándose el lore, y donde lo hecho a mano no llega, llega la generación de contenido por IA, como una fruta cuyo hueso es hecho a mano.

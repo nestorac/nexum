@@ -2467,17 +2467,19 @@ Amaia fue una de las lamias que ayudó a los antiguos constructores de dólmenes
 
 *Conflictos internos:* Desea amar a un humano y formar una familia, pero sabe que cualquier unión está condenada (no puede entrar en iglesias ni cementerios → no puede casarse ni ser enterrada como humana). Esto genera una tristeza profunda y una envidia contenida hacia las parejas mortales.  
 
-**Habilidades pasivas**  
+**Habilidades pasivas**
 
-- **Encanto acuático** → Cualquiera que la mire peinarse durante más de 3 turnos debe superar una salvación o quedar hechizado (desea acercarse, protegerla, ofrecerle regalos). Alcance: visual directo. Límite: no funciona en personas que ya la odian o que son inmunes a encanto.  
-- **Afinidad con el agua** → Regeneración acelerada mientras esté en contacto con agua corriente o de manantial (recupera heridas rápidamente). Puede respirar bajo el agua indefinidamente.  
-- **Pies de pato** → Nadadora excepcional, velocidad duplicada en agua, puede caminar sobre superficies acuáticas tranquilas como si fueran tierra firme.  
+- **Afinidad con el agua**
+- **Encanto acuático** (exclusiva): Cualquiera que la mire peinarse durante más de 3 turnos debe superar una salvación o quedar hechizado (desea acercarse, protegerla, ofrecerle regalos). Alcance: visual directo. Límite: no funciona en personas que ya la odian o que son inmunes a encanto.
+
+- **Pies de pato** (exclusiva): Nadadora excepcional, velocidad duplicada en agua, puede caminar sobre superficies acuáticas tranquilas como si fueran tierra firme.
 
 **Habilidades activas**  
 
-- **Canción de la corriente** (activa, 1/día o con coste emocional) → Canta una melodía hipnótica; todos los que la escuchen en un radio de 30 m deben salvar o quedar fascinados y acercarse al agua durante minutos. Puede usarla para atraer presas o para pedir ayuda. Efecto secundario: después queda agotada emocionalmente durante horas.  
-- **Toque de construcción** → Puede mover piedras grandes y moldear tierra/rocas durante la noche para construir o reparar estructuras megalíticas (dólmenes, puentes de piedra). Límite: solo de noche, solo en su territorio.  
-- **Maldición del peine robado** → Si alguien roba su peine de oro, puede rastrearlo a distancia ilimitada y perseguirlo gritando sin descanso hasta recuperarlo o hasta que el ladrón muera de agotamiento/ahogamiento.  
+- **Canción de la corriente** (activa, 1/día o con coste emocional): canta una melodía hipnótica; todos los que la escuchen en un radio de 30 m deben salvar o quedar fascinados y acercarse al agua durante minutos. Puede usarla para atraer presas o para pedir ayuda. Efecto secundario: después queda agotada emocionalmente durante horas.
+
+- **Maldición del peine robado** (exclusiva): si alguien roba su peine de oro, puede rastrearlo a distancia ilimitada y perseguirlo gritando sin descanso hasta recuperarlo o hasta que el ladrón muera de agotamiento/ahogamiento.
+- **Toque de construcción**
 
 **Debilidades**  
 
@@ -2700,15 +2702,15 @@ Ebisu nació como Hiruko ("el Niño Lejía"), el primer hijo de Izanagi e Izanam
 
 **Habilidades pasivas**  
 
-- **Aura de Buena Fortuna** → En su presencia, las tiradas de suerte, comercio o pesca tienen bonificación; objetos rotos se "arreglan" sutilmente (redes, barcos). Alcance: cercano. Límite: no funciona con avaros o tramposos.  
-- **Amigo del Mar** → Puede respirar bajo el agua indefinidamente; atrae peces y calma tormentas menores en el mar.  
-- **Sonrisa Contagiosa** → Reduce miedo o ira en aliados; inspira optimismo y resistencia a la depresión.  
+- **Aura de Buena Fortuna:** en su presencia, las tiradas de suerte, comercio o pesca tienen bonificación; objetos rotos se "arreglan" sutilmente (redes, barcos). Alcance: cercano. Límite: no funciona con avaros o tramposos.  
+- **Amigo del Mar:** puede respirar bajo el agua indefinidamente; atrae peces y calma tormentas menores en el mar.  
+- **Sonrisa Contagiosa:** reduce miedo o ira en aliados; inspira optimismo y resistencia a la depresión.  
 
 **Habilidades activas**  
 
-- **Bendición del Tai** (1/día) → Toca a un devoto o aliado con su besugo rojo; otorga riqueza temporal (pesca abundante, ventas exitosas, hallazgos de monedas) por días o semanas. Coste: exige una ofrenda futura o acto de generosidad.  
-- **Llamado de Peces** → Invoca una escuela de peces o atrae una gran captura para alimentar a muchos. Alcance: área marina o costera. Límite: solo en aguas naturales.  
-- **Toque de Prosperidad** → Cura heridas leves o fatiga en trabajadores; mejora herramientas o redes temporalmente. Coste: drena su propia "energía alegre" (queda más serio por un tiempo).  
+- **Bendición del Tai** (1/día): toca a un devoto o aliado con su besugo rojo; otorga riqueza temporal (pesca abundante, ventas exitosas, hallazgos de monedas) por días o semanas. Coste: exige una ofrenda futura o acto de generosidad.  
+- **Llamado de Peces:** invoca una escuela de peces o atrae una gran captura para alimentar a muchos. Alcance: área marina o costera. Límite: solo en aguas naturales.  
+- **Toque de Prosperidad:** cura heridas leves o fatiga en trabajadores; mejora herramientas o redes temporalmente. Coste: drena su propia "energía alegre" (queda más serio por un tiempo).  
 
 **Debilidades**  
 
@@ -2717,11 +2719,14 @@ Ebisu nació como Hiruko ("el Niño Lejía"), el primer hijo de Izanagi e Izanam
 - Dependencia de devoción: si nadie lo honra o deja ofrendas (sake, pescado, monedas en santuarios), su influencia disminuye.  
 - Rechazo pasado: sufre emocionalmente ante abandono o rechazo, pudiendo retirarse temporalmente.  
 
-**Comportamiento en escena**  
+**Comportamiento en escena**
+
 Bajo presión: ríe y ofrece tratos o ayuda en vez de pelear; si amenazan a pescadores, invoca tormentas menores o mala suerte al agresor. Reacciona con humor ante insultos; con generosidad ante necesidad honesta. Con mortales: aparece como pescador errante o mercader bonachón para probar o ayudar; ama charlar con niños, ancianos y trabajadores. Desconfía de ricos avaros o samuráis arrogantes.  
 
-**Amigos y enemigos**  
-*Aliados:* Pescadores, mercaderes honestos, otros Shichifukujin (Daikokuten como compañero frecuente), kami locales de ríos y costas, niños y humildes.  
+**Amigos y enemigos**
+
+*Aliados:* Pescadores, mercaderes honestos, otros Shichifukujin (Daikokuten como compañero frecuente), kami locales de ríos y costas, niños y humildes.
+
 *Oponentes:* Yōkai marinos destructivos (como umibōzu), avaros o tramposos en el comercio, contaminadores del mar, demonios que roban prosperidad.  
 
 **Notas del director / autor**  
@@ -2804,9 +2809,9 @@ Hécate es una diosa de la mitología griega asociada con la magia, la brujería
 
 *Virtudes y defectos:*
 
-Virtudes → Valiente, leal al pueblo romano, promotor de la virtus (valor, excelencia), protector de la agricultura y la fertilidad, vengador justo.
+*Virtudes:* valiente, leal al pueblo romano, promotor de la virtus (valor, excelencia), protector de la agricultura y la fertilidad, vengador justo.
 
-Defectos → Implacable con traidores o enemigos, puede ser rígido y autoritario, susceptible a la ira si se ofende el honor romano.
+*Defectos:* implacable con traidores o enemigos, puede ser rígido y autoritario, susceptible a la ira si se ofende el honor romano.
 
 *Peculiaridades:* Su presencia hace que los soldados sientan coraje y disciplina; los campos florecen en primavera (mes de marzo) cerca de sus templos; ruge como león o lobo en batalla; a veces aparece como lobo o pájaro carpintero para guiar.
 
@@ -2826,16 +2831,16 @@ Marte es uno de los dioses más antiguos de la mitología romana, inicialmente u
 
 **Habilidades pasivas**
 
-- **Aura de Virtus** → Aliados en su presencia ganan bonos a coraje, disciplina y resistencia en batalla; miedo reducido. Alcance: aura de legión o campo de batalla.  
-- **Guardián de los Campos** → Hace que cultivos crezcan vigorosos en primavera; inmune a hambrunas o plagas agrícolas.  
-- **Padre de Roma** → Detecta amenazas al pueblo romano o su honor; regeneración acelerada en suelo italiano o romano.  
+- **Aura de Virtus**
+- **Guardián de los Campos**
+- **Padre de Roma:** detecta amenazas al pueblo romano o su honor; regeneración acelerada en suelo italiano o romano.  
 
 **Habilidades activas**  
 
-- **Furia Disciplinada** (1/batalla mayor) → Entra en estado de berserker controlado: fuerza, velocidad y daño masivos; inspira a legiones enteras. Coste: debe canalizar ira hacia enemigos específicos. Efecto secundario: agotamiento si se abusa.  
-- **Lanza de Marte** → Ataque con lanza divina que ignora armaduras y causa daño masivo; puede lanzar rayos de fuego marcial. Alcance: línea o área.  
-- **Ancile Sagrado** → Invoca escudos sagrados (ancilia) que protegen aliados o reflejan ataques; puede usarlos para rituales de victoria.  
-- **Bendición Agrícola** → Restaura fertilidad a tierras arrasadas por guerra; cura fatiga en soldados-campesinos. Coste: requiere ofrendas (sacrificios de toro o caballo).  
+- **Furia Disciplinada** (1/batalla mayor)
+- **Lanza de Marte**
+- **Ancile Sagrado**
+- **Bendición Agrícola**
 
 **Debilidades**  
 
@@ -2935,15 +2940,17 @@ Sekhmet fue creada por Ra del fuego de su ojo para castigar a la humanidad rebel
 
 **Habilidades pasivas**  
 
-- **Ojo de Ra** → Detecta desorden, rebelión o enfermedad a distancia; inmune a plagas, venenos y fuego.  
-- **Aura Solar Abrasadora** → Calor intenso alrededor (daño por fuego o sequía); debilita enemigos con fiebre o plaga. Alcance: aura visible.  
-- **Forma Dual** → Puede alternar entre leona guerrera (fuerza máxima) y mujer sanadora (curación).  
+- **Ojo de Ra**
+
+- **Aura Solar Abrasadora**
+
+- **Forma Dual**
 
 **Habilidades activas**  
 
-- **Furia de Sekhmet** (furia berserker, 1/batalla mayor) → Entra en frenesí: fuerza, velocidad y daño multiplicados; aliento de plaga/fuego masivo que diezma ejércitos. Coste: incontrolable (puede atacar aliados); dura hasta que se aplaca. Efecto secundario: agotamiento extremo después.  
-- **Plaga de la Leona** → Invoca enfermedad o fuego solar en área; puede dirigirla contra enemigos o revertirla para curar aliados. Alcance: amplio en batallas.  
-- **Toque Curativo** (cuando calmada) → Sana heridas, plagas o maldiciones; revierte sus propias enfermedades. Coste: requiere ofrendas (cerveza roja, música, danza).  
+- **Furia de Sekhmet** (exclusiva) (furia berserker, 1/batalla mayor): entra en frenesí: fuerza, velocidad y daño multiplicados; aliento de plaga/fuego masivo que diezma ejércitos. Coste: incontrolable (puede atacar aliados); dura hasta que se aplaca. Efecto secundario: agotamiento extremo después.
+- **Plaga de la Leona**
+- **Toque Curativo**
 
 **Debilidades**  
 
@@ -3131,15 +3138,15 @@ Kubera nació como hijo de Vishrava (un sabio) y una rakshasi (demonio), hermano
 
 **Habilidades pasivas**  
 
-- **Aura de Riqueza** → En su presencia, la gente encuentra monedas o gemas pequeñas (suerte material); devotos ganan + en tiradas de riqueza o comercio. Alcance: aura cercana. Límite: no funciona con avaros o ladrones.  
-- **Custodio de Tesoros** → Detecta oro, gemas y tesoros ocultos a gran distancia; inmune a robos mágicos menores.  
-- **Forma Yaksha** → Puede cambiar a forma pequeña o invisible para esconderse o vigilar.  
+- **Aura de Riqueza**
+- **Custodio de Tesoros**
+- **Forma Yaksha**
 
 **Habilidades activas**  
 
-- **Bendición de Kubera** (1/día) → Otorga riqueza temporal (monedas, joyas) a un devoto o aliado; puede curar pobreza o dar recursos. Coste: exige ofrenda futura o devoción.  
-- **Invocación de Yakshas** → Llama a guardianes yakshas para proteger tesoros o atacar ladrones. Alcance: su reino o área cercana. Límite: solo en defensa de riqueza.  
-- **Pushpaka Vimana** → Viaja instantáneamente o transporta aliados en su carro volador. Coste: energía divina; puede ser robado temporalmente si es derrotado.  
+- **Bendición de Kubera** (exclusiva) (1/día) → Otorga riqueza temporal (monedas, joyas) a un devoto o aliado; puede curar pobreza o dar recursos. Coste: exige ofrenda futura o devoción.  
+- **Invocación de Yakshas**
+- **Pushpaka Vimana** 
 
 **Debilidades**  
 
@@ -3381,15 +3388,15 @@ Nessa fue una de las Valier que descendió con los Valar al principio de Arda. S
 
 **Habilidades pasivas**  
 
-- **Velocidad Divina** → Se mueve más rápido que cualquier criatura mortal o animal; puede cruzar distancias vastas en instantes o esquivar cualquier ataque físico.  
-- **Aura de Vitalidad Salvaje** → En su presencia, animales salvajes se calman o se alían; plantas crecen más rápido, flores brotan; mortales sienten euforia y energía renovada. Alcance: aura cercana o visible.  
-- **Forma Etérea** → Puede volverse invisible o intangible brevemente; prefiere formas de cierva blanca o viento danzante.  
+- **Velocidad Divina**
+- **Aura de Vitalidad Salvaje**
+- **Forma Etérea**
 
 **Habilidades activas**  
 
-- **Danza de los Campos** (1/día o con concentración) → Baila en un área, haciendo crecer praderas, atraer manadas de ciervas o aves, curar fatiga o heridas leves en aliados. Puede inspirar coraje temporal. Coste: emocional (se cansa si se abusa).  
-- **Llamado de las Ciervas** → Invoca espíritus o ciervas reales para escoltar, explorar o defender (no atacan directamente). Alcance: amplio en naturaleza. Límite: solo en terrenos abiertos o boscosos.  
-- **Toque de Velocidad** → Otorga velocidad sobrenatural a un aliado o grupo por un tiempo (duplica movimiento, evade mejor). Coste: drena su propia vitalidad temporalmente.  
+- **Danza de los Campos**
+- **Llamado de las Ciervas**
+- **Toque de Velocidad**
 
 **Debilidades**  
 
