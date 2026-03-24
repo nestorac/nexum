@@ -2837,7 +2837,7 @@ Marte es uno de los dioses más antiguos de la mitología romana, inicialmente u
 
 **Habilidades activas**  
 
-- **Furia Disciplinada** (1/batalla mayor)
+- **Furia Disciplinada**
 - **Lanza de Marte**
 - **Ancile Sagrado**
 - **Bendición Agrícola**
