@@ -108,13 +108,50 @@ Metatrón se caracteriza por servir de puente entre Dios y las personas, incluso
 
 *Conflictos internos:* desprecia a las personas, habiendo sido una persona.
 
-**Habilidades y capacidades**
+¡Claro! Como estás creando un **juego de rol** (probablemente tabletop / TTRPG o narrativo con sistema propio), te propongo una lista de **habilidades pasivas** y **activas** para **Metatrón** (o un personaje, entidad, clase, ancestro, patrón o avatar inspirado en el arcángel Metatrón). Me baso en su mitología clásica (escriba divino, voz de Dios, serafín supremo, conocedor de secretos cósmicos, 365.000 ojos, 72 alas, etc.) y en adaptaciones comunes en RPGs, pero lo ajusto para que sea jugable, equilibrado y versátil.
 
-*Talentos naturales:* es políglota, sabe escuchar, sabe transmitir.
+Puedes escalarlas por niveles, rangos, puntos de fe/poder divino, o costos de "Luz Celestial" / maná / recursos narrativos.
 
-*Conocimientos adquiridos:* empieza a recordar su pasado como Enoc.
+**Habilidades pasivas**
 
-*Competencias especiales:* idiomas, escritura.
+Representan su naturaleza como el "Príncipe de los Ángeles", escriba eterno y conocedor supremo.
+
+1. **Ojos de la Eternidad**
+
+2. **Escritura Divina Automática**
+
+3. **Aura de Orden Celestial**
+
+4. **Resistencia divina**
+
+5. **Alas de Luz Eterna**
+
+6. **Conocimiento de los 72 Nombres**
+
+**Habilidades Activas**
+
+**Cubo de Metatrón** (exclusiva): invocas un cubo sagrado giratorio de luz pura, inspirado en la geometría sagrada.
+
+- Versión defensiva: Campo de fuerza absoluto que bloquea todo daño y efecto durante 1 turno (o reduce a 0).
+
+- Versión ofensiva: Explota causando daño radiante masivo + ceguera permanente o muerte instantánea a criaturas impuras (salvación altísima).  
+  Muy costosa, quizás 1 uso por arco narrativo o requiere un ritual.
+
+**Trono de Metatrón** (exclusiva): te sientas en un trono etéreo invisible. Ganas:
+
+- Inmunidad a casi todo durante X turnos.
+
+- Tus palabras se convierten en órdenes divinas (control mental masivo).
+
+- Daño automático radiante a enemigos cada turno.  
+  Pero después sufres agotamiento extremo o pierdes acceso temporal a poderes divinos (riesgo narrativo).
+1. **Escriba del destino**
+
+2. **Fuego del Sinaí**
+
+3. **Manipulación de elementos cósmicos**
+
+4. **Palabra de Dios**
 
 **Poderes o dones**
 
@@ -253,61 +290,33 @@ Gabriel no persuade ni explica: **declara lo que debe ser dicho**, aunque nadie 
 
 **Habilidades pasivas**
 
-- **Detectar Injusticia** (siempre activo)  
-  Percibe automáticamente mentiras, engaños, abusos de poder, traiciones, desequilibrios kármicos o contratos rotos en un radio grande. Funciona como *Detect Thoughts* + *Zone of Truth* combinados, pero solo detecta violaciones de justicia/equidad (no pensamientos triviales).
+1. **Detectar Injusticia**
 
-- **Aura de Armonía**  
-  Aliados cercanos ganan ventaja en tiradas de diplomacia, persuasión, insight y calma emocional. Enemigos en conflicto sufren desventaja en tiradas de ataque/intimidación entre sí mientras estén en el aura (fomenta que dejen de pelearse).
+2. **Aura de Armonía**
 
-- **Imparcialidad Divina**  
-  Inmune a efectos de charme, miedo, dominación o manipulación emocional. No puede ser sobornado ni tentado (incluso con magia de alto nivel). Si alguien intenta corromperlo, recibe retroceso divino (daño radiante o psíquico).
+3. **Imparcialidad Divina**
 
-- **Amigo de Dios**  
-  Ventaja en interacciones sociales con cualquier ser celestial, y bonificador para reclutar aliados temporales (incluso ángeles o espíritus neutrales lo respetan y ayudan si la causa es justa).
+4. **Amigo de Dios**
 
 **Habilidades activas**
 
-- **Sentencia Equilibrada** (ataque/juicio signature)
-  
-  - Elige un objetivo que haya cometido una injusticia demostrable.
-  
-  - Inflige daño radiante o necrótico proporcional al daño que causó a otros (más fuerte contra opresores, abusadores, mentirosos crónicos).
-  
-  - Variante: puede "equilibrar" en vez de dañar → restaura vida/puntos de karma/condición a la víctima proporcionalmente.
+1. **Sentencia Equilibrada** (exclusiva)
+   
+   - Elige un objetivo que haya cometido una injusticia demostrable.
+   
+   - Inflige daño radiante o necrótico proporcional al daño que causó a otros (más fuerte contra opresores, abusadores, mentirosos crónicos).
+   
+   - Variante: puede "equilibrar" en vez de dañar → restaura vida/puntos de karma/condición a la víctima proporcionalmente.
 
-- **Pacto de Reconciliación**  
-  Fuerza a dos o más partes en conflicto a entrar en una negociación mágica (similar a *Geas* o *Suggestion* masiva, pero no coercitiva). Durante el efecto:
-  
-  - No pueden atacarse mutuamente.
-  
-  - Ganan inspiración/bonus si proponen soluciones justas.
-  
-  - Si rompen el pacto, sufren penalización (daño, maldición o pérdida de honor).
+2. **Pacto de Reconciliación**
 
-- **Luz Turquesa de Claridad**
-  
-  - Disipa ilusiones, encantamientos, maldiciones de confusión y efectos de engaño en área.
-  
-  - Revela la verdad oculta (mentiras, identidades falsas, intenciones reales) a todos los presentes (versión grupal de *True Seeing* limitada a temas de justicia/relaciones).
+3. **Luz Turquesa de Claridad**
 
-- **Orden Celestial**
-  
-  - Puede obligar a criaturas caóticas o rebeldes (demonios, ángeles caídos, tricksters) a cumplir con reglas o juramentos previos.
-  
-  - En combate: impone "turn order" forzado o prohíbe ciertas acciones deshonrosas (ej. no puede usar traición, emboscada o veneno durante X rondas).
+4. **Orden Celestial**
 
-- **Venganza Justa** (ultimate / cooldown largo)  
-  Canaliza fuego divino o luz punitiva contra quienes hayan transgredido gravemente las leyes divinas/cósmicas.
-  
-  - Daño masivo en área contra objetivos "culpables".
-  
-  - No afecta a inocentes ni a quienes actúan con honor (incluso si son "malvados" pero justos en su código).
+5. **Venganza Justa**
 
-- **Empoderamiento del Oprimido**
-  
-  - Otorga temporalmente resistencia, bonificadores de ataque o ventaja a criaturas que han sido víctimas de injusticia reciente.
-  
-  - Les da coraje para defenderse o denunciar (efecto anti-miedo + boost de moral).
+6. **Empoderamiento del Oprimido**
 
 **Atributos específicos**
 
