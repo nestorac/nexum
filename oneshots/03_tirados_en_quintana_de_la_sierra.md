@@ -92,5 +92,3 @@ Luego, simplemente di:
 
 Eso es todo.  
 Tú no diriges la historia. El pueblo sí. Los jugadores deciden si Quintana se vacía del todo… o si ellos se convierten en parte del vaciado.
-
-
