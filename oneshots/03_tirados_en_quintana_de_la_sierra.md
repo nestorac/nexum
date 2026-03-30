@@ -6,6 +6,28 @@
 **Duración:** 3 horas exactas (30 min intro + 1 h 45 min sandbox libre + 45 min cierre)  
 **Estilo:** Sandbox total. Tú solo describes el mundo y reaccionas. No hay guion ni final predeterminado. Los jugadores deciden absolutamente todo: qué investigar, a quién creer, si huir, unirse o destruir.
 
+## Texto para leer en voz alta:
+
+**Quintana Desconectada**
+
+14 de marzo de 2071. Llueve sin fuerza sobre la sierra. Cuatro extraños viajan juntos en un viejo todoterreno por la Carretera Comarcal hacia Quintana de la Sierra, un pequeño pueblo burgalés de unos quinientos habitantes rodeado de montañas. La señal de móvil desaparece exactamente al cruzar el Puente. El GPS se congela mostrando “Quintana de la Sierra – 0 km”.
+
+Al entrar en la Plaza Mayor, la campana de la Iglesia de San Roque suena una sola vez, aunque nadie la está tocando. En ese preciso instante, todos los dispositivos electrónicos de los jugadores —móviles, grabadoras, el propio coche— se apagan durante ocho segundos exactos. Cuando vuelven a encenderse, en la pantalla de quien estuviera grabando aparece un único fotograma congelado: una figura borrosa de espaldas en mitad de la plaza… que ninguno de vosotros vio cuando mirasteis.
+
+El motor del coche ronronea de nuevo. La lluvia sigue cayendo. Desde la puerta del Bar La Montañesa, una mujer de unos cincuenta años, pelo corto y mirada cansada pero amable, os observa con una sonrisa que no llega del todo a sus ojos.
+
+«Bienvenidos a Quintana —dice con voz clara—. Aquí el tiempo pasa raro. ¿Vienen por lo del “vaciado”… o solo de paso?»
+
+El pueblo se extiende ante vosotros: una plaza grande con cámaras antiguas, el Ayuntamiento con su archivo intacto, la iglesia, el colmado, el consultorio y, más allá, los barrios y la sierra oscura. La conexión a internet es pésima, salvo quizá en el bar. Hay algo extraño en el aire: una sensación sutil de que las cosas no encajan del todo.
+
+Los jugadores acaban de llegar. No hay prisa. No hay misión oficial. Solo cuatro personas que, por distintas razones personales, han terminado juntas en este lugar olvidado.
+
+A partir de ahora, todo depende de ellos.
+
+El pueblo está vivo. El “vaciado” ya ha empezado.
+
+Y vosotros… ya estáis dentro.
+
 ### 1. Preparación rápida (10 min antes de empezar)
 
 - **Personajes pre-gen o creación exprés (5 min):**  
