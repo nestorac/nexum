@@ -1,16 +1,16 @@
-# Tirados en Quintana de la sierra
+# Tirados en Quintana de la Sierra
 
-**Aventura One-Shot: “Quintana Desconectada”**  
-**Sistema:** Nexum (narrativo ligero, sin tiradas pesadas). Usa 2d6 + atributo (físico, mental, social, conexión) cuando haya riesgo. Éxito: 7+.  
-**Jugadores:** 4  
-**Duración:** 3 horas exactas (30 min intro + 1 h 45 min sandbox libre + 45 min cierre)  
+**Sistema:** Nexum (narrativo ligero, sin tiradas pesadas). Usa 2d6 + atributo (físico, mental, social, conexión) cuando haya riesgo. Éxito: 7+.
+
+**Jugadores:** 4
+
+**Duración:** 3 horas exactas (30 min intro + 1 h 45 min sandbox libre + 45 min cierre)
+
 **Estilo:** Sandbox total. Tú solo describes el mundo y reaccionas. No hay guion ni final predeterminado. Los jugadores deciden absolutamente todo: qué investigar, a quién creer, si huir, unirse o destruir.
 
 ## Texto para leer en voz alta:
 
-**Quintana Desconectada**
-
-14 de marzo de 2071. Llueve sin fuerza sobre la sierra. Cuatro extraños viajan juntos en un viejo todoterreno por la Carretera Comarcal hacia Quintana de la Sierra, un pequeño pueblo burgalés de unos quinientos habitantes rodeado de montañas. La señal de móvil desaparece exactamente al cruzar el Puente. El GPS se congela mostrando “Quintana de la Sierra – 0 km”.
+14 de marzo de 2071. Llueve sin fuerza sobre la sierra. Cuatro extraños viajan juntos en un viejo todoterreno por la Carretera Comarcal hacia Quintana de la Sierra, un pequeño pueblo burgalés de unos quinientos habitantes rodeado de montañas. La señal de móvil desaparece exactamente al cruzar el puente. El GPS se congela mostrando “Quintana de la Sierra – 0 km”.
 
 Al entrar en la Plaza Mayor, la campana de la Iglesia de San Roque suena una sola vez, aunque nadie la está tocando. En ese preciso instante, todos los dispositivos electrónicos de los jugadores —móviles, grabadoras, el propio coche— se apagan durante ocho segundos exactos. Cuando vuelven a encenderse, en la pantalla de quien estuviera grabando aparece un único fotograma congelado: una figura borrosa de espaldas en mitad de la plaza… que ninguno de vosotros vio cuando mirasteis.
 
@@ -28,10 +28,11 @@ El pueblo está vivo. El “vaciado” ya ha empezado.
 
 Y vosotros… ya estáis dentro.
 
+![](mapas/quintana_de_la_sierra.jpg) 
+
 ### 1. Preparación rápida (10 min antes de empezar)
 
-- **Personajes pre-gen o creación exprés (5 min):**  
-  Cada jugador elige **un rol** y **un “ancla” personal** con Quintana:  
+- **Personajes pre-gen o creación exprés (5 min):** Cada jugador elige **un rol** y **un “ancla” personal** con Quintana:
   
   1. **Periodista freelance** (conexión: grabando un documental sobre pueblos abandonados).
   
@@ -39,15 +40,15 @@ Y vosotros… ya estáis dentro.
   
   3. **Médico o ex-residente** (conexión: familiar desaparecido o que dejó de responder).
   
-  4. **Hacker / youtuber urbano** (conexión: persiguiendo rumores de “señal fantasma” en redes).  
-  Atributos: 1 punto en cada uno + 2 puntos libres. Un objeto significativo cada uno.
+  4. **Hacker / youtuber urbano** (conexión: persiguiendo rumores de “señal fantasma” en redes).
 
-- **Regla de “Vaciado” (la mecánica central):**  
-  Cada vez que un jugador usa tecnología (móvil, dron, grabadora, coche…) o intenta recordar algo con precisión, el GM tira 1d6 en secreto:  
-  1-2 = Glitch (el aparato falla o muestra algo imposible).  
-  3-4 = Olvido leve (el jugador debe olvidar un detalle que acaba de descubrir).  
-  5-6 = Estable… de momento.  
-  Cuanto más se acerquen al origen, más frecuente es el efecto.
+- **Regla de “Vaciado” (la mecánica central):** Cada vez que un jugador usa tecnología (móvil, dron, grabadora, coche…) o intenta recordar algo con precisión, el GM tira 1d20 en secreto:
+
+1-2 = Glitch (el aparato falla o muestra algo imposible).
+
+3-4 = Olvido leve (el jugador debe olvidar un detalle que acaba de descubrir).
+
+Cuanto más se acerquen al origen, más frecuente es el efecto.
 
 ### 2. Hook inicial (escena 0 – 30 minutos)
 
@@ -57,11 +58,11 @@ Los cuatro jugadores llegan juntos a Quintana de la Sierra por la **Carretera Co
 
 Al entrar en la **Plaza Mayor** (nodo de vigilancia pasiva) ocurre el primer evento obligatorio:
 
-> La campana de la Iglesia de San Roque suena **una sola vez**, aunque nadie la toca.  
+> La campana de la Iglesia de San Roque suena **una sola vez**, aunque nadie la toca.
+> 
 > Al mismo tiempo, todos los dispositivos de los jugadores (incluido el coche) se apagan durante 8 segundos exactos. Cuando vuelven, en la pantalla de quien esté grabando aparece un frame congelado: una figura borrosa de espaldas en la plaza… que **no estaba ahí** cuando miraron.
 
-Rosa, desde la puerta del **Bar La Montañesa**, les grita con una sonrisa que no llega a los ojos:  
-«Bienvenidos a Quintana. Aquí el tiempo pasa raro. ¿Vienen por lo del “vaciado” o solo de paso?»
+Rosa, desde la puerta del **Bar La Montañesa**, les grita con una sonrisa que no llega a los ojos: *«Bienvenidos a Quintana. Aquí el tiempo pasa raro. ¿Vienen por lo del “vaciado” o solo de paso?»*
 
 **Objetivo de esta escena:** Que los jugadores se presenten, elijan su primer punto de interés y sientan que “algo no encaja”. No des más información. Deja que pregunten.
 
@@ -106,11 +107,14 @@ No fuerces final. Cuando falten 45 minutos (o cuando los jugadores tomen una dec
 - Si deciden quedarse y luchar → encuentran aliados (o traidores) según cómo hayan tratado a los PNJs.
 - Si destruyen algo en la mina → el vaciado se detiene… o se acelera drásticamente.
 
-**Última escena obligatoria (sea cual sea el final):**  
+**Última escena obligatoria (sea cual sea el final):**
+
 Los cuatro jugadores están de nuevo en la Plaza Mayor al amanecer. La campana suena una vez más. Cada jugador, en privado, tira el dado de Vaciado. El que saque 1 olvida **una cosa importante** de lo que ha vivido en las últimas tres horas. Pregúntale en secreto qué olvida y haz que lo interprete en voz alta.
 
-Luego, simplemente di:  
+Luego, simplemente di:
+
 «Fin de la partida. ¿Qué hacéis ahora?»
 
-Eso es todo.  
-Tú no diriges la historia. El pueblo sí. Los jugadores deciden si Quintana se vacía del todo… o si ellos se convierten en parte del vaciado.
+Eso es todo.
+
+Tú no diriges la historia. Los jugadores, sí. Los jugadores deciden si Quintana se vacía del todo… o si ellos se convierten en parte del vaciado.
