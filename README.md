@@ -52,3 +52,4 @@ Nexum es un lore personal que estoy desarrollando con ayuda de la IA ChatGPT.
 1. Se define la semilla a mano, todo lo demás se genera por IA, y se van agregando contenidos hechos a mano o con IA pero corregidos, y va ampliándose el lore, y donde lo hecho a mano no llega, llega la generación de contenido por IA, como una fruta cuyo hueso es hecho a mano.
 2. Los arcángeles son psicópatas, excepto Lucifer y otro, de los menos poderosos.
 3. Mini historias paralelas en micro mundos o simulaciones.
+4. Todos los personajes tienen secretos.

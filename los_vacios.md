@@ -1,10 +1,14 @@
 # Los seres vacíos
 
+**Lo que pone aquí es demasiado abstracto, hay que concretarlo mucho más.**
+
 Son aquellos que han roto su vínculo con lo celestial, generalmente, con un ser celestial corriente.
 
 La causa más común es que Nexum haya vaciado su ser para intentar robar su consciencia.
 
 # Qué es exactamente un "vaciado"
+
+Cuando un PJ es vaciado, su control pasa al Director de Juego. Si estaba enlazado con un celestial, pasa a controlar a ese celestial, con el que puede poseer a otro ser terrenal con su permiso. Si no, debe elegir otro PJ para seguir con la aventura.
 
 ## Pierde su sentido de la vida y su mundo interior
 
@@ -104,7 +108,6 @@ Solo se ve un ser humano… **vacío por dentro**.
 
 Lo que falta no es *cerebro*.
 Es *vida interior*.
-
 
 # Qué percibe un místico
 

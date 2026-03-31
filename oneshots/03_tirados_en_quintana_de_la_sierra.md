@@ -70,10 +70,22 @@ Rosa, desde la puerta del **Bar La Montañesa**, les grita con una sonrisa que n
 
 Los jugadores pueden ir a donde quieran, en el orden que quieran. Tú solo describes lo que ven y reaccionas a sus acciones. Usa la **clave de diseño** del mapa que adjuntaste:
 
-- **Centro (Plaza, Ayuntamiento, Iglesia, Bar)** → anomalías suaves y paranoia social.  
-- **Barrios** → síntomas físicos y humanos del vaciado.  
+- **Plaza mayor** → anomalías suaves y paranoia social.  
+- **Barrio bajo** → síntomas físicos y humanos del vaciado.
+- **Barrio alto**
 - **Periferia y naturaleza** → pistas tangibles.  
-- **Montaña / Mina** → origen y clímax posible.
+- **Picos de Sierra Negra** → origen y clímax posible.
+- **Roble centenario**
+- **Ermita de la Peña**
+- **Zona Nueva**
+- **Camino de los pastores**
+- **Carretera comarcal**
+- **Puente**
+- **Desfiladero**
+- **Casa de Cultura**
+- **Río Frío**
+- **Escuela cerrada**
+- **Consultorio**
 
 **PNJs clave (solo 6, fáciles de recordar):**
 
