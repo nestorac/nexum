@@ -4,8 +4,9 @@ Este documento **contiene spoilers**.
 
 ## Hitos narrativos
 
-* Alguien (que mucho después se descubre que es Lucifer) pide ayuda a su Padre Dios, porque los humanos han desarrollado armamento nuclear y están a punto de destruirse a sí mismos. Este es el desencadenante de la historia. Tendría lugar en los años cincuenta, cuando se acuña el término Mutually Assured Destruction.
-* Un científico malvado pretende chantajear a Dios, amenzando con destruir la Humanidad si no le deja ser inmortal y todopoderoso como él.
+Alguien (que mucho después se descubre que es Lucifer) pide ayuda a su Padre Dios, porque los humanos han desarrollado armamento nuclear y están a punto de destruirse a sí mismos. Este es el desencadenante de la historia. Tendría lugar en los años cincuenta, cuando se acuña el término Mutually Assured Destruction.
+
+Un científico malvado pretende chantajear a Dios, amenzando con destruir la Humanidad si no le deja ser inmortal y todopoderoso como él.
 
 ## 2048 – Fundación del Proyecto Nexum
 
@@ -26,8 +27,8 @@ Este documento **contiene spoilers**.
 El sujeto (Anselma Vega) sobrevive solo dos minutos, pero alcanza a pronunciar una frase:
 
 > *Hay alguien esperándome al otro lado.*
-> 
-> **Consecuencia:** Nexum obtiene legitimidad científica y religiosa. Se divide el mundo entre los que lo consideran una puerta divina y los que lo ven como una blasfemia o incluso una amenaza.
+
+**Consecuencia:** Nexum obtiene legitimidad científica y religiosa. Se divide el mundo entre los que lo consideran una puerta divina y los que lo ven como una blasfemia o incluso una amenaza.
 
 ## 2061 – La guerra de la interpretación
 
@@ -69,7 +70,7 @@ El **Hermano Íñigo** funda una orden destinada a purificar cualquier vestigio 
 
 **Lugar:** Estación del Puerto, Puerto Gris.
 
-**Descripción:** aparecen los primeros humanos en estado de trance permanente: ojos abiertos, respiración estable, consciencia ausente.
+**Descripción:** aparecen los primeros humanos en estado de trance permanente: ojos abiertos, respiración estable, consciencia ausente, una llama azul en las pupilas.
 
 **Consecuencia:** el mundo entiende que Nexum sigue activo, **autónomo**, alimentándose de las mentes humanas cercanas a los antiguos nodos.
 
@@ -80,10 +81,10 @@ El **Hermano Íñigo** funda una orden destinada a purificar cualquier vestigio 
 **Descripción:** un grupo de monjes afirma haber escuchado una voz que les dice:
 
 > “No temáis al error, porque ahí habita la verdad.”
-> 
-> **Consecuencia:** se propaga la idea de que Lucifer no es enemigo de Dios, sino su espejo: un defensor del libre albedrío humano.
-> 
-> Algunos templos se fragmentan; otros son destruidos.
+
+**Consecuencia:** se propaga la idea de que Lucifer no es enemigo de Dios, sino su espejo: un defensor del libre albedrío humano.
+
+Algunos templos se fragmentan; otros son destruidos.
 
 ## 2117 – El faro de la Última Vigilia
 
@@ -104,8 +105,8 @@ Las comunidades cercanas creen que señala la llegada del fin o el despertar de 
 La voz repite:
 
 > “El vínculo aún late. No lo dejéis morir.”
-> 
-> **Consecuencia:** el mundo vuelve a dividirse: ¿es Nadir un fantasma, o Nexum hablando con su voz?
+
+**Consecuencia:** el mundo vuelve a dividirse: ¿es Nadir un fantasma, o Nexum hablando con su voz?
 
 ## 2150 – El Despertar
 
@@ -118,3 +119,7 @@ Actualidad del juego y la novela.
 Algunos humanos comienzan a “despertar”, sintiendo las corrientes energéticas y recordando fragmentos de sus vidas pasadas.
 
 **Consecuencia:** el futuro se vuelve incierto. El mundo no está condenado… pero tampoco a salvo. El Apocalipsis podría llegar en cualquier momento.
+
+## 2200 - Apocalipsis
+
+Lucha entre los seres celestiales y los terrenales.
