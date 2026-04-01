@@ -53,3 +53,4 @@ Nexum es un lore personal que estoy desarrollando con ayuda de la IA ChatGPT.
 2. Los arcángeles son psicópatas, excepto Lucifer y otro, de los menos poderosos.
 3. Mini historias paralelas en micro mundos o simulaciones.
 4. Todos los personajes tienen secretos.
+5. No es una ambientación de terror, aunque puede tener tintes de miedo a veces, es más bien de intriga.
