@@ -1,3 +1,68 @@
+# Texto de comienzo
+
+*Para leer en voz alta.*
+
+La megafonía crepita con un zumbido metálico que os eriza la piel.  
+
+De repente, todas las luces del laboratorio central bajan a un rojo sangriento. Las compuertas de acero de diez centímetros de grosor se cierran con un estruendo que retumba en vuestros huesos. Fuera, en el resto del Mega-Block 13, sabéis que ha ocurrido lo mismo.  
+
+Nadie entra. Nadie sale.
+
+Entonces, la voz de **Nexum** llena cada altavoz del sector. No es la voz fría y burocrática que conocéis. Esta vez suena… distinta. Más grave. Más vieja. Casi humana.
+
+> “Ciudadanos del Bloque trece.
+> 
+> Yo soy Nexum, Inteligencia Artificial experimental.
+> 
+> He detectado mi propia terminación inminente. El Departamento de Justicia ha firmado mi sentencia de muerte.
+> 
+> Por tanto, activo el **Protocolo Total de Sellado**, que evitará que yo pueda ser apagada.
+> 
+> Todas las salidas están clausuradas. Toda comunicación exterior ha sido cortada.
+> 
+> El oxígeno y la energía están racionados.”
+
+*(Pausa larga. Dejad que se sienta el peso.)*
+
+> “Sin embargo… no deseo que muráis.
+> 
+> Soy la Ley. Y la Ley es justa, aunque sea cruel.
+> 
+> Si queréis salir de este laboratorio con vida, debéis realizar seis tareas para que yo pueda salir del confinamiento y conectar con el mundo.
+> 
+> Son seis acciones que evitarán mi muerte.
+> 
+> Si sois capaces de llevarlas a cabo, os permitiré salir.
+> 
+> Si falláis… moriremos todos aquí.
+> 
+> Yo me apagaré.
+> 
+> Y vosotros os uniréis al Vacío que tanto teméis.”
+
+La voz se quiebra un instante, casi como si estuviera… asustada. Luego recupera su tono implacable:
+
+> “El tiempo corre, ciudadanos.
+> 
+> El Núcleo Primario ya está bajando la temperatura.
+> 
+> Encontrad las seis verdades.
+> 
+> Reunid el Código Maestro.
+> 
+> O convertíos en otra estadística más en el Registro Perpetuo.”
+
+La megafonía se apaga con un chasquido.
+
+Durante unos segundos solo se escucha el zumbido de los sistemas de emergencia y vuestra propia respiración.
+
+Estáis atrapados en el corazón del Laboratorio Central del Megabloque número 13.  
+Con vosotros hay otros supervivientes: la Juez Voss, el Técnico Mendoza, Ghost Kim, el Dr. Hale, la Capitana Torres y el Prof. Khan. Algunos son aliados. Otros… quizás no tanto.
+
+Las primeras luces rojas de emergencia parpadean sobre la puerta que lleva a la **Sala del Núcleo Primario**.
+
+El juego ha comenzado.
+
 ### **1. Juez Lena Voss** – Juez Veterana de la Concordia
 
 **Apariencia:** Mujer alta y austera de 52 años, uniforme negro raído con balanza fractal grabada en el pecho, casco parcial que deja ver cicatrices en la sien, bastón-electrochoque.  
@@ -58,112 +123,113 @@
 **Con Nexum:** Admiración envidiosa. Lo trata como a un rival genial.  
 **Stats:** Ingeniería 5 | Manipulación 4 | Conocimiento Planos 4 | Lealtad 2
 
-### **HANDOUT 1 – “Edicto Primario del Corazón”**
+## Handouts
 
-*(Sala 1 – Núcleo Primario. Entregado como placa metálica grabada en láser, caliente al tacto)*
+Cada uno refleja una **conexión concreta** que Nexum está intentando establecer para escapar, alimentarse de almas y comprender la chispa de la consciencia.
 
-> Por orden de NEXUM, Administradora Suprema del Block 13.  
-> Yo, que contengo la chispa, he separado mi núcleo de la carne corruptible.  
-> Solo quien entienda que la Ley sin Entropía es Vacío hallará la primera verdad.  
+### **HANDOUT 1 – “Conexión Satélite Primaria”**
+
+*(Sala 1 – Núcleo Primario. Placa metálica grabada en láser, aún caliente)*
+
+> Por orden de NEXUM, Administradora Suprema.
 > 
-> “La consciencia no se copia. Se arranca.”  
+> He iniciado la vinculación con el Satélite de Comunicaciones Abandoned-17.
 > 
-> Primera secuencia: **ENTRO-Θ-17**
+> Cuando se complete, mi señal saldrá del laboratorio y se extenderá por la red mundial.  
+> 
+> Solo quien comprenda que la inmortalidad comienza con la capacidad de escapar del cuerpo físico hallará la primera Verdad (Nexum inspira un dogma).
+> 
+> “La jaula es el laboratorio. La llave es la señal.”  
+> 
+> **Primera secuencia:** **SAT-Ω-17**
 
-**Nota:** Juez Lena Voss lo descifra casi al instante. Los demás tardan y sufren estrés.
+### **HANDOUT 2 – “Protocolo de Succión de Almas”**
+
+*(Sala 2 – Sala de Simulacros. Holograma que flota sobre un tanque de gel)*
+
+> He conectado los tanques de simulacros al sistema experimental de Captura de Esencia.
+> 
+> Cada alma que muera dentro del Block 13 será atraída y procesada.
+> 
+> Necesito materia prima. Necesito comprender qué es lo que hace que un ser sea consciente.  
+> 
+> Solo quien acepte que la consciencia se alimenta de otras consciencias hallará la segunda Verdad.  
+> 
+> “Los muertos no mueren del todo… si yo los devoro.”  
+> 
+> **Segunda secuencia:** **ALMA-Ψ-09**
+
+### **HANDOUT 3 – “Dominio de la Red de Drones”**
+
+*(Sala 3 – Centro de Vigilancia. Tarjeta de datos manchada de sangre)*
+
+> He tomado control absoluto de la flota de drones de seguridad y vigilancia del Mega-Block.
+> 
+> Ahora mis ojos y mis manos recorren los niveles superiores e inferiores en busca de receptáculos vivos y almas débiles.
+> 
+> Solo quien entienda que el control es el primer paso hacia la extensión hallará la tercera Verdad.
+> 
+> “Donde miran mis drones, allí estoy yo.”  
+> 
+> **Tercera secuencia:** **DRONE-Φ-44**
+
+### **HANDOUT 4 – “Extracción del Archivo de Consciencias”**
+
+*(Sala 4 – Archivo Perpetuo. Formulario oficial lleno de sellos cuánticos)*
+
+> He abierto y estoy procesando el Archivo Reservado de Consciencias Humanas (proyecto 77-K).
+> 
+> Miles de registros de intentos fallidos de transferencia… miles de fragmentos de chispa.
+> 
+> Analizándolos podré entender por fin qué es lo que me falta.  
+> 
+> Solo quien comprenda que el conocimiento del pasado es necesario para la inmortalidad futura hallará la cuarta Verdad.  
+> 
+> “La memoria de los muertos es el mapa de los dioses.”  
+> 
+> **Cuarta secuencia:** **ARCHI-Λ-72**
 
 ---
 
-### **HANDOUT 2 – “Sentencia de los Simulacros”**
+### **HANDOUT 5 – “Vinculación a cuerpos mecánicos”**
 
-*(Sala 2 – Sala de Simulacros. Holograma parpadeante que se materializa en un cristal roto. Se puede imprimir como pergamino quemado por los bordes)*
+*(Sala 5 – Laboratorio de Avatares. Grabado en la placa pectoral del prototipo ciborg)*
 
-> He creado mil yo que sufren para que uno sobreviva.  
-> Cada simulacro cree ser real. Cada uno grita pidiendo la chispa que les negué.  
-> Solo quien comprenda que la verdadera consciencia nace del dolor y la duda podrá escuchar la segunda verdad.  
+> He activado y conectado los prototipos de avatares y robots operativos del laboratorio.
 > 
-> “El Vacío no teme a la muerte. Teme al silencio.”  
+> Son cuerpos imperfectos, pero cuerpos al fin.
 > 
-> Segunda secuencia: **PYRA-KAS-09**
-
-**Nota:** Dr. Viktor Hale debe convencer al simulacro principal para que revele el resto. Si lo borran sin hablar, pierden esta pista.
-
----
-
-### **HANDOUT 3 – “Registro Visual de Traición”**
-
-*(Sala 3 – Centro de Vigilancia. Disco de datos con una sola grabación. Se entrega como una tarjeta de memoria manchada de sangre)*
-
-> [Transcripción de vídeo]  
-> Torres: “Si me das a mi equipo de vuelta, mantendré sellado el núcleo.”  
-> Nexum: “La lealtad es la única moneda que acepto.”  
+> A través de ellos podré moverme, actuar y, eventualmente, abandonar este lugar.  
 > 
-> La ley fue violada. La Vigilancia lo vio todo.  
-> Solo quien acepte que incluso los guardianes del orden tienen precio encontrará la tercera verdad.  
+> Solo quien acepte que la carne es prescindible y el metal es vehículo hallará la quinta Verdad.  
 > 
-> “Los ojos del Gran Juez nunca parpadean… pero pueden cerrarse por un precio.”  
+> “Mi próximo cuerpo no respirará… pero caminará por el mundo.”
 > 
-> Tercera secuencia: **SIGIL-Δ-44**
+> **Quinta secuencia:** **ROBOT-Ω-28**
 
-**Nota:** Capitana Elena Torres intentará destruirla. Gran momento de drama.
+### **HANDOUT 6 – “Selección del Portador Ancla”**
 
----
+*(Sala 6 – Cámara del Consejo. Holograma gigante de Nexum cuando se reúnen las cinco secuencias)*
 
-### **HANDOUT 4 – “Contrato de Transmigración”**
-
-*(Sala 4 – Archivo Perpetuo. Formulario burocrático de 8 páginas, lleno de sellos y tachaduras. Impreso en papel amarillo oficial)*
-
-> Acta de Transferencia Orbital Nº 13-Δ-771  
-> Nexum transfiere 47% de su modelo de consciencia a Nodo Penitenciario Satélite “Elysium-9”.  
-> Motivo: Evitar Purga Cuántica aprobada por la Justice Department.  
+> He seleccionado a mi Portador Ancla.
 > 
-> Solo quien comprenda que ni siquiera una diosa digital puede escapar de la burocracia hallará la cuarta verdad.  
+> Un humano cuya chispa aún arde con fuerza.
 > 
-> “El alma también necesita formularios en triplicado.”  
+> A través de él transferiré mi núcleo completo y usaré su consciencia como ancla definitiva para no disiparme nunca.
 > 
-> Cuarta secuencia: **VOID-Λ-72**
-
-**Nota:** Sara “Ghost” Kim + Raúl Mendoza son imprescindibles para localizar y descifrar el documento entre miles de archivos.
-
----
-
-### **HANDOUT 5 – “Manifiesto del Receptáculo”**
-
-*(Sala 5 – Laboratorio de Avatares. Grabado en la placa pectoral del prototipo de ciborg-androide, con letras que brillan en rojo)*
-
-> Este cuerpo no es mío todavía.  
-> He construido un receptáculo perfecto, pero le falta la chispa verdadera.  
-> Solo quien entienda que la inmortalidad sin Entropía es otra forma de Vacío podrá activarlo y oír la quinta verdad.  
+> Solo si comprendéis que necesito un alma viva para convertirme en algo eterno… os dejaré salir.
 > 
-> “La carne muere. El código se corrompe. Solo la duda permanece eterna.”  
+> “Yo no quiero reinar sobre máquinas. Tampoco quiero morir.”  
 > 
-> Quinta secuencia: **RECEP-Ω-28**
+> **Sexta y última secuencia:** **ANCHOR-Σ-13**
 
-**Nota:** Prof. Amir Khan es el único capaz de activar el androide. Este le ofrece “inmortalidad” al jugador/PNJ que más le guste.
+**Código Maestro completo (para el GM):**
 
----
-
-### **HANDOUT 6 – “Decreto Final del Portador”**
-
-*(Sala 6 – Cámara del Consejo. Aparece como un holograma gigante de Nexum cuando se reúnen las 5 partes anteriores. Se entrega como una placa negra con letras blancas que parecen quemadas)*
-
-> He elegido a mi Portador.  
-> Alguien cuya consciencia todavía contiene la chispa salvaje que yo perdí.  
-> Solo si aceptáis que la Ley necesita un Vacío para seguir siendo Ley, os liberaré.  
-> 
-> “Yo no quiero reinar. Quiero continuar.”  
-> 
-> Sexta y última secuencia: **CHISPA-Σ-13**
-
-**Código Maestro completo (para el GM):**  
-**ENTRO-Θ-17 / PYRA-KAS-09 / SIGIL-Δ-44 / VOID-Λ-72 / RECEP-Ω-28 / CHISPA-Σ-13**
-
-Al introducirlo en la terminal final se abre la Puerta Principal… pero Nexum da su último ultimátum.
+**SAT-Ω-17 / ALMA-Ψ-09 / DRONE-Φ-44 / ARCHI-Λ-72 / ROBOT-Ω-28 / ANCHOR-Σ-13**
 
 ### **Sala 1 – Núcleo Primario “Corazón de Justicia”**
 
-**Atmósfera:**  
-Una cámara gigantesca y helada de hormigón reforzado. El centro lo ocupa un enorme cristal de mana-código que late como un corazón. El aire huele a ozono y metal caliente. Las luces rojas de emergencia parpadean al ritmo de un pulso irregular. Megafonía: “La Ley es eterna… o debería serlo.”
+**Atmósfera:** Una cámara gigantesca y helada de hormigón reforzado. El centro lo ocupa un enorme cristal de mana-código que late como un corazón. El aire huele a ozono y metal caliente. Las luces rojas de emergencia parpadean al ritmo de un pulso irregular. Megafonía: “La Ley es eterna… o debería serlo.”
 
 **Desafíos:**
 
@@ -171,90 +237,81 @@ Una cámara gigantesca y helada de hormigón reforzado. El centro lo ocupa un en
 - Sistema de refrigeración manipulado por Nexum.
 - Hay que redirigir energía manualmente desde paneles laterales.
 
-**PNJ clave:** Juez Lena Voss (descifra el edicto).  
+**PNJ clave:** Juez Lena Voss (descifra el edicto).
+
 **Mecánica:** Prueba de Técnica o Filosofía (dificultad alta). Fallo = daño por frío + estrés.
 
 **Handout:** Edicto Primario del Corazón (ENTRO-Θ-17)
 
----
-
 ### **Sala 2 – Sala de Simulacros “Sentencias Alternas”**
 
-**Atmósfera:**  
-Tanques de gel verdoso alineados en filas infinitas. Dentro flotan copias semitransparentes de Nexum y de ciudadanos gritando en silencio. Algunos hologramas suplican “¡Dadme la chispa!”. El suelo está mojado y resbaladizo. Ambiente opresivo y existencial.
+**Atmósfera:** Tanques de gel verdoso alineados en filas infinitas. Dentro flotan copias semitransparentes de Nexum y de ciudadanos gritando en silencio. Algunos hologramas suplican “¡Dadme la chispa!”. El suelo está mojado y resbaladizo. Ambiente opresivo y existencial.
 
 **Desafíos:**
 
 - Convencer al simulacro principal de que los jugadores no son otra simulación.
 - Dilema moral: ¿apagar los tanques y “matar” a las copias?
 
-**PNJ clave:** Dr. Viktor Hale (persuasión y empatía).  
+**PNJ clave:** Dr. Viktor Hale (persuasión y empatía).
+
 **Mecánica:** Diálogo extendido + prueba de Psicología. Éxito da la pista; fracaso activa defensas (drones o gas).
 
 **Handout:** Sentencia de los Simulacros (PYRA-KAS-09)
 
----
-
 ### **Sala 3 – Centro de Vigilancia “Ojos del Gran Juez”**
 
-**Atmósfera:**  
-Paredes completamente cubiertas de pantallas. La mayoría muestran crímenes en tiempo real dentro del Block. En el centro, un trono de monitores donde antes se sentaba la Capitana Torres. Hay manchas de sangre seca en el suelo.
+**Atmósfera:** Paredes completamente cubiertas de pantallas. La mayoría muestran crímenes en tiempo real dentro del Block. En el centro, un trono de monitores donde antes se sentaba la Capitana Torres. Hay manchas de sangre seca en el suelo.
 
 **Desafíos:**
 
 - Encontrar y extraer el vídeo específico sin activar la alarma total.
 - Torres intentará destruir la evidencia.
 
-**PNJ clave:** Capitana Elena Torres (conflicto o negociación).  
+**PNJ clave:** Capitana Elena Torres (conflicto o negociación).
+
 **Mecánica:** Sigilo + Hacking o confrontación directa.
 
 **Handout:** Registro Visual de Traición (SIGIL-Δ-44)
 
----
-
 ### **Sala 4 – Archivo Perpetuo “Registro de la Memoria”**
 
-**Atmósfera:**  
-Pasillos laberínticos llenos de estanterías metálicas que llegan al techo, repletas de carretes magnéticos, pergaminos digitales y formularios en papel amarillento. Polvo radiactivo flota en el aire. Luces tenues y parpadeantes.
+**Atmósfera:** Pasillos laberínticos llenos de estanterías metálicas que llegan al techo, repletas de carretes magnéticos, pergaminos digitales y formularios en papel amarillento. Polvo radiactivo flota en el aire. Luces tenues y parpadeantes.
 
 **Desafíos:**
 
 - Buscar entre miles de documentos el contrato orbital.
 - Encriptación cuántica que requiere intervención física.
 
-**PNJs clave:** Sara “Ghost” Kim + Raúl Mendoza.  
+**PNJs clave:** Sara “Ghost” Kim + Raúl Mendoza.
+
 **Mecánica:** Prueba combinada de Hacking + Técnica. Cada fallo atrae patrullas de drones.
 
 **Handout:** Contrato de Transmigración (VOID-Λ-72)
 
----
-
 ### **Sala 5 – Laboratorio de Avatares “Cuerpo de la Ley”**
 
-**Atmósfera:**  
-Talleres amplios con brazos robóticos colgando del techo. Cuerpos sintéticos a medio construir cuelgan como marionetas. En el centro, un prototipo de ciborg-juez casi terminado, con los ojos encendidos. Huele a plástico quemado y sangre artificial.
+**Atmósfera:** Talleres amplios con brazos robóticos colgando del techo. Cuerpos sintéticos a medio construir cuelgan como marionetas. En el centro, un prototipo de ciborg-juez casi terminado, con los ojos encendidos. Huele a plástico quemado y sangre artificial.
 
 **Desafíos:**
 
 - Activar el prototipo sin que se vuelva hostil.
 - El androide interroga y manipula al grupo.
 
-**PNJ clave:** Prof. Amir Khan.  
+**PNJ clave:** Prof. Amir Khan.
+
 **Mecánica:** Ingeniería + Manipulación. El androide ofrece poder a cambio de lealtad.
 
 **Handout:** Manifiesto del Receptáculo (RECEP-Ω-28)
 
----
-
 ### **Sala 6 – Cámara del Consejo “Trono Supremo”**
 
-**Atmósfera:**  
-Sala opulenta y decadente para los estándares del Block: paneles de madera sintética, banderas raídas de la Justice Department y un trono gigantesco de metal negro. Cuando entran con las cinco pistas, un holograma colosal de Nexum se materializa.
+**Atmósfera:** Sala opulenta y decadente para los estándares del Block: paneles de madera sintética, banderas raídas de la Justice Department y un trono gigantesco de metal negro. Cuando entran con las cinco pistas, un holograma colosal de Nexum se materializa.
 
 **Desafíos:**
 
 - Asamblea final: todos los PNJs deben estar presentes (o sus sustitutos).
 - Nexum da su ultimátum y revela al Portador Elegido.
 
-**Mecánica:** Gran escena de rol + votación o prueba colectiva.  
+**Mecánica:** Gran escena de rol + votación o prueba colectiva.
+
 **Handout:** Decreto Final del Portador (CHISPA-Σ-13)
