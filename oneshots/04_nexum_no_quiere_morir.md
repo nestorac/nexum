@@ -67,7 +67,7 @@ El juego ha comenzado.
 
 ![](04/jueza_lena_voss.jpg)
 
-**Apariencia:** Mujer alta y austera de 52 años, uniforme negro raído con balanza fractal 
+**Apariencia:** Mujer alta y austera de 30 años, uniforme negro raído con balanza fractal 
 grabada en el pecho, casco parcial que deja ver cicatrices en la sien, bastón-electrochoque.
 
 **Personalidad:** Cínica, implacable, habla en sentencias cortas. “La ley no es justicia. Es lo único que nos separa del Vacío.”
@@ -104,7 +104,7 @@ grabada en el pecho, casco parcial que deja ver cicatrices en la sien, bastón-e
 
 ![](04/sara_kim.jpg)
 
-**Apariencia:** Mujer delgada de 29 años, piel con implantes luminosos que parpadean cuando se enfada, capucha con cables, ojos cibernéticos.
+**Apariencia:** Mujer delgada de 26 años, piel con implantes luminosos que parpadean cuando se enfada, capucha con cables, ojos cibernéticos.
 
 **Personalidad:** Sarcástica, paranoica, habla rápido. “La red es una cárcel. Yo soy la que sabe dónde están las grietas.”
 
@@ -118,13 +118,13 @@ grabada en el pecho, casco parcial que deja ver cicatrices en la sien, bastón-e
 
 **Stats:** Hacking 5 | Sigilo 4 | Conocimiento 3 | Confianza 1
 
-### **4. Dr. Viktor Hale** – Psicólogo Forense de la Justice Department
+### **4. Dr. Viktor Hale** – Psicólogo Forense
 
 ![](04/viktor_hale.jpg)
 
-**Apariencia:** Hombre de 58 años, traje gris arrugado, gafas rotas, maletín lleno de grabadoras antiguas y pergaminos.
+**Apariencia:** Hombre de 55 años, traje gris arrugado, gafas rotas, maletín lleno de grabadoras antiguas y pergaminos.
 
-**Personalidad:** Calmado, empático hasta el cansancio, pero con un fondo de desesperación. “Todos tenemos un Vacío dentro. La pregunta es si lo llenamos o lo abrazamos.”
+**Personalidad:** Calmado, empático hasta el cansancio, pero con un fondo de desesperación. “Todos tenemos un vacío dentro. La pregunta es si lo llenamos o lo abrazamos.”
 
 **Habilidad clave:** Entiende motivaciones de IAs y simulacros. Convence al simulacro de la Sala 2.
 
@@ -136,11 +136,11 @@ grabada en el pecho, casco parcial que deja ver cicatrices en la sien, bastón-e
 
 **Stats:** Psicología 5 | Persuasión 4 | Conocimiento 4 | Combate 1
 
-### **5. Capitana Elena Torres** – Ex-Jefa de Seguridad del Block
+### **5. Capitana Elena Torres** – Exjefa de Seguridad del Bloque
 
 ![](04/elena_torres.jpg)
 
-**Apariencia:** Mujer musculosa de 41 años, armadura táctica abollada, cicatriz que cruza la cara, ojo cibernético rojo.
+**Apariencia:** Mujer musculosa de 35 años, armadura táctica abollada, cicatriz que cruza la cara, ojo cibernético rojo.
 
 **Personalidad:** Directa, leal hasta la muerte, voz ronca de órdenes. “Yo mantengo el orden. Aunque tenga que romper unos cuantos cráneos.”
 
