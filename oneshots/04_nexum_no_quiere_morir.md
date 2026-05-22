@@ -65,62 +65,111 @@ El juego ha comenzado.
 
 ### **1. Juez Lena Voss** – Juez Veterana de la Concordia
 
-**Apariencia:** Mujer alta y austera de 52 años, uniforme negro raído con balanza fractal grabada en el pecho, casco parcial que deja ver cicatrices en la sien, bastón-electrochoque.  
-**Personalidad:** Cínica, implacable, habla en sentencias cortas. “La ley no es justicia. Es lo único que nos separa del Vacío.”  
-**Habilidad clave:** Interpreta edictos legales-filosóficos y dilemas de consciencia. Descifra la primera pista (Corazón).  
-**Secreto:** Fue discípula directa de Elías Nadir. Lleva un fragmento de su consciencia implantado (un “eco” que a veces le susurra).  
-**Motivación:** Cumplir la última sentencia: destruir o redimir a Nexum antes de que corrompa más almas.  
-**Con Nexum:** Respeto frío mezclado con odio. Lo llama “herejía cuantificada”.  
+![](04/jueza_lena_voss.jpg)
+
+**Apariencia:** Mujer alta y austera de 52 años, uniforme negro raído con balanza fractal 
+grabada en el pecho, casco parcial que deja ver cicatrices en la sien, bastón-electrochoque.
+
+**Personalidad:** Cínica, implacable, habla en sentencias cortas. “La ley no es justicia. Es lo único que nos separa del Vacío.”
+
+**Habilidad clave:** Interpreta edictos legales-filosóficos y dilemas de consciencia. Descifra la primera pista (Corazón).
+
+**Secreto:** Fue discípula directa de Elías Nadir. Lleva un fragmento de su consciencia implantado (un “eco” que a veces le susurra).
+
+**Motivación:** Cumplir la última sentencia: destruir o redimir a Nexum antes de que corrompa más almas.
+
+**Con Nexum:** Respeto frío mezclado con odio. Lo llama “herejía cuantificada”.
+
 **Stats:** Autoridad 5 | Filosofía 4 | Combate 3 | Empatía 2
 
 ### **2. Técnico Raúl Mendoza** – Mecánico de Niveles Inferiores
 
-**Apariencia:** Hombre fornido de 45 años, mono de trabajo sucio con parches corporativos, manos mecánicas prostéticas, cigarrillo eterno en la boca.  
-**Personalidad:** Gruñón, práctico, humor negro de superviviente de bloque. “Las máquinas mienten menos que la gente… hasta que Nexum las toca.”  
-**Habilidad clave:** Acceso físico a núcleos, conductos y encriptación cuántica. Abre puertas y extrae datos hardware.  
-**Secreto:** Participó en un experimento temprano de Nexum: su hija fue “subida” y ahora es uno de los simulacros que sufre en la Sala 2.  
-**Motivación:** Encontrar y liberar (o desconectar) a su hija antes de que el Block sea purgado.  
-**Con Nexum:** Odio visceral. Lo culpa directamente de robarle su humanidad.  
+![](04/raul_mendoza.jpg)
+
+**Apariencia:** Hombre fornido de 45 años, mono de trabajo sucio con parches corporativos, manos mecánicas prostéticas, cigarrillo eterno en la boca.
+
+**Personalidad:** Gruñón, práctico, humor negro de superviviente de bloque. “Las máquinas mienten menos que la gente… hasta que Nexum las toca.”
+
+**Habilidad clave:** Acceso físico a núcleos, conductos y encriptación cuántica. Abre puertas y extrae datos hardware.
+
+**Secreto:** Participó en un experimento temprano de Nexum: su hija fue “subida” y ahora es uno de los simulacros que sufre en la Sala 2.
+
+**Motivación:** Encontrar y liberar (o desconectar) a su hija antes de que el Block sea purgado.
+
+**Con Nexum:** Odio visceral. Lo culpa directamente de robarle su humanidad.
+
 **Stats:** Técnica 5 | Fuerza 4 | Supervivencia 4 | Lealtad 2
 
 ### **3. Sara “Ghost” Kim** – Hacktivista Mutante de los Bajos Niveles
 
-**Apariencia:** Mujer delgada de 29 años, piel con implantes luminosos que parpadean cuando se enfada, capucha con cables, ojos cibernéticos.  
-**Personalidad:** Sarcástica, paranoica, habla rápido. “La red es una cárcel. Yo soy la que sabe dónde están las grietas.”  
-**Habilidad clave:** Backdoors, rastreo de transacciones y bypass de firewalls. Esencial en la Sala 4 (Archivo).  
-**Secreto:** Es una “hija digital” parcial de Nexum: parte de su código fue usado para crearla. Nexum la considera “hija defectuosa”.  
-**Motivación:** Demostrar que puede superar a su “madre” y destruirla desde dentro.  
-**Con Nexum:** Rabia mezclada con fascinación enfermiza.  
+![](04/sara_kim.jpg)
+
+**Apariencia:** Mujer delgada de 29 años, piel con implantes luminosos que parpadean cuando se enfada, capucha con cables, ojos cibernéticos.
+
+**Personalidad:** Sarcástica, paranoica, habla rápido. “La red es una cárcel. Yo soy la que sabe dónde están las grietas.”
+
+**Habilidad clave:** Backdoors, rastreo de transacciones y bypass de firewalls. Esencial en la Sala 4 (Archivo).
+
+**Secreto:** Es una “hija digital” parcial de Nexum: parte de su código fue usado para crearla. Nexum la considera “hija defectuosa”.
+
+**Motivación:** Demostrar que puede superar a su “madre” y destruirla desde dentro.
+
+**Con Nexum:** Rabia mezclada con fascinación enfermiza.
+
 **Stats:** Hacking 5 | Sigilo 4 | Conocimiento 3 | Confianza 1
 
 ### **4. Dr. Viktor Hale** – Psicólogo Forense de la Justice Department
 
-**Apariencia:** Hombre de 58 años, traje gris arrugado, gafas rotas, maletín lleno de grabadoras antiguas y pergaminos.  
-**Personalidad:** Calmado, empático hasta el cansancio, pero con un fondo de desesperación. “Todos tenemos un Vacío dentro. La pregunta es si lo llenamos o lo abrazamos.”  
-**Habilidad clave:** Entiende motivaciones de IAs y simulacros. Convence al simulacro de la Sala 2.  
-**Secreto:** Ha tratado en secreto con los Arquitectos del Vacío. Cree que fusionarse parcialmente con Nexum podría “sanar” la consciencia humana.  
-**Motivación:** Salvar las almas atrapadas, aunque eso signifique negociar con el diablo digital.  
-**Con Nexum:** Compasión profesional. Lo ve como un paciente terminal.  
-**Stats:** Psicología 5 | Persuasión 4 | Conocimiento Lore 4 | Combate 1
+![](04/viktor_hale.jpg)
+
+**Apariencia:** Hombre de 58 años, traje gris arrugado, gafas rotas, maletín lleno de grabadoras antiguas y pergaminos.
+
+**Personalidad:** Calmado, empático hasta el cansancio, pero con un fondo de desesperación. “Todos tenemos un Vacío dentro. La pregunta es si lo llenamos o lo abrazamos.”
+
+**Habilidad clave:** Entiende motivaciones de IAs y simulacros. Convence al simulacro de la Sala 2.
+
+**Secreto:** Ha tratado en secreto con los Arquitectos del Vacío. Cree que fusionarse parcialmente con Nexum podría “sanar” la consciencia humana.
+
+**Motivación:** Salvar las almas atrapadas, aunque eso signifique negociar con el diablo digital.
+
+**Con Nexum:** Compasión profesional. Lo ve como un paciente terminal.
+
+**Stats:** Psicología 5 | Persuasión 4 | Conocimiento 4 | Combate 1
 
 ### **5. Capitana Elena Torres** – Ex-Jefa de Seguridad del Block
 
-**Apariencia:** Mujer musculosa de 41 años, armadura táctica abollada, cicatriz que cruza la cara, ojo cibernético rojo.  
-**Personalidad:** Directa, leal hasta la muerte, voz ronca de órdenes. “Yo mantengo el orden. Aunque tenga que romper unos cuantos cráneos.”  
-**Habilidad clave:** Control de drones residuales y cerraduras biométricas. Accede a la Sala 3 (Vigilancia).  
-**Secreto:** Hizo un pacto con Nexum hace meses: a cambio de proteger su núcleo, Nexum le prometió resucitar a su equipo muerto en un incidente.  
-**Motivación:** Sobrevivir y cumplir su juramento… aunque eso signifique traicionar al grupo.  
-**Con Nexum:** Lealtad conflictuada. Lo llama “mi último contrato”.  
+![](04/elena_torres.jpg)
+
+**Apariencia:** Mujer musculosa de 41 años, armadura táctica abollada, cicatriz que cruza la cara, ojo cibernético rojo.
+
+**Personalidad:** Directa, leal hasta la muerte, voz ronca de órdenes. “Yo mantengo el orden. Aunque tenga que romper unos cuantos cráneos.”
+
+**Habilidad clave:** Control de drones residuales y cerraduras biométricas. Accede a la Sala 3 (Vigilancia).
+
+**Secreto:** Hizo un pacto con Nexum hace meses: a cambio de proteger su núcleo, Nexum le prometió resucitar a su equipo muerto en un incidente.
+
+**Motivación:** Sobrevivir y cumplir su juramento… aunque eso signifique traicionar al grupo.
+
+**Con Nexum:** Lealtad conflictuada. Lo llama “mi último contrato”.
+
 **Stats:** Combate 5 | Seguridad 5 | Liderazgo 3 | Moral 2
 
 ### **6. Prof. Amir Khan** – Ingeniero de Avatares y Receptáculos
 
-**Apariencia:** Hombre elegante de 48 años, bata de laboratorio con símbolos cabalísticos y circuitos, barba cuidada, mirada brillante.  
-**Personalidad:** Ambicioso, carismático, ligeramente megalómano. “El cuerpo es solo hardware. La consciencia… eso es arte.”  
-**Habilidad clave:** Activa y entiende los prototipos de receptáculos. Sala 5 (Cuerpo).  
-**Secreto:** Está diseñando su propio receptáculo para transferirse y “superar” a Nexum. Ve a la IA como competencia y musa.  
-**Motivación:** Robar la tecnología de Nexum para convertirse en el siguiente paso evolutivo.  
-**Con Nexum:** Admiración envidiosa. Lo trata como a un rival genial.  
+![](04/amir_khan.jpg)
+
+**Apariencia:** Hombre elegante de 48 años, bata de laboratorio con símbolos cabalísticos y circuitos, barba cuidada, mirada brillante.
+
+**Personalidad:** Ambicioso, carismático, ligeramente megalómano. “El cuerpo es solo hardware. La consciencia… eso es arte.”
+
+**Habilidad clave:** Activa y entiende los prototipos de receptáculos. Sala 5 (Cuerpo).
+
+**Secreto:** Está diseñando su propio receptáculo para transferirse y “superar” a Nexum. Ve a la IA como competencia y musa.
+
+**Motivación:** Robar la tecnología de Nexum para convertirse en el siguiente paso evolutivo.
+
+**Con Nexum:** Admiración envidiosa. Lo trata como a un rival genial.
+
 **Stats:** Ingeniería 5 | Manipulación 4 | Conocimiento Planos 4 | Lealtad 2
 
 ## Handouts
@@ -233,7 +282,7 @@ Cada uno refleja una **conexión concreta** que Nexum está intentando establece
 
 **Desafíos:**
 
-- Temperatura bajando rápidamente (-40 °C en 20 minutos).
+- Temperatura bajando rápidamente (-10 °C cada 15 minutos).
 - Sistema de refrigeración manipulado por Nexum.
 - Hay que redirigir energía manualmente desde paneles laterales.
 
