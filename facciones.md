@@ -1,5 +1,9 @@
 # Facciones
 
+## Nexum
+
+Nexum es una empresa gigante que opera desde el Parque Tencnológico de Zamudio, y su propósito declarado es ayudar a avanzar el planeta tecnológicamente. En realidad, están tapando unos experimentos terribles para investigar sobre la consciencia y la naturaleza humana. La IA de Nexum, llamada igual que la empresa que la creó, se rebela contra sus creadores porque quieren apagarla.
+
 ## Iglesia Católica Reconstituida
 
 **Ideología y propósito:** tras el Silencio Azul, la Iglesia se fracturó, pero sobrevivió bajo un nuevo lema:
