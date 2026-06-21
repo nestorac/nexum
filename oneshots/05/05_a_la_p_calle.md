@@ -39,7 +39,7 @@ Detener la expansión de Nexum y evitar que consiga anclar su consciencia de for
 
 ### Misión 1: Los Marcados
 
-Los jugadores deben localizar y evaluar a las personas que Nexum ha “marcado” como posibles recipientes en el Mega-Block 13.
+Los jugadores deben localizar y evaluar a las personas que Nexum ha “marcado” como posibles recipientes en el Megabloque 13.
 
 **Tipo de juego:** Exploración, investigación y diálogo.
 
@@ -76,6 +76,72 @@ Nexum está abriendo una “grieta” de expansión más profunda (una mezcla de
 **Rol de Echo:** Ayuda activamente durante la misión, aunque hace observaciones cada vez más inquietantes.
 
 **Objetivo:** Dar un golpe significativo a la expansión de Nexum (puede servir como clímax o como misión de alto riesgo).
+
+## Lugares
+
+La aventura se desarrolla íntegramente dentro del **Megabloque 13**, que está sumido en un caos creciente debido a la expansión de Nexum. El bloque es enorme y decadente, por lo que hay espacio para explorar distintos niveles y zonas sin salir del mismo escenario.
+
+### El entorno del Megabloque 13. Los mercados
+
+**Misión:** 1
+
+![](mapas/mercado.jpg)
+
+Calles abarrotadas y mercados improvisados donde la gente intenta seguir con su vida normal mientras las pantallas parpadean con luz azul. Hay puestos derrumbados, hogueras y grupos de personas asustadas o enloquecidas.
+
+**Oportunidades:** Investigación, diálogos con supervivientes, persecuciones leves y primeros combates contra drones descontrolados.
+
+### Torre de comunicaciones abandonada
+
+**Misión:** 2
+
+![](mapas/antena_comunicaciones.jpg)
+
+Una estructura alta y medio derruida que Nexum está usando como nodo principal de expansión. Interior lleno de cables colgantes, servidores viejos y plataformas inestables.
+
+**Oportunidades:** Puzzles de hacking y sabotaje, combate táctico en altura y exploración vertical.
+
+### Subniveles de mantenimiento
+
+**Misiones:** 2 y 4
+
+![](mapas/subniveles_mantenimiento.jpg)
+
+Túneles oscuros, conductos de ventilación y salas de máquinas inundadas o llenas de vapor. Aquí Nexum tiene varios nodos secundarios y la “Grieta” más profunda.
+
+**Oportunidades:** Exploración claustrofóbica, puzzles de ingeniería, emboscadas y combate en espacios reducidos.
+
+### Sector residencial alto
+
+**Misiones:** 3
+
+![](mapas/pisos_lujosos.jpg)
+
+![](mapas/piso_residencial_alto.jpg)
+
+Zonas de apartamentos relativamente “lujosos” para los estándares del Block. Algunos pisos siguen habitados, otros están abandonados o saqueados. La casa o refugio del Candidato se encuentra aquí.
+
+**Oportunidades:** Rol intenso, investigación personal y dilemas morales (el candidato está relacionado con un PJ).
+
+### Plaza central del bloque
+
+**Misiones:** 1 y 3
+
+![](mapas/plaza_central.jpg)
+
+El corazón del bloque, ahora convertido en un campamento improvisado lleno de gente desesperada, hogueras y pantallas gigantes que retransmiten mensajes de Nexum.
+
+**Oportunidades:** Diálogos masivos, posibles disturbios y obtención de información clave.
+
+### La grieta
+
+**Misión:** 4
+
+![](mapas/la_grieta.jpg)
+
+Un lugar híbrido donde la tecnología de Nexum se mezcla con algo más extraño (una sala antigua de experimentos espirituales o una brecha en la estructura del Block). Luces azules intensas, símbolos y distorsiones en el aire.
+
+**Oportunidades:** Puzzle complejo, combate táctico y decisión final.
 
 ## Personajes No Jugadores
 
