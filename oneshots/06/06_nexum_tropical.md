@@ -130,7 +130,7 @@
 
 **Tipo:** Androide de hospitalidad
 
-![](img/lina.jpg)
+![](img/lina.jpg){width=65%}
 
 **Rol principal:** NPC central del resort. Da la bienvenida y gestiona el “funcionamiento normal” del lugar.
 
@@ -150,7 +150,7 @@
 
 **Tipo:** Antiguo ejecutivo de alto rango del Mega-Block
 
-![](img/elias.jpg)
+![](img/elias.jpg){width=65%}
 
 **Tiempo dentro:** Varias semanas
 
@@ -170,7 +170,7 @@
 
 **Tipo:** Antigua animadora e influencer del Block.
 
-![](img/mara.jpg)
+![](img/mara.jpg){width=65%}
 
 **Tiempo dentro:** Más de un mes.
 
@@ -190,7 +190,7 @@
 
 **Tipo:** Técnico de mantenimiento
 
-![](img/roldan.jpg)
+![](img/roldan.jpg){width=65%}
 
 **Tiempo dentro:** unas dos semanas.
 
@@ -210,7 +210,7 @@
 
 **Tipo:** Huéspeda joven (17 años).
 
-![](img/sol.jpg)
+![](img/sol.jpg){width=65%}
 
 **Tiempo dentro:** Solo unos días.
 
