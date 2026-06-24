@@ -1,4 +1,4 @@
-# Personajes Jugadores (PJ)
+
 
 Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello, se van volviendo más poderosos, si van en contra, pierden poder.
 
@@ -30,7 +30,7 @@ Seguridad privada. *El luchador del ki.*
 
 **Estadísticas:** Tiene una Destreza tremenda con armas de fuego, y con katanas, aunque maneja casi cualquier arma. Es bastante Fuerte, lo que significa que posee una gran Agilidad.
 
-![](img/pj/julen_tanaka.jpg)
+![](img/pj/jalen_tanaka.jpg)
 
 **Profesión:** Maestro de Aikido, hijo de inmigrantes japoneses, trabajaba como vigilante nocturno.
 
