@@ -1,6 +1,6 @@
 # Magia
 
-La magia proviene del plano celestial.
+La magia proviene del plano celestial o del infernal o de otros planos.
 
 Perfecto, ahora sí entramos en la **magia de este mundo**, pero sin caer en clichés ni en cosas demasiado “roleras estándar”.
 Vamos a diseñar un sistema de magia **coherente con tu lore**, con el tono espiritual, con la idea de la consciencia, de Dios, de lo interior y de la pérdida del mundo interno.
