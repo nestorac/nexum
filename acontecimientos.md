@@ -8,6 +8,23 @@ Alguien (que mucho después se descubre que es Lucifer) pide ayuda a su Padre Di
 
 Un científico malvado pretende chantajear a Dios, amenzando con destruir la Humanidad si no le deja ser inmortal y todopoderoso como él.
 
+### Justificación actualizada del declive (2030-2070)
+
+El retroceso no fue causado por una sola catástrofe, sino por una **confluencia de crisis** que se alimentaron entre sí:
+
+| Período       | Factor principal                                                  | Consecuencia principal                                                 |
+| ------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **2030-2040** | Crisis climática + guerras por recursos                           | Colapso de cadenas de suministro globales                              |
+| **2035-2050** | Baja natalidad extrema + envejecimiento acelerado de la población | Faltan jóvenes para mantener la mano de obra y el conocimiento técnico |
+| **2038-2045** | "La Caída de las Nubes" (tormentas solares + ciberataques)        | Destrucción masiva de satélites y redes globales                       |
+| **2045-2060** | Escasez crítica de materiales raros                               | Imposibilidad de fabricar nueva tecnología avanzada                    |
+| **2055-2070** | Colapso económico + guerras corporativas                          | Fragmentación de los estados y surgimiento de los Mega-Bloques         |
+
+**El factor demográfico** es clave: la baja natalidad y el envejecimiento masivo provocaron una **pérdida de conocimiento técnico** generacional. Muchos ingenieros, científicos y técnicos se jubilaron o murieron sin que hubiera suficientes jóvenes formados para reemplazarlos. Esto hizo que, aunque quedaran máquinas avanzadas, nadie supiera cómo mantenerlas o fabricar repuestos a gran escala.
+
+Resultado en 2070:
+Tecnología muy avanzada en enclaves cerrados (como Nexum), pero la mayoría de la sociedad vive con tecnología reparada de décadas anteriores, infraestructuras deterioradas y una sensación de “decadencia civilizatoria”.
+
 ## 2048 – Fundación del Proyecto Nexum
 
 **Lugar:** Convención de Ciencia, Ciudad de Osaka.
