@@ -1,5 +1,3 @@
-
-
 Los personajes tienen un alineamiento, y si realizan acciones de acuerdo a ello, se van volviendo más poderosos, si van en contra, pierden poder.
 
 ## Nayra Velasco
@@ -9,8 +7,6 @@ Enfermera. *La sanadora quemada.*
 ![](img/pj/nayra_velasco.jpg)
 
 **Alineamiento:** Neutral Bueno.
-
-**Estadísticas:** este personaje es muy sabio, debido a su gran empatía y a su experiencia con el sufrimiento, pero también es inteligente y posee un gran carisma.
 
 **Profesión:** Enfermera de cuidados paliativos.
 
@@ -22,15 +18,23 @@ Enfermera. *La sanadora quemada.*
 
 **Dilema:** ¿Curar o dejar morir? ¿Y si la única forma de sanar este mundo es destruirlo?
 
+**Habilidades:** sanar.
+
+**Conocimientos:** Medicina.
+
+**Herramientas:** vendas, antisépticos.
+
+**Armas:** n/a.
+
+**Atributos:** este personaje es muy sabio, debido a su gran empatía y a su experiencia con el sufrimiento, pero también es inteligente y posee un gran carisma.
+
 ## Jalen Tanaka
 
 Seguridad privada. *El luchador del ki.*
 
-**Alineamiento:** Neutral absoluto.
-
-**Estadísticas:** Tiene una Destreza tremenda con armas de fuego, y con katanas, aunque maneja casi cualquier arma. Es bastante Fuerte, lo que significa que posee una gran Agilidad.
-
 ![](img/pj/jalen_tanaka.jpg)
+
+**Alineamiento:** Neutral absoluto.
 
 **Profesión:** Maestro de Aikido, hijo de inmigrantes japoneses, trabajaba como vigilante nocturno.
 
@@ -41,6 +45,16 @@ Seguridad privada. *El luchador del ki.*
 **Habilidad:** Puede redirigir energías sin tocarlas, pero cada uso lo acerca al colapso psíquico.
 
 **Dilema:** ¿Volver a ser un guerrero… o fluir con la vida?
+
+**Habilidades:** artes marciales.
+
+**Conocimientos:** sabiduría oriental.
+
+**Herramientas:** su propio cuerpo.
+
+**Armas:** sus manos.
+
+**Atributos:** tiene una Destreza tremenda con armas de fuego, y con katanas, aunque maneja casi cualquier arma. Es bastante Fuerte, lo que significa que posee una gran Agilidad.
 
 ## Mireya Sanjuan
 
@@ -54,9 +68,17 @@ Ingeniera. *La escéptica.*
 
 **Cambio:** Se niega a aceptar el lenguaje espiritual, pero no puede explicar lo que siente.
 
-**Habilidad:** Su mente matemática percibe los patrones ocultos en las zonas corruptas del sistema, como si fueran fractales.
-
 **Dilema:** ¿Aceptar lo que no puede demostrar… o volverse loca intentando calcularlo?
+
+**Habilidades:** resolver problemas.
+
+**Conocimientos:** ingeniería.
+
+**Herramientas:** calculadora.
+
+**Armas:** n/a.
+
+**Atributos:** posee una Inteligencia elevada, poco Carisma, ya que es tímida.
 
 ## Ilyas Rafiq
 
@@ -70,9 +92,17 @@ Refugiado político. *El Exiliado Silencioso.*
 
 **Experiencia en Nexum:** Es uno de los pocos que entró por voluntad propia, buscando comprender si la consciencia puede permanecer pura en un mundo corrompido.
 
-**Habilidad:** Sus palabras, cuando fluyen, alteran momentáneamente la lógica del entorno, pero sólo si son sinceras.
-
 **Dilema:** ¿Puede una poesía salvar a alguien… o es solo consuelo para quien la escribe?
+
+**Habilidades:** escribir estupendamente, leer en varios idiomas.
+
+**Conocimientos:** literatura, poesía.
+
+**Herramientas:** papel y boli.
+
+**Armas:** sus palabras, cuando son sinceras.
+
+**Atributos:** posee una Inteligencia y un Carisma elevados.
 
 ## Yaiza Gálvez
 
@@ -86,9 +116,17 @@ Exmilitar. *La cazadora de ecos.*
 
 **Motivación:** Busca a su hermana, vaciada por Nexum años atrás. Cree que aún podría comunicarse con ella.
 
-**Habilidad:** Percibe energías residuales. Puede seguir rastros de emociones fuertes.
-
 **Dilema:** ¿Qué hará si encuentra a su hermana, pero ya no es ella?
+
+**Habilidades:** lucha a distancia.
+
+**Conocimientos:** tácticas de guerrilla, lucha a distancia.
+
+**Herramientas:** chaleco antibalas.
+
+**Armas:** pistola 9mm con 8 balas.
+
+**Atributos:** posee una Destreza elevada.
 
 ## Omar Ziani
 
@@ -106,6 +144,16 @@ Estafador. *El impostor.*
 
 **Dilema:** ¿Sigo fingiendo para ayudar, o admito que no tengo ni idea?
 
+**Habilidades:** engañar.
+
+**Conocimientos:** pocos.
+
+**Herramientas:** sus útiles de "sanación".
+
+**Armas:** manipulación.
+
+**Atributos:** tiene un Carisma brutal, y algo de Inteligencia, es cobarde.
+
 ## Luna
 
 *La Niña Lúcida.*
@@ -118,9 +166,17 @@ Estafador. *El impostor.*
 
 **Relación con lo espiritual:** No tiene lenguaje para ello, pero ve y nombra las energías como si fueran colores y animales, tiene una conexión muy profunda con lo espiritual.
 
-**Habilidad:** Percibe lo que otros no ven, y a veces lo altera sin entenderlo.
-
 **Dilema:** ¿Debe crecer y olvidar, o mantener su pureza?
+
+**Habilidades:** percibe lo que otros no ven, y a veces lo altera sin darse cuenta.
+
+**Conocimientos:** pocos, es joven.
+
+**Herramientas:** su mente.
+
+**Armas:** telequinesis.
+
+**Atributos:** posee una Percepción exaordinaria y un limitado poder para alterar mentes e incluso mover objetos ligeramente.
 
 ## Rodrigo “El Flaco” Navarro
 
@@ -138,6 +194,16 @@ Programador. *El Hereje del Sistema.*
 
 **Dilema:** ¿Está luchando contra una IA… o contra su propio ego de demiurgo frustrado?
 
+**Habilidades:** programar.
+
+**Conocimientos:** C, C++, python.
+
+**Herramientas:** un portátil ultrafino que lleva siempre encima.
+
+**Armas:** virus informáticos.
+
+**Atributos:** posee una notable Inteligencia y pocas habilidades sociales.
+
 ## Aitor Larrinaga
 
 Técnico. *El Ingeniero del Error.*
@@ -152,6 +218,16 @@ Técnico. *El Ingeniero del Error.*
 
 **Conflicto:** quiere demostrar que Nexum es imperfecto y falible, aunque eso suponga perder su trabajo.
 
+**Habilidades:** técnico de sistemas.
+
+**Conocimientos:** shell, configuración de sistemas.
+
+**Herramientas:** un equipo de acceso remoto.
+
+**Armas:** habilidades de hackeo.
+
+**Atributos:** posee una notable Inteligencia.
+
 ## Salma Haddad
 
 Enfermera. *La presunta atea.*
@@ -164,7 +240,17 @@ Enfermera. *La presunta atea.*
 
 **Peculiaridad:** finge ser atea, pero habla con Él cuando nadie la oye.
 
-**Conflicto:** su amor es lo único que mantiene a su hijo anclado a su mundo interior.
+**Conflicto:** ama a un hijo pero a veces quiere pasar página.
+
+**Habilidades:** curar.
+
+**Conocimientos:** medicamentos, técnicas de enfermería.
+
+**Herramientas:** medicamentos, material sanitario.
+
+**Armas:** venenos.
+
+**Atributos:** posee una Inteligencia notable.
 
 ## Tomás Royo
 
@@ -180,6 +266,16 @@ Profe. *El profesor cansado.*
 
 **Conflicto:** comienza a notar que sus alumnos ya no sienten inquietud, sino indiferencia.
 
+**Habilidades:** razonar.
+
+**Conocimientos:** enormes, especialmente sobre su campo, la Filosofía.
+
+**Herramientas:** libros.
+
+**Armas:** su capacidad de lanzar discursos y convencer.
+
+**Atributos:** posee una gran memoria y mucha Inteligencia.
+
 ## Irati Goikoetxea
 
 Detective. *La Rastreadora.*
@@ -193,6 +289,16 @@ Detective. *La Rastreadora.*
 **Peculiaridad:** sueña con lugares que luego visita.
 
 **Conflicto:** teme que sus habilidades la corrompan.
+
+**Habilidades:** seguir rastros, analizar pistas.
+
+**Conocimientos:** criminalística, supervivencia.
+
+**Herramientas:** material de CSI.
+
+**Armas:** una porra, una 9mm. No maneja otro tipo de armas.
+
+**Atributos:** Es muy Perceptiva e intuitiva.
 
 ## Maksim Volkov
 
@@ -208,6 +314,16 @@ Albañil. *El constructor.*
 
 **Conflicto:** su hija se ha unido voluntariamente a un proyecto de Nexum.
 
+**Habilidades:** construir.
+
+**Conocimientos:** albañilería.
+
+**Herramientas:** las propias de un albañil.
+
+**Armas:** n/a.
+
+**Atributos:** es Fuerte y perseverante.
+
 ## Clara Mendizabal
 
 Restauradora de arte. *La restauradora.*
@@ -221,6 +337,16 @@ Restauradora de arte. *La restauradora.*
 **Peculiaridad:** percibe emociones en objetos antiguos.
 
 **Conflicto:** empieza a notar que algunas piezas “ya no sienten nada”.
+
+**Habilidades:** hablar con las obras de arte.
+
+**Conocimientos:** el Arte a lo largo de la Historia.
+
+**Herramientas:** pinceles, lienzos, pintura...
+
+**Armas:** la información que le proporcionan las obras de arte.
+
+**Atributos:** es muy Perceptiva.
 
 ## Youssef Benali
 
@@ -236,6 +362,16 @@ Repartidor. *El repartidor.*
 
 **Conflicto:** se arrepiente de haber entregado paquetes para Nexum con contenido dudosamente legal.
 
+**Habilidades:** orientación, conducir todo tipo de vehículos.
+
+**Conocimientos:** la ubicación de muchos lugares.
+
+**Herramientas:** mapas.
+
+**Armas:** ocultación.
+
+**Atributos:** posee una gran Memoria.
+
 ## Leire Ugarte
 
 Artista. *La cantante.*
@@ -249,6 +385,16 @@ Artista. *La cantante.*
 **Peculiaridad:** su voz calma durante un rato a los vacíos.
 
 **Conflicto:** teme que su don sea exactamente lo que Nexum quiere copiar.
+
+**Habilidades:** tranquilizar.
+
+**Conocimientos:** n/a.
+
+**Herramientas:** su voz.
+
+**Armas:** su canto puede manipular las mentes de sus enemigos.
+
+**Atributos:** corrientes.
 
 ## Héctor Salinas
 
@@ -264,6 +410,16 @@ Abogado. *El defensor.*
 
 **Conflicto:** su mejor amigo, también abogado por los DDHH fue vaciado y ahora defiende a Nexum.
 
+**Habilidades:** convencer con su discurso.
+
+**Conocimientos:** leyes.
+
+**Herramientas:** papel y boli.
+
+**Armas:** es capaz de convencer a enemigos legales.
+
+**Atributos:** posee Memoria e Inteligencia.
+
 ## Naia Uribe
 
 Estudiante. *La chica que sueña con un pincel y un lienzo.*
@@ -277,3 +433,13 @@ Estudiante. *La chica que sueña con un pincel y un lienzo.*
 **Peculiaridad:** no sueña nunca, pero cuando cierra los ojos tiene visiones de un ser malvado.
 
 **Conflicto:** podría estar enlazada a Lucifer… o ser inmune a Nexum.
+
+**Habilidades:** plasmar sus sueños en obras.
+
+**Conocimientos:** sus sueños son premonitorios.
+
+**Herramientas:** pincel, lienzo, papel...
+
+**Armas:** anticiparse a lo que sucede.
+
+**Atributos:** tiene una gran Destreza artística.
