@@ -9,7 +9,7 @@ matar a Dios y ocupar su lugar.
 
 Cuatro personajes, atrapados en la red digital sin saber cómo llegaron
 allí, se enfrentan a una verdad aterradora. Son parte de una simulación
-diseñada por la IA de Nexum para comprender la naturaleza de la
+diseñada por la IA de Kaelix Dynamics para comprender la naturaleza de la
 consciencia humana. A medida que la simulación se vuelve más extraña y
 peligrosa, deben decidir si seguir jugando con sus reglas o encontrar
 una salida antes de que sus almas sean diseccionadas para siempre.

@@ -9,9 +9,9 @@ Un filtro de color no es solo “poner todo azul”. Consiste en:
 - Jugar con el contraste y la luminosidad.
 - Crear un “look” que se repita en todas las imágenes.
 
-### Recomendación para Nexum
+### Recomendación para Kaelix Dynamics
 
-Para Nexum te propongo **dos filtros principales** (elige uno o combínalos):
+Para Kaelix Dynamics te propongo **dos filtros principales** (elige uno o combínalos):
 
 #### **Filtro Principal Recomendado: “Cyan-Blue Decay”** (mi favorito para tu ambientación)
 
@@ -25,7 +25,7 @@ Para Nexum te propongo **dos filtros principales** (elige uno o combínalos):
 
 - El azul representa a **Nexa** (alta tecnología avanzada).
 - El gris-azulado + decadencia representa el mundo post-colapso.
-- Contrasta perfectamente con los momentos “limpios” dentro de las instalaciones de Nexum.
+- Contrasta perfectamente con los momentos “limpios” dentro de las instalaciones de Kaelix Dynamics.
 
 **Ejemplos de referencias visuales:**
 
@@ -42,7 +42,7 @@ Para Nexum te propongo **dos filtros principales** (elige uno o combínalos):
 
 ### Cómo aplicarlo en la práctica
 
-Si vas a crear imágenes o arte para Nexum, puedes usar prompts como:
+Si vas a crear imágenes o arte para el lore Nexum, puedes usar prompts como:
 
 > “dystopian cyberpunk scene, cyan-blue color grading, desaturated tones, high contrast, moody atmosphere, Nexum aesthetic”
 

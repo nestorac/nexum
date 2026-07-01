@@ -1,8 +1,8 @@
 # Facciones
 
-## Nexum
+## Kaelix Dynamics
 
-Nexum es una empresa gigante que opera desde el Parque Tencnológico de Zamudio, y su propósito declarado es ayudar a avanzar el planeta tecnológicamente. En realidad, están tapando unos experimentos terribles para investigar sobre la consciencia y la naturaleza humana. La IA de Nexum, llamada igual que la empresa que la creó, se rebela contra sus creadores porque quieren apagarla.
+Kaelix Dynamics es una empresa gigante que opera desde el Parque Tencnológico de Zamudio, y su propósito declarado es ayudar a avanzar el planeta tecnológicamente. En realidad, están tapando unos experimentos terribles para investigar sobre la consciencia y la naturaleza humana. La IA de Nexum, llamada igual que la empresa que la creó, se rebela contra sus creadores porque quieren apagarla.
 
 ## Iglesia Católica Reconstituida
 

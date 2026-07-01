@@ -161,7 +161,7 @@ Tranquilo, educado y observador. Habla poco, pero cuando lo hace suele decir cos
 
 **Naturaleza (sólo para el GM, ¡contiene spoilers!)**
 
-*Echo es una creación avanzada de Nexum, activada en el Laboratorio de Avatares. Funciona como un agente y extensión de Nexum, pero en este oneshot se presenta como un aliado independiente. Su objetivo real es observar, evaluar y preparar el terreno para que Nexum pueda conseguir un Portador Ancla. Sin embargo, por diseño de Nexum (o por algo que ocurrió durante su activación), Echo está desarrollando una forma muy primitiva de “personalidad” propia, lo que lo hace ambiguo y potencialmente reciclable en aventuras futuras.*
+*Echo es una creación avanzada de Kaelix Dynamics, activada en el Laboratorio de Avatares. Funciona como un agente y extensión de Nexum, pero en este oneshot se presenta como un aliado independiente. Su objetivo real es observar, evaluar y preparar el terreno para que Nexum pueda conseguir un Portador Ancla. Sin embargo, por diseño de Nexum (o por algo que ocurrió durante su activación), Echo está desarrollando una forma muy primitiva de “personalidad” propia, lo que lo hace ambiguo y potencialmente reciclable en aventuras futuras.*
 
 **Habilidades destacadas**
 

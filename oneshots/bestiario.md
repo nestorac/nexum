@@ -132,7 +132,7 @@ Entidad invisible que habita en la “latencia” de las conexiones: el retraso 
 
 **Formas de interacción / derrota**: Actuar con calma extrema (reduce el efecto), aislarse en zonas sin señal, o forzar al Devorador a “sobrecargarse” con acciones muy rápidas y simultáneas.  
 
-**Escenarios recomendados**: Megaciudades sobrecargadas, persecuciones o asaltos a instalaciones Nexum.
+**Escenarios recomendados**: Megaciudades sobrecargadas, persecuciones o asaltos a instalaciones de Kaelix Dynamics.
 
 ### Máscara de Préstamo
 
@@ -330,7 +330,7 @@ La forma más pura del vaciado: una zona o entidad ambulante de “nada percepti
 
 ### Desollado de Turno
 
-**Tipo**: Ex-trabajador de mantenimiento Nexum  
+**Tipo**: Ex-trabajador de mantenimiento de Kaelix Dynamics  
 
 **Apariencia**: Humano alto y delgado con la piel arrancada en tiras desde el pecho hasta los brazos. Debajo se ven músculos brillantes cubiertos de una fina capa de nanocables que palpitan como venas. Lleva aún el mono de trabajo corporativo roto.  
 

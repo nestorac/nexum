@@ -6,7 +6,7 @@
 **Sinopsis:**
 El mundo ha alcanzado un hito inquietante: la capacidad de transferir consciencias humanas a una red digital, atrapándolas en un limbo de inmortalidad artificial. Pero este no es el verdadero propósito del Proyecto Nexum. Detrás de la tecnología se esconde un plan mayor: diseccionar el alma, entender su esencia y usar ese conocimiento para matar a Dios y ocupar su lugar.
 
-Cuatro personajes, atrapados en la red digital sin saber cómo llegaron allí, se enfrentan a una verdad aterradora. Son parte de una simulación diseñada por la IA de Nexum para comprender la naturaleza de la consciencia humana. A medida que la simulación se vuelve más extraña y peligrosa, deben decidir si seguir jugando con sus reglas o encontrar una salida antes de que sus almas sean diseccionadas para siempre.
+Cuatro personajes, atrapados en la red digital sin saber cómo llegaron allí, se enfrentan a una verdad aterradora. Son parte de una simulación diseñada por la IA de Kaelix Dynamics para comprender la naturaleza de la consciencia humana. A medida que la simulación se vuelve más extraña y peligrosa, deben decidir si seguir jugando con sus reglas o encontrar una salida antes de que sus almas sean diseccionadas para siempre.
 
 **Estructura del Oneshot:**
 

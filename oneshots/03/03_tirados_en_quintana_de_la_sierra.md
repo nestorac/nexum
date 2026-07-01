@@ -36,7 +36,7 @@ Conviene tener estos cuatro perfiles en esta aventura, pero no es obligatorio.
 
 1. **Periodista freelance:** graba un documental sobre pueblos abandonados.
 
-2. **Técnico de Nexum:** lo han enviado a “reparar” la antena de la montaña.
+2. **Técnico de Kaelix Dynamics:** lo han enviado a “reparar” la antena de la montaña.
 
 3. **Médico o ex-residente:** un familiar suyo está ilocalizable.
 
@@ -96,7 +96,7 @@ Lugares del mapa:
 - **Lucía** (Consultorio): Ha visto patrones neurológicos idénticos en 17 pacientes. No se atreve a denunciarlo.
 - **Don Ramiro** (Ayuntamiento – archivo): Viejo secretario. Tiene los papeles de las “desapariciones administrativamente inexistentes”.
 - **La Vieja Amparo** (Barrio Alto): Recuerda que “antes la mina no estaba sellada y la antena no existía”.
-- **El “Chico de la Zona Nueva”** (teletrabajador de Nexum): Muestra los primeros signos claros de vaciado: repite frases y no recuerda haberlas dicho.
+- **El “Chico de la Zona Nueva”** (teletrabajador de Kaelix Dynamics): Muestra los primeros signos claros de vaciado: repite frases y no recuerda haberlas dicho.
 
 #### Monstruos comunes
 

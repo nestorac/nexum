@@ -19,9 +19,9 @@
 - Toques de neón rojo/amarillo (zonas más “vivas” o peligrosas)
 - Verde oscuro (vegetación que invade las estructuras)
 
-## Estética de Nexum
+## Estética de Kaelix Dynamics
 
-Nexum, inc. posee una estética absolutamente diferente de lo demás. Su nivel de desarrollo tecnológico es altísimo. Nexum representa el **contraste máximo** con el mundo exterior: mientras fuera todo es decadencia, hormigón roto y tecnología reparada, dentro de sus instalaciones todo es limpio, avanzado y controlado.
+Kaelix Dynamics posee una estética absolutamente diferente de lo demás. Su nivel de desarrollo tecnológico es altísimo. Kaelix Dynamics representa el **contraste máximo** con el mundo exterior: mientras fuera todo es decadencia, hormigón roto y tecnología reparada, dentro de sus instalaciones todo es limpio, avanzado y controlado.
 
 ### Paleta de colores principal
 
@@ -63,7 +63,7 @@ Nexum, inc. posee una estética absolutamente diferente de lo demás. Su nivel d
 ### Contraste con el exterior
 
 - Fuera → Decadencia, suciedad, hormigón roto, neón parpadeante, vegetación invasiva.
-- Dentro de Nexum → Orden, limpieza, tecnología superior, minimalismo.
+- Dentro de Kaelix Dynamics → Orden, limpieza, tecnología superior, minimalismo.
 
 ### Ejemplos de espacios típicos
 

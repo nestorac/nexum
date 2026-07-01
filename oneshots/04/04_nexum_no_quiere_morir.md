@@ -166,7 +166,7 @@ grabada en el pecho, casco parcial que deja ver cicatrices en la sien, bastón-e
 
 **Secreto:** Está diseñando su propio receptáculo para transferirse y “superar” a Nexum. Ve a la IA como competencia y musa.
 
-**Motivación:** Robar la tecnología de Nexum para convertirse en el siguiente paso evolutivo.
+**Motivación:** Robar la tecnología de Kaelix Dynamics para convertirse en el siguiente paso evolutivo.
 
 **Con Nexum:** Admiración envidiosa. Lo trata como a un rival genial.
 
