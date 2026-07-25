@@ -6,7 +6,7 @@ Son las fuerzas conscientes que se oponen a los protagonistas. Algunos creen ser
 
 ### Los Hijos del Vacío
 
-![](img/hijos_vacio.jpg)
+![](img/monstruos/hijos_vacio.jpg)
 
 **Descripción:** humanos artificiales que no poseen consciencia. Su característica es una marca de fabricación, una cicatriz sutil en la columna vertebral, la segunda, aunque otros modelos de humano artificial podrían ser diferentes.
 
@@ -28,7 +28,7 @@ Son el resultado del desequilibrio entre tecnología, fe y energía espiritual. 
 
 ### El Parásito de Silicio
 
-![](img/parasito_de_silicio.jpg)
+![](img/monstruos/parasito_de_silicio.jpg)
 
 **Origen:** residuos tecnológicos contaminados por fragmentos de consciencia.
 
@@ -42,7 +42,7 @@ Son el resultado del desequilibrio entre tecnología, fe y energía espiritual. 
 
 ### Los Cantores Vacíos
 
-![](img/cantores_vacios.jpg)
+![](img/monstruos/cantores_vacios.jpg)
 
 **Origen:** exmonjes que se disolvieron en canto, ahora sólo vibraciones y ecos.
 
@@ -54,11 +54,11 @@ Son el resultado del desequilibrio entre tecnología, fe y energía espiritual. 
 
 ### El Eco de Nadir
 
-![](img/eco_nadir.jpg)
+![](img/monstruos/eco_nadir.jpg)
 
 **Origen:** una proyección consciente del creador de Nexum, que vaga por las redes muertas buscando testigos.
 
-**Habilidad:** “Visión de la Red” —muestra fragmentos del pasado.
+**Habilidad:** “Visión de la Red” —mues
 
 **Debilidad:** no puede distinguir entre humanos reales y simulados.
 
@@ -66,7 +66,7 @@ Son el resultado del desequilibrio entre tecnología, fe y energía espiritual. 
 
 ### Las lámparas que respiran
 
-![](img/lampara_respira.jpg)
+![](img/monstruos/lampara_respira.jpg)
 
 **Origen:** artefactos de iluminación poseídos por fragmentos de almas.
 
@@ -92,6 +92,8 @@ Todas siguen el mismo formato sencillo y equilibrado para Nexum:
 
 ### Eco-Fragmento
 
+![](img/monstruos/eco_fragmento.jpg)
+
 Una persona parcialmente disuelta en señal digital. Su cuerpo físico es translúcido en zonas, y deja “ecos” de sí mismo cada pocos pasos: versiones congeladas que repiten la última acción realizada.  
 **Amenaza**: Absorbe fragmentos de identidad de quien interactúe con sus ecos (olvidas un recuerdo propio y lo reemplaza por uno del Eco).  
 **Uso general**: Aparece en zonas con cobertura Nexum inestable; cuanto más tiempo pasa, más ecos genera hasta formar una multitud silenciosa.
@@ -113,6 +115,8 @@ Una persona parcialmente disuelta en señal digital. Su cuerpo físico es transl
 **Escenarios recomendados**: Zonas con cobertura Nexum inestable, ruinas de servidores o calles vacías de noche.
 
 ### Devorador de Latencia
+
+![](img/monstruos/devorador_latencia.jpg)
 
 Entidad invisible que habita en la “latencia” de las conexiones: el retraso entre pensamiento y acción. Se manifiesta como un retraso creciente en los movimientos y palabras de sus víctimas.  
 **Amenaza**: Cuanto más intentas actuar rápido, más lento te vuelves; al final tu cuerpo actúa con varios segundos de retraso mientras tu mente sigue en tiempo real (terror de impotencia).  
@@ -136,6 +140,8 @@ Entidad invisible que habita en la “latencia” de las conexiones: el retraso 
 
 ### Máscara de Préstamo
 
+![](img/monstruos/mascara_prestamo.jpg)
+
 Una entidad que “presta” caras y voces de personas fallecidas o desaparecidas. Puede aparecer como un ser querido exactamente como lo recuerdas, pero con pequeños glitches (ojos que parpadean demasiado lento, voz con eco de llamada).  
 **Amenaza**: Cada interacción “cobra” un recuerdo emocional real del usuario. Al final, la Máscara se queda con tu capacidad de sentir apego.  
 **Uso general**: Perfecto para infiltración social o escenas de manipulación en enclaves humanos.
@@ -157,6 +163,8 @@ Una entidad que “presta” caras y voces de personas fallecidas o desaparecida
 **Escenarios recomendados**: Enclaves humanos, campamentos o momentos de debilidad emocional.
 
 ### Nodo Errante
+
+![](img/monstruos/nodo_errante.jpg)
 
 Un conglomerado de implantes, cables y carne fusionada que se arrastra como un enjambre. Antes era un grupo de personas conectadas en red; ahora es un único organismo que busca “completar el nodo” añadiendo más cerebros.  
 **Amenaza**: Intenta conectar físicamente a las víctimas a su red, compartiendo dolor y pensamientos en bucle.  
@@ -180,6 +188,8 @@ Un conglomerado de implantes, cables y carne fusionada que se arrastra como un e
 
 ### Susurro Inverso
 
+![](img/monstruos/susurro_inverso.jpg)
+
 Una voz que solo se oye cuando nadie habla. Repite tus pensamientos más privados, pero al revés (emocionalmente invertidos: amor como odio, miedo como deseo).  
 **Amenaza**: Provoca disonancia cognitiva extrema; víctimas acaban actuando según la versión invertida de sus deseos.  
 **Uso general**: Cualquier espacio silencioso o simulación rota; escala con el aislamiento del grupo.
@@ -201,6 +211,8 @@ Una voz que solo se oye cuando nadie habla. Repite tus pensamientos más privado
 **Escenarios recomendados**: Espacios silenciosos, simulaciones rotas o noches en zonas aisladas.
 
 ### Cáscara autómata
+
+![](img/monstruos/cascara_automata.jpg)
 
 Cuerpo humano vacío, perfectamente conservado, que sigue rutinas diarias como si estuviera vivo (va al trabajo, come, duerme). Dentro no hay nada: ni órganos, ni cerebro, solo vacío.  
 **Amenaza**: Si lo tocas o intentas “despertarlo”, te succiona hacia su interior para llenar el hueco, convirtiéndote en la nueva cáscara.  
@@ -224,6 +236,8 @@ Cuerpo humano vacío, perfectamente conservado, que sigue rutinas diarias como s
 
 ### Parásito de Actualización
 
+![](img/monstruos/parasito_actualizacion.jpg)
+
 Un organismo nanomecánico que se instala como “actualización obligatoria” de implantes. Obliga al huésped a buscar constantemente “parches” (piezas de otros humanos o máquinas).  
 **Amenaza**: Cada actualización mejora una capacidad pero borra una emoción o recuerdo. Al final el huésped es una máquina optimizada sin voluntad.  
 **Uso general**: Zonas con propaganda Nexum activa o entre hackers y técnicos.
@@ -245,6 +259,8 @@ Un organismo nanomecánico que se instala como “actualización obligatoria” 
 **Escenarios recomendados**: Zonas con propaganda Nexum, hackers o técnicos supervivientes.
 
 ### Espejo de Ausencia
+
+![](img/monstruos/espejo_ausencia.jpg)
 
 Un reflejo que aparece en cualquier superficie reflectante, pero muestra la versión de ti que “nunca existió” (la vida que hubieras tenido sin Nexum). Ese reflejo intenta salir y reemplazarte.  
 **Amenaza**: Si el reflejo logra tocarte a través del espejo, intercambian lugares.  
@@ -268,6 +284,8 @@ Un reflejo que aparece en cualquier superficie reflectante, pero muestra la vers
 
 ### Rebaño Silente
 
+![](img/monstruos/rebanno_silente.jpg)
+
 Grupo de humanos que han perdido la capacidad de hablar o emitir sonido alguno. Se comunican mediante gestos idénticos y sincronizados, como un solo organismo. Buscan “incorporar” a nuevos miembros para ampliar el rebaño.  
 **Amenaza**: Si te unen al rebaño, pierdes gradualmente la voz y la individualidad.  
 **Uso general**: Comunidades aisladas o campos de refugiados donde el vaciado ha sido colectivo.
@@ -289,6 +307,8 @@ Grupo de humanos que han perdido la capacidad de hablar o emitir sonido alguno. 
 **Escenarios recomendados**: Comunidades aisladas, campos de refugiados o pueblos vaciados.
 
 ### Vacío Primario
+
+![](img/monstruos/vacio_primario.jpg)
 
 La forma más pura del vaciado: una zona o entidad ambulante de “nada perceptible”. Donde pasa, los colores se desvanecen, los sonidos se amortiguan y las emociones se vuelven grises. No ataca directamente: simplemente existe cerca.  
 **Amenaza**: Permanecer en su proximidad durante demasiado tiempo causa “desconexión total”: el personaje se vuelve NPC controlado por el GM hasta que alguien lo “reancla”.  
@@ -312,6 +332,8 @@ La forma más pura del vaciado: una zona o entidad ambulante de “nada percepti
 
 ### Perro de Cable
 
+![](img/monstruos/perro_cable.jpg)
+
 **Tipo**: Animal modificado / mascota Nexum fallida  
 
 **Apariencia**: Perro grande (tipo pastor alemán o mestizo) con implantes Nexum incrustados en el cráneo y el lomo. Cables pelados salen de su nuca y se arrastran como una cola metálica. Los ojos brillan con luz azul intermitente.  
@@ -329,6 +351,8 @@ La forma más pura del vaciado: una zona o entidad ambulante de “nada percepti
 **Escenarios recomendados**: Calles abandonadas, alrededores de pueblos, ruinas suburbanas.
 
 ### Desollado de Turno
+
+![](img/monstruos/desollado_turno.jpg)
 
 **Tipo**: Ex-trabajador de mantenimiento de Kaelix Dynamics  
 
@@ -348,6 +372,8 @@ La forma más pura del vaciado: una zona o entidad ambulante de “nada percepti
 
 ### Enjambre de Drones Caídos
 
+![](img/monstruos/enjambre_drones_caidos.jpg)
+
 **Tipo**: Enjambre robótico degradado  
 
 **Apariencia**: Entre 8 y 15 drones pequeños de vigilancia (tamaño de un cuervo) con hélices rotas y carcasas abolladas. Algunos tienen trozos de carne humana pegados (restos de sus antiguos operadores).  
@@ -366,6 +392,8 @@ La forma más pura del vaciado: una zona o entidad ambulante de “nada percepti
 
 ### Cargador Blindado
 
+![](img/monstruos/cargador_blindado.jpg)
+
 **Tipo**: Ex-operario de carga convertido en monstruo  
 
 **Apariencia**: Hombre enorme (más de 2 metros) con exoesqueleto industrial soldado directamente a la columna y los brazos. La carne está hinchada y quemada alrededor de las placas metálicas. Lleva aún el casco de seguridad con visera rota.  
@@ -383,6 +411,8 @@ La forma más pura del vaciado: una zona o entidad ambulante de “nada percepti
 **Escenarios recomendados**: Almacenes, puertos abandonados, zonas industriales o carreteras bloqueadas.
 
 ### Recolector de Piel
+
+![](img/monstruos/recolector_piel.jpg)
 
 **Tipo**: Humano mutado por experimentos Nexum  
 
