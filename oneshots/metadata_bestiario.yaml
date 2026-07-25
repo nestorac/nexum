@@ -1,0 +1,16 @@
+papersize: a4
+fontsize: 9pt
+geometry:
+  - margin=0.7cm
+  - top=0.5cm
+  - bottom=0.5cm
+lang: es-ES
+mainfont: DejaVu Sans
+header-includes:
+  - '\usepackage{graphicx}'
+  - '\usepackage{needspace}'
+  - '\pagenumbering{gobble}'
+  - '\setlength{\parskip}{0.15em}'
+  - '\setlength{\parindent}{0pt}'
+  - '\setlength{\fboxsep}{0pt}'
+  - '\newcommand{\ficha}[3]{\Needspace{0.48\textheight}\noindent\begin{minipage}[t][0.47\textheight][t]{\textwidth}\vspace{0pt}\begin{minipage}[t]{0.36\textwidth}\vspace{0pt}\raggedright\includegraphics[width=\linewidth,height=0.45\textheight,keepaspectratio]{#1}\end{minipage}\hfill\begin{minipage}[t]{0.60\textwidth}\vspace{0pt}{\large\bfseries #2\par}\vspace{0.2em}{\raggedright #3\par}\end{minipage}\end{minipage}\par\vspace{0.25em}}'

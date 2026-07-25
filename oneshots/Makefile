@@ -1,43 +1,30 @@
-# Makefile: un único MD -> un único PDF
+# Bestiario: fichas a media página A4
+# Uso: make -f Makefile bestiario   (desde oneshots/)
 
-MD          := personajes_jugadores.md
-METADATA    := metadata.yaml
+MD          := bestiario.md
+METADATA    := metadata_bestiario.yaml
+FILTER      := filtros/bestiario.lua
 OUT_DIR     := tmp
-PDF         := $(OUT_DIR)/personajes_jugadores.pdf
-
-CELESTIALES_MD_IN   := test.md
-CELESTIALES_MD_OUT  := test_out.md
-CELESTIALES_IMG_DIR := img/celestiales
-CELESTIALES_SCRIPT  := generar_celestiales.py
+PDF         := $(OUT_DIR)/bestiario.pdf
 
 PANDOC      := pandoc
 PDF_ENGINE  := xelatex
 
-PANDOC_OPTS := \
-  --from=markdown+smart \
-  --standalone \
-  --pdf-engine=$(PDF_ENGINE) \
-  --metadata-file=$(METADATA) \
-  --lua-filter=filtros/pj.lua
+.PHONY: bestiario clean-bestiario
 
-.PHONY: all clean
-
-all: $(PDF)
-
-celestiales_img:
-	@echo ">> Generando ilustraciones de personajes celestiales"
-	mkdir -p $(CELESTIALES_IMG_DIR)
-	./$(CELESTIALES_SCRIPT) \
-		$(CELESTIALES_MD_IN) \
-		$(CELESTIALES_IMG_DIR) \
-		$(CELESTIALES_MD_OUT)
-	@echo ">> OK: $(CELESTIALES_MD_OUT)"
+bestiario: $(PDF)
 
 $(OUT_DIR):
 	mkdir -p $(OUT_DIR)
 
-$(PDF): $(MD) | $(OUT_DIR)
-	$(PANDOC) "$(MD)" -o "$(PDF)" $(PANDOC_OPTS)
+$(PDF): $(MD) $(METADATA) $(FILTER) | $(OUT_DIR)
+	$(PANDOC) "$(MD)" -o "$(PDF)" \
+	  --from=markdown+smart \
+	  --standalone \
+	  --pdf-engine=$(PDF_ENGINE) \
+	  --metadata-file=$(METADATA) \
+	  --lua-filter=$(FILTER) \
+	  --resource-path=.:img:img/monstruos
 
-clean:
+clean-bestiario:
 	rm -f "$(PDF)"
