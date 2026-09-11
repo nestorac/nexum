@@ -62,9 +62,9 @@ Objetivo: **atar el documento a dinero y a nombres propios**.
 
 ![](sucursal_banco.jpg)
 
-Concretamente: el expediente de cliente del contrato NDMS, los pagos a la empresa y a la “consultoría” paralela, y un movimiento que no cuadra con el pleno: anticipo, pagaré o transferencia a una sociedad que huele a suelo o a concejal. El archivo dice qué se llevaron. Kaelix dice para qué. El banco dice **quién se enriquece**. Eso es lo que convierte la filtración en conspiración y no en rumor de pasillo.
+En la sucursal el objetivo es concreto: el expediente de cliente del contrato de Nexum Data Management Solution, los pagos a la empresa y a esa “consultoría” que corre en paralelo, y un movimiento que el pleno nunca vio. Puede ser un anticipo, un pagaré o una transferencia a una sociedad que huele a suelo o al entorno de un concejal. El archivo muestra qué datos salieron del ayuntamiento. Kaelix muestra para qué los querían. El banco muestra quién cobra. Ese tercer papel es el que convierte la filtración en una trama con nombres y cantidades.
 
-Orden libre. Lo que no es libre es el reloj: mañana hay rueda de prensa y las cintas salen del sótano. Con una parada tenéis sospecha. Con dos, noticia. Con las tres, algo que no pueden llamar falso.
+Podéis elegir el orden de las tres paradas. El reloj, en cambio, sigue una sola dirección: mañana hay rueda de prensa y las cintas salen del sótano. Una parada deja una sospecha. Dos dejan una noticia. Las tres dejan un relato que ya no pueden despachar con una sonrisa.
 
 # Jefes enemigos
 
