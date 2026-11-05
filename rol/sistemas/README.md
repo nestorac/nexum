@@ -1,17 +1,8 @@
-# Sistemas
+# Sistemas de rol
 
-Aquí viven los puentes entre el lore de Nexum y manuales de rol de terceros.
+Fichas de sistemas de juego de rol de mesa relevantes para Nexum.
 
-Cada fichero describe cómo se engancha un sistema concreto con este universo: qué se usa tal cual, qué se reskinea, qué se ignora y qué equivalencias de poder, amenaza o recurso se proponen.
+- `libres/`: Sistemas con SRD o material gratuito.
+- Raíz de `sistemas/`: Sistemas de pago.
 
-Convención de nombres:
-- `sistemas/basic_fantasy.md`
-- `sistemas/fate.md`
-- `sistemas/srd5e.md`
-- etc.
-
-Un fichero típico responde a:
-- Qué parte del motor se aprovecha.
-- Cómo se representan las instituciones, los documentos y las amenazas humanas de Nexum.
-- Qué se deja fuera para no romper el tono.
-- Notas prácticas para dirigir una sesión corta o una campaña.
+Cada fichero contiene una breve descripción, por qué encaja con Nexum y enlaces o notas útiles.
