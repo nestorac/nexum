@@ -3,9 +3,8 @@ Nexum es un lore personal que estoy desarrollando con ayuda de la IA.
 # Estructura del repositorio
 
 - `lore/` — Worldbuilding y fuente de verdad del universo (personajes, lugares, planos, facciones, sistemas, etc.).
-- `juegos/` — Productos de juego.
-  - `juegos/rol/` — Material de juego de rol de mesa.
-  - `juegos/jrpg/` — Futuro videojuego de rol de estilo japonés.
+- `rol/` — Material de juego de rol de mesa.
+- `jrpg/` — Futuro videojuego de rol de estilo japonés.
 - `relatos/` — Novelas cortas y relatos.
 - `manga/` — Guiones y material de manga.
 - `tools/` — Scripts de generación y utilidades.
